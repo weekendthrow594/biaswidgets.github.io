@@ -1,0 +1,42 @@
+{
+  "id": "idle",
+  "name": "I-DLE",
+  "members": [
+    {
+      "id": "idle_today",
+      "name": "TODAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "idle_miyeon",
+      "name": "MIYEON",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "idle_minnie",
+      "name": "MINNIE",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "idle_soyeon",
+      "name": "SOYEON",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "idle_yuqi",
+      "name": "YUQI",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "idle_shuhua",
+      "name": "SHUHUA",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

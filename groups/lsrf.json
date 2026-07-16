@@ -1,0 +1,111 @@
+{
+  "id": "lsrf",
+  "name": "LE SSERAFIM",
+  "members": [
+    {
+      "id": "lsrf_chaewon",
+      "name": "CHAEWON",
+      "quotes": [
+        {
+          "id": "q_112",
+          "emojiPath": "LSRF_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「因为我有想成为的样子，所以才会有野心。」",
+              "subtitle": "- 金采源《lesserafim纪录片》"
+            },
+            "zh-Hant": {
+              "title": "「因為我有想成為的樣子，所以才會有野心。」",
+              "subtitle": "- 金采源《lesserafim紀錄片》"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "lsrf_sakura",
+      "name": "SAKURA",
+      "quotes": [
+        {
+          "id": "q_113",
+          "emojiPath": "LSRF_header_2",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论多么辛苦的瞬间，最终都会过去。所以，时间永远站在我这边。」",
+              "subtitle": "- 宫脇咲良 PUREFLOW寄语"
+            },
+            "zh-Hant": {
+              "title": "「無論多麼辛苦的瞬間，最終都會過去。\n所以，時間永遠站在我這邊。」",
+              "subtitle": "- 宮脇咲良 PUREFLOW寄語"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "lsrf_yunjin",
+      "name": "YUNJIN",
+      "quotes": [
+        {
+          "id": "q_114",
+          "emojiPath": "LSRF_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果我正在经历痛苦，那就代表我正在蜕变。这是多么美丽、又多么奇妙的一件事。无论未来的我会成为什么样子，我都一定会深深爱着她。」",
+              "subtitle": "- 许允真 wvs"
+            },
+            "zh-Hant": {
+              "title": "「如果我正在經歷痛苦，那就代表我正在蛻變。\n這是多麼美麗、又多麼奇妙的一件事。\n無論未來的我會成為什麼樣子，我都一定會深深愛著她。」",
+              "subtitle": "- 許允真 wvs"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "lsrf_kazuha",
+      "name": "KAZUHA",
+      "quotes": [
+        {
+          "id": "q_115",
+          "emojiPath": "LSRF_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「对啊，呼吸也是运动，我们真的太厉害了。光是好好活着，就已经很了不起了。」",
+              "subtitle": "- 中村一叶"
+            },
+            "zh-Hant": {
+              "title": "「對啊，呼吸也是運動，我們真的太厲害了。\n光是好好活著，就已經很了不起了。」",
+              "subtitle": "- 中村一葉"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "lsrf_eunchae",
+      "name": "EUNCHAE",
+      "quotes": [
+        {
+          "id": "q_116",
+          "emojiPath": "LSRF_header_5",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「未来肯定会来，但过去无法回去」",
+              "subtitle": "- 洪恩采 《LENIVERSE》"
+            },
+            "zh-Hant": {
+              "title": "「未来肯定会来，但过去无法回去」",
+              "subtitle": "- 洪恩採 《LENIVERSE》"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}

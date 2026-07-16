@@ -1,0 +1,129 @@
+{
+  "id": "enhypen",
+  "name": "ENHYPEN",
+  "members": [
+    {
+      "id": "enhypen_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_077",
+          "emojiPath": "ENHYPEN_header_5",
+          "i18n": {
+            "en": {
+              "title": "I think everyone in the world is beautiful. Everyone has their own charm, even beyond their appearance.",
+              "subtitle": "JAKE"
+            },
+            "zh-Hans": {
+              "title": "「我觉得世界上的所有人都很美丽大家都有各自的魅力，就算不是外在的部分」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「我覺得世界上的所有人都很美麗\n大家都有各自的魅力，就算不是外在的部分」",
+              "subtitle": "- 沈載倫"
+            },
+            "es": {
+              "title": "Creo que todas las personas del mundo son hermosas. Cada una tiene su propio encanto, incluso más allá de la apariencia.",
+              "subtitle": "JAKE"
+            },
+            "pt": {
+              "title": "Eu acho que todas as pessoas do mundo são bonitas. Cada uma tem seu próprio encanto, mesmo além da aparência.",
+              "subtitle": "JAKE"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_jay",
+      "name": "JAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_jake",
+      "name": "JAKE",
+      "quotes": [
+        {
+          "id": "q_076",
+          "emojiPath": "ENHYPEN_header_5",
+          "i18n": {
+            "en": {
+              "title": "I think everyone in the world is beautiful. Everyone has their own charm, even beyond their appearance.",
+              "subtitle": "JAKE"
+            },
+            "zh-Hans": {
+              "title": "「我觉得世界上的所有人都很美丽大家都有各自的魅力，就算不是外在的部分」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「我覺得世界上的所有人都很美麗\n大家都有各自的魅力，就算不是外在的部分」",
+              "subtitle": "- 沈載倫"
+            },
+            "es": {
+              "title": "Creo que todas las personas del mundo son hermosas. Cada una tiene su propio encanto, incluso más allá de la apariencia.",
+              "subtitle": "JAKE"
+            },
+            "pt": {
+              "title": "Eu acho que todas as pessoas do mundo são bonitas. Cada uma tem seu próprio encanto, mesmo além da aparência.",
+              "subtitle": "JAKE"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_sunghoon",
+      "name": "SUNGHOON",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_sunoo",
+      "name": "SUNOO",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_jungwon",
+      "name": "JUNGWON",
+      "quotes": [
+        {
+          "id": "q_039",
+          "emojiPath": "ENHYPEN_header_2",
+          "i18n": {
+            "en": {
+              "title": "Happiness isn’t far away.",
+              "subtitle": "JUNGWON · 2025.05.29"
+            },
+            "zh-Hans": {
+              "title": "「幸福在不远处」",
+              "subtitle": "- 梁祯元 20260529 《虽没菜》"
+            },
+            "zh-Hant": {
+              "title": "「幸福在不遠處」",
+              "subtitle": "- 梁禎元 20260529 《雖沒菜》"
+            },
+            "es": {
+              "title": "La felicidad no está lejos.",
+              "subtitle": "JUNGWON · 2025.05.29"
+            },
+            "pt": {
+              "title": "A felicidade não está longe.",
+              "subtitle": "JUNGWON · 2025.05.29"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "enhypen_niki",
+      "name": "NI-KI",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

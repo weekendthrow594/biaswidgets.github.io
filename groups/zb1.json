@@ -1,0 +1,36 @@
+{
+  "id": "zb1",
+  "name": "ZB1",
+  "members": [
+    {
+      "id": "zb1_hanbin",
+      "name": "HANBIN",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "zb1_woong",
+      "name": "WOONG",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "zb1_matthew",
+      "name": "MATTHEW",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "zb1_taerae",
+      "name": "TAERAE",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "zb1_wook",
+      "name": "WOOK",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

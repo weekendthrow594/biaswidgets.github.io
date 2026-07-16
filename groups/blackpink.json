@@ -1,0 +1,30 @@
+{
+  "id": "blackpink",
+  "name": "BLACKPINK",
+  "members": [
+    {
+      "id": "bp_jisoo",
+      "name": "JISOO",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "bp_jennie",
+      "name": "JENNIE",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "bp_rosé",
+      "name": "ROSÉ",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "bp_lisa",
+      "name": "LISA",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

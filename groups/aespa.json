@@ -1,0 +1,281 @@
+{
+  "id": "aespa",
+  "name": "AESPA",
+  "members": [
+    {
+      "id": "aespa_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_111",
+          "emojiPath": "Aespa_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果你尽力了，不管结果如何，过程一定都很帅气的。」",
+              "subtitle": "- 刘知珉"
+            },
+            "zh-Hant": {
+              "title": "「如果你盡力了，不管結果如何，過程一定都很帥氣的。」",
+              "subtitle": "- 劉知珉"
+            }
+          }
+        },
+        {
+          "id": "q_083",
+          "emojiPath": "Aespa_header_4",
+          "i18n": {
+            "en": {
+              "title": "I think every woman in the world is a princess.",
+              "subtitle": "NINGNING"
+            },
+            "zh-Hans": {
+              "title": "「我认为全世界的女人都是公主」",
+              "subtitle": "- 宁艺卓"
+            },
+            "zh-Hant": {
+              "title": "「我認為全世界的女人都是公主」",
+              "subtitle": "- 寧藝卓"
+            },
+            "es": {
+              "title": "Creo que todas las mujeres del mundo son princesas.",
+              "subtitle": "NINGNING"
+            },
+            "pt": {
+              "title": "Eu acho que todas as mulheres do mundo são princesas.",
+              "subtitle": "NINGNING"
+            }
+          }
+        },
+        {
+          "id": "q_093",
+          "emojiPath": "Aespa_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "aespa_karina",
+      "name": "KARINA",
+      "quotes": [
+        {
+          "id": "q_110",
+          "emojiPath": "Aespa_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果你尽力了，不管结果如何，过程一定都很帅气的。」",
+              "subtitle": "- 刘知珉"
+            },
+            "zh-Hant": {
+              "title": "「如果你盡力了，不管結果如何，過程一定都很帥氣的。」",
+              "subtitle": "- 劉知珉"
+            }
+          }
+        },
+        {
+          "id": "q_084",
+          "emojiPath": "Aespa_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我要你站的高高的，我会为你骄傲。」",
+              "subtitle": "- 刘知珉"
+            },
+            "zh-Hant": {
+              "title": "「我要你站的高高的，我會為你驕傲。」",
+              "subtitle": "- 劉知珉"
+            }
+          }
+        },
+        {
+          "id": "q_082",
+          "emojiPath": "Aespa_header_1",
+          "i18n": {
+            "en": {
+              "title": "1. Your mood improves\n2. Your eyes feel healed\n3. Your mind and body feel calm",
+              "subtitle": "The Karina effect"
+            },
+            "zh-Hans": {
+              "title": "1. 心情变好2. 眼睛被治愈3. 身心安定",
+              "subtitle": "- Karina 的功效"
+            },
+            "zh-Hant": {
+              "title": "1. 心情變好\n2. 眼睛被治癒\n3. 身心安定",
+              "subtitle": "- Karina 的功效"
+            },
+            "es": {
+              "title": "1. Mejora tu ánimo\n2. Tus ojos se sienten curados\n3. Tu cuerpo y mente se calman",
+              "subtitle": "El efecto Karina"
+            },
+            "pt": {
+              "title": "1. Seu humor melhora\n2. Seus olhos se sentem curados\n3. Corpo e mente ficam em paz",
+              "subtitle": "O efeito Karina"
+            }
+          }
+        },
+        {
+          "id": "q_060",
+          "emojiPath": "Aespa_header_1",
+          "i18n": {
+            "en": {
+              "title": "My wish is to be in your wish, to become part of my fans’ dreams and not just a passing moment.",
+              "subtitle": "KARINA"
+            },
+            "zh-Hans": {
+              "title": "「我的愿望是你的愿望里有我，愿自己成为粉丝梦想的一部分，而不是短暂的过客。」",
+              "subtitle": "- 刘知珉"
+            },
+            "zh-Hant": {
+              "title": "「我的願望是你的願望裡有我，願自己成為粉絲夢想的一部分，而不是短暫的過客。」",
+              "subtitle": "- 劉知珉"
+            },
+            "es": {
+              "title": "Mi deseo es estar dentro de tu deseo, convertirme en parte de los sueños de mis fans y no ser solo alguien de paso.",
+              "subtitle": "KARINA"
+            },
+            "pt": {
+              "title": "Meu desejo é estar dentro do seu desejo, tornar-me parte dos sonhos dos meus fãs e não ser apenas alguém de passagem.",
+              "subtitle": "KARINA"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "aespa_giselle",
+      "name": "GISELLE",
+      "quotes": [
+        {
+          "id": "q_062",
+          "emojiPath": "Aespa_header_2",
+          "i18n": {
+            "en": {
+              "title": "You must believe in yourself, have confidence, and believe in yourself so strongly that you cannot give up.",
+              "subtitle": "GISELLE"
+            },
+            "zh-Hans": {
+              "title": "「一定要相信自己，要有自信，要相信自己，要相信自己相信到无法放弃的程度」",
+              "subtitle": "- Giselle"
+            },
+            "zh-Hant": {
+              "title": "「一定要相信自己，要有自信，要相信自己，要相信自己相信到無法放棄的程度」",
+              "subtitle": "- Giselle"
+            },
+            "es": {
+              "title": "Tienes que creer en ti, tener confianza y creer en ti con tanta fuerza que no puedas rendirte.",
+              "subtitle": "GISELLE"
+            },
+            "pt": {
+              "title": "Você precisa acreditar em si mesmo, ter confiança e acreditar em si com tanta força que não consiga desistir.",
+              "subtitle": "GISELLE"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "aespa_winter",
+      "name": "WINTER",
+      "quotes": [
+        {
+          "id": "q_063",
+          "emojiPath": "Aespa_header_3",
+          "i18n": {
+            "en": {
+              "title": "I hope you, who like me, can be happy. Having you like me makes me happy too.",
+              "subtitle": "WINTER"
+            },
+            "zh-Hans": {
+              "title": "「希望喜欢我的你可以幸福，有你喜欢我也很幸福」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「希望喜歡我的你可以幸福，有你喜歡我也很幸福」",
+              "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "Espero que tú, que me quieres, puedas ser feliz. Que tú me quieras también me hace feliz.",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Espero que você, que gosta de mim, possa ser feliz. Ter você gostando de mim também me faz feliz.",
+              "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_095",
+          "emojiPath": "Aespa_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
+          "id": "q_094",
+          "emojiPath": "Aespa_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「千万人的Winter 你一个人的旼炡」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「千萬人的Winter 你一個人的旼炡」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "aespa_ningning",
+      "name": "NINGNING",
+      "quotes": [
+        {
+          "id": "q_064",
+          "emojiPath": "Aespa_header_4",
+          "i18n": {
+            "en": {
+              "title": "I think every woman in the world is a princess.",
+              "subtitle": "NINGNING"
+            },
+            "zh-Hans": {
+              "title": "「我认为全世界的女人都是公主」",
+              "subtitle": "- 宁艺卓"
+            },
+            "zh-Hant": {
+              "title": "「我認為全世界的女人都是公主」",
+              "subtitle": "- 寧藝卓"
+            },
+            "es": {
+              "title": "Creo que todas las mujeres del mundo son princesas.",
+              "subtitle": "NINGNING"
+            },
+            "pt": {
+              "title": "Eu acho que todas as mulheres do mundo são princesas.",
+              "subtitle": "NINGNING"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}

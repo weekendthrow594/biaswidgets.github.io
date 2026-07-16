@@ -1,0 +1,48 @@
+{
+  "id": "ive",
+  "name": "IVE",
+  "members": [
+    {
+      "id": "ive_today",
+      "name": "TODAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_gaeul",
+      "name": "GAEUL",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_yujin",
+      "name": "YU-JIN",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_rei",
+      "name": "REI",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_wonyoung",
+      "name": "WON-YOUNG",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_liz",
+      "name": "LIZ",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "ive_leeseo",
+      "name": "LEESEO",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

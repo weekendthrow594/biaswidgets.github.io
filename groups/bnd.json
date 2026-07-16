@@ -1,0 +1,352 @@
+{
+  "id": "bnd",
+  "name": "BOYNEXTDOOR",
+  "members": [
+    {
+      "id": "bnd_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_090",
+          "emojiPath": "BND_header_5",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「只看漂亮的，只听好的」",
+              "subtitle": "- 金桐儇"
+            },
+            "zh-Hant": {
+              "title": "「只看漂亮的，只聽好的」",
+              "subtitle": "- 金桐儇"
+            }
+          }
+        },
+        {
+          "id": "q_096",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "en": {
+              "title": "If you can make it through the tiring everyday, I’ll come find you like a rainbow.",
+              "subtitle": "JAEHYUN"
+            },
+            "zh-Hans": {
+              "title": "「如果能好好撑过疲惫的日常，我会像彩虹一样去找你 」",
+              "subtitle": "- 明宰铉"
+            },
+            "zh-Hant": {
+              "title": "「如果能好好撐過疲憊的日常，我會像彩虹一樣去找你 」",
+              "subtitle": "- 明宰鉉"
+            },
+            "es": {
+              "title": "Si logras superar esos días agotadores, iré a encontrarte como un arcoíris.",
+              "subtitle": "JAEHYUN"
+            },
+            "pt": {
+              "title": "Se você conseguir atravessar esses dias cansativos, eu vou te encontrar como um arco-íris.",
+              "subtitle": "JAEHYUN"
+            }
+          }
+        },
+        {
+          "id": "q_074",
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_075",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「今天盛开的花，不是一朝一夕之间出现的是无数个熬过来的时刻和那些温暖的信任一起开出的奇迹。」",
+              "subtitle": "- 明宰铉 weverse 四冠感言"
+            },
+            "zh-Hant": {
+              "title": "「今天盛開的花，不是一朝一夕之間出現的\n是無數個熬過來的時刻和那些溫暖的信任\n一起開出的奇蹟。」",
+              "subtitle": "- 明宰鉉 weverse 四冠感言"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_SUNGHO",
+      "name": "SUNGHO",
+      "quotes": [
+        {
+          "id": "q_072",
+          "emojiPath": "BND_header_4",
+          "i18n": {
+            "en": {
+              "title": "I hope that even when you’re tired, you can keep going healthily, feel joy in small things, and find what is precious.",
+              "subtitle": "SUNGHO"
+            },
+            "zh-Hans": {
+              "title": "「我希望即使很累 也能健康地坚持下去从很小的事情中感到喜悦 找到珍贵的东西」",
+              "subtitle": "- 朴成淏"
+            },
+            "zh-Hant": {
+              "title": "「我希望即使很累 也能健康地堅持下去\n從很小的事情中感到喜悅 找到珍貴的東西」",
+              "subtitle": "- 朴成淏"
+            },
+            "es": {
+              "title": "Espero que, incluso cuando estés cansado, puedas seguir adelante con salud, sentir alegría en las cosas pequeñas y encontrar lo que es valioso.",
+              "subtitle": "SUNGHO"
+            },
+            "pt": {
+              "title": "Espero que, mesmo quando estiver cansado, você consiga seguir em frente com saúde, sentir alegria nas pequenas coisas e encontrar o que é precioso.",
+              "subtitle": "SUNGHO"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_RIWOO",
+      "name": "RIWOO",
+      "quotes": [
+        {
+          "id": "q_070",
+          "emojiPath": "BND_header_1",
+          "i18n": {
+            "en": {
+              "title": "If life were simple, it wouldn’t be life.",
+              "subtitle": "RIWOO"
+            },
+            "zh-Hans": {
+              "title": "「人生如果很简单就不是人生了」",
+              "subtitle": "- 李常赫"
+            },
+            "zh-Hant": {
+              "title": "「人生如果很簡單就不是人生了」",
+              "subtitle": "- 李常赫"
+            },
+            "es": {
+              "title": "Si la vida fuera simple, no sería vida.",
+              "subtitle": "RIWOO"
+            },
+            "pt": {
+              "title": "Se a vida fosse simples, não seria vida.",
+              "subtitle": "RIWOO"
+            }
+          }
+        },
+        {
+          "id": "q_117",
+          "emojiPath": "BND_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「这个……别人没有资格伤害你吧。」",
+              "subtitle": "- 李常赫 240206直播回覆"
+            },
+            "zh-Hant": {
+              "title": "「這個……別人沒有資格傷害你吧。」",
+              "subtitle": "- 李常赫 240206直播回覆"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_JAEHYUN",
+      "name": "JAEHYUN",
+      "quotes": [
+        {
+          "id": "q_098",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "en": {
+              "title": "If you can make it through the tiring everyday, I’ll come find you like a rainbow.",
+              "subtitle": "JAEHYUN"
+            },
+            "zh-Hans": {
+              "title": "「如果能好好撑过疲惫的日常，我会像彩虹一样去找你 」",
+              "subtitle": "- 明宰铉"
+            },
+            "zh-Hant": {
+              "title": "「如果能好好撐過疲憊的日常，我會像彩虹一樣去找你 」",
+              "subtitle": "- 明宰鉉"
+            },
+            "es": {
+              "title": "Si logras superar esos días agotadores, iré a encontrarte como un arcoíris.",
+              "subtitle": "JAEHYUN"
+            },
+            "pt": {
+              "title": "Se você conseguir atravessar esses dias cansativos, eu vou te encontrar como um arco-íris.",
+              "subtitle": "JAEHYUN"
+            }
+          }
+        },
+        {
+          "id": "q_091",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「在我有不相信自己的瞬间，仍然有人一直相信着我那些心意像小小的火光，让动摇的我重新站回了路上。」",
+              "subtitle": "- 明宰铉 weverse 四冠感言"
+            },
+            "zh-Hant": {
+              "title": "「在我有不相信自己的瞬間，仍然有人一直相信著我\n那些心意像小小的火光，讓動搖的我重新站回了路上。」",
+              "subtitle": "- 明宰鉉 weverse 四冠感言"
+            }
+          }
+        },
+        {
+          "id": "q_092",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「今天盛开的花，不是一朝一夕之间出现的是无数个熬过来的时刻和那些温暖的信任一起开出的奇迹。」",
+              "subtitle": "- 明宰铉 weverse 四冠感言"
+            },
+            "zh-Hant": {
+              "title": "「今天盛開的花，不是一朝一夕之間出現的\n是無數個熬過來的時刻和那些溫暖的信任\n一起開出的奇蹟。」",
+              "subtitle": "- 明宰鉉 weverse 四冠感言"
+            }
+          }
+        },
+        {
+          "id": "q_071",
+          "emojiPath": "BND_header_3",
+          "i18n": {
+            "en": {
+              "title": "Don’t be defeated by a world that ranks love. Even if you came in last, your work is still excellent.",
+              "subtitle": "JAEHYUN"
+            },
+            "zh-Hans": {
+              "title": "「不要被爱分等级的世界打倒即使你得了倒数第一，你的作品依然是优秀的」",
+              "subtitle": "- 明宰铉"
+            },
+            "zh-Hant": {
+              "title": "「不要被愛分等級的世界打倒\n即使你得了倒數第一，你的作品依然是優秀的」",
+              "subtitle": "- 明宰鉉"
+            },
+            "es": {
+              "title": "No dejes que te derrote un mundo que pone el amor en rankings. Aunque hayas quedado en último lugar, tu obra sigue siendo excelente.",
+              "subtitle": "JAEHYUN"
+            },
+            "pt": {
+              "title": "Não seja derrotado por um mundo que coloca o amor em rankings. Mesmo que você tenha ficado em último lugar, sua obra continua sendo excelente.",
+              "subtitle": "JAEHYUN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_TAESAN",
+      "name": "TAESAN",
+      "quotes": [
+        {
+          "id": "q_069",
+          "emojiPath": "BND_header_2",
+          "i18n": {
+            "en": {
+              "title": "A three-leaf clover represents happiness, and a four-leaf clover represents luck. But why do people always give up happiness just to look for luck?",
+              "subtitle": "TAESAN"
+            },
+            "zh-Hans": {
+              "title": "「三叶草代表幸福 四叶草代表幸运 可为什么人们总是为了寻找幸运而放弃幸福呢」",
+              "subtitle": "- 汉东旼"
+            },
+            "zh-Hant": {
+              "title": "「三葉草代表幸福 四葉草代表幸運 \n可為什麼人們總是為了尋找幸運而放棄幸福呢」",
+              "subtitle": "- 漢東旼"
+            },
+            "es": {
+              "title": "Un trébol de tres hojas representa la felicidad, y uno de cuatro hojas representa la suerte. Pero ¿por qué la gente siempre renuncia a la felicidad para buscar la suerte?",
+              "subtitle": "TAESAN"
+            },
+            "pt": {
+              "title": "Um trevo de três folhas representa felicidade, e um trevo de quatro folhas representa sorte. Mas por que as pessoas sempre abrem mão da felicidade para procurar sorte?",
+              "subtitle": "TAESAN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_LEEHAN",
+      "name": "LEEHAN",
+      "quotes": [
+        {
+          "id": "q_097",
+          "emojiPath": "BND_header_5",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「只看漂亮的，只听好的」",
+              "subtitle": "- 金桐儇"
+            },
+            "zh-Hant": {
+              "title": "「只看漂亮的，只聽好的」",
+              "subtitle": "- 金桐儇"
+            }
+          }
+        },
+        {
+          "id": "q_073",
+          "emojiPath": "BND_header_5",
+          "i18n": {
+            "en": {
+              "title": "When sad things come, happy things will surely come too. You could say it is preparation for the happy days ahead.",
+              "subtitle": "LEEHAN"
+            },
+            "zh-Hans": {
+              "title": "「悲伤的事降临，快乐的事也一定会降临可以说是为迎接快乐的日子做准备」",
+              "subtitle": "- 金桐儇"
+            },
+            "zh-Hant": {
+              "title": "「悲傷的事降臨，快樂的事也一定會降臨\n可以說是為迎接快樂的日子做準備」",
+              "subtitle": "- 金桐儇"
+            },
+            "es": {
+              "title": "Cuando llegan cosas tristes, las cosas felices también llegarán sin falta. Podría decirse que es una preparación para recibir días felices.",
+              "subtitle": "LEEHAN"
+            },
+            "pt": {
+              "title": "Quando coisas tristes chegam, coisas felizes também certamente virão. Dá para dizer que é uma preparação para receber dias felizes.",
+              "subtitle": "LEEHAN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "bnd_WOONHAK",
+      "name": "WOONHAK",
+      "quotes": [
+        {
+          "id": "q_068",
+          "emojiPath": "BND_header_6",
+          "i18n": {
+            "en": {
+              "title": "This is the only life we get, so why not try going a little crazy?",
+              "subtitle": "WOONHAK"
+            },
+            "zh-Hans": {
+              "title": "「仅此一次的人生为什么不试着发疯」",
+              "subtitle": "- 金云鹤"
+            },
+            "zh-Hant": {
+              "title": "「僅此一次的人生為什麼不試著發瘋」",
+              "subtitle": "- 金雲鶴"
+            },
+            "es": {
+              "title": "Solo tenemos esta vida una vez, así que ¿por qué no intentar volvernos un poco locos?",
+              "subtitle": "WOONHAK"
+            },
+            "pt": {
+              "title": "Esta é a única vida que temos, então por que não tentar enlouquecer um pouco?",
+              "subtitle": "WOONHAK"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}

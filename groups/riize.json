@@ -1,0 +1,48 @@
+{
+  "id": "riize",
+  "name": "RIIZE",
+  "members": [
+    {
+      "id": "riize_today",
+      "name": "TODAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Shotaro",
+      "name": "SHOTARO",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Eunseok",
+      "name": "EUNSEOK",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Sungchan",
+      "name": "SUNGCHAN",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Wonbin",
+      "name": "WONBIN",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Sohee",
+      "name": "SOHEE",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "riize_Anton",
+      "name": "ANTON",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

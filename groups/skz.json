@@ -1,0 +1,60 @@
+{
+  "id": "skz",
+  "name": "STRAY KIDS",
+  "members": [
+    {
+      "id": "skz_today",
+      "name": "TODAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_bangchan",
+      "name": "Bang Chan",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_leeknow",
+      "name": "Lee Know",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_changbin",
+      "name": "Changbin",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_hyunjin",
+      "name": "Hyunjin",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_han",
+      "name": "HAN",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_felix",
+      "name": "Felix",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_seungmin",
+      "name": "Seungmin",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "skz_in",
+      "name": "I.N",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}

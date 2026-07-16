@@ -1,0 +1,713 @@
+{
+  "id": "seventeen",
+  "name": "SEVENTEEN",
+  "members": [
+    {
+      "id": "seventeen_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_099",
+          "emojiPath": "SVT_header_1",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我回来了，净汉回到克拉身边了。」",
+              "subtitle": "- 尹净汉 2026.06.25 Weverse Live"
+            },
+            "zh-Hant": {
+              "title": "「我回來了，淨漢回到克拉身邊了。」",
+              "subtitle": "- 尹淨漢 2026.06.25 Weverse Live"
+            }
+          }
+        },
+        {
+          "id": "q_100",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_101",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我们想成为那个小小的声音，提醒你：你的梦想很重要。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「我們想成為那個小小的聲音，\n提醒你：\n你的夢想很重要。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_105",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_coups",
+      "name": "S.Coups",
+      "quotes": [
+        {
+          "id": "q_015",
+          "emojiPath": "SVT_header_11",
+          "i18n": {
+            "en": {
+              "title": "If you’re not confident that you can make her happier than I can, then please give her back to me.",
+              "subtitle": "S.Coups"
+            },
+            "zh-Hans": {
+              "title": "「没有信心能比我让她更幸福的话，就请还给我吧」",
+              "subtitle": "- 崔胜哲"
+            },
+            "zh-Hant": {
+              "title": "「沒有信心能比我讓她更幸福的話，就請還給我吧」",
+              "subtitle": "- 崔勝哲"
+            },
+            "es": {
+              "title": "Si no tienes la seguridad de que puedes hacerla más feliz que yo, entonces devuélvemela.",
+              "subtitle": "S.Coups"
+            },
+            "pt": {
+              "title": "Se você não tem certeza de que pode fazê-la mais feliz do que eu, então, por favor, devolva-a para mim.",
+              "subtitle": "S.Coups"
+            }
+          }
+        },
+        {
+          "id": "q_008",
+          "emojiPath": "SVT_header_11",
+          "i18n": {
+            "en": {
+              "title": "There will be a time when all the members can’t gather together, but I won’t be the S.Coups who wants to receive a lot of love. I’ll become the S.Coups who protects CARATs.",
+              "subtitle": "S.Coups"
+            },
+            "zh-Hans": {
+              "title": "「虽然会有一段时间所有成员无法聚在一起，但我不会成为想得到很多爱的S.Coups，而是会成为守护克拉们的S.Coups。」",
+              "subtitle": "- 崔胜哲"
+            },
+            "zh-Hant": {
+              "title": "「雖然會有一段時間所有成員無法聚在一起，但我不會成為想得到很多愛的S.Coups，而是會成為守護克拉們的S.Coups。」",
+              "subtitle": "- 崔勝哲"
+            },
+            "es": {
+              "title": "Habrá un tiempo en el que todos los miembros no podrán reunirse, pero no seré el S.Coups que quiere recibir mucho amor. Seré el S.Coups que protege a CARATs.",
+              "subtitle": "S.Coups"
+            },
+            "pt": {
+              "title": "Haverá um tempo em que todos os membros não poderão se reunir, mas eu não serei o S.Coups que quer receber muito amor. Serei o S.Coups que protege os CARATs.",
+              "subtitle": "S.Coups"
+            }
+          }
+        },
+        {
+          "id": "q_007",
+          "emojiPath": "SVT_header_11",
+          "i18n": {
+            "en": {
+              "title": "Even if the whole world leaves, I’ll stay by SEVENTEEN’s side.",
+              "subtitle": "S.Coups"
+            },
+            "zh-Hans": {
+              "title": "「就算全世界都离开了，我也会留在SEVENTEEN旁边」",
+              "subtitle": "- 崔胜哲"
+            },
+            "zh-Hant": {
+              "title": "「就算全世界都離開了，我也會留在SEVENTEEN旁邊」",
+              "subtitle": "- 崔勝哲"
+            },
+            "es": {
+              "title": "Aunque todo el mundo se vaya, yo me quedaré al lado de SEVENTEEN.",
+              "subtitle": "S.Coups"
+            },
+            "pt": {
+              "title": "Mesmo que o mundo inteiro vá embora, eu ficarei ao lado do SEVENTEEN.",
+              "subtitle": "S.Coups"
+            }
+          }
+        },
+        {
+          "id": "q_005",
+          "emojiPath": "SVT_header_11",
+          "i18n": {
+            "en": {
+              "title": "Happiness is spending time freely with the people you like ✨",
+              "subtitle": "S.Coups"
+            },
+            "zh-Hans": {
+              "title": "「幸福就是和喜欢的人一起浪费时间✨」",
+              "subtitle": "- 崔胜哲"
+            },
+            "zh-Hant": {
+              "title": "「幸福就是和喜歡的人一起浪費時間✨」",
+              "subtitle": "- 崔勝哲"
+            },
+            "es": {
+              "title": "La felicidad es pasar el tiempo sin prisa con las personas que quieres ✨",
+              "subtitle": "S.Coups"
+            },
+            "pt": {
+              "title": "Felicidade é passar o tempo sem pressa com as pessoas de quem você gosta ✨",
+              "subtitle": "S.Coups"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_jeonghan",
+      "name": "JEONGHAN",
+      "quotes": [
+        {
+          "id": "q_006",
+          "emojiPath": "SVT_header_1",
+          "i18n": {
+            "en": {
+              "title": "CARATs are gifts sent by angels, so I also want to become an angel and protect you.",
+              "subtitle": "Jeonghan"
+            },
+            "zh-Hans": {
+              "title": "「克拉是天使派来的礼物，所以我也要当天使来保护你们」",
+              "subtitle": "- 尹净汉"
+            },
+            "zh-Hant": {
+              "title": "「克拉是天使派來的禮物，所以我也要當天使來保護你們」",
+              "subtitle": "- 尹淨漢"
+            },
+            "es": {
+              "title": "CARATs son regalos enviados por ángeles, así que yo también quiero convertirme en un ángel para protegerlos.",
+              "subtitle": "Jeonghan"
+            },
+            "pt": {
+              "title": "CARATs são presentes enviados por anjos, então eu também quero me tornar um anjo para proteger vocês.",
+              "subtitle": "Jeonghan"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_joshua",
+      "name": "JOSHUA",
+      "quotes": [
+        {
+          "id": "q_037",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "en": {
+              "title": "I don’t need to be liked by everyone. I just want to be worthy of the people who like me.",
+              "subtitle": "JOSHUA"
+            },
+            "zh-Hans": {
+              "title": "「我不需要被所有人喜欢，只要对得起喜欢我的人就好」",
+              "subtitle": "- 洪知秀"
+            },
+            "zh-Hant": {
+              "title": "「我不需要被所有人喜歡，只要對得起喜歡我的人就好」",
+              "subtitle": "- 洪知秀"
+            },
+            "es": {
+              "title": "No necesito gustarle a todo el mundo. Solo quiero estar a la altura de las personas que me quieren.",
+              "subtitle": "JOSHUA"
+            },
+            "pt": {
+              "title": "Eu não preciso ser amado por todo mundo. Só quero ser digno das pessoas que gostam de mim.",
+              "subtitle": "JOSHUA"
+            }
+          }
+        },
+        {
+          "id": "q_102",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_103",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我们想成为那个小小的声音，提醒你：你的梦想很重要。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「我們想成為那個小小的聲音，\n提醒你：\n你的夢想很重要。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_104",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_jun",
+      "name": "JUN",
+      "quotes": [
+        {
+          "id": "q_061",
+          "emojiPath": "SVT_header_10",
+          "i18n": {
+            "en": {
+              "title": "This moment called youth is beautiful and precious, every minute and every second.",
+              "subtitle": "JUN"
+            },
+            "zh-Hans": {
+              "title": "「被称为青春的这一瞬间 每分每秒都很美好很珍贵」",
+              "subtitle": "- 文俊辉"
+            },
+            "zh-Hant": {
+              "title": "「被稱為青春的這一瞬間 每分每秒都很美好很珍\n貴」",
+              "subtitle": "- 文俊輝"
+            },
+            "es": {
+              "title": "Este momento llamado juventud es hermoso y precioso, cada minuto y cada segundo.",
+              "subtitle": "JUN"
+            },
+            "pt": {
+              "title": "Este momento chamado juventude é lindo e precioso, a cada minuto e a cada segundo.",
+              "subtitle": "JUN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_hoshi",
+      "name": "HOSHI",
+      "quotes": [
+        {
+          "id": "q_024",
+          "emojiPath": "SVT_header_5",
+          "i18n": {
+            "en": {
+              "title": "No flower blooms without wind and rain. Learn to endure and overcome hardship, and in the end, you will bloom and bear fruit.",
+              "subtitle": "HOSHI"
+            },
+            "zh-Hans": {
+              "title": "「没有花朵能不经风雨绽放，学会忍耐、克服困难，终究能开花结果」",
+              "subtitle": "- 权顺荣"
+            },
+            "zh-Hant": {
+              "title": "「沒有花朵能不經風雨綻放，學會忍耐、克服困難，終究能開花結果」",
+              "subtitle": "- 權順榮"
+            },
+            "es": {
+              "title": "Ninguna flor florece sin viento ni lluvia. Aprende a resistir y superar las dificultades, y al final florecerás y darás fruto.",
+              "subtitle": "HOSHI"
+            },
+            "pt": {
+              "title": "Nenhuma flor floresce sem vento e chuva. Aprenda a resistir e superar as dificuldades, e no fim você florescerá e dará frutos.",
+              "subtitle": "HOSHI"
+            }
+          }
+        },
+        {
+          "id": "q_038",
+          "emojiPath": "SVT_header_5",
+          "i18n": {
+            "en": {
+              "title": "Even if there is only a 1% possibility, I will make it 100%.",
+              "subtitle": "HOSHI"
+            },
+            "zh-Hans": {
+              "title": "「就算只有1%的可能性，我也会做到100%」",
+              "subtitle": "- 权顺荣"
+            },
+            "zh-Hant": {
+              "title": "「就算只有1%的可能性，我也會做到100%」",
+              "subtitle": "- 權順榮"
+            },
+            "es": {
+              "title": "Aunque solo haya un 1% de posibilidad, lo convertiré en 100%.",
+              "subtitle": "HOSHI"
+            },
+            "pt": {
+              "title": "Mesmo que haja apenas 1% de possibilidade, eu vou transformar em 100%.",
+              "subtitle": "HOSHI"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_002",
+          "emojiPath": "SVT_header_5",
+          "beginDateStr": "2025/09/16",
+          "endDateStr": "2027/03/15",
+          "i18n": {
+            "zh-Hans": {
+              "title": "权顺荣退伍"
+            },
+            "zh-Hant": {
+              "title": "權順榮退伍"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "seventeen_wonwoo",
+      "name": "WONWOO",
+      "quotes": [
+        {
+          "id": "q_026",
+          "emojiPath": "SVT_header_12",
+          "i18n": {
+            "en": {
+              "title": "I sincerely hope you achieve your dream, and then come see me with that dream.",
+              "subtitle": "WONWOO"
+            },
+            "zh-Hans": {
+              "title": "「真心希望你能实现梦想，然后带着你的梦想来看我」",
+              "subtitle": "- WONWOO"
+            },
+            "zh-Hant": {
+              "title": "「真心希望你能實現夢想，然後帶著你的夢想來看我」",
+              "subtitle": "- WONWOO"
+            },
+            "es": {
+              "title": "Espero sinceramente que logres tu sueño y que luego vengas a verme con ese sueño.",
+              "subtitle": "WONWOO"
+            },
+            "pt": {
+              "title": "Espero sinceramente que você realize seu sonho e depois venha me ver trazendo esse sonho com você.",
+              "subtitle": "WONWOO"
+            }
+          }
+        },
+        {
+          "id": "q_033",
+          "emojiPath": "SVT_header_12",
+          "i18n": {
+            "en": {
+              "title": "We don’t need to say too much. Quietly staying together is nice too.",
+              "subtitle": "WONWOO"
+            },
+            "zh-Hans": {
+              "title": "「不用说太多话，安静地待在一起也好」",
+              "subtitle": "- WONWOO"
+            },
+            "zh-Hant": {
+              "title": "「不用說太多話，安靜地待在一起也好」",
+              "subtitle": "- WONWOO"
+            },
+            "es": {
+              "title": "No necesitamos decir demasiado. Quedarnos juntos en silencio también está bien.",
+              "subtitle": "WONWOO"
+            },
+            "pt": {
+              "title": "Não precisamos dizer muita coisa. Ficar juntos em silêncio também é bom.",
+              "subtitle": "WONWOO"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_001",
+          "emojiPath": "SVT_header_12",
+          "beginDateStr": "2025/04/03",
+          "endDateStr": "2027/01/02",
+          "i18n": {
+            "zh-Hans": {
+              "title": "全圆佑退伍"
+            },
+            "zh-Hant": {
+              "title": "全圓佑退伍"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "seventeen_woozi",
+      "name": "WOOZI",
+      "quotes": [
+        {
+          "id": "q_021",
+          "emojiPath": "SVT_header_13",
+          "i18n": {
+            "en": {
+              "title": "It’s not about being perfect. It’s about having no regrets.",
+              "subtitle": "WOOZI"
+            },
+            "zh-Hans": {
+              "title": "「不是要做得完美，是要做到不后悔」",
+              "subtitle": "- 李知勋"
+            },
+            "zh-Hant": {
+              "title": "「不是要做得完美，是要做到不後悔」",
+              "subtitle": "- 李知勳"
+            },
+            "es": {
+              "title": "No se trata de ser perfecto. Se trata de no tener arrepentimientos.",
+              "subtitle": "WOOZI"
+            },
+            "pt": {
+              "title": "Não se trata de ser perfeito. Trata-se de não ter arrependimentos.",
+              "subtitle": "WOOZI"
+            }
+          }
+        },
+        {
+          "id": "q_035",
+          "emojiPath": "SVT_header_13",
+          "i18n": {
+            "en": {
+              "title": "Because I wanted to become your tomorrow, I lived through today.",
+              "subtitle": "WOOZI"
+            },
+            "zh-Hans": {
+              "title": "「因为想要成为你的明天，所以我活过了今天」",
+              "subtitle": "- 李知勋"
+            },
+            "zh-Hant": {
+              "title": "「因為想要成為你的明天，所以我活過了今天」",
+              "subtitle": "- 李知勳"
+            },
+            "es": {
+              "title": "Porque quería convertirme en tu mañana, viví el día de hoy.",
+              "subtitle": "WOOZI"
+            },
+            "pt": {
+              "title": "Porque eu queria me tornar o seu amanhã, eu vivi o dia de hoje.",
+              "subtitle": "WOOZI"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_003",
+          "emojiPath": "SVT_header_13",
+          "beginDateStr": "2025/09/15",
+          "endDateStr": "2027/03/14",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李知勋退伍"
+            },
+            "zh-Hant": {
+              "title": "李知勳退伍"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "seventeen_the8",
+      "name": "THE8",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_mingyu",
+      "name": "MINGYU",
+      "quotes": [
+        {
+          "id": "q_018",
+          "emojiPath": "SVT_header_2",
+          "i18n": {
+            "en": {
+              "title": "Don’t force yourself. If you’re tired, take a rest. I’ll wait for you.",
+              "subtitle": "MINGYU"
+            },
+            "zh-Hans": {
+              "title": "「不要勉强自己，累了就休息一下，我会等你」",
+              "subtitle": "- 金珉奎"
+            },
+            "zh-Hant": {
+              "title": "「不要勉強自己，累了就休息一下，我會等你」",
+              "subtitle": "- 金珉奎"
+            },
+            "es": {
+              "title": "No te obligues demasiado. Si estás cansado, descansa un poco. Yo te esperaré.",
+              "subtitle": "MINGYU"
+            },
+            "pt": {
+              "title": "Não se force demais. Se estiver cansado, descanse um pouco. Eu vou esperar por você.",
+              "subtitle": "MINGYU"
+            }
+          }
+        },
+        {
+          "id": "q_022",
+          "emojiPath": "SVT_header_2",
+          "i18n": {
+            "en": {
+              "title": "You only live once, so please don’t leave any regrets behind.",
+              "subtitle": "MINGYU"
+            },
+            "zh-Hans": {
+              "title": "「人生只有一次，所以请不要留下遗憾」",
+              "subtitle": "- 金珉奎"
+            },
+            "zh-Hant": {
+              "title": "「人生只有一次，所以請不要留下遺憾」",
+              "subtitle": "- 金珉奎"
+            },
+            "es": {
+              "title": "Solo se vive una vez, así que por favor no dejes arrepentimientos.",
+              "subtitle": "MINGYU"
+            },
+            "pt": {
+              "title": "A vida é uma só, então, por favor, não deixe arrependimentos para trás.",
+              "subtitle": "MINGYU"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_dk",
+      "name": "DK",
+      "quotes": [
+        {
+          "id": "q_030",
+          "emojiPath": "SVT_header_6",
+          "i18n": {
+            "en": {
+              "title": "When I smile, I hope you can smile along with me.",
+              "subtitle": "DK"
+            },
+            "zh-Hans": {
+              "title": "「我笑的时候，希望你们也能跟着笑」",
+              "subtitle": "- DK"
+            },
+            "zh-Hant": {
+              "title": "「我笑的時候，希望你們也能跟著笑」",
+              "subtitle": "- DK"
+            },
+            "es": {
+              "title": "Cuando yo sonría, espero que ustedes también puedan sonreír conmigo.",
+              "subtitle": "DK"
+            },
+            "pt": {
+              "title": "Quando eu sorrir, espero que vocês também possam sorrir comigo.",
+              "subtitle": "DK"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_kwan",
+      "name": "KWAN",
+      "quotes": [
+        {
+          "id": "q_017",
+          "emojiPath": "SVT_header_8",
+          "i18n": {
+            "en": {
+              "title": "It’s okay if you cried today. After the tears, you can still keep moving forward.",
+              "subtitle": "SEUNGKWAN"
+            },
+            "zh-Hans": {
+              "title": "「就算今天哭了也没关系，哭过之后还可以继续走」",
+              "subtitle": "- 夫胜宽"
+            },
+            "zh-Hant": {
+              "title": "「就算今天哭了也沒關係，哭過之後還可以繼續走」",
+              "subtitle": "- 夫勝寬"
+            },
+            "es": {
+              "title": "Está bien si hoy lloraste. Después de las lágrimas, todavía puedes seguir adelante.",
+              "subtitle": "SEUNGKWAN"
+            },
+            "pt": {
+              "title": "Tudo bem se você chorou hoje. Depois das lágrimas, você ainda pode seguir em frente.",
+              "subtitle": "SEUNGKWAN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_vernon",
+      "name": "VERNON",
+      "quotes": [
+        {
+          "id": "q_025",
+          "emojiPath": "SVT_header_3",
+          "i18n": {
+            "en": {
+              "title": "Dreams should be big enough that even if they break, the pieces are still big.",
+              "subtitle": "VERNON"
+            },
+            "zh-Hans": {
+              "title": "「梦想要足够大，这样即便破碎，碎片也是大的」",
+              "subtitle": "- VERNON"
+            },
+            "zh-Hant": {
+              "title": "「夢想要足夠大，這樣即便破碎，碎片也是大的」",
+              "subtitle": "- VERNON"
+            },
+            "es": {
+              "title": "Los sueños deben ser tan grandes que, aunque se rompan, sus pedazos sigan siendo grandes.",
+              "subtitle": "VERNON"
+            },
+            "pt": {
+              "title": "Os sonhos devem ser grandes o suficiente para que, mesmo se quebrarem, os pedaços ainda sejam grandes.",
+              "subtitle": "VERNON"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "seventeen_dino",
+      "name": "DINO",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}
