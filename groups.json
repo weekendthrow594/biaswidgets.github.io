@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bts",
+    "name": "BTS",
+    "order": 1
+  },
+  {
+    "id": "seventeen",
+    "name": "SEVENTEEN",
+    "order": 2
+  },
+  {
+    "id": "txt",
+    "name": "TXT",
+    "order": 3
+  },
+  {
+    "id": "bnd",
+    "name": "BOYNEXTDOOR",
+    "order": 4
+  },
+  {
+    "id": "enhypen",
+    "name": "ENHYPEN",
+    "order": 5
+  },
+  {
+    "id": "aespa",
+    "name": "AESPA",
+    "order": 6
+  },
+  {
+    "id": "lsrf",
+    "name": "LE SSERAFIM",
+    "order": 12
+  }
+]
