@@ -7,44 +7,16 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_099",
-          "emojiPath": "SVT_header_1",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我回来了，净汉回到克拉身边了。」",
-              "subtitle": "- 尹净汉 2026.06.25 Weverse Live"
-            },
-            "zh-Hant": {
-              "title": "「我回來了，淨漢回到克拉身邊了。」",
-              "subtitle": "- 尹淨漢 2026.06.25 Weverse Live"
-            }
-          }
-        },
-        {
           "id": "q_100",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "SVT_header_12",
           "i18n": {
             "zh-Hans": {
-              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
-              "subtitle": "- 洪知秀 UNESCO"
+              "title": "「如今，终于只剩下最后一个山岭了。\n希望翻过那道山岭之后，等待著我们的，只有我们一起共度的幸福时光。」",
+              "subtitle": "- 全圆佑 20260716 weverse"
             },
             "zh-Hant": {
-              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            }
-          }
-        },
-        {
-          "id": "q_101",
-          "emojiPath": "SVT_header_4",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我们想成为那个小小的声音，提醒你：你的梦想很重要。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            },
-            "zh-Hant": {
-              "title": "「我們想成為那個小小的聲音，\n提醒你：\n你的夢想很重要。」",
-              "subtitle": "- 洪知秀 UNESCO"
+              "title": "「如今，終於只剩下最後一個山嶺了。\n希望翻過那道山嶺之後，等待著我們的，只有我們一起共度的幸福時光。」",
+              "subtitle": "- 全圓佑 20260716 weverse"
             }
           }
         },
@@ -61,6 +33,25 @@
               "subtitle": "- 洪知秀 UNESCO"
             }
           }
+        },
+        {
+          "id": "q_101",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_099",
+          "emojiPath": "",
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -214,6 +205,34 @@
       "name": "JOSHUA",
       "quotes": [
         {
+          "id": "q_102",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
+          "id": "q_104",
+          "emojiPath": "SVT_header_4",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            },
+            "zh-Hant": {
+              "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
+              "subtitle": "- 洪知秀 UNESCO"
+            }
+          }
+        },
+        {
           "id": "q_037",
           "emojiPath": "SVT_header_4",
           "i18n": {
@@ -240,20 +259,6 @@
           }
         },
         {
-          "id": "q_102",
-          "emojiPath": "SVT_header_4",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            },
-            "zh-Hant": {
-              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            }
-          }
-        },
-        {
           "id": "q_103",
           "emojiPath": "SVT_header_4",
           "i18n": {
@@ -263,20 +268,6 @@
             },
             "zh-Hant": {
               "title": "「我們想成為那個小小的聲音，\n提醒你：\n你的夢想很重要。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            }
-          }
-        },
-        {
-          "id": "q_104",
-          "emojiPath": "SVT_header_4",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            },
-            "zh-Hant": {
-              "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
               "subtitle": "- 洪知秀 UNESCO"
             }
           }
@@ -301,7 +292,7 @@
               "subtitle": "- 文俊辉"
             },
             "zh-Hant": {
-              "title": "「被稱為青春的這一瞬間 每分每秒都很美好很珍\n貴」",
+              "title": "「被稱為青春的這一瞬間 每分每秒都很美好很珍貴」",
               "subtitle": "- 文俊輝"
             },
             "es": {
@@ -396,6 +387,20 @@
       "name": "WONWOO",
       "quotes": [
         {
+          "id": "q_119",
+          "emojiPath": "SVT_header_12",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如今，终于只剩下最后一个山岭了。\n希望翻过那道山岭之后，等待著我们的，只有我们一起共度的幸福时光。」",
+              "subtitle": "- 全圆佑 20260716 weverse"
+            },
+            "zh-Hant": {
+              "title": "「如今，終於只剩下最後一個山嶺了。\n希望翻過那道山嶺之後，等待著我們的，只有我們一起共度的幸福時光。」",
+              "subtitle": "- 全圓佑 20260716 weverse"
+            }
+          }
+        },
+        {
           "id": "q_026",
           "emojiPath": "SVT_header_12",
           "i18n": {
@@ -405,11 +410,11 @@
             },
             "zh-Hans": {
               "title": "「真心希望你能实现梦想，然后带着你的梦想来看我」",
-              "subtitle": "- WONWOO"
+              "subtitle": "- 全圆佑"
             },
             "zh-Hant": {
               "title": "「真心希望你能實現夢想，然後帶著你的夢想來看我」",
-              "subtitle": "- WONWOO"
+              "subtitle": "- 全圓佑"
             },
             "es": {
               "title": "Espero sinceramente que logres tu sueño y que luego vengas a verme con ese sueño.",
@@ -431,11 +436,11 @@
             },
             "zh-Hans": {
               "title": "「不用说太多话，安静地待在一起也好」",
-              "subtitle": "- WONWOO"
+              "subtitle": "- 全圆佑"
             },
             "zh-Hant": {
               "title": "「不用說太多話，安靜地待在一起也好」",
-              "subtitle": "- WONWOO"
+              "subtitle": "- 全圓佑"
             },
             "es": {
               "title": "No necesitamos decir demasiado. Quedarnos juntos en silencio también está bien.",
