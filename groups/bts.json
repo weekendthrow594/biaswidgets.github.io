@@ -7,186 +7,60 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_079",
-          "emojiPath": "BTS_header_1",
-          "i18n": {
-            "en": {
-              "title": "I made a promise to myself: to take it slow. I’ll move forward steadily, at my own pace.",
-              "subtitle": "JIN · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「和自己做一个约定：慢慢来就好。用自己的步调，稳稳地往前走。」",
-              "subtitle": "- 金硕珍《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「和自己做一個約定：慢慢來就好。\n用自己的步調，穩穩地往前走。」",
-              "subtitle": "- 金碩珍《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Me hice una promesa: ir despacio. Avanzaré con calma, a mi propio ritmo.",
-              "subtitle": "JIN · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Fiz uma promessa a mim mesmo: ir devagar. Vou seguir em frente com calma, no meu próprio ritmo.",
-              "subtitle": "JIN · Dear Class of 2020"
-            }
-          }
-        },
-        {
-          "id": "q_044",
-          "emojiPath": "BTS_header_5",
-          "i18n": {
-            "en": {
-              "title": "Let go of what you can’t control, and hold on to what you can change. The only thing you can truly control is yourself.",
-              "subtitle": "SUGA · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「放下那些你无法控制的事，去握住你能改变的部分。你唯一能掌握的，就是你自己。」",
-              "subtitle": "- 闵玧其 《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「放下那些你無法控制的事，去握住你能改變的部分。\n你唯一能掌握的，就是你自己。」",
-              "subtitle": "- 閔玧其 《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Suelta lo que no puedes controlar y aférrate a lo que sí puedes cambiar. Lo único que realmente puedes controlar eres tú.",
-              "subtitle": "SUGA · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Deixe ir o que você não pode controlar e segure o que pode mudar. A única coisa que você realmente pode controlar é você mesmo.",
-              "subtitle": "SUGA · Dear Class of 2020"
-            }
-          }
-        },
-        {
           "id": "q_040",
-          "emojiPath": "BTS_header_7",
+          "emojiPath": "BTS_header_2",
           "i18n": {
             "en": {
-              "title": "Please remember: you are the owner of your own life.",
-              "subtitle": "J-HOPE · Dear Class of 2020"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V"
             },
             "zh-Hans": {
-              "title": "「请记住你才是是自己人生的主人。」",
-              "subtitle": "- 郑号锡《Dear Class of 2020》"
+              "title": "「我爱你，比昨天多一点，却比明天少一点」",
+              "subtitle": "- 金泰亨 20260717 weverse"
             },
             "zh-Hant": {
-              "title": "「請記住\n你才是是自己人生的主人。」",
-              "subtitle": "- 鄭號錫《Dear Class of 2020》"
+              "title": "「我愛你，比昨天多一點，卻比明天少一點。」",
+              "subtitle": "- 金泰亨 20260717 weverse"
             },
             "es": {
-              "title": "Por favor, recuerda: tú eres el dueño de tu propia vida.",
-              "subtitle": "J-HOPE · Dear Class of 2020"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V"
             },
             "pt": {
-              "title": "Por favor, lembre-se: você é o dono da sua própria vida.",
-              "subtitle": "J-HOPE · Dear Class of 2020"
-            }
-          }
-        },
-        {
-          "id": "q_106",
-          "emojiPath": "BTS_header_3",
-          "i18n": {
-            "en": {
-              "title": "Wherever you are now, you are about to break out of one world and soar into another.",
-              "subtitle": "RM · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「无论你现在在哪里，你都即将走出一个世界，飞向另一个世界。」",
-              "subtitle": "- 金南俊《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「無論你現在在哪裡，你都即將走出一個世界，飛向另一個世界。」",
-              "subtitle": "- 金南俊《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Estés donde estés ahora, estás a punto de salir de un mundo y elevarte hacia otro.",
-              "subtitle": "RM · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Onde quer que você esteja agora, você está prestes a sair de um mundo e voar para outro.",
-              "subtitle": "RM · Dear Class of 2020"
-            }
-          }
-        },
-        {
-          "id": "q_107",
-          "emojiPath": "BTS_header_4",
-          "i18n": {
-            "en": {
-              "title": "Please remember this: in this country called Korea, in this city called Seoul, there will always be someone who understands you.",
-              "subtitle": "JIMIN · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「一定要记得，在这个叫韩国的国家，在这个叫做首尔的都市里，永远有一个人会理解你」",
-              "subtitle": "- 朴智旻《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「一定要記得，在這個叫韓國的國家，在這個叫做首爾的都市裡，永遠有一個人會理解你」",
-              "subtitle": "- 朴智旻《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Por favor, recuerda esto: en este país llamado Corea, en esta ciudad llamada Seúl, siempre habrá alguien que te entienda.",
-              "subtitle": "JIMIN · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Por favor, lembre-se disso: neste país chamado Coreia, nesta cidade chamada Seul, sempre haverá alguém que entende você.",
-              "subtitle": "JIMIN · Dear Class of 2020"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V"
             }
           }
         },
         {
           "id": "q_085",
-          "emojiPath": "BTS_header_2",
-          "i18n": {
-            "en": {
-              "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
-              "subtitle": "V · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「现在或许有点困难，但在某个地方，幸运和机会正在等着你。」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你。」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Puede que ahora sea un poco difícil, pero en algún lugar, la suerte y las oportunidades te están esperando.",
-              "subtitle": "V · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Pode estar um pouco difícil agora, mas em algum lugar, a sorte e as oportunidades estão esperando por você.",
-              "subtitle": "V · Dear Class of 2020"
-            }
-          }
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_106",
+          "emojiPath": "",
+          "i18n": {}
         },
         {
           "id": "q_108",
-          "emojiPath": "BTS_header_6",
-          "i18n": {
-            "en": {
-              "title": "I hope you can believe in yourself and keep moving forward.",
-              "subtitle": "JUNG KOOK · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「希望你也能相信自己，然后继续往前走。」",
-              "subtitle": "- 田柾国《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「希望你也能相信自己，然後繼續往前走。」",
-              "subtitle": "- 田柾國《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Espero que puedas creer en ti y seguir avanzando.",
-              "subtitle": "JUNG KOOK · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Espero que você consiga acreditar em si mesmo e continuar seguindo em frente.",
-              "subtitle": "JUNG KOOK · Dear Class of 2020"
-            }
-          }
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_107",
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_079",
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_044",
+          "emojiPath": "",
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -626,6 +500,32 @@
       "id": "bts_v",
       "name": "V",
       "quotes": [
+        {
+          "id": "q_118",
+          "emojiPath": "BTS_header_2",
+          "i18n": {
+            "en": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V 20260717 weverse"
+            },
+            "zh-Hans": {
+              "title": "「我爱你，比昨天多一点，却比明天少一点」",
+              "subtitle": "- 金泰亨 20260717 weverse"
+            },
+            "zh-Hant": {
+              "title": "「我愛你，比昨天多一點，卻比明天少一點。」",
+              "subtitle": "- 金泰亨 20260717 weverse"
+            },
+            "es": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V 20260717 weverse"
+            },
+            "pt": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V 20260717 weverse"
+            }
+          }
+        },
         {
           "id": "q_086",
           "emojiPath": "BTS_header_2",
