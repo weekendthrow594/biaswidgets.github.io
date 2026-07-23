@@ -15,23 +15,78 @@
     "order": 3
   },
   {
+    "id": "aespa",
+    "name": "AESPA",
+    "order": 4
+  },
+  {
     "id": "bnd",
     "name": "BOYNEXTDOOR",
-    "order": 4
+    "order": 5
   },
   {
     "id": "enhypen",
     "name": "ENHYPEN",
-    "order": 5
+    "order": 6
   },
   {
-    "id": "aespa",
-    "name": "AESPA",
-    "order": 6
+    "id": "idle",
+    "name": "I-DLE",
+    "order": 7
+  },
+  {
+    "id": "ive",
+    "name": "IVE",
+    "order": 8
+  },
+  {
+    "id": "riize",
+    "name": "RIIZE",
+    "order": 9
+  },
+  {
+    "id": "nctwish",
+    "name": "NCTWISH",
+    "order": 10
+  },
+  {
+    "id": "skz",
+    "name": "STRAY KIDS",
+    "order": 11
+  },
+  {
+    "id": "blackpink",
+    "name": "BLACKPINK",
+    "order": 12
   },
   {
     "id": "lsrf",
     "name": "LE SSERAFIM",
-    "order": 12
+    "order": 13
+  },
+  {
+    "id": "zb1",
+    "name": "ZB1",
+    "order": 14
+  },
+  {
+    "id": "itzy",
+    "name": "ITZY",
+    "order": 15
+  },
+  {
+    "id": "twice",
+    "name": "TWICE",
+    "order": 16
+  },
+  {
+    "id": "ateez",
+    "name": "ATEEZ",
+    "order": 17
+  },
+  {
+    "id": "h2h",
+    "name": "Hearts2Hearts",
+    "order": 18
   }
 ]
