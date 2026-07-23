@@ -108,6 +108,30 @@
     ]
   },
   {
+    "id": "riize",
+    "name": "RIIZE",
+    "header": [
+      "RIIZE_header_4",
+      "RIIZE_header_3",
+      "RIIZE_header_5",
+      "RIIZE_header_2",
+      "RIIZE_header_1",
+      "RIIZE_header_6"
+    ]
+  },
+  {
+    "id": "nctwish",
+    "name": "NCTWISH",
+    "header": [
+      "NCTWISH_header_3",
+      "NCTWISH_header_2",
+      "NCTWISH_header_6",
+      "NCTWISH_header_1",
+      "NCTWISH_header_4",
+      "NCTWISH_header_5"
+    ]
+  },
+  {
     "id": "skz",
     "name": "STRAY KIDS",
     "header": [
@@ -119,18 +143,6 @@
       "SKZ_header_5",
       "SKZ_header_7",
       "SKZ_header_8"
-    ]
-  },
-  {
-    "id": "riize",
-    "name": "RIIZE",
-    "header": [
-      "RIIZE_header_4",
-      "RIIZE_header_3",
-      "RIIZE_header_5",
-      "RIIZE_header_2",
-      "RIIZE_header_1",
-      "RIIZE_header_6"
     ]
   },
   {
@@ -155,17 +167,6 @@
     ]
   },
   {
-    "id": "itzy",
-    "name": "ITZY",
-    "header": [
-      "ITZY_header_1",
-      "ITZY_header_2",
-      "ITZY_header_3",
-      "ITZY_header_4",
-      "ITZY_header_5"
-    ]
-  },
-  {
     "id": "zb1",
     "name": "ZB1",
     "header": [
@@ -174,6 +175,17 @@
       "ZB1_header_4",
       "ZB1_header_3",
       "ZB1_header_5"
+    ]
+  },
+  {
+    "id": "itzy",
+    "name": "ITZY",
+    "header": [
+      "ITZY_header_1",
+      "ITZY_header_2",
+      "ITZY_header_3",
+      "ITZY_header_4",
+      "ITZY_header_5"
     ]
   },
   {
@@ -189,6 +201,34 @@
       "TWICE_header_5",
       "TWICE_header_4",
       "TWICE_header_2"
+    ]
+  },
+  {
+    "id": "ateez",
+    "name": "ATEEZ",
+    "header": [
+      "ATEEZ_header_1",
+      "ATEEZ_header_2",
+      "ATEEZ_header_3",
+      "ATEEZ_header_4",
+      "ATEEZ_header_5",
+      "ATEEZ_header_6",
+      "ATEEZ_header_7",
+      "ATEEZ_header_8"
+    ]
+  },
+  {
+    "id": "h2h",
+    "name": "Hearts2Hearts",
+    "header": [
+      "H2H_header_1",
+      "H2H_header_2",
+      "H2H_header_3",
+      "H2H_header_4",
+      "H2H_header_5",
+      "H2H_header_6",
+      "H2H_header_7",
+      "H2H_header_8"
     ]
   }
 ]
