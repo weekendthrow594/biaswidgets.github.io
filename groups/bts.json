@@ -8,7 +8,7 @@
       "quotes": [
         {
           "id": "q_040",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Je t’aime plus qu’hier et moins que demain.",
@@ -33,22 +33,7 @@
           }
         },
         {
-          "id": "q_085",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_106",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
           "id": "q_108",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_107",
           "emojiPath": "",
           "i18n": {}
         },
@@ -61,6 +46,21 @@
           "id": "q_044",
           "emojiPath": "",
           "i18n": {}
+        },
+        {
+          "id": "q_106",
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_107",
+          "emojiPath": "",
+          "i18n": {}
+        },
+        {
+          "id": "q_085",
+          "emojiPath": "",
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -71,7 +71,7 @@
       "quotes": [
         {
           "id": "q_010",
-          "emojiPath": "BTS_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Wherever you are now, you are about to break out of one world and soar into another.",
@@ -97,7 +97,7 @@
         },
         {
           "id": "q_078",
-          "emojiPath": "BTS_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Even if we can only see each other through a small screen, I know your future will bloom into something greater and brighter.",
@@ -123,7 +123,7 @@
         },
         {
           "id": "q_034",
-          "emojiPath": "BTS_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "No matter how imperfect you think you are, there will never be another you in this world.",
@@ -149,7 +149,7 @@
         },
         {
           "id": "q_009",
-          "emojiPath": "BTS_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Today I am who I am, with all of my faults and mistakes.",
@@ -167,7 +167,7 @@
         },
         {
           "id": "q_001",
-          "emojiPath": "BTS_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Becoming the person you want to be is harder than becoming the person others expect, but it is more worthwhile.",
@@ -200,7 +200,7 @@
       "quotes": [
         {
           "id": "q_036",
-          "emojiPath": "BTS_header_1",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I made a promise to myself: to take it slow. I’ll move forward steadily, at my own pace.",
@@ -226,7 +226,7 @@
         },
         {
           "id": "q_002",
-          "emojiPath": "BTS_header_1",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「我会一直在这里，所以你们也不要走远」",
@@ -247,7 +247,7 @@
       "quotes": [
         {
           "id": "q_003",
-          "emojiPath": "BTS_header_5",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "At the end of hardship, flowers bloom for miles. May you begin small and end great.",
@@ -273,7 +273,7 @@
         },
         {
           "id": "q_081",
-          "emojiPath": "BTS_header_5",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Let go of what you can’t control, and hold on to what you can change.\nThe only thing you can truly control is yourself.",
@@ -306,7 +306,7 @@
       "quotes": [
         {
           "id": "q_087",
-          "emojiPath": "BTS_header_7",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Please remember: you are the owner of your own life.",
@@ -332,7 +332,7 @@
         },
         {
           "id": "q_088",
-          "emojiPath": "BTS_header_7",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Just this once. Hold on one more time.",
@@ -358,7 +358,7 @@
         },
         {
           "id": "q_089",
-          "emojiPath": "BTS_header_7",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "The next try may not be perfect, but the second time will be better than the first.",
@@ -384,7 +384,7 @@
         },
         {
           "id": "q_004",
-          "emojiPath": "BTS_header_7",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I know what I want to do, but to reach that goal, I first have to believe in myself, do my best, and love what I do.",
@@ -417,7 +417,7 @@
       "quotes": [
         {
           "id": "q_031",
-          "emojiPath": "BTS_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Please remember this: in this country called Korea, in this city called Seoul, there will always be someone who understands you.",
@@ -443,7 +443,7 @@
         },
         {
           "id": "q_045",
-          "emojiPath": "BTS_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If your heart has grown bigger, it means you have let go of those bad things, and what remains is only happiness.",
@@ -469,7 +469,7 @@
         },
         {
           "id": "q_011",
-          "emojiPath": "BTS_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "It’s okay if you cried today. After the tears, you can still keep moving forward.",
@@ -502,7 +502,7 @@
       "quotes": [
         {
           "id": "q_118",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Je t’aime plus qu’hier et moins que demain.",
@@ -528,7 +528,7 @@
         },
         {
           "id": "q_086",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
@@ -554,7 +554,7 @@
         },
         {
           "id": "q_012",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "You don’t have to try so hard every day. Enjoying the moment is also a kind of effort.",
@@ -580,7 +580,7 @@
         },
         {
           "id": "q_028",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "You don’t have to shine every day. Making it through today is already amazing.",
@@ -606,7 +606,7 @@
         },
         {
           "id": "q_029",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Growing up doesn’t mean becoming someone else. It means becoming more like your true self.",
@@ -632,7 +632,7 @@
         },
         {
           "id": "q_013",
-          "emojiPath": "BTS_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I am just myself. I don’t need to become anyone else.",
@@ -665,7 +665,7 @@
       "quotes": [
         {
           "id": "q_109",
-          "emojiPath": "BTS_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I hope you can believe in yourself and keep moving forward.",
@@ -691,7 +691,7 @@
         },
         {
           "id": "q_080",
-          "emojiPath": "BTS_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "You don’t have to care too much about what others think.\nWhat matters is knowing what you truly want, and what feels most like you.",
@@ -717,7 +717,7 @@
         },
         {
           "id": "q_023",
-          "emojiPath": "BTS_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If you can’t change it, enjoy it. People who know how to enjoy life cannot be defeated.",
@@ -743,7 +743,7 @@
         },
         {
           "id": "q_014",
-          "emojiPath": "BTS_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I may not be the best, but I’ll keep working hard until I make you proud.",
