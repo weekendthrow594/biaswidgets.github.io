@@ -8,7 +8,7 @@
       "quotes": [
         {
           "id": "q_090",
-          "emojiPath": "BND_header_5",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「只看漂亮的，只听好的」",
@@ -22,7 +22,7 @@
         },
         {
           "id": "q_096",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If you can make it through the tiring everyday, I’ll come find you like a rainbow.",
@@ -47,13 +47,8 @@
           }
         },
         {
-          "id": "q_074",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
           "id": "q_075",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「今天盛开的花，不是一朝一夕之间出现的是无数个熬过来的时刻和那些温暖的信任一起开出的奇迹。」",
@@ -64,6 +59,11 @@
               "subtitle": "- 明宰鉉 weverse 四冠感言"
             }
           }
+        },
+        {
+          "id": "q_074",
+          "emojiPath": "",
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -74,7 +74,7 @@
       "quotes": [
         {
           "id": "q_072",
-          "emojiPath": "BND_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I hope that even when you’re tired, you can keep going healthily, feel joy in small things, and find what is precious.",
@@ -107,7 +107,7 @@
       "quotes": [
         {
           "id": "q_070",
-          "emojiPath": "BND_header_1",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If life were simple, it wouldn’t be life.",
@@ -133,7 +133,7 @@
         },
         {
           "id": "q_117",
-          "emojiPath": "BND_header_1",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「这个……别人没有资格伤害你吧。」",
@@ -154,7 +154,7 @@
       "quotes": [
         {
           "id": "q_098",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If you can make it through the tiring everyday, I’ll come find you like a rainbow.",
@@ -180,7 +180,7 @@
         },
         {
           "id": "q_091",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「在我有不相信自己的瞬间，仍然有人一直相信着我那些心意像小小的火光，让动摇的我重新站回了路上。」",
@@ -194,7 +194,7 @@
         },
         {
           "id": "q_092",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「今天盛开的花，不是一朝一夕之间出现的是无数个熬过来的时刻和那些温暖的信任一起开出的奇迹。」",
@@ -208,7 +208,7 @@
         },
         {
           "id": "q_071",
-          "emojiPath": "BND_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Don’t be defeated by a world that ranks love. Even if you came in last, your work is still excellent.",
@@ -241,7 +241,7 @@
       "quotes": [
         {
           "id": "q_069",
-          "emojiPath": "BND_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "A three-leaf clover represents happiness, and a four-leaf clover represents luck. But why do people always give up happiness just to look for luck?",
@@ -274,7 +274,7 @@
       "quotes": [
         {
           "id": "q_097",
-          "emojiPath": "BND_header_5",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「只看漂亮的，只听好的」",
@@ -288,7 +288,7 @@
         },
         {
           "id": "q_073",
-          "emojiPath": "BND_header_5",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "When sad things come, happy things will surely come too. You could say it is preparation for the happy days ahead.",
@@ -321,7 +321,7 @@
       "quotes": [
         {
           "id": "q_068",
-          "emojiPath": "BND_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "This is the only life we get, so why not try going a little crazy?",
