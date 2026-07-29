@@ -1,0 +1,256 @@
+{
+  "id": "ateez",
+  "name": "ATEEZ",
+  "members": [
+    {
+      "id": "ateez_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_133",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「晚点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "subtitle": "- 朴星化"
+            },
+            "zh-Hant": {
+              "title": "「晚點綻放的花不代表他不美麗」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "subtitle": "- 朴星化"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_004",
+          "emojiPath": "",
+          "beginDateStr": "2026/07/28",
+          "endDateStr": "2026/10/25",
+          "i18n": {
+            "zh-Hans": {
+              "title": "MUSIC EXPO IN TAIPEI"
+            },
+            "zh-Hant": {
+              "title": "MUSIC EXPO IN TAIPEI"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ateez_hongjoong",
+      "name": "HONGJOONG",
+      "quotes": [
+        {
+          "id": "q_125",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t follow trends. Express what truly resonates with you, in a way that is uniquely your own.",
+              "subtitle": "HONGJOONG, NOTION The Artists Vol. 2 interview"
+            },
+            "zh-Hans": {
+              "title": "「不要追随潮流，而是去表达真正能与自己产生共鸣的事物，用只属于你的方式。」",
+              "subtitle": "- 金弘中《NOTION The Artists Vol. 2》专访"
+            },
+            "zh-Hant": {
+              "title": "「不要追隨潮流，而是去表達真正能與自己產生共鳴的事物，用只屬於你的方式。」",
+              "subtitle": "- 金弘中《NOTION The Artists Vol. 2》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_seonghwa",
+      "name": "SEONGHWA",
+      "quotes": [
+        {
+          "id": "q_133",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「晚点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "subtitle": "- 朴星化"
+            },
+            "zh-Hant": {
+              "title": "「晚點綻放的花不代表他不美麗」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "subtitle": "- 朴星化"
+            }
+          }
+        },
+        {
+          "id": "q_126",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if starting something new feels scary, remembering that you’re not alone can bring you comfort. As long as we’re together, there’s nothing we can’t do.",
+              "subtitle": "SEONGHWA, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「就算开始新的事物时会感到害怕，只要想到自己不是一个人，就会安心许多。只要我们一起，就没有做不到的事。」",
+              "subtitle": "- 朴星化《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「就算開始新的事物時會感到害怕，只要想到自己不是一個人，就會安心許多。只要我們一起，就沒有做不到的事。」",
+              "subtitle": "- 朴星化《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_yunho",
+      "name": "YUNHO",
+      "quotes": [
+        {
+          "id": "q_127",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "We can be a source of positive energy for one another.",
+              "subtitle": "YUNHO, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「我们可以成为彼此的正面能量。」",
+              "subtitle": "- 丁润浩《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「我們可以成為彼此的正面能量。」",
+              "subtitle": "- 丁潤浩《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_yeosang",
+      "name": "YEOSANG",
+      "quotes": [
+        {
+          "id": "q_128",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if you’re already good at something, don’t become complacent. Keep working to become a better version of yourself. People like that are the most admirable.",
+              "subtitle": "YEOSANG, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「即使已经很擅长一件事，也不要因此自满，而是持续努力，让自己变得更好。这样的人最值得敬佩。」",
+              "subtitle": "- 姜吕尚《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「即使已經很擅長一件事，也不要因此自滿，而是持續努力，讓自己變得更好。這樣的人最值得敬佩。」",
+              "subtitle": "- 姜呂尚《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_san",
+      "name": "SAN",
+      "quotes": [
+        {
+          "id": "q_129",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Being different from others isn’t wrong. It’s not about who is right or wrong—we’re simply different from one another.",
+              "subtitle": "SAN, GQ"
+            },
+            "zh-Hans": {
+              "title": "「与别人不同并不是错。那不是谁对谁错，只是我们彼此不同。」",
+              "subtitle": "- 崔伞《GQ》"
+            },
+            "zh-Hant": {
+              "title": "「與別人不同並不是錯。那不是誰對誰錯，只是我們彼此不同。」",
+              "subtitle": "- 崔傘《GQ》"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_mingi",
+      "name": "MINGI",
+      "quotes": [
+        {
+          "id": "q_130",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I hope that every time I look at myself in the mirror, I can feel confident and proud.",
+              "subtitle": "MINGI, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「我希望每一次看着镜子里的自己时，都能感到自信与骄傲。」",
+              "subtitle": "- 宋旼琦《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「我希望每一次看著鏡子裡的自己時，都能感到自信與驕傲。」",
+              "subtitle": "- 宋旼琦《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_wooyoung",
+      "name": "WOOYOUNG",
+      "quotes": [
+        {
+          "id": "q_131",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Compared with who I was last year, I look forward more to who I am this year; and compared with who I am this year, I look forward even more to who I’ll become next year.",
+              "subtitle": "WOOYOUNG, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「比起去年的自己，我更期待今年的自己；比起今年的自己，我更期待明年的自己。」",
+              "subtitle": "- 郑友荣《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「比起去年的自己，我更期待今年的自己；比起今年的自己，我更期待明年的自己。」",
+              "subtitle": "- 鄭友榮《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "ateez_jongho",
+      "name": "JONGHO",
+      "quotes": [
+        {
+          "id": "q_132",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "There are still so many new things I want to try and so many different sides of myself I want to show. I hope I can continue to bring new possibilities.",
+              "subtitle": "JONGHO, Singles interview"
+            },
+            "zh-Hans": {
+              "title": "「还有很多新的事物想去尝试，也还有很多不同的面貌想让大家看见。希望自己能一直带来新的可能。」",
+              "subtitle": "- 崔钟浩《Singles》专访"
+            },
+            "zh-Hant": {
+              "title": "「還有很多新的事物想去嘗試，也還有很多不同的面貌想讓大家看見。希望自己能一直帶來新的可能。」",
+              "subtitle": "- 崔鍾浩《Singles》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}
