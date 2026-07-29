@@ -8,7 +8,7 @@
       "quotes": [
         {
           "id": "q_100",
-          "emojiPath": "SVT_header_12",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「如今，终于只剩下最后一个山岭了。\n希望翻过那道山岭之后，等待著我们的，只有我们一起共度的幸福时光。」",
@@ -22,7 +22,7 @@
         },
         {
           "id": "q_105",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
@@ -36,7 +36,7 @@
         },
         {
           "id": "q_101",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
@@ -62,7 +62,7 @@
       "quotes": [
         {
           "id": "q_015",
-          "emojiPath": "SVT_header_11",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "If you’re not confident that you can make her happier than I can, then please give her back to me.",
@@ -87,34 +87,34 @@
           }
         },
         {
-          "id": "q_008",
-          "emojiPath": "SVT_header_11",
+          "id": "q_005",
+          "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "There will be a time when all the members can’t gather together, but I won’t be the S.Coups who wants to receive a lot of love. I’ll become the S.Coups who protects CARATs.",
+              "title": "Happiness is spending time freely with the people you like ✨",
               "subtitle": "S.Coups"
             },
             "zh-Hans": {
-              "title": "「虽然会有一段时间所有成员无法聚在一起，但我不会成为想得到很多爱的S.Coups，而是会成为守护克拉们的S.Coups。」",
+              "title": "「幸福就是和喜欢的人一起浪费时间✨」",
               "subtitle": "- 崔胜哲"
             },
             "zh-Hant": {
-              "title": "「雖然會有一段時間所有成員無法聚在一起，但我不會成為想得到很多愛的S.Coups，而是會成為守護克拉們的S.Coups。」",
+              "title": "「幸福就是和喜歡的人一起浪費時間✨」",
               "subtitle": "- 崔勝哲"
             },
             "es": {
-              "title": "Habrá un tiempo en el que todos los miembros no podrán reunirse, pero no seré el S.Coups que quiere recibir mucho amor. Seré el S.Coups que protege a CARATs.",
+              "title": "La felicidad es pasar el tiempo sin prisa con las personas que quieres ✨",
               "subtitle": "S.Coups"
             },
             "pt": {
-              "title": "Haverá um tempo em que todos os membros não poderão se reunir, mas eu não serei o S.Coups que quer receber muito amor. Serei o S.Coups que protege os CARATs.",
+              "title": "Felicidade é passar o tempo sem pressa com as pessoas de quem você gosta ✨",
               "subtitle": "S.Coups"
             }
           }
         },
         {
           "id": "q_007",
-          "emojiPath": "SVT_header_11",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Even if the whole world leaves, I’ll stay by SEVENTEEN’s side.",
@@ -139,27 +139,27 @@
           }
         },
         {
-          "id": "q_005",
-          "emojiPath": "SVT_header_11",
+          "id": "q_008",
+          "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Happiness is spending time freely with the people you like ✨",
+              "title": "There will be a time when all the members can’t gather together, but I won’t be the S.Coups who wants to receive a lot of love. I’ll become the S.Coups who protects CARATs.",
               "subtitle": "S.Coups"
             },
             "zh-Hans": {
-              "title": "「幸福就是和喜欢的人一起浪费时间✨」",
+              "title": "「虽然会有一段时间所有成员无法聚在一起，但我不会成为想得到很多爱的S.Coups，而是会成为守护克拉们的S.Coups。」",
               "subtitle": "- 崔胜哲"
             },
             "zh-Hant": {
-              "title": "「幸福就是和喜歡的人一起浪費時間✨」",
+              "title": "「雖然會有一段時間所有成員無法聚在一起，但我不會成為想得到很多愛的S.Coups，而是會成為守護克拉們的S.Coups。」",
               "subtitle": "- 崔勝哲"
             },
             "es": {
-              "title": "La felicidad es pasar el tiempo sin prisa con las personas que quieres ✨",
+              "title": "Habrá un tiempo en el que todos los miembros no podrán reunirse, pero no seré el S.Coups que quiere recibir mucho amor. Seré el S.Coups que protege a CARATs.",
               "subtitle": "S.Coups"
             },
             "pt": {
-              "title": "Felicidade é passar o tempo sem pressa com as pessoas de quem você gosta ✨",
+              "title": "Haverá um tempo em que todos os membros não poderão se reunir, mas eu não serei o S.Coups que quer receber muito amor. Serei o S.Coups que protege os CARATs.",
               "subtitle": "S.Coups"
             }
           }
@@ -173,7 +173,7 @@
       "quotes": [
         {
           "id": "q_006",
-          "emojiPath": "SVT_header_1",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "CARATs are gifts sent by angels, so I also want to become an angel and protect you.",
@@ -206,7 +206,7 @@
       "quotes": [
         {
           "id": "q_102",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
@@ -220,7 +220,7 @@
         },
         {
           "id": "q_104",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
@@ -234,7 +234,7 @@
         },
         {
           "id": "q_037",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I don’t need to be liked by everyone. I just want to be worthy of the people who like me.",
@@ -260,7 +260,7 @@
         },
         {
           "id": "q_103",
-          "emojiPath": "SVT_header_4",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「我们想成为那个小小的声音，提醒你：你的梦想很重要。」",
@@ -281,7 +281,7 @@
       "quotes": [
         {
           "id": "q_061",
-          "emojiPath": "SVT_header_10",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "This moment called youth is beautiful and precious, every minute and every second.",
@@ -314,7 +314,7 @@
       "quotes": [
         {
           "id": "q_024",
-          "emojiPath": "SVT_header_5",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "No flower blooms without wind and rain. Learn to endure and overcome hardship, and in the end, you will bloom and bear fruit.",
@@ -340,7 +340,7 @@
         },
         {
           "id": "q_038",
-          "emojiPath": "SVT_header_5",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Even if there is only a 1% possibility, I will make it 100%.",
@@ -388,7 +388,7 @@
       "quotes": [
         {
           "id": "q_119",
-          "emojiPath": "SVT_header_12",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「如今，终于只剩下最后一个山岭了。\n希望翻过那道山岭之后，等待著我们的，只有我们一起共度的幸福时光。」",
@@ -402,7 +402,7 @@
         },
         {
           "id": "q_026",
-          "emojiPath": "SVT_header_12",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I sincerely hope you achieve your dream, and then come see me with that dream.",
@@ -428,7 +428,7 @@
         },
         {
           "id": "q_033",
-          "emojiPath": "SVT_header_12",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "We don’t need to say too much. Quietly staying together is nice too.",
@@ -476,7 +476,7 @@
       "quotes": [
         {
           "id": "q_021",
-          "emojiPath": "SVT_header_13",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "It’s not about being perfect. It’s about having no regrets.",
@@ -502,7 +502,7 @@
         },
         {
           "id": "q_035",
-          "emojiPath": "SVT_header_13",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Because I wanted to become your tomorrow, I lived through today.",
@@ -556,7 +556,7 @@
       "quotes": [
         {
           "id": "q_018",
-          "emojiPath": "SVT_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Don’t force yourself. If you’re tired, take a rest. I’ll wait for you.",
@@ -582,7 +582,7 @@
         },
         {
           "id": "q_022",
-          "emojiPath": "SVT_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "You only live once, so please don’t leave any regrets behind.",
@@ -615,7 +615,7 @@
       "quotes": [
         {
           "id": "q_030",
-          "emojiPath": "SVT_header_6",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "When I smile, I hope you can smile along with me.",
@@ -648,7 +648,7 @@
       "quotes": [
         {
           "id": "q_017",
-          "emojiPath": "SVT_header_8",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "It’s okay if you cried today. After the tears, you can still keep moving forward.",
@@ -681,7 +681,7 @@
       "quotes": [
         {
           "id": "q_025",
-          "emojiPath": "SVT_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Dreams should be big enough that even if they break, the pieces are still big.",
