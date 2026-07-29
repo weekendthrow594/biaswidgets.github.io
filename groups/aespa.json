@@ -7,56 +7,58 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_111",
-          "emojiPath": "Aespa_header_1",
+          "id": "q_120",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「如果你尽力了，不管结果如何，过程一定都很帅气的。」",
-              "subtitle": "- 刘知珉"
+              "title": "「相爱的人会越来越像，那我们就一起度过帅气的人生吧。」",
+              "subtitle": "- 柳智敏"
             },
             "zh-Hant": {
-              "title": "「如果你盡力了，不管結果如何，過程一定都很帥氣的。」",
+              "title": "「相愛的人會越來越像，那我們就一起度過帥氣的人生吧。」",
               "subtitle": "- 劉知珉"
             }
           }
         },
         {
-          "id": "q_083",
-          "emojiPath": "Aespa_header_4",
+          "id": "q_093",
+          "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "I think every woman in the world is a princess.",
-              "subtitle": "NINGNING"
-            },
             "zh-Hans": {
-              "title": "「我认为全世界的女人都是公主」",
-              "subtitle": "- 宁艺卓"
+              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "subtitle": "- Giselle"
             },
             "zh-Hant": {
-              "title": "「我認為全世界的女人都是公主」",
-              "subtitle": "- 寧藝卓"
-            },
-            "es": {
-              "title": "Creo que todas las mujeres del mundo son princesas.",
-              "subtitle": "NINGNING"
-            },
-            "pt": {
-              "title": "Eu acho que todas as mulheres do mundo são princesas.",
-              "subtitle": "NINGNING"
+              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "subtitle": "- Giselle"
             }
           }
         },
         {
-          "id": "q_093",
-          "emojiPath": "Aespa_header_3",
+          "id": "q_111",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
               "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
+          "id": "q_083",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想做什么就去做吧，女生们可以做任何事」",
+              "subtitle": "- 宁艺卓"
+            },
+            "zh-Hant": {
+              "title": "「想做什麼就去做吧，女生們可以做任何事。」",
+              "subtitle": "- 寧藝卓"
             }
           }
         }
@@ -68,12 +70,26 @@
       "name": "KARINA",
       "quotes": [
         {
+          "id": "q_121",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「相爱的人会越来越像，那我们就一起度过帅气的人生吧。」",
+              "subtitle": "- 柳智敏"
+            },
+            "zh-Hant": {
+              "title": "「相愛的人會越來越像，那我們就一起度過帥氣的人生吧。」",
+              "subtitle": "- 劉知珉"
+            }
+          }
+        },
+        {
           "id": "q_110",
-          "emojiPath": "Aespa_header_1",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「如果你尽力了，不管结果如何，过程一定都很帅气的。」",
-              "subtitle": "- 刘知珉"
+              "subtitle": "- 柳智敏"
             },
             "zh-Hant": {
               "title": "「如果你盡力了，不管結果如何，過程一定都很帥氣的。」",
@@ -83,11 +99,11 @@
         },
         {
           "id": "q_084",
-          "emojiPath": "Aespa_header_1",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「我要你站的高高的，我会为你骄傲。」",
-              "subtitle": "- 刘知珉"
+              "subtitle": "- 柳智敏"
             },
             "zh-Hant": {
               "title": "「我要你站的高高的，我會為你驕傲。」",
@@ -97,7 +113,7 @@
         },
         {
           "id": "q_082",
-          "emojiPath": "Aespa_header_1",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "1. Your mood improves\n2. Your eyes feel healed\n3. Your mind and body feel calm",
@@ -123,7 +139,7 @@
         },
         {
           "id": "q_060",
-          "emojiPath": "Aespa_header_1",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "My wish is to be in your wish, to become part of my fans’ dreams and not just a passing moment.",
@@ -131,7 +147,7 @@
             },
             "zh-Hans": {
               "title": "「我的愿望是你的愿望里有我，愿自己成为粉丝梦想的一部分，而不是短暂的过客。」",
-              "subtitle": "- 刘知珉"
+              "subtitle": "- 柳智敏"
             },
             "zh-Hant": {
               "title": "「我的願望是你的願望裡有我，願自己成為粉絲夢想的一部分，而不是短暫的過客。」",
@@ -155,8 +171,22 @@
       "name": "GISELLE",
       "quotes": [
         {
+          "id": "q_122",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "subtitle": "- Giselle"
+            },
+            "zh-Hant": {
+              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "subtitle": "- Giselle"
+            }
+          }
+        },
+        {
           "id": "q_062",
-          "emojiPath": "Aespa_header_2",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "You must believe in yourself, have confidence, and believe in yourself so strongly that you cannot give up.",
@@ -188,8 +218,22 @@
       "name": "WINTER",
       "quotes": [
         {
+          "id": "q_123",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
           "id": "q_063",
-          "emojiPath": "Aespa_header_3",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I hope you, who like me, can be happy. Having you like me makes me happy too.",
@@ -215,7 +259,7 @@
         },
         {
           "id": "q_095",
-          "emojiPath": "Aespa_header_3",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
@@ -229,7 +273,7 @@
         },
         {
           "id": "q_094",
-          "emojiPath": "Aespa_header_3",
+          "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「千万人的Winter 你一个人的旼炡」",
@@ -249,8 +293,22 @@
       "name": "NINGNING",
       "quotes": [
         {
+          "id": "q_124",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想做什么就去做吧，女生们可以做任何事」",
+              "subtitle": "- 宁艺卓"
+            },
+            "zh-Hant": {
+              "title": "「想做什麼就去做吧，女生們可以做任何事。」",
+              "subtitle": "- 寧藝卓"
+            }
+          }
+        },
+        {
           "id": "q_064",
-          "emojiPath": "Aespa_header_4",
+          "emojiPath": "",
           "i18n": {
             "en": {
               "title": "I think every woman in the world is a princess.",
