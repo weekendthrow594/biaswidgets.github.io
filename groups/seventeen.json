@@ -115,6 +115,34 @@
               "title": "權順榮退伍"
             }
           }
+        },
+        {
+          "id": "c_005",
+          "emojiPath": "",
+          "beginDateStr": "2026/08/20",
+          "endDateStr": "2028/05/19",
+          "i18n": {
+            "zh-Hans": {
+              "title": "崔瀚率退伍"
+            },
+            "zh-Hant": {
+              "title": "崔瀚率退伍"
+            }
+          }
+        },
+        {
+          "id": "c_006",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/08",
+          "endDateStr": "2028/03/07",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李硕珉退伍"
+            },
+            "zh-Hant": {
+              "title": "李碩珉退伍"
+            }
+          }
         }
       ]
     },
@@ -702,7 +730,22 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_006",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/08",
+          "endDateStr": "2028/03/07",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李硕珉退伍"
+            },
+            "zh-Hant": {
+              "title": "李碩珉退伍"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "seventeen_kwan",
@@ -768,7 +811,22 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_005",
+          "emojiPath": "",
+          "beginDateStr": "2026/08/20",
+          "endDateStr": "2028/05/19",
+          "i18n": {
+            "zh-Hans": {
+              "title": "崔瀚率退伍"
+            },
+            "zh-Hant": {
+              "title": "崔瀚率退伍"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "seventeen_dino",
