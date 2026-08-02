@@ -7,21 +7,33 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_100",
+          "id": "q_005",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Happiness is spending time freely with the people you like ✨",
+              "subtitle": "S.Coups"
+            },
             "zh-Hans": {
-              "title": "「如今，终于只剩下最后一个山岭了。\n希望翻过那道山岭之后，等待著我们的，只有我们一起共度的幸福时光。」",
-              "subtitle": "- 全圆佑 20260716 weverse"
+              "title": "「幸福就是和喜欢的人一起浪费时间✨」",
+              "subtitle": "- 崔胜哲"
             },
             "zh-Hant": {
-              "title": "「如今，終於只剩下最後一個山嶺了。\n希望翻過那道山嶺之後，等待著我們的，只有我們一起共度的幸福時光。」",
-              "subtitle": "- 全圓佑 20260716 weverse"
+              "title": "「幸福就是和喜歡的人一起浪費時間✨」",
+              "subtitle": "- 崔勝哲"
+            },
+            "es": {
+              "title": "La felicidad es pasar el tiempo sin prisa con las personas que quieres ✨",
+              "subtitle": "S.Coups"
+            },
+            "pt": {
+              "title": "Felicidade é passar o tempo sem pressa com as pessoas de quem você gosta ✨",
+              "subtitle": "S.Coups"
             }
           }
         },
         {
-          "id": "q_105",
+          "id": "q_104",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
@@ -35,26 +47,76 @@
           }
         },
         {
-          "id": "q_101",
+          "id": "q_006",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "CARATs are gifts sent by angels, so I also want to become an angel and protect you.",
+              "subtitle": "Jeonghan"
+            },
             "zh-Hans": {
-              "title": "「永远不要让任何人，包括你自己，看轻你的梦想。」",
-              "subtitle": "- 洪知秀 UNESCO"
+              "title": "「克拉是天使派来的礼物，所以我也要当天使来保护你们」",
+              "subtitle": "- 尹净汉"
             },
             "zh-Hant": {
-              "title": "「永遠不要讓任何人，\n包括你自己，\n看輕你的夢想。」",
-              "subtitle": "- 洪知秀 UNESCO"
+              "title": "「克拉是天使派來的禮物，所以我也要當天使來保護你們」",
+              "subtitle": "- 尹淨漢"
+            },
+            "es": {
+              "title": "CARATs son regalos enviados por ángeles, así que yo también quiero convertirme en un ángel para protegerlos.",
+              "subtitle": "Jeonghan"
+            },
+            "pt": {
+              "title": "CARATs são presentes enviados por anjos, então eu também quero me tornar um anjo para proteger vocês.",
+              "subtitle": "Jeonghan"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_001",
+          "emojiPath": "",
+          "beginDateStr": "2025/04/03",
+          "endDateStr": "2027/01/02",
+          "i18n": {
+            "zh-Hans": {
+              "title": "全圆佑退伍"
+            },
+            "zh-Hant": {
+              "title": "全圓佑退伍"
             }
           }
         },
         {
-          "id": "q_099",
+          "id": "c_003",
           "emojiPath": "",
-          "i18n": {}
+          "beginDateStr": "2025/09/15",
+          "endDateStr": "2027/03/14",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李知勋退伍"
+            },
+            "zh-Hant": {
+              "title": "李知勳退伍"
+            }
+          }
+        },
+        {
+          "id": "c_002",
+          "emojiPath": "",
+          "beginDateStr": "2025/09/16",
+          "endDateStr": "2027/03/15",
+          "i18n": {
+            "zh-Hans": {
+              "title": "权顺荣退伍"
+            },
+            "zh-Hant": {
+              "title": "權順榮退伍"
+            }
+          }
         }
-      ],
-      "countdowns": []
+      ]
     },
     {
       "id": "seventeen_coups",
@@ -368,7 +430,7 @@
       "countdowns": [
         {
           "id": "c_002",
-          "emojiPath": "SVT_header_5",
+          "emojiPath": "",
           "beginDateStr": "2025/09/16",
           "endDateStr": "2027/03/15",
           "i18n": {
@@ -456,7 +518,7 @@
       "countdowns": [
         {
           "id": "c_001",
-          "emojiPath": "SVT_header_12",
+          "emojiPath": "",
           "beginDateStr": "2025/04/03",
           "endDateStr": "2027/01/02",
           "i18n": {
@@ -530,7 +592,7 @@
       "countdowns": [
         {
           "id": "c_003",
-          "emojiPath": "SVT_header_13",
+          "emojiPath": "",
           "beginDateStr": "2025/09/15",
           "endDateStr": "2027/03/14",
           "i18n": {
