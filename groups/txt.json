@@ -201,32 +201,6 @@
           }
         },
         {
-          "id": "q_050",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "You are not alone. We will tune ourselves to the frequency of your heart and wait for you.",
-              "subtitle": "YEONJUN × UNICEF"
-            },
-            "zh-Hans": {
-              "title": "「你不是一个人我们会配合你心灵的频率，并等待着你」",
-              "subtitle": "- 崔然竣 × UNICEF"
-            },
-            "zh-Hant": {
-              "title": "「你不是一個人\n我們會配合你心靈的頻率，並等待著你」",
-              "subtitle": "- 崔然竣 × UNICEF"
-            },
-            "es": {
-              "title": "No estás solo. Nos ajustaremos a la frecuencia de tu corazón y te esperaremos.",
-              "subtitle": "YEONJUN × UNICEF"
-            },
-            "pt": {
-              "title": "Você não está sozinho. Vamos nos ajustar à frequência do seu coração e esperar por você.",
-              "subtitle": "YEONJUN × UNICEF"
-            }
-          }
-        },
-        {
           "id": "q_049",
           "emojiPath": "",
           "i18n": {
@@ -248,6 +222,32 @@
             },
             "pt": {
               "title": "Em cada dia, com certeza existe algo bonito escondido.",
+              "subtitle": "YEONJUN × UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_050",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You are not alone. We will tune ourselves to the frequency of your heart and wait for you.",
+              "subtitle": "YEONJUN × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「你不是一个人我们会配合你心灵的频率，并等待着你」",
+              "subtitle": "- 崔然竣 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「你不是一個人\n我們會配合你心靈的頻率，並等待著你」",
+              "subtitle": "- 崔然竣 × UNICEF"
+            },
+            "es": {
+              "title": "No estás solo. Nos ajustaremos a la frecuencia de tu corazón y te esperaremos.",
+              "subtitle": "YEONJUN × UNICEF"
+            },
+            "pt": {
+              "title": "Você não está sozinho. Vamos nos ajustar à frequência do seu coração e esperar por você.",
               "subtitle": "YEONJUN × UNICEF"
             }
           }
@@ -312,32 +312,6 @@
           }
         },
         {
-          "id": "q_065",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Seeing the flowers fall to the ground, and seeing MOAs keep feeling around on the floor, made my heart ache. I’m sorry.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            },
-            "zh-Hans": {
-              "title": "「看到花掉在地上，MOA们在地上不停的摸来摸去的样子心理酸酸的，对不起」",
-              "subtitle": "- 崔秀彬 × WEVERSE CON"
-            },
-            "zh-Hant": {
-              "title": "「看到花掉在地上，MOA們在地上不停的摸來摸去的樣子\n心理酸酸的，對不起」",
-              "subtitle": "- 崔秀彬 × WEVERSE CON"
-            },
-            "es": {
-              "title": "Ver las flores caer al suelo y a MOAs seguir palpando el piso sin parar me dejó el corazón apretado. Lo siento.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            },
-            "pt": {
-              "title": "Ver as flores caindo no chão e os MOAs continuando a procurar pelo chão sem parar deixou meu coração apertado. Desculpa.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            }
-          }
-        },
-        {
           "id": "q_052",
           "emojiPath": "",
           "i18n": {
@@ -360,6 +334,32 @@
             "pt": {
               "title": "Basta brilhar sendo você mesmo. Você não precisa se comparar com ninguém.",
               "subtitle": "SOOBIN × UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_065",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Seeing the flowers fall to the ground, and seeing MOAs keep feeling around on the floor, made my heart ache. I’m sorry.",
+              "subtitle": "SOOBIN × WEVERSE CON"
+            },
+            "zh-Hans": {
+              "title": "「看到花掉在地上，MOA们在地上不停的摸来摸去的样子心理酸酸的，对不起」",
+              "subtitle": "- 崔秀彬 × WEVERSE CON"
+            },
+            "zh-Hant": {
+              "title": "「看到花掉在地上，MOA們在地上不停的摸來摸去的樣子\n心理酸酸的，對不起」",
+              "subtitle": "- 崔秀彬 × WEVERSE CON"
+            },
+            "es": {
+              "title": "Ver las flores caer al suelo y a MOAs seguir palpando el piso sin parar me dejó el corazón apretado. Lo siento.",
+              "subtitle": "SOOBIN × WEVERSE CON"
+            },
+            "pt": {
+              "title": "Ver as flores caindo no chão e os MOAs continuando a procurar pelo chão sem parar deixou meu coração apertado. Desculpa.",
+              "subtitle": "SOOBIN × WEVERSE CON"
             }
           }
         }
@@ -534,28 +534,28 @@
           }
         },
         {
-          "id": "q_067",
+          "id": "q_058",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t fall just because you want to walk a little faster. If there is something you can hold on to, hold on to it. If you meet an icy road, avoid it. Step by step, move forward steadily.",
-              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
+              "title": "When you feel like you can’t hold on anymore, press pause first.",
+              "subtitle": "TAEHYUN × UNICEF"
             },
             "zh-Hans": {
-              "title": "「不要因为想走得快一些而跌倒了有能够抓住的东西就扶一下 遇到结冰的路面就避开一步一步 好好地稳步向前」",
-              "subtitle": "- 姜太显 20251207 WVS LIVE ❄️"
+              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
+              "subtitle": "- 姜太显 × UNICEF"
             },
             "zh-Hant": {
-              "title": "「不要因為想走得快一些而跌倒了\n有能夠抓住的東西就扶一下 遇到結冰的路面就避開\n一步一步 好好地穩步向前」",
-              "subtitle": "- 姜太顯 20251207 WVS LIVE ❄️"
+              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
+              "subtitle": "- 姜太顯 × UNICEF"
             },
             "es": {
-              "title": "No te caigas solo por querer caminar un poco más rápido. Si hay algo a lo que puedas sujetarte, apóyate en ello. Si encuentras un camino helado, evítalo. Paso a paso, avanza con calma y firmeza.",
-              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
+              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
+              "subtitle": "TAEHYUN × UNICEF"
             },
             "pt": {
-              "title": "Não caia só porque quer andar um pouco mais rápido. Se houver algo em que possa se apoiar, apoie-se. Se encontrar um caminho congelado, desvie dele. Passo a passo, siga em frente com calma e firmeza.",
-              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
+              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
+              "subtitle": "TAEHYUN × UNICEF"
             }
           }
         },
@@ -586,28 +586,28 @@
           }
         },
         {
-          "id": "q_058",
+          "id": "q_067",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "When you feel like you can’t hold on anymore, press pause first.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "Don’t fall just because you want to walk a little faster. If there is something you can hold on to, hold on to it. If you meet an icy road, avoid it. Step by step, move forward steadily.",
+              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
             },
             "zh-Hans": {
-              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
-              "subtitle": "- 姜太显 × UNICEF"
+              "title": "「不要因为想走得快一些而跌倒了有能够抓住的东西就扶一下 遇到结冰的路面就避开一步一步 好好地稳步向前」",
+              "subtitle": "- 姜太显 20251207 WVS LIVE ❄️"
             },
             "zh-Hant": {
-              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
-              "subtitle": "- 姜太顯 × UNICEF"
+              "title": "「不要因為想走得快一些而跌倒了\n有能夠抓住的東西就扶一下 遇到結冰的路面就避開\n一步一步 好好地穩步向前」",
+              "subtitle": "- 姜太顯 20251207 WVS LIVE ❄️"
             },
             "es": {
-              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "No te caigas solo por querer caminar un poco más rápido. Si hay algo a lo que puedas sujetarte, apóyate en ello. Si encuentras un camino helado, evítalo. Paso a paso, avanza con calma y firmeza.",
+              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
             },
             "pt": {
-              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "Não caia só porque quer andar um pouco mais rápido. Se houver algo em que possa se apoiar, apoie-se. Se encontrar um caminho congelado, desvie dele. Passo a passo, siga em frente com calma e firmeza.",
+              "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
             }
           }
         }
@@ -618,32 +618,6 @@
       "id": "txt_huening",
       "name": "HUENING",
       "quotes": [
-        {
-          "id": "q_046",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Sometimes, please be a little gentler with yourself too.",
-              "subtitle": "HUENINGKAI × UNICEF"
-            },
-            "zh-Hans": {
-              "title": "「有时候，也请对自己温柔一点。」",
-              "subtitle": "- 休宁凯 × UNICEF"
-            },
-            "zh-Hant": {
-              "title": "「有時候，也請對自己溫柔一點。」",
-              "subtitle": "- 休寧凱 × UNICEF"
-            },
-            "es": {
-              "title": "A veces, por favor, sé un poco más amable contigo mismo también.",
-              "subtitle": "HUENINGKAI × UNICEF"
-            },
-            "pt": {
-              "title": "Às vezes, por favor, seja um pouco mais gentil consigo mesmo também.",
-              "subtitle": "HUENINGKAI × UNICEF"
-            }
-          }
-        },
         {
           "id": "q_047",
           "emojiPath": "",
@@ -666,6 +640,32 @@
             },
             "pt": {
               "title": "O importante é encontrar o seu próprio jeito de realmente se sentir melhor.",
+              "subtitle": "HUENINGKAI × UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_046",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Sometimes, please be a little gentler with yourself too.",
+              "subtitle": "HUENINGKAI × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「有时候，也请对自己温柔一点。」",
+              "subtitle": "- 休宁凯 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「有時候，也請對自己溫柔一點。」",
+              "subtitle": "- 休寧凱 × UNICEF"
+            },
+            "es": {
+              "title": "A veces, por favor, sé un poco más amable contigo mismo también.",
+              "subtitle": "HUENINGKAI × UNICEF"
+            },
+            "pt": {
+              "title": "Às vezes, por favor, seja um pouco mais gentil consigo mesmo também.",
               "subtitle": "HUENINGKAI × UNICEF"
             }
           }
