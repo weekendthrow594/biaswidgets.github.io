@@ -1,0 +1,150 @@
+{
+  "id": "cortis",
+  "name": "CORTIS",
+  "members": [
+    {
+      "id": "cortis_today",
+      "name": "TODAY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "cortis_james",
+      "name": "JAMES",
+      "quotes": [
+        {
+          "id": "q_148",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Life threw a pile of shit at me. I'll eat it.",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「生活朝我扔了一坨屎，我会吃掉。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「生活朝我扔了一坨屎，我會吃掉。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "La vida me lanzó un montón de mierda. Me la voy a comer.",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "A vida jogou um monte de merda em mim. Eu vou comer.",
+              "subtitle": "JAMES"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "cortis_juhoon",
+      "name": "JUHOON",
+      "quotes": [
+        {
+          "id": "q_161",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You only live once, so you might as well make it extraordinary.",
+              "subtitle": "JUHOON"
+            },
+            "zh-Hans": {
+              "title": "「人生只有一次，那不如活得精彩一点。」",
+              "subtitle": "- 金主训"
+            },
+            "zh-Hant": {
+              "title": "「人生只有一次，那不如活得精彩一些。」",
+              "subtitle": "- 金主訓"
+            },
+            "es": {
+              "title": "Solo se vive una vez, así que vale la pena vivir una vida extraordinaria.",
+              "subtitle": "JUHOON"
+            },
+            "pt": {
+              "title": "A vida só acontece uma vez, então faça dela algo extraordinário.",
+              "subtitle": "JUHOON"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "cortis_martin",
+      "name": "MARTIN",
+      "quotes": [
+        {
+          "id": "q_168",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Happiness comes when both your body and your mind are whole.",
+              "subtitle": "MARTIN"
+            },
+            "zh-Hans": {
+              "title": "「当身体和心灵都完整的时候，幸福才会到来。」",
+              "subtitle": "- 马丁"
+            },
+            "zh-Hant": {
+              "title": "「當身體和心靈都完整的時候，幸福才會到來。」",
+              "subtitle": "- 馬丁"
+            },
+            "es": {
+              "title": "La felicidad llega cuando tanto el cuerpo como el corazón están completos.",
+              "subtitle": "MARTIN"
+            },
+            "pt": {
+              "title": "A felicidade chega quando o corpo e a mente estão em harmonia.",
+              "subtitle": "MARTIN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "cortis_seongyeon",
+      "name": "SEONGHYEON",
+      "quotes": [
+        {
+          "id": "q_155",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "We still have a lot to improve, but we'd be truly grateful if you could see those imperfections as part of our charm.",
+              "subtitle": "SEONGHYEON"
+            },
+            "zh-Hans": {
+              "title": "「我们还有很多不足的地方，如果你们能把那些也当作我们的魅力，我们会非常感谢。」",
+              "subtitle": "- 严成玹"
+            },
+            "zh-Hant": {
+              "title": "「我們還有很多不足的地方，如果你們能把那些也當作我們的魅力，我們將不勝感激。」",
+              "subtitle": "- 嚴成玹"
+            },
+            "es": {
+              "title": "Todavía nos queda mucho por mejorar, pero estaríamos muy agradecidos si pudieran ver esas imperfecciones como parte de nuestro encanto.",
+              "subtitle": "SEONGHYEON"
+            },
+            "pt": {
+              "title": "Ainda temos muito a melhorar, mas ficaríamos muito gratos se vocês pudessem enxergar essas imperfeições como parte do nosso charme.",
+              "subtitle": "SEONGHYEON"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "cortis_keonho",
+      "name": "KEONHO",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}
