@@ -7,59 +7,59 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_041",
+          "id": "q_049",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You are not alone. We will tune ourselves to the frequency of your heart and wait for you.",
+              "title": "Every day, there is definitely something beautiful hidden inside.",
               "subtitle": "YEONJUN × UNICEF"
             },
             "zh-Hans": {
-              "title": "「你不是一个人我们会配合你心灵的频率，并等待着你」",
+              "title": "「每一天里，一定都藏着某个美好的东西。」",
               "subtitle": "- 崔然竣 × UNICEF"
             },
             "zh-Hant": {
-              "title": "「你不是一個人\n我們會配合你心靈的頻率，並等待著你」",
+              "title": "「每一天裡，一定都藏著某個美好的東西。」",
               "subtitle": "- 崔然竣 × UNICEF"
             },
             "es": {
-              "title": "No estás solo. Nos ajustaremos a la frecuencia de tu corazón y te esperaremos.",
+              "title": "En cada día, seguro hay algo hermoso escondido.",
               "subtitle": "YEONJUN × UNICEF"
             },
             "pt": {
-              "title": "Você não está sozinho. Vamos nos ajustar à frequência do seu coração e esperar por você.",
+              "title": "Em cada dia, com certeza existe algo bonito escondido.",
               "subtitle": "YEONJUN × UNICEF"
             }
           }
         },
         {
-          "id": "q_048",
+          "id": "q_052",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You may feel like this difficult time will last forever, but the days won’t always be like this.",
+              "title": "It is enough to shine as yourself. You don’t need to compare yourself with anyone.",
               "subtitle": "SOOBIN × UNICEF"
             },
             "zh-Hans": {
-              "title": "「或许你会觉得现在这段辛苦的时光会持续到永远，但日子并不会总是那样的」",
+              "title": "「只要作为自己发光就好了，不需要和任何人比较。」",
               "subtitle": "- 崔秀彬 × UNICEF"
             },
             "zh-Hant": {
-              "title": "「或許你會覺得現在這段辛苦的時光會持續到永遠，但日子並不會總是那樣的」",
+              "title": "「只要作為自己發光就好了，不需要和任何人比較。」",
               "subtitle": "- 崔秀彬 × UNICEF"
             },
             "es": {
-              "title": "Quizás sientas que este momento difícil durará para siempre, pero los días no siempre serán así.",
+              "title": "Basta con brillar siendo tú mismo. No necesitas compararte con nadie.",
               "subtitle": "SOOBIN × UNICEF"
             },
             "pt": {
-              "title": "Talvez você sinta que este momento difícil vai durar para sempre, mas os dias nem sempre serão assim.",
+              "title": "Basta brilhar sendo você mesmo. Você não precisa se comparar com ninguém.",
               "subtitle": "SOOBIN × UNICEF"
             }
           }
         },
         {
-          "id": "q_051",
+          "id": "q_056",
           "emojiPath": "",
           "i18n": {
             "en": {
@@ -85,33 +85,33 @@
           }
         },
         {
-          "id": "q_054",
+          "id": "q_058",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Being willing to face sadness is a very brave thing. You are already doing so well right now.",
+              "title": "When you feel like you can’t hold on anymore, press pause first.",
               "subtitle": "TAEHYUN × UNICEF"
             },
             "zh-Hans": {
-              "title": "「愿意面对悲伤，是一件非常勇敢的事你现在已经做得很好了」",
+              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
               "subtitle": "- 姜太显 × UNICEF"
             },
             "zh-Hant": {
-              "title": "「願意面對悲傷，是一件非常勇敢的事\n你現在已經做得很好了」",
+              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
               "subtitle": "- 姜太顯 × UNICEF"
             },
             "es": {
-              "title": "Estar dispuesto a enfrentar la tristeza es algo muy valiente. Ahora mismo ya lo estás haciendo muy bien.",
+              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
               "subtitle": "TAEHYUN × UNICEF"
             },
             "pt": {
-              "title": "Estar disposto a encarar a tristeza é algo muito corajoso. Você já está indo muito bem agora.",
+              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
               "subtitle": "TAEHYUN × UNICEF"
             }
           }
         },
         {
-          "id": "q_057",
+          "id": "q_047",
           "emojiPath": "",
           "i18n": {
             "en": {
@@ -135,11 +135,6 @@
               "subtitle": "HUENINGKAI × UNICEF"
             }
           }
-        },
-        {
-          "id": "q_066",
-          "emojiPath": "",
-          "i18n": {}
         }
       ],
       "countdowns": []
@@ -148,58 +143,6 @@
       "id": "txt_yeonjun",
       "name": "YEONJUN",
       "quotes": [
-        {
-          "id": "q_016",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "No matter what, the path of my life will lead to you.",
-              "subtitle": "YEONJUN"
-            },
-            "zh-Hans": {
-              "title": "「无论如何，我的人生道路都会通向你」",
-              "subtitle": "- 崔然竣"
-            },
-            "zh-Hant": {
-              "title": "「無論如何，我的人生道路都會通向你」",
-              "subtitle": "- 崔然竣"
-            },
-            "es": {
-              "title": "Pase lo que pase, el camino de mi vida me llevará hasta ti.",
-              "subtitle": "YEONJUN"
-            },
-            "pt": {
-              "title": "Não importa o que aconteça, o caminho da minha vida vai me levar até você.",
-              "subtitle": "YEONJUN"
-            }
-          }
-        },
-        {
-          "id": "q_027",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "It’s not that you were lucky to meet good people. It’s because you are a good person yourself, so good people gather around you.",
-              "subtitle": "YEONJUN"
-            },
-            "zh-Hans": {
-              "title": "「不是因为你幸运才碰到好的人，而是因为你本身就是一个很好的人，所以周围才会都是好人。」",
-              "subtitle": "- 崔然竣"
-            },
-            "zh-Hant": {
-              "title": "「不是因為你幸運才碰到好的人，而是因為你本身就是一個很好的人，所以周圍才會都是好人。」",
-              "subtitle": "- 崔然竣"
-            },
-            "es": {
-              "title": "No es que tuvieras suerte de conocer a buenas personas. Es porque tú mismo eres una buena persona, por eso buenas personas se reúnen a tu alrededor.",
-              "subtitle": "YEONJUN"
-            },
-            "pt": {
-              "title": "Não é que você tenha tido sorte de encontrar boas pessoas. É porque você mesmo é uma boa pessoa, por isso boas pessoas se reúnem ao seu redor.",
-              "subtitle": "YEONJUN"
-            }
-          }
-        },
         {
           "id": "q_049",
           "emojiPath": "",
@@ -251,6 +194,84 @@
               "subtitle": "YEONJUN × UNICEF"
             }
           }
+        },
+        {
+          "id": "q_016",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No matter what, the path of my life will lead to you.",
+              "subtitle": "YEONJUN"
+            },
+            "zh-Hans": {
+              "title": "「无论如何，我的人生道路都会通向你」",
+              "subtitle": "- 崔然竣"
+            },
+            "zh-Hant": {
+              "title": "「無論如何，我的人生道路都會通向你」",
+              "subtitle": "- 崔然竣"
+            },
+            "es": {
+              "title": "Pase lo que pase, el camino de mi vida me llevará hasta ti.",
+              "subtitle": "YEONJUN"
+            },
+            "pt": {
+              "title": "Não importa o que aconteça, o caminho da minha vida vai me levar até você.",
+              "subtitle": "YEONJUN"
+            }
+          }
+        },
+        {
+          "id": "q_162",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You said we'd be together tomorrow. And when tomorrow comes, we'll still be together.",
+              "subtitle": "YEONJUN"
+            },
+            "zh-Hans": {
+              "title": "「你说，明天我们会在一起；到了明天，我们依然会在一起。」",
+              "subtitle": "- 崔然竣"
+            },
+            "zh-Hant": {
+              "title": "「你說明天我們在一起，明天我們還會在一起。」",
+              "subtitle": "- 崔然竣"
+            },
+            "es": {
+              "title": "Dijiste que mañana estaríamos juntos. Y cuando llegue ese mañana, seguiremos juntos.",
+              "subtitle": "YEONJUN"
+            },
+            "pt": {
+              "title": "Você disse que amanhã estaríamos juntos. E quando o amanhã chegar, ainda estaremos juntos.",
+              "subtitle": "YEONJUN"
+            }
+          }
+        },
+        {
+          "id": "q_027",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It’s not that you were lucky to meet good people. It’s because you are a good person yourself, so good people gather around you.",
+              "subtitle": "YEONJUN"
+            },
+            "zh-Hans": {
+              "title": "「不是因为你幸运才碰到好的人，而是因为你本身就是一个很好的人，所以周围才会都是好人。」",
+              "subtitle": "- 崔然竣"
+            },
+            "zh-Hant": {
+              "title": "「不是因為你幸運才碰到好的人，而是因為你本身就是一個很好的人，所以周圍才會都是好人。」",
+              "subtitle": "- 崔然竣"
+            },
+            "es": {
+              "title": "No es que tuvieras suerte de conocer a buenas personas. Es porque tú mismo eres una buena persona, por eso buenas personas se reúnen a tu alrededor.",
+              "subtitle": "YEONJUN"
+            },
+            "pt": {
+              "title": "Não é que você tenha tido sorte de encontrar boas pessoas. É porque você mesmo é uma boa pessoa, por isso boas pessoas se reúnem ao seu redor.",
+              "subtitle": "YEONJUN"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -260,6 +281,32 @@
       "name": "SOOBIN",
       "quotes": [
         {
+          "id": "q_052",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It is enough to shine as yourself. You don’t need to compare yourself with anyone.",
+              "subtitle": "SOOBIN × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「只要作为自己发光就好了，不需要和任何人比较。」",
+              "subtitle": "- 崔秀彬 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「只要作為自己發光就好了，不需要和任何人比較。」",
+              "subtitle": "- 崔秀彬 × UNICEF"
+            },
+            "es": {
+              "title": "Basta con brillar siendo tú mismo. No necesitas compararte con nadie.",
+              "subtitle": "SOOBIN × UNICEF"
+            },
+            "pt": {
+              "title": "Basta brilhar sendo você mesmo. Você não precisa se comparar com ninguém.",
+              "subtitle": "SOOBIN × UNICEF"
+            }
+          }
+        },
+        {
           "id": "q_032",
           "emojiPath": "",
           "i18n": {
@@ -268,11 +315,11 @@
               "subtitle": "SOOBIN"
             },
             "zh-Hans": {
-              "title": "「不是因为我,你才鼓起勇气的,而且MOA本来就是很勇敢的人」",
+              "title": "「不是因为我，你才鼓起勇气的，而是MOA本来就是很勇敢的人」",
               "subtitle": "- 崔秀彬"
             },
             "zh-Hant": {
-              "title": "「不是因為我,你才鼓起勇氣的,而且MOA本來就是很勇敢的人」",
+              "title": "「不是因為我，你才鼓起勇氣的，而是MOA本來就是很勇敢的人」",
               "subtitle": "- 崔秀彬"
             },
             "es": {
@@ -312,56 +359,9 @@
           }
         },
         {
-          "id": "q_052",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "It is enough to shine as yourself. You don’t need to compare yourself with anyone.",
-              "subtitle": "SOOBIN × UNICEF"
-            },
-            "zh-Hans": {
-              "title": "「只要作为自己发光就好了，不需要和任何人比较。」",
-              "subtitle": "- 崔秀彬 × UNICEF"
-            },
-            "zh-Hant": {
-              "title": "「只要作為自己發光就好了，不需要和任何人比較。」",
-              "subtitle": "- 崔秀彬 × UNICEF"
-            },
-            "es": {
-              "title": "Basta con brillar siendo tú mismo. No necesitas compararte con nadie.",
-              "subtitle": "SOOBIN × UNICEF"
-            },
-            "pt": {
-              "title": "Basta brilhar sendo você mesmo. Você não precisa se comparar com ninguém.",
-              "subtitle": "SOOBIN × UNICEF"
-            }
-          }
-        },
-        {
           "id": "q_065",
           "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Seeing the flowers fall to the ground, and seeing MOAs keep feeling around on the floor, made my heart ache. I’m sorry.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            },
-            "zh-Hans": {
-              "title": "「看到花掉在地上，MOA们在地上不停的摸来摸去的样子心理酸酸的，对不起」",
-              "subtitle": "- 崔秀彬 × WEVERSE CON"
-            },
-            "zh-Hant": {
-              "title": "「看到花掉在地上，MOA們在地上不停的摸來摸去的樣子\n心理酸酸的，對不起」",
-              "subtitle": "- 崔秀彬 × WEVERSE CON"
-            },
-            "es": {
-              "title": "Ver las flores caer al suelo y a MOAs seguir palpando el piso sin parar me dejó el corazón apretado. Lo siento.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            },
-            "pt": {
-              "title": "Ver as flores caindo no chão e os MOAs continuando a procurar pelo chão sem parar deixou meu coração apertado. Desculpa.",
-              "subtitle": "SOOBIN × WEVERSE CON"
-            }
-          }
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -370,6 +370,32 @@
       "id": "txt_bemogyu",
       "name": "BEOMGYU",
       "quotes": [
+        {
+          "id": "q_056",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t fall into pain trying to solve everything on your own.",
+              "subtitle": "BEOMGYU × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「不要为了独自解决所有事情而陷入痛苦」",
+              "subtitle": "- 崔杋圭 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「不要為了獨自解決所有事情而陷入痛苦」",
+              "subtitle": "- 崔杋圭 × UNICEF"
+            },
+            "es": {
+              "title": "No caigas en el dolor por intentar resolverlo todo tú solo.",
+              "subtitle": "BEOMGYU × UNICEF"
+            },
+            "pt": {
+              "title": "Não mergulhe na dor tentando resolver tudo sozinho.",
+              "subtitle": "BEOMGYU × UNICEF"
+            }
+          }
+        },
         {
           "id": "q_019",
           "emojiPath": "",
@@ -447,32 +473,6 @@
               "subtitle": "BEOMGYU × UNICEF"
             }
           }
-        },
-        {
-          "id": "q_056",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Don’t fall into pain trying to solve everything on your own.",
-              "subtitle": "BEOMGYU × UNICEF"
-            },
-            "zh-Hans": {
-              "title": "「不要为了独自解决所有事情而陷入痛苦」",
-              "subtitle": "- 崔杋圭 × UNICEF"
-            },
-            "zh-Hant": {
-              "title": "「不要為了獨自解決所有事情而陷入痛苦」",
-              "subtitle": "- 崔杋圭 × UNICEF"
-            },
-            "es": {
-              "title": "No caigas en el dolor por intentar resolverlo todo tú solo.",
-              "subtitle": "BEOMGYU × UNICEF"
-            },
-            "pt": {
-              "title": "Não mergulhe na dor tentando resolver tudo sozinho.",
-              "subtitle": "BEOMGYU × UNICEF"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -481,6 +481,32 @@
       "id": "txt_taehyun",
       "name": "TAEHYUN",
       "quotes": [
+        {
+          "id": "q_058",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When you feel like you can’t hold on anymore, press pause first.",
+              "subtitle": "TAEHYUN × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
+              "subtitle": "- 姜太显 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
+              "subtitle": "- 姜太顯 × UNICEF"
+            },
+            "es": {
+              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
+              "subtitle": "TAEHYUN × UNICEF"
+            },
+            "pt": {
+              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
+              "subtitle": "TAEHYUN × UNICEF"
+            }
+          }
+        },
         {
           "id": "q_043",
           "emojiPath": "",
@@ -534,54 +560,28 @@
           }
         },
         {
-          "id": "q_058",
+          "id": "q_147",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "When you feel like you can’t hold on anymore, press pause first.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "If MOA is my youth, then as long as you're with me, my life will always be youth.",
+              "subtitle": "TAEHYUN"
             },
             "zh-Hans": {
-              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
-              "subtitle": "- 姜太显 × UNICEF"
+              "title": "「如果说MOA是我的青春，那么无论何时，我的人生都是青春。」",
+              "subtitle": "- 姜太显"
             },
             "zh-Hant": {
-              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
-              "subtitle": "- 姜太顯 × UNICEF"
+              "title": "「如果說MOA是我的青春，那麼我的人生無論何時都是青春。」",
+              "subtitle": "- 姜太顯"
             },
             "es": {
-              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "Si MOA es mi juventud, entonces mi vida siempre será juventud.",
+              "subtitle": "TAEHYUN"
             },
             "pt": {
-              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
-              "subtitle": "TAEHYUN × UNICEF"
-            }
-          }
-        },
-        {
-          "id": "q_059",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Being willing to face sadness is a very brave thing. You are already doing so well right now.",
-              "subtitle": "TAEHYUN × UNICEF"
-            },
-            "zh-Hans": {
-              "title": "「愿意面对悲伤，是一件非常勇敢的事你现在已经做得很好了」",
-              "subtitle": "- 姜太显 × UNICEF"
-            },
-            "zh-Hant": {
-              "title": "「願意面對悲傷，是一件非常勇敢的事\n你現在已經做得很好了」",
-              "subtitle": "- 姜太顯 × UNICEF"
-            },
-            "es": {
-              "title": "Estar dispuesto a enfrentar la tristeza es algo muy valiente. Ahora mismo ya lo estás haciendo muy bien.",
-              "subtitle": "TAEHYUN × UNICEF"
-            },
-            "pt": {
-              "title": "Estar disposto a encarar a tristeza é algo muito corajoso. Você já está indo muito bem agora.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "Se MOA é a minha juventude, então a minha vida sempre será juventude.",
+              "subtitle": "TAEHYUN"
             }
           }
         },
@@ -608,6 +608,32 @@
             "pt": {
               "title": "Não caia só porque quer andar um pouco mais rápido. Se houver algo em que possa se apoiar, apoie-se. Se encontrar um caminho congelado, desvie dele. Passo a passo, siga em frente com calma e firmeza.",
               "subtitle": "TAEHYUN · 2025.12.07 WVS LIVE ❄️"
+            }
+          }
+        },
+        {
+          "id": "q_059",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Being willing to face sadness is a very brave thing. You are already doing so well right now.",
+              "subtitle": "TAEHYUN × UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「愿意面对悲伤，是一件非常勇敢的事你现在已经做得很好了」",
+              "subtitle": "- 姜太显 × UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「願意面對悲傷，是一件非常勇敢的事\n你現在已經做得很好了」",
+              "subtitle": "- 姜太顯 × UNICEF"
+            },
+            "es": {
+              "title": "Estar dispuesto a enfrentar la tristeza es algo muy valiente. Ahora mismo ya lo estás haciendo muy bien.",
+              "subtitle": "TAEHYUN × UNICEF"
+            },
+            "pt": {
+              "title": "Estar disposto a encarar a tristeza é algo muito corajoso. Você já está indo muito bem agora.",
+              "subtitle": "TAEHYUN × UNICEF"
             }
           }
         }
