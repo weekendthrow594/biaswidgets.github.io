@@ -61,6 +61,34 @@
     ]
   },
   {
+    "id": "skz",
+    "name": "STRAY KIDS",
+    "header": [
+      "SKZ_header_6",
+      "SKZ_header_4",
+      "SKZ_header_1",
+      "SKZ_header_2",
+      "SKZ_header_3",
+      "SKZ_header_5",
+      "SKZ_header_7",
+      "SKZ_header_8"
+    ]
+  },
+  {
+    "id": "ateez",
+    "name": "ATEEZ",
+    "header": [
+      "ATEEZ_header_5",
+      "ATEEZ_header_7",
+      "ATEEZ_header_1",
+      "ATEEZ_header_2",
+      "ATEEZ_header_3",
+      "ATEEZ_header_4",
+      "ATEEZ_header_6",
+      "ATEEZ_header_8"
+    ]
+  },
+  {
     "id": "bnd",
     "name": "BOYNEXTDOOR",
     "header": [
@@ -85,14 +113,14 @@
     ]
   },
   {
-    "id": "idle",
-    "name": "I-DLE",
+    "id": "lsrf",
+    "name": "LE SSERAFIM",
     "header": [
-      "I-DLE_header_3",
-      "I-DLE_header_1",
-      "I-DLE_header_2",
-      "I-DLE_header_4",
-      "I-DLE_header_5"
+      "LSRF_header_1",
+      "LSRF_header_2",
+      "LSRF_header_3",
+      "LSRF_header_4",
+      "LSRF_header_5"
     ]
   },
   {
@@ -120,29 +148,14 @@
     ]
   },
   {
-    "id": "nctwish",
-    "name": "NCTWISH",
+    "id": "idle",
+    "name": "I-DLE",
     "header": [
-      "NCTWISH_header_3",
-      "NCTWISH_header_2",
-      "NCTWISH_header_6",
-      "NCTWISH_header_1",
-      "NCTWISH_header_4",
-      "NCTWISH_header_5"
-    ]
-  },
-  {
-    "id": "skz",
-    "name": "STRAY KIDS",
-    "header": [
-      "SKZ_header_6",
-      "SKZ_header_4",
-      "SKZ_header_1",
-      "SKZ_header_2",
-      "SKZ_header_3",
-      "SKZ_header_5",
-      "SKZ_header_7",
-      "SKZ_header_8"
+      "I-DLE_header_3",
+      "I-DLE_header_1",
+      "I-DLE_header_2",
+      "I-DLE_header_4",
+      "I-DLE_header_5"
     ]
   },
   {
@@ -153,17 +166,6 @@
       "BP_header_4",
       "BP_header_3",
       "BP_header_1"
-    ]
-  },
-  {
-    "id": "lsrf",
-    "name": "LE SSERAFIM",
-    "header": [
-      "LSRF_header_1",
-      "LSRF_header_2",
-      "LSRF_header_3",
-      "LSRF_header_4",
-      "LSRF_header_5"
     ]
   },
   {
@@ -204,17 +206,15 @@
     ]
   },
   {
-    "id": "ateez",
-    "name": "ATEEZ",
+    "id": "nctwish",
+    "name": "NCTWISH",
     "header": [
-      "ATEEZ_header_5",
-      "ATEEZ_header_7",
-      "ATEEZ_header_1",
-      "ATEEZ_header_2",
-      "ATEEZ_header_3",
-      "ATEEZ_header_4",
-      "ATEEZ_header_6",
-      "ATEEZ_header_8"
+      "NCTWISH_header_3",
+      "NCTWISH_header_2",
+      "NCTWISH_header_6",
+      "NCTWISH_header_1",
+      "NCTWISH_header_4",
+      "NCTWISH_header_5"
     ]
   },
   {
