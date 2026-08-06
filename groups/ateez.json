@@ -10,13 +10,25 @@
           "id": "q_133",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "A flower that blooms later is no less beautiful.",
+              "subtitle": "SEONGHWA"
+            },
             "zh-Hans": {
-              "title": "「晚点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "title": "「晚一点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
               "subtitle": "- 朴星化"
             },
             "zh-Hant": {
               "title": "「晚一點綻放的花，不代表它不美麗。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
               "subtitle": "- 朴星化"
+            },
+            "es": {
+              "title": "Una flor que florece más tarde no es menos hermosa.",
+              "subtitle": "SEONGHWA"
+            },
+            "pt": {
+              "title": "Uma flor que floresce mais tarde não é menos bonita.",
+              "subtitle": "SEONGHWA"
             }
           }
         }
@@ -43,12 +55,38 @@
       "name": "HONGJOONG",
       "quotes": [
         {
+          "id": "q_163",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Go ahead, try, create, mess up, rise up—do it all, by you. I got you, always.",
+              "subtitle": "HONGJOONG"
+            },
+            "zh-Hans": {
+              "title": "「向前走、去尝试、去创造、去犯错，再重新站起来——这一切都由你亲自去完成。\n我会一直支持你。」",
+              "subtitle": "- 金弘中"
+            },
+            "zh-Hant": {
+              "title": "「向前走、去嘗試、去創造、去犯錯，再重新站起來——這一切都由你親自去完成。\n我會一直支持你。」",
+              "subtitle": "- 金弘中"
+            },
+            "es": {
+              "title": "Sigue adelante, atrévete, crea, equivócate y vuelve a levantarte. Hazlo todo por ti mismo. Yo siempre estaré contigo.",
+              "subtitle": "HONGJOONG"
+            },
+            "pt": {
+              "title": "Siga em frente, tente, crie, erre e levante-se de novo. Faça tudo do seu jeito. Eu sempre estarei com você.",
+              "subtitle": "HONGJOONG"
+            }
+          }
+        },
+        {
           "id": "q_125",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t follow trends. Express what truly resonates with you, in a way that is uniquely your own.",
-              "subtitle": "HONGJOONG, NOTION The Artists Vol. 2 interview"
+              "title": "Don’t follow trends. Express what truly resonates with you, in a way that is uniquely yours.",
+              "subtitle": "HONGJOONG"
             },
             "zh-Hans": {
               "title": "「不要追随潮流，而是去表达真正能与自己产生共鸣的事物，用只属于你的方式。」",
@@ -57,6 +95,14 @@
             "zh-Hant": {
               "title": "「不要追隨潮流，而是去表達真正能與自己產生共鳴的事物，用只屬於你的方式。」",
               "subtitle": "- 金弘中《NOTION The Artists Vol. 2》專訪"
+            },
+            "es": {
+              "title": "No sigas las tendencias. Expresa aquello que realmente conecta contigo, de una manera que sea únicamente tuya.",
+              "subtitle": "HONGJOONG"
+            },
+            "pt": {
+              "title": "Não siga tendências. Expresse aquilo que realmente ressoa com você, de um jeito que seja só seu.",
+              "subtitle": "HONGJOONG"
             }
           }
         }
@@ -68,16 +114,54 @@
       "name": "SEONGHWA",
       "quotes": [
         {
+          "id": "q_160",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I hope you never forget that you shine brighter than the stars.",
+              "subtitle": "SEONGHWA"
+            },
+            "zh-Hans": {
+              "title": "「希望大家千万不要忘记，你们比星星还要更加闪耀。」",
+              "subtitle": "- 朴星化"
+            },
+            "zh-Hant": {
+              "title": "「希望大家千萬不要忘記，你們比星星還要更加閃耀。」",
+              "subtitle": "- 朴星化"
+            },
+            "es": {
+              "title": "Espero que nunca olviden que ustedes brillan más que las estrellas.",
+              "subtitle": "SEONGHWA"
+            },
+            "pt": {
+              "title": "Espero que vocês nunca se esqueçam de que brilham mais do que as estrelas.",
+              "subtitle": "SEONGHWA"
+            }
+          }
+        },
+        {
           "id": "q_133",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "A flower that blooms later is no less beautiful.",
+              "subtitle": "SEONGHWA"
+            },
             "zh-Hans": {
-              "title": "「晚点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
+              "title": "「晚一点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
               "subtitle": "- 朴星化"
             },
             "zh-Hant": {
               "title": "「晚一點綻放的花，不代表它不美麗。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
               "subtitle": "- 朴星化"
+            },
+            "es": {
+              "title": "Una flor que florece más tarde no es menos hermosa.",
+              "subtitle": "SEONGHWA"
+            },
+            "pt": {
+              "title": "Uma flor que floresce mais tarde não é menos bonita.",
+              "subtitle": "SEONGHWA"
             }
           }
         },
@@ -86,16 +170,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even if starting something new feels scary, remembering that you’re not alone can bring you comfort. As long as we’re together, there’s nothing we can’t do.",
+              "title": "As long as we're together, there's nothing we can't do.",
               "subtitle": "SEONGHWA, Singles interview"
             },
             "zh-Hans": {
-              "title": "「就算开始新的事物时会感到害怕，只要想到自己不是一个人，就会安心许多。只要我们一起，就没有做不到的事。」",
+              "title": "只要我们在一起，就没有做不到的事。",
               "subtitle": "- 朴星化《Singles》专访"
             },
             "zh-Hant": {
-              "title": "「就算開始新的事物時會感到害怕，只要想到自己不是一個人，就會安心許多。只要我們一起，就沒有做不到的事。」",
+              "title": "「只要我們一起，就沒有做不到的事。」",
               "subtitle": "- 朴星化《Singles》專訪"
+            },
+            "es": {
+              "title": "Mientras estemos juntos, no habrá nada que no podamos lograr.",
+              "subtitle": "SEONGHWA, Singles interview"
+            },
+            "pt": {
+              "title": "Enquanto estivermos juntos, não haverá nada que não possamos conquistar.",
+              "subtitle": "SEONGHWA, Singles interview"
             }
           }
         }
@@ -121,6 +213,14 @@
             "zh-Hant": {
               "title": "「我們可以成為彼此的正面能量。」",
               "subtitle": "- 丁潤浩《Singles》專訪"
+            },
+            "es": {
+              "title": "Podemos ser la energía positiva del otro.",
+              "subtitle": "YUNHO, Singles interview"
+            },
+            "pt": {
+              "title": "Podemos ser a fonte de energia positiva um do outro.",
+              "subtitle": "YUNHO, Singles interview"
             }
           }
         }
@@ -132,11 +232,25 @@
       "name": "YEOSANG",
       "quotes": [
         {
+          "id": "q_145",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「谢谢我们来。」",
+              "subtitle": "- 姜吕尚"
+            },
+            "zh-Hant": {
+              "title": "「謝謝我們來。」",
+              "subtitle": "- 姜呂尚"
+            }
+          }
+        },
+        {
           "id": "q_128",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even if you’re already good at something, don’t become complacent. Keep working to become a better version of yourself. People like that are the most admirable.",
+              "title": "Even if you're already good at something, don't become complacent. Keep working hard to become a better version of yourself. Those are the people I admire the most.",
               "subtitle": "YEOSANG, Singles interview"
             },
             "zh-Hans": {
@@ -146,6 +260,14 @@
             "zh-Hant": {
               "title": "「即使已經很擅長一件事，也不要因此自滿，而是持續努力，讓自己變得更好。這樣的人最值得敬佩。」",
               "subtitle": "- 姜呂尚《Singles》專訪"
+            },
+            "es": {
+              "title": "Aunque ya seas bueno en algo, no te conformes. Sigue esforzándote para convertirte en una mejor versión de ti mismo. Esas son las personas que más admiro.",
+              "subtitle": "YEOSANG"
+            },
+            "pt": {
+              "title": "Mesmo que você já seja bom em alguma coisa, não se acomode. Continue se esforçando para se tornar uma versão melhor de si mesmo. São essas as pessoas que mais admiro.",
+              "subtitle": "YEOSANG"
             }
           }
         }
