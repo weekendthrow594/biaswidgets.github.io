@@ -77,7 +77,34 @@
     {
       "id": "enhypen_sunghoon",
       "name": "SUNGHOON",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_154",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No flower blooms without swaying in the wind.",
+              "subtitle": "SUNGHOON"
+            },
+            "zh-Hans": {
+              "title": "「哪有不摇曳就绽放的花朵。」",
+              "subtitle": "- 朴成训"
+            },
+            "zh-Hant": {
+              "title": "「哪有不搖曳就綻放的花朵。」",
+              "subtitle": "- 朴成訓"
+            },
+            "es": {
+              "title": "Ninguna flor florece sin antes mecerse con el viento.",
+              "subtitle": "SUNGHOON"
+            },
+            "pt": {
+              "title": "Nenhuma flor floresce sem antes balançar ao vento.",
+              "subtitle": "SUNGHOON"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -90,6 +117,20 @@
       "id": "enhypen_jungwon",
       "name": "JUNGWON",
       "quotes": [
+        {
+          "id": "q_152",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「神要怎么帮我？都是我自己做到的。」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「神要怎麼幫我？都是我自己做到的。」",
+              "subtitle": "- 梁禎元"
+            }
+          }
+        },
         {
           "id": "q_039",
           "emojiPath": "",
@@ -122,7 +163,34 @@
     {
       "id": "enhypen_niki",
       "name": "NI-KI",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_153",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Put on your jeans, and youth begins right now.",
+              "subtitle": "NI-KI"
+            },
+            "zh-Hans": {
+              "title": "「穿上牛仔裤，青春就在此刻。」",
+              "subtitle": "- 西村力"
+            },
+            "zh-Hant": {
+              "title": "「穿上牛仔褲，青春就在此刻。」",
+              "subtitle": "- 西村力"
+            },
+            "es": {
+              "title": "Ponte unos jeans. La juventud comienza justo ahora.",
+              "subtitle": "NI-KI"
+            },
+            "pt": {
+              "title": "Vista um jeans. A juventude começa agora.",
+              "subtitle": "NI-KI"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
