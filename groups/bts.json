@@ -7,60 +7,30 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_040",
+          "id": "q_146",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V"
+              "title": "You are the Earth. Why do you keep seeing yourself as an island?",
+              "subtitle": "SUGA"
             },
             "zh-Hans": {
-              "title": "「我爱你，比昨天多一点，却比明天少一点」",
-              "subtitle": "- 金泰亨 20260717 weverse"
+              "title": "「你明明是地球，为何总把自己当作一座孤岛？」",
+              "subtitle": "- 闵玧其"
             },
             "zh-Hant": {
-              "title": "「我愛你，比昨天多一點，卻比明天少一點。」",
-              "subtitle": "- 金泰亨 20260717 weverse"
+              "title": "「你明明是地球，為何總將自己視為孤島？」",
+              "subtitle": "- 閔玧其"
             },
             "es": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V"
+              "title": "Eres la Tierra. ¿Por qué sigues viéndote como una isla?",
+              "subtitle": "SUGA"
             },
             "pt": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V"
+              "title": "Você é a Terra. Então por que continua se vendo como uma ilha?",
+              "subtitle": "SUGA"
             }
           }
-        },
-        {
-          "id": "q_044",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_106",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_107",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_085",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_079",
-          "emojiPath": "",
-          "i18n": {}
-        },
-        {
-          "id": "q_108",
-          "emojiPath": "",
-          "i18n": {}
         }
       ],
       "countdowns": []
@@ -69,6 +39,58 @@
       "id": "bts_rm",
       "name": "RM",
       "quotes": [
+        {
+          "id": "q_001",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Becoming the person you want to be is harder than becoming the person others expect, but it is more worthwhile.",
+              "subtitle": "RM"
+            },
+            "zh-Hans": {
+              "title": "「成为自己想成为的人，比成为别人期待的人更难，但更值得」",
+              "subtitle": "- 金南俊"
+            },
+            "zh-Hant": {
+              "title": "「成為自己想成為的人，比成為別人期待的人更難，但更值得」",
+              "subtitle": "- 金南俊"
+            },
+            "es": {
+              "title": "Convertirte en la persona que quieres ser es más difícil que convertirte en la persona que los demás esperan, pero vale mucho más la pena.",
+              "subtitle": "RM"
+            },
+            "pt": {
+              "title": "Tornar-se quem você quer ser é mais difícil do que se tornar quem os outros esperam, mas vale muito mais a pena.",
+              "subtitle": "RM"
+            }
+          }
+        },
+        {
+          "id": "q_034",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No matter how imperfect you think you are, there will never be another you in this world.",
+              "subtitle": "RM"
+            },
+            "zh-Hans": {
+              "title": "「你再怎么不完美，都是这个世界的限量品」",
+              "subtitle": "- 金南俊"
+            },
+            "zh-Hant": {
+              "title": "「你再怎麼不完美，都是這個世界的限量品」",
+              "subtitle": "- 金南俊"
+            },
+            "es": {
+              "title": "Por muy imperfecto que creas ser, nunca habrá otro tú en este mundo.",
+              "subtitle": "RM"
+            },
+            "pt": {
+              "title": "Por mais imperfeito que você ache que é, nunca haverá outro você neste mundo.",
+              "subtitle": "RM"
+            }
+          }
+        },
         {
           "id": "q_010",
           "emojiPath": "",
@@ -100,49 +122,23 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even if we can only see each other through a small screen, I know your future will bloom into something greater and brighter.",
-              "subtitle": "RM · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「即使只能透过小小的荧幕看见彼此，我知道你的未来，会绽放成更巨大、更灿烂的模样。」",
-              "subtitle": "- 金南俊《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「即使只能透過小小的螢幕看見彼此，\n我知道你的未來，\n會綻放成更巨大、更燦爛的模樣。」",
-              "subtitle": "- 金南俊《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Aunque solo podamos vernos a través de una pequeña pantalla, sé que tu futuro florecerá en algo más grande y brillante.",
-              "subtitle": "RM · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Mesmo que só possamos nos ver por uma pequena tela, sei que o seu futuro vai florescer em algo maior e mais brilhante.",
-              "subtitle": "RM · Dear Class of 2020"
-            }
-          }
-        },
-        {
-          "id": "q_034",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "No matter how imperfect you think you are, there will never be another you in this world.",
+              "title": "I'm your fan, too. I'm quietly cheering for you through your loneliness and every struggle you face in life.",
               "subtitle": "RM"
             },
             "zh-Hans": {
-              "title": "「你再怎么不完美，都是这个世界的限量品」",
+              "title": "「我也是你的粉丝。\n为正在经历孤单的你，以及努力生活的你，默默加油。」",
               "subtitle": "- 金南俊"
             },
             "zh-Hant": {
-              "title": "「你再怎麼不完美，都是這個世界的限量品」",
+              "title": "「我也是你的粉絲。\n為正在經歷孤單的你，以及努力生活的你，默默地加油。」",
               "subtitle": "- 金南俊"
             },
             "es": {
-              "title": "Por muy imperfecto que creas ser, nunca habrá otro tú en este mundo.",
+              "title": "Yo también soy tu fan. Te acompaño en silencio, animándote mientras atraviesas la soledad y luchas cada día por salir adelante.",
               "subtitle": "RM"
             },
             "pt": {
-              "title": "Por mais imperfeito que você ache que é, nunca haverá outro você neste mundo.",
+              "title": "Eu também sou seu fã. Estou torcendo por você em silêncio, tanto nos momentos de solidão quanto em cada desafio da sua vida.",
               "subtitle": "RM"
             }
           }
@@ -152,44 +148,31 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Today I am who I am, with all of my faults and mistakes.",
+              "title": "May all your uncertainties pass by like adolescence.",
               "subtitle": "RM"
             },
+            "zh-Hans": {
+              "title": "「愿所有彷徨，都像青春期一样与你擦肩而过。」",
+              "subtitle": "- 金南俊"
+            },
+            "zh-Hant": {
+              "title": "「願所有徬徨，都像青春期一樣與你擦肩而過。」",
+              "subtitle": "- 金南俊"
+            },
             "es": {
-              "title": "Hoy soy quien soy, con todos mis defectos y errores.",
+              "title": "Que toda incertidumbre pase por tu vida como la adolescencia.",
               "subtitle": "RM"
             },
             "pt": {
-              "title": "Hoje sou quem sou, com todos os meus defeitos e erros.",
+              "title": "Que toda incerteza passe pela sua vida como a adolescência.",
               "subtitle": "RM"
             }
           }
         },
         {
-          "id": "q_001",
+          "id": "q_166",
           "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Becoming the person you want to be is harder than becoming the person others expect, but it is more worthwhile.",
-              "subtitle": "RM"
-            },
-            "zh-Hans": {
-              "title": "「成为自己想成为的人，比成为别人期待的人更难，但更值得」",
-              "subtitle": "- 金南俊"
-            },
-            "zh-Hant": {
-              "title": "「成為自己想成為的人，比成為別人期待的人更難，但更值得」",
-              "subtitle": "- 金南俊"
-            },
-            "es": {
-              "title": "Convertirte en la persona que quieres ser es más difícil que convertirte en la persona que los demás esperan, pero vale mucho más la pena.",
-              "subtitle": "RM"
-            },
-            "pt": {
-              "title": "Tornar-se quem você quer ser é mais difícil do que se tornar quem os outros esperam, mas vale muito mais a pena.",
-              "subtitle": "RM"
-            }
-          }
+          "i18n": {}
         }
       ],
       "countdowns": []
@@ -294,6 +277,58 @@
             "pt": {
               "title": "Deixe ir o que você não pode controlar e segure aquilo que pode mudar.\nA única coisa que você realmente pode controlar é você mesmo.",
               "subtitle": "SUGA · Dear Class of 2020"
+            }
+          }
+        },
+        {
+          "id": "q_146",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You are the Earth. Why do you keep seeing yourself as an island?",
+              "subtitle": "SUGA"
+            },
+            "zh-Hans": {
+              "title": "「你明明是地球，为何总把自己当作一座孤岛？」",
+              "subtitle": "- 闵玧其"
+            },
+            "zh-Hant": {
+              "title": "「你明明是地球，為何總將自己視為孤島？」",
+              "subtitle": "- 閔玧其"
+            },
+            "es": {
+              "title": "Eres la Tierra. ¿Por qué sigues viéndote como una isla?",
+              "subtitle": "SUGA"
+            },
+            "pt": {
+              "title": "Você é a Terra. Então por que continua se vendo como uma ilha?",
+              "subtitle": "SUGA"
+            }
+          }
+        },
+        {
+          "id": "q_167",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The ten zeros in my bank account were earned by putting my youth on the line.",
+              "subtitle": "SUGA"
+            },
+            "zh-Hans": {
+              "title": "「我存折里的十个零，是用青春作为抵押换来的。」",
+              "subtitle": "- 闵玧其"
+            },
+            "zh-Hant": {
+              "title": "「我存摺裡的十個零，是以青春作為抵押換來的。」",
+              "subtitle": "- 閔玧其"
+            },
+            "es": {
+              "title": "Los diez ceros de mi cuenta bancaria los conseguí apostando mi juventud.",
+              "subtitle": "SUGA"
+            },
+            "pt": {
+              "title": "Os dez zeros da minha conta bancária foram conquistados colocando minha juventude em jogo.",
+              "subtitle": "SUGA"
             }
           }
         }
@@ -501,6 +536,32 @@
       "name": "V",
       "quotes": [
         {
+          "id": "q_086",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
+              "subtitle": "V · Dear Class of 2020"
+            },
+            "zh-Hans": {
+              "title": "「现在或许有点困难，\n但在某个地方，\n幸运和机会正在等着你。」",
+              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+            },
+            "zh-Hant": {
+              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你。」",
+              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+            },
+            "es": {
+              "title": "Puede que ahora sea un poco difícil, pero en algún lugar, la suerte y las oportunidades te están esperando.",
+              "subtitle": "V · Dear Class of 2020"
+            },
+            "pt": {
+              "title": "Pode estar um pouco difícil agora, mas em algum lugar, a sorte e as oportunidades estão esperando por você.",
+              "subtitle": "V · Dear Class of 2020"
+            }
+          }
+        },
+        {
           "id": "q_118",
           "emojiPath": "",
           "i18n": {
@@ -527,53 +588,27 @@
           }
         },
         {
-          "id": "q_086",
+          "id": "q_165",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
-              "subtitle": "V · Dear Class of 2020"
-            },
-            "zh-Hans": {
-              "title": "「现在或许有点困难，但在某个地方，幸运和机会正在等着你。」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
-            },
-            "zh-Hant": {
-              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你。」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
-            },
-            "es": {
-              "title": "Puede que ahora sea un poco difícil, pero en algún lugar, la suerte y las oportunidades te están esperando.",
-              "subtitle": "V · Dear Class of 2020"
-            },
-            "pt": {
-              "title": "Pode estar um pouco difícil agora, mas em algum lugar, a sorte e as oportunidades estão esperando por você.",
-              "subtitle": "V · Dear Class of 2020"
-            }
-          }
-        },
-        {
-          "id": "q_012",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "You don’t have to try so hard every day. Enjoying the moment is also a kind of effort.",
+              "title": "If complicated relationships are wearing you out, it's okay to step away for a while. ARMYs are wonderful. If someone can't get along with you, that's their problem, not yours.",
               "subtitle": "V"
             },
             "zh-Hans": {
-              "title": "「不要把每天都过得太用力，享受当下也是一种努力」",
+              "title": "如果复杂的人际关系让你感到疲惫，那就先放一放吧。\n我们ARMY这么好，相处不来是她们的问题。",
               "subtitle": "- 金泰亨"
             },
             "zh-Hant": {
-              "title": "「不要把每天都過得太用力，享受當下也是一種努力」",
+              "title": "「如果複雜的人際關係讓你感到疲憊，那就先放一放吧。\n我們ARMY這麼好，相處不來是她們的問題。」",
               "subtitle": "- 金泰亨"
             },
             "es": {
-              "title": "No tienes que esforzarte tanto todos los días. Disfrutar el momento también es una forma de esfuerzo.",
+              "title": "Si las relaciones complicadas te están agotando, está bien alejarte por un tiempo. Los ARMY son personas maravillosas. Si alguien no puede llevarse bien contigo, ese es su problema, no el tuyo.",
               "subtitle": "V"
             },
             "pt": {
-              "title": "Você não precisa se esforçar tanto todos os dias. Aproveitar o momento também é uma forma de esforço.",
+              "title": "Se os relacionamentos complicados estão deixando você cansado, tudo bem dar um tempo. Os ARMYs são pessoas incríveis. Se alguém não consegue se dar bem com você, esse é um problema dessa pessoa, não seu.",
               "subtitle": "V"
             }
           }
@@ -629,32 +664,6 @@
               "subtitle": "V"
             }
           }
-        },
-        {
-          "id": "q_013",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "I am just myself. I don’t need to become anyone else.",
-              "subtitle": "V"
-            },
-            "zh-Hans": {
-              "title": "「我就是我自己，不需要变成任何人」",
-              "subtitle": "- 金泰亨"
-            },
-            "zh-Hant": {
-              "title": "「我就是我自己，不需要變成任何人」",
-              "subtitle": "- 金泰亨"
-            },
-            "es": {
-              "title": "Yo soy simplemente yo. No necesito convertirme en nadie más.",
-              "subtitle": "V"
-            },
-            "pt": {
-              "title": "Eu sou apenas eu mesmo. Não preciso me tornar outra pessoa.",
-              "subtitle": "V"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -663,6 +672,32 @@
       "id": "bts_jungkook",
       "name": "JUNGKOOK",
       "quotes": [
+        {
+          "id": "q_080",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You don’t have to care too much about what others think.\nWhat matters is knowing what you truly want, and what feels most like you.",
+              "subtitle": "JUNG KOOK"
+            },
+            "zh-Hans": {
+              "title": "「不需要太在意周围的眼光。\n重要的是，\n去想清楚自己真正想要的是什么，\n以及什么才是属于自己的样子。」",
+              "subtitle": "- 田柾国"
+            },
+            "zh-Hant": {
+              "title": "「不需要太在意周圍的眼光。\n重要的是，\n去想清楚自己真正想要的是什麼，\n以及什麼才是屬於自己的樣子。」",
+              "subtitle": "- 田柾國"
+            },
+            "es": {
+              "title": "No tienes que preocuparte tanto por lo que piensen los demás.\nLo importante es saber qué es lo que realmente quieres y qué se siente más como tú.",
+              "subtitle": "JUNG KOOK"
+            },
+            "pt": {
+              "title": "Você não precisa se importar tanto com o que os outros pensam.\nO importante é saber o que você realmente quer e o que mais parece ser você.",
+              "subtitle": "JUNG KOOK"
+            }
+          }
+        },
         {
           "id": "q_109",
           "emojiPath": "",
@@ -690,27 +725,27 @@
           }
         },
         {
-          "id": "q_080",
+          "id": "q_164",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You don’t have to care too much about what others think.\nWhat matters is knowing what you truly want, and what feels most like you.",
+              "title": "Do you really need a reason to say you like something?",
               "subtitle": "JUNG KOOK"
             },
             "zh-Hans": {
-              "title": "「不需要太在意周围的眼光。重要的是，去想清楚自己真正想要的是什么，以及什么才是属于自己的样子。」",
+              "title": "「只是说自己喜欢的东西，还需要理由吗？」",
               "subtitle": "- 田柾国"
             },
             "zh-Hant": {
-              "title": "「不需要太在意周圍的眼光。\n重要的是，\n去想清楚自己真正想要的是什麼，\n以及什麼才是屬於自己的樣子。」",
+              "title": "「只是說自己喜歡的東西，還需要理由嗎？」",
               "subtitle": "- 田柾國"
             },
             "es": {
-              "title": "No tienes que preocuparte tanto por lo que piensen los demás.\nLo importante es saber qué es lo que realmente quieres y qué se siente más como tú.",
+              "title": "¿De verdad necesitas una razón para decir que algo te gusta?",
               "subtitle": "JUNG KOOK"
             },
             "pt": {
-              "title": "Você não precisa se importar tanto com o que os outros pensam.\nO importante é saber o que você realmente quer e o que mais parece ser você.",
+              "title": "Você realmente precisa de um motivo para dizer que gosta de alguma coisa?",
               "subtitle": "JUNG KOOK"
             }
           }
