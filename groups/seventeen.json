@@ -286,6 +286,32 @@
               "subtitle": "Jeonghan"
             }
           }
+        },
+        {
+          "id": "q_157",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The person you love is always worth waiting for, no matter how long it takes.",
+              "subtitle": "Jeonghan"
+            },
+            "zh-Hans": {
+              "title": "「本来就是要无止境地等待喜欢的人。」",
+              "subtitle": "- 尹净汉"
+            },
+            "zh-Hant": {
+              "title": "「本來就是要無止境地等待喜歡的人。」",
+              "subtitle": "- 尹淨漢"
+            },
+            "es": {
+              "title": "La persona que amas siempre merece que la esperes, sin importar cuánto tiempo tome.",
+              "subtitle": "Jeonghan"
+            },
+            "pt": {
+              "title": "Quem você ama sempre vale a pena esperar, não importa quanto tempo leve.",
+              "subtitle": "Jeonghan"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -637,7 +663,34 @@
     {
       "id": "seventeen_the8",
       "name": "THE8",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_159",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Why doubt yourself? There’s only one you in this world.",
+              "subtitle": "The8"
+            },
+            "zh-Hans": {
+              "title": "「干嘛不自信？这世上只有一个你。」",
+              "subtitle": "- The8"
+            },
+            "zh-Hant": {
+              "title": "「幹嘛不自信？這世上只有一個你。」",
+              "subtitle": "- The8"
+            },
+            "es": {
+              "title": "¿Por qué dudar de ti? Solo hay una persona como tú en este mundo.",
+              "subtitle": "The8"
+            },
+            "pt": {
+              "title": "Por que duvidar de si mesmo? Só existe uma pessoa como você neste mundo.",
+              "subtitle": "The8"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -785,6 +838,32 @@
       "name": "VERNON",
       "quotes": [
         {
+          "id": "q_151",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The theme of your life is to always put yourself first.",
+              "subtitle": "VERNON"
+            },
+            "zh-Hans": {
+              "title": "「人生的主题，就是无论何时都以自己为主。」",
+              "subtitle": "- 崔瀚率"
+            },
+            "zh-Hant": {
+              "title": "「人生的主題就是無論何時以自己為主」",
+              "subtitle": "- 崔瀚率"
+            },
+            "es": {
+              "title": "El tema de tu vida es ponerte a ti mismo en primer lugar, siempre.",
+              "subtitle": "VERNON"
+            },
+            "pt": {
+              "title": "O tema da sua vida é colocar você em primeiro lugar, sempre.",
+              "subtitle": "VERNON"
+            }
+          }
+        },
+        {
           "id": "q_025",
           "emojiPath": "",
           "i18n": {
@@ -794,11 +873,11 @@
             },
             "zh-Hans": {
               "title": "「梦想要足够大，这样即便破碎，碎片也是大的」",
-              "subtitle": "- VERNON"
+              "subtitle": "- 崔瀚率"
             },
             "zh-Hant": {
               "title": "「夢想要足夠大，這樣即便破碎，碎片也是大的」",
-              "subtitle": "- VERNON"
+              "subtitle": "- 崔瀚率"
             },
             "es": {
               "title": "Los sueños deben ser tan grandes que, aunque se rompan, sus pedazos sigan siendo grandes.",
@@ -806,6 +885,32 @@
             },
             "pt": {
               "title": "Os sonhos devem ser grandes o suficiente para que, mesmo se quebrarem, os pedaços ainda sejam grandes.",
+              "subtitle": "VERNON"
+            }
+          }
+        },
+        {
+          "id": "q_150",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't put yourself down. It would only dishonor the love people have for you.",
+              "subtitle": "VERNON"
+            },
+            "zh-Hans": {
+              "title": "「不要轻视自己，那会辜负大家对你的爱。」",
+              "subtitle": "- 崔瀚率"
+            },
+            "zh-Hant": {
+              "title": "「不要輕視自己，那會辜負大家對你的愛。」",
+              "subtitle": "- 崔瀚率"
+            },
+            "es": {
+              "title": "No te menosprecies. Eso solo menospreciaría el amor que los demás sienten por ti.",
+              "subtitle": "VERNON"
+            },
+            "pt": {
+              "title": "Não diminua a si mesmo. Isso só desmereceria o amor que as pessoas têm por você.",
               "subtitle": "VERNON"
             }
           }
