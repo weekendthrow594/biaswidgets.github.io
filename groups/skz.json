@@ -307,6 +307,32 @@
           }
         },
         {
+          "id": "q_144",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "「180°C. Put it in the air fryer for 20 minutes.」",
+              "subtitle": "Lee Know"
+            },
+            "zh-Hans": {
+              "title": "「180度，放进空气炸锅里炸20分钟。」",
+              "subtitle": "- 李旻浩"
+            },
+            "zh-Hant": {
+              "title": "「180度，放進氣炸鍋裡炸20分鐘。」",
+              "subtitle": "- 李旻浩"
+            },
+            "es": {
+              "title": "「A 180 °C, mételo en la freidora de aire durante 20 minutos.」",
+              "subtitle": "Lee Know"
+            },
+            "pt": {
+              "title": "「A 180 °C, coloque na air fryer por 20 minutos.」",
+              "subtitle": "Lee Know"
+            }
+          }
+        },
+        {
           "id": "q_135",
           "emojiPath": "",
           "i18n": {
@@ -329,6 +355,20 @@
             "pt": {
               "title": "Mesmo que a vida vire pó, não desista. Misture tudo e talvez você faça deliciosos biscoitos.",
               "subtitle": "Lee Know"
+            }
+          }
+        },
+        {
+          "id": "q_149",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「做得很好，很漂亮，要幸福。」",
+              "subtitle": "- 李旻浩"
+            },
+            "zh-Hant": {
+              "title": "「做得好，很漂亮，要幸福。」",
+              "subtitle": "- 李旻浩"
             }
           }
         }
@@ -361,6 +401,32 @@
             },
             "pt": {
               "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
+              "subtitle": "Changbin"
+            }
+          }
+        },
+        {
+          "id": "q_169",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t let other people’s words control you. Live your life with a mind of your own.",
+              "subtitle": "Changbin"
+            },
+            "zh-Hans": {
+              "title": "「不被他人的言语左右，有主见地过好自己的人生。」",
+              "subtitle": "- 徐彰彬"
+            },
+            "zh-Hant": {
+              "title": "「不被他人的言語左右，有主見地過好自己的人生。」",
+              "subtitle": "- 徐彰彬"
+            },
+            "es": {
+              "title": "No dejes que las palabras de los demás te controlen. Vive tu vida con criterio propio.",
+              "subtitle": "Changbin"
+            },
+            "pt": {
+              "title": "Não deixe que as palavras dos outros controlem você. Viva a sua vida com suas próprias convicções.",
               "subtitle": "Changbin"
             }
           }
@@ -427,6 +493,58 @@
             },
             "pt": {
               "title": "Não chore. Encontre felicidade nas pequenas coisas do dia a dia.",
+              "subtitle": "HAN"
+            }
+          }
+        },
+        {
+          "id": "q_156",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Every day is a chance to change, as long as you don't give up.",
+              "subtitle": "HAN"
+            },
+            "zh-Hans": {
+              "title": "「每一天都有改变的可能，只要你不放弃。」",
+              "subtitle": "- 韩知城"
+            },
+            "zh-Hant": {
+              "title": "「每一天都有改變的可能，只要你不放棄。」",
+              "subtitle": "- 韓知城"
+            },
+            "es": {
+              "title": "Cada día es una oportunidad para cambiar, siempre que no te rindas.",
+              "subtitle": "HAN"
+            },
+            "pt": {
+              "title": "Todo dia é uma oportunidade para mudar, desde que você não desista.",
+              "subtitle": "HAN"
+            }
+          }
+        },
+        {
+          "id": "q_158",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Thank you for being more than just someone who passed by. Thank you for staying and becoming someone truly precious to me.",
+              "subtitle": "HAN"
+            },
+            "zh-Hans": {
+              "title": "「谢谢你没有只是与我擦肩而过，而是选择停留，成为我珍贵的人。」",
+              "subtitle": "- 韩知城"
+            },
+            "zh-Hant": {
+              "title": "「謝謝你不只是與我擦肩而過，而是選擇停留，成為我珍貴的人。」",
+              "subtitle": "- 韓知城"
+            },
+            "es": {
+              "title": "Gracias por no ser solo alguien que pasó por mi vida. Gracias por quedarte y convertirte en alguien muy valioso para mí.",
+              "subtitle": "HAN"
+            },
+            "pt": {
+              "title": "Obrigado por não ter sido apenas alguém que passou pela minha vida. Obrigado por ficar e se tornar alguém muito precioso para mim.",
               "subtitle": "HAN"
             }
           }
