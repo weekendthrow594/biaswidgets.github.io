@@ -11,7 +11,22 @@
     {
       "id": "idle_miyeon",
       "name": "MIYEON",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_179",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「真正的公主没有公主病。」",
+              "subtitle": "- 曺薇娟"
+            },
+            "zh-Hant": {
+              "title": "「真正的公主沒有公主病。」",
+              "subtitle": "- 曺薇娟"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -29,13 +44,141 @@
     {
       "id": "idle_yuqi",
       "name": "YUQI",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_178",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「就算你全部都填 C，也可以拿个 20 分吧。」",
+              "subtitle": "- 宋雨琦"
+            },
+            "zh-Hant": {
+              "title": "「就算你全部都填 C，也可以拿個 20 分吧。」",
+              "subtitle": "- 宋雨琦"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "idle_shuhua",
       "name": "SHUHUA",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_171",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「人生的球在你自己手上。要跪着走完，还是站着走完，由你决定。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「人生的球在你自己手上。要跪著走完，還是站著走完，由你決定。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_174",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「以后不是人话就别听了，知道吗？」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「以後不是人話就別聽了，知道嗎？」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_173",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「人生是自己的，活在别人的嘴里，是一种愚蠢。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「人生是自己的，活在別人的嘴裡，是一種愚蠢。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_177",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「就算在你们眼里它有瑕疵，那也是我想要的美。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「就算在你們眼裡它有瑕疵，那也是我想要的美。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_172",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我只想活得坦诚，真心待人，勇敢为不公发声。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「我只想活得坦誠，真心待人，勇敢為不公發聲。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_170",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不要把偶像当成人生的全部，最好的关系是彼此理解与尊重。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「不要把偶像當成人生的全部，最好的關係是彼此理解與尊重。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_175",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「做自己很好，但要做得有原则、有品格，也有属于自己的模样。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「做自己很好，但要做得有原則、有品格，也有屬於自己的模樣。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        },
+        {
+          "id": "q_176",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「有礼貌地做自己，自然会有人喜欢你。」",
+              "subtitle": "- 叶舒华"
+            },
+            "zh-Hant": {
+              "title": "「有禮貌地做自己，自然會有人喜歡你。」",
+              "subtitle": "- 葉舒華"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
