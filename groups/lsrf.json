@@ -3,9 +3,68 @@
   "name": "LE SSERAFIM",
   "members": [
     {
+      "id": "lsrf_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_186",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
+              "subtitle": "CHAEWON"
+            },
+            "zh-Hans": {
+              "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
+              "subtitle": "- 金采源"
+            },
+            "zh-Hant": {
+              "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
+              "subtitle": "- 金采源"
+            },
+            "es": {
+              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
+              "subtitle": "CHAEWON"
+            },
+            "pt": {
+              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
+              "subtitle": "CHAEWON"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
       "id": "lsrf_chaewon",
       "name": "CHAEWON",
       "quotes": [
+        {
+          "id": "q_186",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
+              "subtitle": "CHAEWON"
+            },
+            "zh-Hans": {
+              "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
+              "subtitle": "- 金采源"
+            },
+            "zh-Hant": {
+              "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
+              "subtitle": "- 金采源"
+            },
+            "es": {
+              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
+              "subtitle": "CHAEWON"
+            },
+            "pt": {
+              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
+              "subtitle": "CHAEWON"
+            }
+          }
+        },
         {
           "id": "q_112",
           "emojiPath": "",
