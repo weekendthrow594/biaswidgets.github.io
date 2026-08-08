@@ -37,6 +37,58 @@
               "subtitle": "JAMES"
             }
           }
+        },
+        {
+          "id": "q_182",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It’s only delusional until it works.",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「在它真正实现之前，都会被认为是天方夜谭。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「在它真正實現之前，都會被認為是天方夜譚。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "Solo parece una locura hasta que funciona.",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Só parece uma ilusão até dar certo.",
+              "subtitle": "JAMES"
+            }
+          }
+        },
+        {
+          "id": "q_184",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Always keep in mind that on this journey, you have a friend supporting you. I'll be there through thick and thin.",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「永远记住，在这段旅程中，有一位朋友支持着你。\n无论顺境或逆境，我都会一直陪在你身边。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「永遠記住，在這段旅程中，有一位朋友支持著你。\n無論順境或逆境，我都會一直陪在你身邊。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "Recuerda siempre que en este camino tienes a un amigo que te apoya. Estaré contigo en las buenas y en las malas.",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Lembre-se sempre de que, nesta jornada, você tem um amigo que te apoia. Estarei ao seu lado nos bons e maus momentos.",
+              "subtitle": "JAMES"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -79,6 +131,58 @@
       "name": "MARTIN",
       "quotes": [
         {
+          "id": "q_185",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "People should look up at the sky more often. Don’t become someone who spends their whole life only looking at the ground. Look at this world—it is a world of freedom.",
+              "subtitle": "MARTIN"
+            },
+            "zh-Hans": {
+              "title": "「人们应该多抬头看看天空，不要变成一辈子只看着地面生活的人。\n看看这个世界吧，这是一个自由的世界。」",
+              "subtitle": "- 马丁"
+            },
+            "zh-Hant": {
+              "title": "「人們應該多抬頭看看天空，不要變成一輩子只看著地面生活的人。\n看看這個世界吧，這是一個自由的世界。」",
+              "subtitle": "- 馬丁"
+            },
+            "es": {
+              "title": "Las personas deberían mirar más al cielo. No te conviertas en alguien que pasa toda su vida mirando solo al suelo. Mira este mundo, es un mundo de libertad.",
+              "subtitle": "MARTIN"
+            },
+            "pt": {
+              "title": "As pessoas deveriam olhar mais para o céu. Não se torne alguém que passa a vida inteira olhando apenas para o chão. Olhe para este mundo, ele é um mundo de liberdade.",
+              "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_181",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No matter what situation you are in, happiness and misfortune always coexist.",
+              "subtitle": "MARTIN"
+            },
+            "zh-Hans": {
+              "title": "「不论你处在什么样的状况下，幸运与不幸都是共存的。」",
+              "subtitle": "- 马丁"
+            },
+            "zh-Hant": {
+              "title": "「不論你處在什麼樣的狀況下，幸與不幸都是共存的。」",
+              "subtitle": "- 馬丁"
+            },
+            "es": {
+              "title": "No importa en qué situación te encuentres, la suerte y la desgracia siempre coexisten.",
+              "subtitle": "MARTIN"
+            },
+            "pt": {
+              "title": "Não importa em que situação você esteja, a sorte e o infortúnio sempre coexistem.",
+              "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
           "id": "q_168",
           "emojiPath": "",
           "i18n": {
@@ -100,6 +204,32 @@
             },
             "pt": {
               "title": "A felicidade chega quando o corpo e a mente estão em harmonia.",
+              "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_183",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Paris is the city of love. You have to do what you love.",
+              "subtitle": "MARTIN"
+            },
+            "zh-Hans": {
+              "title": "「巴黎是爱之都，你必须做你喜欢的事情。」",
+              "subtitle": "- 马丁"
+            },
+            "zh-Hant": {
+              "title": "「巴黎是愛之都，你必須做你喜歡的事情。」",
+              "subtitle": "- 馬丁"
+            },
+            "es": {
+              "title": "París es la ciudad del amor. Tienes que hacer lo que amas.",
+              "subtitle": "MARTIN"
+            },
+            "pt": {
+              "title": "Paris é a cidade do amor. Você precisa fazer o que ama.",
               "subtitle": "MARTIN"
             }
           }
@@ -143,7 +273,34 @@
     {
       "id": "cortis_keonho",
       "name": "KEONHO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_180",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Messing up one day out of 365 doesn't mean the rest of your life will fail.",
+              "subtitle": "Keonho"
+            },
+            "zh-Hans": {
+              "title": "「365天中的1天搞砸了，不代表之后的人生会失败。」",
+              "subtitle": "- 安乾镐"
+            },
+            "zh-Hant": {
+              "title": "「365天中的1天搞砸了，不代表之後的人生會失敗。」",
+              "subtitle": "- 安乾鎬"
+            },
+            "es": {
+              "title": "Arruinar un día de los 365 no significa que el resto de tu vida vaya a fracasar.",
+              "subtitle": "Keonho"
+            },
+            "pt": {
+              "title": "Estragar um dia dos 365 não significa que o resto da sua vida será um fracasso.",
+              "subtitle": "Keonho"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
