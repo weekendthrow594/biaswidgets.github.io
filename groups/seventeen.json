@@ -89,20 +89,6 @@
           }
         },
         {
-          "id": "c_003",
-          "emojiPath": "",
-          "beginDateStr": "2025/09/15",
-          "endDateStr": "2027/03/14",
-          "i18n": {
-            "zh-Hans": {
-              "title": "李知勋退伍"
-            },
-            "zh-Hant": {
-              "title": "李知勳退伍"
-            }
-          }
-        },
-        {
           "id": "c_002",
           "emojiPath": "",
           "beginDateStr": "2025/09/16",
@@ -117,16 +103,30 @@
           }
         },
         {
-          "id": "c_005",
+          "id": "c_003",
           "emojiPath": "",
-          "beginDateStr": "2026/08/20",
-          "endDateStr": "2028/05/19",
+          "beginDateStr": "2025/09/15",
+          "endDateStr": "2027/03/14",
           "i18n": {
             "zh-Hans": {
-              "title": "崔瀚率退伍"
+              "title": "李知勋退伍"
             },
             "zh-Hant": {
-              "title": "崔瀚率退伍"
+              "title": "李知勳退伍"
+            }
+          }
+        },
+        {
+          "id": "c_007",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/10",
+          "endDateStr": "2028/06/09",
+          "i18n": {
+            "zh-Hans": {
+              "title": "金珉奎入伍"
+            },
+            "zh-Hant": {
+              "title": "金珉奎人伍"
             }
           }
         },
@@ -137,10 +137,52 @@
           "endDateStr": "2028/03/07",
           "i18n": {
             "zh-Hans": {
-              "title": "李硕珉退伍"
+              "title": "李硕珉入伍"
             },
             "zh-Hant": {
-              "title": "李碩珉退伍"
+              "title": "李碩珉入伍"
+            }
+          }
+        },
+        {
+          "id": "c_008",
+          "emojiPath": "",
+          "beginDateStr": "2026/10/26",
+          "endDateStr": "2028/04/25",
+          "i18n": {
+            "zh-Hans": {
+              "title": "夫胜宽入伍"
+            },
+            "zh-Hant": {
+              "title": "夫勝寬入伍"
+            }
+          }
+        },
+        {
+          "id": "c_005",
+          "emojiPath": "",
+          "beginDateStr": "2026/08/20",
+          "endDateStr": "2028/05/19",
+          "i18n": {
+            "zh-Hans": {
+              "title": "崔瀚率入伍"
+            },
+            "zh-Hant": {
+              "title": "崔瀚率入伍"
+            }
+          }
+        },
+        {
+          "id": "c_009",
+          "emojiPath": "",
+          "beginDateStr": "2026/10/26",
+          "endDateStr": "2028/04/25",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李灿退伍"
+            },
+            "zh-Hant": {
+              "title": "李燦入伍"
             }
           }
         }
@@ -750,7 +792,22 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_007",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/10",
+          "endDateStr": "2028/06/09",
+          "i18n": {
+            "zh-Hans": {
+              "title": "金珉奎入伍"
+            },
+            "zh-Hant": {
+              "title": "金珉奎人伍"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "seventeen_dk",
@@ -791,10 +848,10 @@
           "endDateStr": "2028/03/07",
           "i18n": {
             "zh-Hans": {
-              "title": "李硕珉退伍"
+              "title": "李硕珉入伍"
             },
             "zh-Hant": {
-              "title": "李碩珉退伍"
+              "title": "李碩珉入伍"
             }
           }
         }
@@ -831,7 +888,22 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_008",
+          "emojiPath": "",
+          "beginDateStr": "2026/10/26",
+          "endDateStr": "2028/04/25",
+          "i18n": {
+            "zh-Hans": {
+              "title": "夫胜宽入伍"
+            },
+            "zh-Hant": {
+              "title": "夫勝寬入伍"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "seventeen_vernon",
@@ -924,10 +996,10 @@
           "endDateStr": "2028/05/19",
           "i18n": {
             "zh-Hans": {
-              "title": "崔瀚率退伍"
+              "title": "崔瀚率入伍"
             },
             "zh-Hant": {
-              "title": "崔瀚率退伍"
+              "title": "崔瀚率入伍"
             }
           }
         }
@@ -937,7 +1009,22 @@
       "id": "seventeen_dino",
       "name": "DINO",
       "quotes": [],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_009",
+          "emojiPath": "",
+          "beginDateStr": "2026/10/26",
+          "endDateStr": "2028/04/25",
+          "i18n": {
+            "zh-Hans": {
+              "title": "李灿退伍"
+            },
+            "zh-Hant": {
+              "title": "李燦入伍"
+            }
+          }
+        }
+      ]
     }
   ]
 }
