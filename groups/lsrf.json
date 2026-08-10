@@ -31,6 +31,32 @@
               "subtitle": "CHAEWON"
             }
           }
+        },
+        {
+          "id": "q_187",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Find happiness no matter what situation you are in. The goddess of fortune only favors those who are prepared.",
+              "subtitle": "KAZUHA"
+            },
+            "zh-Hans": {
+              "title": "「无论在什么情况下，都要发现快乐。\n幸运女神只眷顾那些有准备的人。」",
+              "subtitle": "- 中村一叶"
+            },
+            "zh-Hant": {
+              "title": "「無論在什麼情況下，都要發現快樂。\n幸運女神只眷顧那些有準備的人。」",
+              "subtitle": "- 中村一葉"
+            },
+            "es": {
+              "title": "Encuentra la felicidad sin importar la situación en la que estés. La diosa de la fortuna solo favorece a quienes están preparados.",
+              "subtitle": "KAZUHA"
+            },
+            "pt": {
+              "title": "Encontre a felicidade independentemente da situação em que esteja. A deusa da sorte favorece apenas aqueles que estão preparados.",
+              "subtitle": "KAZUHA"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -66,6 +92,20 @@
           }
         },
         {
+          "id": "q_189",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「绝对不要向你想象中产生的不安低头！」",
+              "subtitle": "- 金采源"
+            },
+            "zh-Hant": {
+              "title": "「絕對不要向你想像中產生的不安低頭！」",
+              "subtitle": "- 金采源"
+            }
+          }
+        },
+        {
           "id": "q_112",
           "emojiPath": "",
           "i18n": {
@@ -87,6 +127,48 @@
       "name": "SAKURA",
       "quotes": [
         {
+          "id": "q_193",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「有些事情不得不面对，有些事情也很困难。\n但我希望自己成为那个，能够享受其中的人。」",
+              "subtitle": "- 宫脇咲良"
+            },
+            "zh-Hant": {
+              "title": "「有些事情不得不面對，有些事情也很困難。\n但我希望自己成為那個，能夠享受其中的人。」",
+              "subtitle": "- 宮脇咲良"
+            }
+          }
+        },
+        {
+          "id": "q_192",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「连一个月都无法努力的人，一整年也不会努力，甚至未来十年也不会努力；十年不努力的人，这辈子也很难改变。\n为了不给自己的人生留下遗憾，先努力学习这一个月吧！」",
+              "subtitle": "- 宫脇咲良"
+            },
+            "zh-Hant": {
+              "title": "「連一個月都無法努力的人，一整年也不會努力，甚至未來十年也不會努力；十年不努力的人，這輩子也很難改變。\n為了不讓自己的人生留下遺憾，先努力學習這一個月吧！」",
+              "subtitle": "- 宮脇咲良"
+            }
+          }
+        },
+        {
+          "id": "q_190",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「人生就是物料」",
+              "subtitle": "- 宫脇咲良"
+            },
+            "zh-Hant": {
+              "title": "「人生就是物料」",
+              "subtitle": "- 宮脇咲良"
+            }
+          }
+        },
+        {
           "id": "q_113",
           "emojiPath": "",
           "i18n": {
@@ -97,6 +179,20 @@
             "zh-Hant": {
               "title": "「無論多麼辛苦的瞬間，最終都會過去。\n所以，時間永遠站在我這邊。」",
               "subtitle": "- 宮脇咲良 PUREFLOW寄語"
+            }
+          }
+        },
+        {
+          "id": "q_191",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我觉得人生中做出的选择并没有那么重要，重要的是要让自己做出的选择变得正确。\n辛苦是一定会有的，但必须不断尝试、持续努力，这样才能觉得自己做出了正确的选择。」",
+              "subtitle": "- 宫脇咲良"
+            },
+            "zh-Hant": {
+              "title": "「我覺得人生中做出的選擇並沒有那麼重要，重要的是要讓自己做出的選擇變得正確。\n辛苦是一定會有的，但必須不斷嘗試、持續努力，這樣才能覺得自己做出了正確的選擇。」",
+              "subtitle": "- 宮脇咲良"
             }
           }
         }
@@ -128,6 +224,46 @@
       "id": "lsrf_kazuha",
       "name": "KAZUHA",
       "quotes": [
+        {
+          "id": "q_188",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不要忘记我落下的芭蕾舞鞋。」",
+              "subtitle": "- 中村一叶"
+            },
+            "zh-Hant": {
+              "title": "「不要忘記我落下的芭蕾舞鞋。」",
+              "subtitle": "- 中村一葉"
+            }
+          }
+        },
+        {
+          "id": "q_187",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Find happiness no matter what situation you are in. The goddess of fortune only favors those who are prepared.",
+              "subtitle": "KAZUHA"
+            },
+            "zh-Hans": {
+              "title": "「无论在什么情况下，都要发现快乐。\n幸运女神只眷顾那些有准备的人。」",
+              "subtitle": "- 中村一叶"
+            },
+            "zh-Hant": {
+              "title": "「無論在什麼情況下，都要發現快樂。\n幸運女神只眷顧那些有準備的人。」",
+              "subtitle": "- 中村一葉"
+            },
+            "es": {
+              "title": "Encuentra la felicidad sin importar la situación en la que estés. La diosa de la fortuna solo favorece a quienes están preparados.",
+              "subtitle": "KAZUHA"
+            },
+            "pt": {
+              "title": "Encontre a felicidade independentemente da situação em que esteja. A deusa da sorte favorece apenas aqueles que estão preparados.",
+              "subtitle": "KAZUHA"
+            }
+          }
+        },
         {
           "id": "q_115",
           "emojiPath": "",
