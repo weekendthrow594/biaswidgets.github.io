@@ -7,6 +7,32 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_198",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t compare yourself to others. Everyone should live life in their own way and focus on their own pace and rhythm.",
+              "subtitle": "V"
+            },
+            "zh-Hans": {
+              "title": "「不要和别人比较，\n每个人都应该用自己的方式过自己的人生，专注于属于自己的节奏和步调。」",
+              "subtitle": "- 金泰亨 WVS Live"
+            },
+            "zh-Hant": {
+              "title": "「不要和別人比較，\n每個人都應該用自己的方式過自己的人生，專注在屬於自己的節奏和步調上。」",
+              "subtitle": "- 金泰亨 WVS Live"
+            },
+            "es": {
+              "title": "No te compares con los demás. Cada persona debería vivir su vida a su manera y centrarse en su propio ritmo.",
+              "subtitle": "V"
+            },
+            "pt": {
+              "title": "Não se compare com os outros. Cada pessoa deve viver a vida à sua maneira e seguir o seu próprio ritmo.",
+              "subtitle": "V"
+            }
+          }
+        },
+        {
           "id": "q_146",
           "emojiPath": "",
           "i18n": {
@@ -535,6 +561,32 @@
       "id": "bts_v",
       "name": "V",
       "quotes": [
+        {
+          "id": "q_198",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t compare yourself to others. Everyone should live life in their own way and focus on their own pace and rhythm.",
+              "subtitle": "V"
+            },
+            "zh-Hans": {
+              "title": "「不要和别人比较，\n每个人都应该用自己的方式过自己的人生，专注于属于自己的节奏和步调。」",
+              "subtitle": "- 金泰亨 WVS Live"
+            },
+            "zh-Hant": {
+              "title": "「不要和別人比較，\n每個人都應該用自己的方式過自己的人生，專注在屬於自己的節奏和步調上。」",
+              "subtitle": "- 金泰亨 WVS Live"
+            },
+            "es": {
+              "title": "No te compares con los demás. Cada persona debería vivir su vida a su manera y centrarse en su propio ritmo.",
+              "subtitle": "V"
+            },
+            "pt": {
+              "title": "Não se compare com os outros. Cada pessoa deve viver a vida à sua maneira e seguir o seu próprio ritmo.",
+              "subtitle": "V"
+            }
+          }
+        },
         {
           "id": "q_086",
           "emojiPath": "",
