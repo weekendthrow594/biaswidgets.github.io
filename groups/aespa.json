@@ -218,6 +218,20 @@
       "name": "WINTER",
       "quotes": [
         {
+          "id": "q_095",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
           "id": "q_123",
           "emojiPath": "",
           "i18n": {
@@ -227,6 +241,46 @@
             },
             "zh-Hant": {
               "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
+          "id": "q_208",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "We should live in a world without prejudice.",
+              "subtitle": "WINTER"
+            },
+            "zh-Hans": {
+              "title": "「要活在一个没有偏见的世界里。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「要活在一個沒有偏見的世界裡。」",
+              "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "Deberíamos vivir en un mundo sin prejuicios.",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Deveríamos viver em um mundo sem preconceitos.",
+              "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_094",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「千万人的Winter 你一个人的旼炡」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「千萬人的Winter 你一個人的旼炡」",
               "subtitle": "- 金旼炡"
             }
           }
@@ -254,34 +308,6 @@
             "pt": {
               "title": "Espero que você, que gosta de mim, possa ser feliz. Ter você gostando de mim também me faz feliz.",
               "subtitle": "WINTER"
-            }
-          }
-        },
-        {
-          "id": "q_095",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
-              "subtitle": "- 金旼炡"
-            }
-          }
-        },
-        {
-          "id": "q_094",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「千万人的Winter 你一个人的旼炡」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「千萬人的Winter 你一個人的旼炡」",
-              "subtitle": "- 金旼炡"
             }
           }
         }
