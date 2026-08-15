@@ -7,210 +7,20 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_137",
+          "id": "q_196",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You have scars, and so do I. Don't regret them or hide because of them. Every scar has its own meaning.",
-              "subtitle": "Bang Chan"
-            },
-            "zh-Hans": {
-              "title": "「你有伤疤，我也有伤疤。不必后悔，也不用因此压抑自己，每一道伤疤都有它存在的意义。」",
-              "subtitle": "- 方灿"
-            },
-            "zh-Hant": {
-              "title": "「你有傷疤，我也有傷疤，不用為此後悔，也不需要因此而壓抑，每個傷疤都有它的意義。」",
-              "subtitle": "- 方燦"
-            },
-            "es": {
-              "title": "Tú tienes cicatrices, y yo también. No te arrepientas ni las ocultes; cada cicatriz tiene su propio significado.",
-              "subtitle": "Bang Chan"
-            },
-            "pt": {
-              "title": "Você tem cicatrizes, e eu também. Não se arrependa nem esconda quem você é. Toda cicatriz tem um significado.",
-              "subtitle": "Bang Chan"
-            }
-          }
-        },
-        {
-          "id": "q_136",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Live with ease in this complicated world.",
-              "subtitle": "Lee Know"
-            },
-            "zh-Hans": {
-              "title": "「在复杂的世界里，轻松地生活。」",
-              "subtitle": "- 李旻浩"
-            },
-            "zh-Hant": {
-              "title": "「在複雜的世界裡，輕鬆地生活。」",
-              "subtitle": "- 李旻浩"
-            },
-            "es": {
-              "title": "Vive con tranquilidad en un mundo complicado.",
-              "subtitle": "Lee Know"
-            },
-            "pt": {
-              "title": "Viva com leveza em um mundo complicado.",
-              "subtitle": "Lee Know"
-            }
-          }
-        },
-        {
-          "id": "q_138",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
-            },
-            "zh-Hans": {
-              "title": "「该休息时就休息，该努力时再努力。」",
-              "subtitle": "- 徐彰彬"
-            },
-            "zh-Hant": {
-              "title": "「該休息時就休息，該努力時再努力」",
-              "subtitle": "- 徐彰彬"
-            },
-            "es": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
-            },
-            "pt": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
-            }
-          }
-        },
-        {
-          "id": "q_139",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "How could anyone be good at everything the first time? It's okay even if you feel embarrassed.",
-              "subtitle": "Hyunjin"
-            },
-            "zh-Hans": {
-              "title": "「第一次做，怎么可能什么都做好？就算觉得丢脸也没关系。」",
-              "subtitle": "- 黄铉辰"
-            },
-            "zh-Hant": {
-              "title": " 「第一次做，怎麼可能什麼都做得好？就算覺得丟臉也沒關係。」",
-              "subtitle": "- 黃鉉辰"
-            },
-            "es": {
-              "title": "¿Cómo vas a hacerlo todo bien la primera vez? Está bien si te da vergüenza.",
-              "subtitle": "Hyunjin"
-            },
-            "pt": {
-              "title": "Como alguém poderia fazer tudo bem na primeira vez? Não tem problema sentir vergonha.",
-              "subtitle": "Hyunjin"
-            }
-          }
-        },
-        {
-          "id": "q_140",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Don't cry. Find happiness in the little things in everyday life.",
+              "title": "If stars are falling tonight,\nmaybe I fell asleep early\nto find you in your dreams\nand become a star STAY can see for a while.",
               "subtitle": "HAN"
             },
             "zh-Hans": {
-              "title": "「不要哭，从生活中那些微小的事情里寻找幸福吧。」",
-              "subtitle": "- 韩知城"
+              "title": "「如果今晚有星星洒落下来，\n那大概是我早早睡着了，\n为了走进你的梦里，\n短暂变成一颗让 STAY 看得见的星星。」",
+              "subtitle": "- 韩知城 BUBBLE"
             },
             "zh-Hant": {
-              "title": "「不要哭，從日常瑣碎的小事中尋找幸福吧。」",
-              "subtitle": "- 韓知城"
-            },
-            "es": {
-              "title": "No llores. Encuentra la felicidad en las pequeñas cosas de la vida cotidiana.",
-              "subtitle": "HAN"
-            },
-            "pt": {
-              "title": "Não chore. Encontre felicidade nas pequenas coisas do dia a dia.",
-              "subtitle": "HAN"
-            }
-          }
-        },
-        {
-          "id": "q_141",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Even if you can't come to the concert, I'll still love you from afar.",
-              "subtitle": "Felix"
-            },
-            "zh-Hans": {
-              "title": "「就算不能来到演唱会，我也会在远方爱着你。」",
-              "subtitle": "- 李龙馥"
-            },
-            "zh-Hant": {
-              "title": "「就算不能來演唱會，我也會在遠方愛著妳」 ",
-              "subtitle": "- 李龍馥"
-            },
-            "es": {
-              "title": "Aunque no puedas venir al concierto, te seguiré queriendo desde lejos.",
-              "subtitle": "Felix"
-            },
-            "pt": {
-              "title": "Mesmo que você não possa vir ao show, eu vou continuar te amando de longe.",
-              "subtitle": "Felix"
-            }
-          }
-        },
-        {
-          "id": "q_142",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "We want to become the group that stays with you for the longest time.",
-              "subtitle": "Seungmin"
-            },
-            "zh-Hans": {
-              "title": "「我们想成为这个世界上陪伴大家最久的团体。」",
-              "subtitle": "- 金昇玟"
-            },
-            "zh-Hant": {
-              "title": "「我們想成為這世界上最長久的團體」",
-              "subtitle": "- 金昇玟"
-            },
-            "es": {
-              "title": "Queremos ser el grupo que permanezca a su lado durante más tiempo.",
-              "subtitle": "Seungmin"
-            },
-            "pt": {
-              "title": "Queremos ser o grupo que permaneça ao lado de vocês por mais tempo.",
-              "subtitle": "Seungmin"
-            }
-          }
-        },
-        {
-          "id": "q_143",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "I treasure saying \"I love you\" because I never want those words to lose their meaning.",
-              "subtitle": "I.N"
-            },
-            "zh-Hans": {
-              "title": "「为了不让我爱你这句话变得轻飘飘，我一直都很珍惜说出我爱你。」",
-              "subtitle": "- 梁精寅"
-            },
-            "zh-Hant": {
-              "title": "「為了不讓人覺得我愛你這句話份量很輕，我總會珍惜我愛你這句話」",
-              "subtitle": "- 梁精寅"
-            },
-            "es": {
-              "title": "Valoro mucho decir \"te quiero\" porque no quiero que esas palabras pierdan su significado.",
-              "subtitle": "I.N"
-            },
-            "pt": {
-              "title": "Eu valorizo muito dizer \"eu te amo\", porque não quero que essas palavras percam o seu verdadeiro significado.",
-              "subtitle": "I.N"
+              "title": "「如果今晚有星星灑落下來，\n那大概是我早早睡著了，\n為了走進你的夢裡，\n短暫變成一顆讓 STAY 看得見的星星。」",
+              "subtitle": "- 韓知城 BUBBLE"
             }
           }
         }
@@ -471,6 +281,24 @@
       "id": "skz_han",
       "name": "HAN",
       "quotes": [
+        {
+          "id": "q_196",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If stars are falling tonight,\nmaybe I fell asleep early\nto find you in your dreams\nand become a star STAY can see for a while.",
+              "subtitle": "HAN"
+            },
+            "zh-Hans": {
+              "title": "「如果今晚有星星洒落下来，\n那大概是我早早睡着了，\n为了走进你的梦里，\n短暂变成一颗让 STAY 看得见的星星。」",
+              "subtitle": "- 韩知城 BUBBLE"
+            },
+            "zh-Hant": {
+              "title": "「如果今晚有星星灑落下來，\n那大概是我早早睡著了，\n為了走進你的夢裡，\n短暫變成一顆讓 STAY 看得見的星星。」",
+              "subtitle": "- 韓知城 BUBBLE"
+            }
+          }
+        },
         {
           "id": "q_140",
           "emojiPath": "",
