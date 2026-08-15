@@ -272,6 +272,20 @@
               "subtitle": "YEONJUN"
             }
           }
+        },
+        {
+          "id": "q_209",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "我对你的爱，一言然竣",
+              "subtitle": "- 崔然竣"
+            },
+            "zh-Hant": {
+              "title": "我對你的愛，一言然竣",
+              "subtitle": "- 崔然竣"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -359,9 +373,18 @@
           }
         },
         {
-          "id": "q_065",
+          "id": "q_210",
           "emojiPath": "",
-          "i18n": {}
+          "i18n": {
+            "zh-Hans": {
+              "title": "我是你最优秀的彬友",
+              "subtitle": "- 崔秀彬"
+            },
+            "zh-Hant": {
+              "title": "我是你最優秀的彬友",
+              "subtitle": "- 崔秀彬"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -471,6 +494,20 @@
             "pt": {
               "title": "Você já está indo muito bem agora.",
               "subtitle": "BEOMGYU × UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_211",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "如果爱你是一场游戏\n我愿意为你一直杋圭",
+              "subtitle": "- 崔杋圭"
+            },
+            "zh-Hant": {
+              "title": "如果愛你是一場遊戲，\n我願意為你一直杋圭。",
+              "subtitle": "- 崔杋圭"
             }
           }
         }
@@ -636,6 +673,20 @@
               "subtitle": "TAEHYUN × UNICEF"
             }
           }
+        },
+        {
+          "id": "q_212",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "喜欢你这件事，\n真的太显而易见了",
+              "subtitle": "- 姜太显"
+            },
+            "zh-Hant": {
+              "title": "喜歡你這件事，\n真的太顯而易見了。",
+              "subtitle": "- 姜太顯"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -667,6 +718,20 @@
             "pt": {
               "title": "O importante é encontrar o seu próprio jeito de realmente se sentir melhor.",
               "subtitle": "HUENINGKAI × UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_213",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "宁好，欢光临",
+              "subtitle": "- 休寧凱"
+            },
+            "zh-Hant": {
+              "title": "寧好，緩光臨",
+              "subtitle": "- 休寧凱"
             }
           }
         },
