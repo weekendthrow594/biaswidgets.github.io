@@ -7,63 +7,18 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_090",
+          "id": "q_201",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「只看漂亮的，只听好的」",
-              "subtitle": "- 金桐儇"
+              "title": "「谢谢你今天也好好活着。」",
+              "subtitle": "- 李常赫 WVS"
             },
             "zh-Hant": {
-              "title": "「只看漂亮的，只聽好的」",
-              "subtitle": "- 金桐儇"
+              "title": "「謝謝你今天也好好活著」",
+              "subtitle": "- 李常赫 WVS"
             }
           }
-        },
-        {
-          "id": "q_096",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "If you can make it through the tiring everyday, I’ll come find you like a rainbow.",
-              "subtitle": "JAEHYUN"
-            },
-            "zh-Hans": {
-              "title": "「如果能好好撑过疲惫的日常，我会像彩虹一样去找你 」",
-              "subtitle": "- 明宰铉"
-            },
-            "zh-Hant": {
-              "title": "「如果能好好撐過疲憊的日常，我會像彩虹一樣去找你 」",
-              "subtitle": "- 明宰鉉"
-            },
-            "es": {
-              "title": "Si logras superar esos días agotadores, iré a encontrarte como un arcoíris.",
-              "subtitle": "JAEHYUN"
-            },
-            "pt": {
-              "title": "Se você conseguir atravessar esses dias cansativos, eu vou te encontrar como um arco-íris.",
-              "subtitle": "JAEHYUN"
-            }
-          }
-        },
-        {
-          "id": "q_075",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「今天盛开的花，不是一朝一夕之间出现的是无数个熬过来的时刻和那些温暖的信任一起开出的奇迹。」",
-              "subtitle": "- 明宰铉 weverse 四冠感言"
-            },
-            "zh-Hant": {
-              "title": "「今天盛開的花，不是一朝一夕之間出現的\n是無數個熬過來的時刻和那些溫暖的信任\n一起開出的奇蹟。」",
-              "subtitle": "- 明宰鉉 weverse 四冠感言"
-            }
-          }
-        },
-        {
-          "id": "q_074",
-          "emojiPath": "",
-          "i18n": {}
         }
       ],
       "countdowns": []
@@ -106,6 +61,48 @@
       "name": "RIWOO",
       "quotes": [
         {
+          "id": "q_201",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「谢谢你今天也好好活着。」",
+              "subtitle": "- 李常赫 WVS"
+            },
+            "zh-Hant": {
+              "title": "「謝謝你今天也好好活著」",
+              "subtitle": "- 李常赫 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_200",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「世界再快，也可以按照自己的步调走。」",
+              "subtitle": "- 李常赫 WVS"
+            },
+            "zh-Hant": {
+              "title": "「世界再快，也可以照自己的步調走」",
+              "subtitle": "- 李常赫 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_199",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「天赋很难战胜，但努力也和天赋一样珍贵。」",
+              "subtitle": "- 李常赫 WVS"
+            },
+            "zh-Hant": {
+              "title": "「天賦很難戰勝，但努力也和天賦一樣珍貴。」",
+              "subtitle": "- 李常赫 WVS"
+            }
+          }
+        },
+        {
           "id": "q_070",
           "emojiPath": "",
           "i18n": {
@@ -137,11 +134,25 @@
           "i18n": {
             "zh-Hans": {
               "title": "「这个……别人没有资格伤害你吧。」",
-              "subtitle": "- 李常赫 240206直播回覆"
+              "subtitle": "- 李常赫 WVS 直播回覆"
             },
             "zh-Hant": {
               "title": "「這個……別人沒有資格傷害你吧。」",
-              "subtitle": "- 李常赫 240206直播回覆"
+              "subtitle": "- 李常赫 WVS 直播回覆"
+            }
+          }
+        },
+        {
+          "id": "q_202",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不做会成为习惯，坚持去做也会。」",
+              "subtitle": "- 李常赫 WVS"
+            },
+            "zh-Hant": {
+              "title": "「不做會成為習慣，堅持去做也會」",
+              "subtitle": "- 李常赫 WVS"
             }
           }
         }
