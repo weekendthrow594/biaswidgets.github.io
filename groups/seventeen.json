@@ -21,6 +21,32 @@
           }
         },
         {
+          "id": "q_205",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I’m looking forward to the day we meet again with a smile.",
+              "subtitle": "DK"
+            },
+            "zh-Hans": {
+              "title": "「期待我们笑着再见的那一天。」",
+              "subtitle": "- DK"
+            },
+            "zh-Hant": {
+              "title": "「期待我們笑著再見的那一天。」",
+              "subtitle": "- DK"
+            },
+            "es": {
+              "title": "Espero con ilusión el día en que volvamos a encontrarnos sonriendo.",
+              "subtitle": "DK"
+            },
+            "pt": {
+              "title": "Estou ansioso pelo dia em que nos encontraremos novamente com um sorriso.",
+              "subtitle": "DK"
+            }
+          }
+        },
+        {
           "id": "q_005",
           "emojiPath": "",
           "i18n": {
@@ -57,32 +83,6 @@
             "zh-Hant": {
               "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
               "subtitle": "- 洪知秀 UNESCO"
-            }
-          }
-        },
-        {
-          "id": "q_006",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "CARATs are gifts sent by angels, so I also want to become an angel and protect you.",
-              "subtitle": "Jeonghan"
-            },
-            "zh-Hans": {
-              "title": "「克拉是天使派来的礼物，所以我也要当天使来保护你们」",
-              "subtitle": "- 尹净汉"
-            },
-            "zh-Hant": {
-              "title": "「克拉是天使派來的禮物，所以我也要當天使來保護你們」",
-              "subtitle": "- 尹淨漢"
-            },
-            "es": {
-              "title": "CARATs son regalos enviados por ángeles, así que yo también quiero convertirme en un ángel para protegerlos.",
-              "subtitle": "Jeonghan"
-            },
-            "pt": {
-              "title": "CARATs são presentes enviados por anjos, então eu também quero me tornar um anjo para proteger vocês.",
-              "subtitle": "Jeonghan"
             }
           }
         }
@@ -318,6 +318,32 @@
       "name": "JEONGHAN",
       "quotes": [
         {
+          "id": "q_157",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The person you love is always worth waiting for, no matter how long it takes.",
+              "subtitle": "Jeonghan"
+            },
+            "zh-Hans": {
+              "title": "「本来就是要无止境地等待喜欢的人。」",
+              "subtitle": "- 尹净汉"
+            },
+            "zh-Hant": {
+              "title": "「本來就是要無止境地等待喜歡的人。」",
+              "subtitle": "- 尹淨漢"
+            },
+            "es": {
+              "title": "La persona que amas siempre merece que la esperes, sin importar cuánto tiempo tome.",
+              "subtitle": "Jeonghan"
+            },
+            "pt": {
+              "title": "Quem você ama sempre vale a pena esperar, não importa quanto tempo leve.",
+              "subtitle": "Jeonghan"
+            }
+          }
+        },
+        {
           "id": "q_006",
           "emojiPath": "",
           "i18n": {
@@ -344,27 +370,27 @@
           }
         },
         {
-          "id": "q_157",
+          "id": "q_207",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "The person you love is always worth waiting for, no matter how long it takes.",
+              "title": "There aren’t that many things people are truly incapable of doing.",
               "subtitle": "Jeonghan"
             },
             "zh-Hans": {
-              "title": "「本来就是要无止境地等待喜欢的人。」",
+              "title": "「人做不到的事情，其实没有那么多。」",
               "subtitle": "- 尹净汉"
             },
             "zh-Hant": {
-              "title": "「本來就是要無止境地等待喜歡的人。」",
+              "title": "「人做不到的事情，其實沒有那麼多。」",
               "subtitle": "- 尹淨漢"
             },
             "es": {
-              "title": "La persona que amas siempre merece que la esperes, sin importar cuánto tiempo tome.",
+              "title": "En realidad, no hay tantas cosas que las personas sean incapaces de hacer.",
               "subtitle": "Jeonghan"
             },
             "pt": {
-              "title": "Quem você ama sempre vale a pena esperar, não importa quanto tempo leve.",
+              "title": "Na verdade, não há tantas coisas que as pessoas sejam incapazes de fazer.",
               "subtitle": "Jeonghan"
             }
           }
@@ -780,6 +806,32 @@
           }
         },
         {
+          "id": "q_206",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Just go for it. Something good will come from it.",
+              "subtitle": "MINGYU"
+            },
+            "zh-Hans": {
+              "title": "「尽管去做吧，一定会有收获的。」",
+              "subtitle": "- 金珉奎"
+            },
+            "zh-Hant": {
+              "title": "「儘管去做吧，一定會有收穫的。」",
+              "subtitle": "- 金珉奎"
+            },
+            "es": {
+              "title": "Hazlo sin miedo. Seguro que algo bueno saldrá de ello.",
+              "subtitle": "MINGYU"
+            },
+            "pt": {
+              "title": "Vai em frente. Com certeza algo de bom vai sair disso.",
+              "subtitle": "MINGYU"
+            }
+          }
+        },
+        {
           "id": "q_022",
           "emojiPath": "",
           "i18n": {
@@ -827,6 +879,32 @@
       "id": "seventeen_dk",
       "name": "DK",
       "quotes": [
+        {
+          "id": "q_205",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I’m looking forward to the day we meet again with a smile.",
+              "subtitle": "DK"
+            },
+            "zh-Hans": {
+              "title": "「期待我们笑着再见的那一天。」",
+              "subtitle": "- DK"
+            },
+            "zh-Hant": {
+              "title": "「期待我們笑著再見的那一天。」",
+              "subtitle": "- DK"
+            },
+            "es": {
+              "title": "Espero con ilusión el día en que volvamos a encontrarnos sonriendo.",
+              "subtitle": "DK"
+            },
+            "pt": {
+              "title": "Estou ansioso pelo dia em que nos encontraremos novamente com um sorriso.",
+              "subtitle": "DK"
+            }
+          }
+        },
         {
           "id": "q_030",
           "emojiPath": "",
@@ -898,11 +976,11 @@
               "subtitle": "SEUNGKWAN"
             },
             "zh-Hans": {
-              "title": "「就算今天哭了也没关系，哭过之后还可以继续走」",
+              "title": "「不要生气，我们光是彼此相爱就已经很忙了。」",
               "subtitle": "- 夫胜宽"
             },
             "zh-Hant": {
-              "title": "「就算今天哭了也沒關係，哭過之後還可以繼續走」",
+              "title": "「不要生氣，我們光互相愛著彼此就很忙了。」",
               "subtitle": "- 夫勝寬"
             },
             "es": {
@@ -938,6 +1016,32 @@
       "name": "VERNON",
       "quotes": [
         {
+          "id": "q_025",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Dreams should be big enough that even if they break, the pieces are still big.",
+              "subtitle": "VERNON"
+            },
+            "zh-Hans": {
+              "title": "「梦想要足够大，这样即便破碎，碎片也是大的」",
+              "subtitle": "- 崔瀚率"
+            },
+            "zh-Hant": {
+              "title": "「夢想要足夠大，這樣即便破碎，碎片也是大的」",
+              "subtitle": "- 崔瀚率"
+            },
+            "es": {
+              "title": "Los sueños deben ser tan grandes que, aunque se rompan, sus pedazos sigan siendo grandes.",
+              "subtitle": "VERNON"
+            },
+            "pt": {
+              "title": "Os sonhos devem ser grandes o suficiente para que, mesmo se quebrarem, os pedaços ainda sejam grandes.",
+              "subtitle": "VERNON"
+            }
+          }
+        },
+        {
           "id": "q_151",
           "emojiPath": "",
           "i18n": {
@@ -964,28 +1068,16 @@
           }
         },
         {
-          "id": "q_025",
+          "id": "q_197",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "Dreams should be big enough that even if they break, the pieces are still big.",
-              "subtitle": "VERNON"
-            },
             "zh-Hans": {
-              "title": "「梦想要足够大，这样即便破碎，碎片也是大的」",
+              "title": "",
               "subtitle": "- 崔瀚率"
             },
             "zh-Hant": {
-              "title": "「夢想要足夠大，這樣即便破碎，碎片也是大的」",
+              "title": "「無論你以何種方式度過青春，它都不曾虛度。」",
               "subtitle": "- 崔瀚率"
-            },
-            "es": {
-              "title": "Los sueños deben ser tan grandes que, aunque se rompan, sus pedazos sigan siendo grandes.",
-              "subtitle": "VERNON"
-            },
-            "pt": {
-              "title": "Os sonhos devem ser grandes o suficiente para que, mesmo se quebrarem, os pedaços ainda sejam grandes.",
-              "subtitle": "VERNON"
             }
           }
         },
