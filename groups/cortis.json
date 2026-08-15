@@ -5,7 +5,60 @@
     {
       "id": "cortis_today",
       "name": "TODAY",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_204",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It’s exhausting, but this is how we have to keep living.",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「虽然很累，但就是要这样活着。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「雖然很累，但就是要這樣活著。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "Aunque sea agotador, así es como tenemos que seguir viviendo.",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Mesmo sendo cansativo, é assim que precisamos continuar vivendo.",
+              "subtitle": "JAMES"
+            }
+          }
+        },
+        {
+          "id": "q_203",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t let other people’s opinions become the standard by which you judge yourself.",
+              "subtitle": "JUHOON"
+            },
+            "zh-Hans": {
+              "title": "「不要把别人的目光当作判断自己的标准。」",
+              "subtitle": "- 金主训"
+            },
+            "zh-Hant": {
+              "title": "「不要把別人的目光當作判斷自己的標準。」",
+              "subtitle": "- 金主訓"
+            },
+            "es": {
+              "title": "No dejes que la opinión de los demás se convierta en la medida con la que te juzgas a ti mismo.",
+              "subtitle": "JUHOON"
+            },
+            "pt": {
+              "title": "Não deixe que a opinião dos outros se torne o padrão pelo qual você julga a si mesmo.",
+              "subtitle": "JUHOON"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -65,6 +118,32 @@
           }
         },
         {
+          "id": "q_204",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It’s exhausting, but this is how we have to keep living.",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「虽然很累，但就是要这样活着。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「雖然很累，但就是要這樣活著。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "Aunque sea agotador, así es como tenemos que seguir viviendo.",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Mesmo sendo cansativo, é assim que precisamos continuar vivendo.",
+              "subtitle": "JAMES"
+            }
+          }
+        },
+        {
           "id": "q_184",
           "emojiPath": "",
           "i18n": {
@@ -119,6 +198,32 @@
             },
             "pt": {
               "title": "A vida só acontece uma vez, então faça dela algo extraordinário.",
+              "subtitle": "JUHOON"
+            }
+          }
+        },
+        {
+          "id": "q_203",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t let other people’s opinions become the standard by which you judge yourself.",
+              "subtitle": "JUHOON"
+            },
+            "zh-Hans": {
+              "title": "「不要把别人的目光当作判断自己的标准。」",
+              "subtitle": "- 金主训"
+            },
+            "zh-Hant": {
+              "title": "「不要把別人的目光當作判斷自己的標準。」",
+              "subtitle": "- 金主訓"
+            },
+            "es": {
+              "title": "No dejes que la opinión de los demás se convierta en la medida con la que te juzgas a ti mismo.",
+              "subtitle": "JUHOON"
+            },
+            "pt": {
+              "title": "Não deixe que a opinião dos outros se torne o padrão pelo qual você julga a si mesmo.",
               "subtitle": "JUHOON"
             }
           }
