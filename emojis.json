@@ -113,41 +113,6 @@
     ]
   },
   {
-    "id": "lsrf",
-    "name": "LE SSERAFIM",
-    "header": [
-      "LSRF_header_1",
-      "LSRF_header_2",
-      "LSRF_header_3",
-      "LSRF_header_4",
-      "LSRF_header_5"
-    ]
-  },
-  {
-    "id": "ive",
-    "name": "IVE",
-    "header": [
-      "IVE_Header_6",
-      "IVE_Header_1",
-      "IVE_Header_3",
-      "IVE_Header_2",
-      "IVE_Header_4",
-      "IVE_Header_5"
-    ]
-  },
-  {
-    "id": "riize",
-    "name": "RIIZE",
-    "header": [
-      "RIIZE_header_4",
-      "RIIZE_header_3",
-      "RIIZE_header_5",
-      "RIIZE_header_2",
-      "RIIZE_header_1",
-      "RIIZE_header_6"
-    ]
-  },
-  {
     "id": "idle",
     "name": "I-DLE",
     "header": [
@@ -156,6 +121,17 @@
       "I-DLE_header_2",
       "I-DLE_header_4",
       "I-DLE_header_5"
+    ]
+  },
+  {
+    "id": "lsrf",
+    "name": "LE SSERAFIM",
+    "header": [
+      "LSRF_header_1",
+      "LSRF_header_2",
+      "LSRF_header_3",
+      "LSRF_header_4",
+      "LSRF_header_5"
     ]
   },
   {
@@ -169,25 +145,15 @@
     ]
   },
   {
-    "id": "zb1",
-    "name": "ZB1",
+    "id": "nmixx",
+    "name": "NMIXX",
     "header": [
-      "ZB1_header_1",
-      "ZB1_header_2",
-      "ZB1_header_4",
-      "ZB1_header_3",
-      "ZB1_header_5"
-    ]
-  },
-  {
-    "id": "itzy",
-    "name": "ITZY",
-    "header": [
-      "ITZY_header_1",
-      "ITZY_header_2",
-      "ITZY_header_3",
-      "ITZY_header_4",
-      "ITZY_header_5"
+      "Nmixx_header_6",
+      "Nmixx_header_5",
+      "Nmixx_header_3",
+      "Nmixx_header_1",
+      "Nmixx_header_2",
+      "Nmixx_header_4"
     ]
   },
   {
@@ -215,6 +181,52 @@
       "NCTWISH_header_1",
       "NCTWISH_header_4",
       "NCTWISH_header_5"
+    ]
+  },
+  {
+    "id": "zb1",
+    "name": "ZB1",
+    "header": [
+      "ZB1_header_1",
+      "ZB1_header_2",
+      "ZB1_header_4",
+      "ZB1_header_3",
+      "ZB1_header_5"
+    ]
+  },
+  {
+    "id": "riize",
+    "name": "RIIZE",
+    "header": [
+      "RIIZE_header_4",
+      "RIIZE_header_3",
+      "RIIZE_header_5",
+      "RIIZE_header_2",
+      "RIIZE_header_1",
+      "RIIZE_header_6"
+    ]
+  },
+  {
+    "id": "ive",
+    "name": "IVE",
+    "header": [
+      "IVE_Header_6",
+      "IVE_Header_1",
+      "IVE_Header_3",
+      "IVE_Header_2",
+      "IVE_Header_4",
+      "IVE_Header_5"
+    ]
+  },
+  {
+    "id": "itzy",
+    "name": "ITZY",
+    "header": [
+      "ITZY_header_1",
+      "ITZY_header_2",
+      "ITZY_header_3",
+      "ITZY_header_4",
+      "ITZY_header_5"
     ]
   },
   {
