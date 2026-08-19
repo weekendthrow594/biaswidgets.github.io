@@ -7,54 +7,42 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_195",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会再次找到你，在你最需要我的时候\nI will find you again when you need me most」",
+              "subtitle": "- 许允真 2026.08.12 WVS Live "
+            },
+            "zh-Hant": {
+              "title": "「我會再次找到你，在你最需要我的時候\nI will find you again when you need me most」",
+              "subtitle": "- 許允真 2026.08.12 WVS Live "
+            }
+          }
+        },
+        {
           "id": "q_186",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
-              "subtitle": "CHAEWON"
+              "subtitle": "CHAEWON  26.08.08 WVS"
             },
             "zh-Hans": {
               "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
-              "subtitle": "- 金采源"
+              "subtitle": "- 金采源 26.08.08 WVS"
             },
             "zh-Hant": {
               "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
-              "subtitle": "- 金采源"
+              "subtitle": "- 金采源 26.08.08 WVS"
             },
             "es": {
               "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
-              "subtitle": "CHAEWON"
+              "subtitle": "CHAEWON  26.08.08 WVS"
             },
             "pt": {
               "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
-              "subtitle": "CHAEWON"
-            }
-          }
-        },
-        {
-          "id": "q_187",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Find happiness no matter what situation you are in. The goddess of fortune only favors those who are prepared.",
-              "subtitle": "KAZUHA"
-            },
-            "zh-Hans": {
-              "title": "「无论在什么情况下，都要发现快乐。\n幸运女神只眷顾那些有准备的人。」",
-              "subtitle": "- 中村一叶"
-            },
-            "zh-Hant": {
-              "title": "「無論在什麼情況下，都要發現快樂。\n幸運女神只眷顧那些有準備的人。」",
-              "subtitle": "- 中村一葉"
-            },
-            "es": {
-              "title": "Encuentra la felicidad sin importar la situación en la que estés. La diosa de la fortuna solo favorece a quienes están preparados.",
-              "subtitle": "KAZUHA"
-            },
-            "pt": {
-              "title": "Encontre a felicidade independentemente da situação em que esteja. A deusa da sorte favorece apenas aqueles que estão preparados.",
-              "subtitle": "KAZUHA"
+              "subtitle": "CHAEWON 26.08.08 WVS"
             }
           }
         }
@@ -66,42 +54,68 @@
       "name": "CHAEWON",
       "quotes": [
         {
-          "id": "q_186",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
-              "subtitle": "CHAEWON"
-            },
-            "zh-Hans": {
-              "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
-              "subtitle": "- 金采源"
-            },
-            "zh-Hant": {
-              "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
-              "subtitle": "- 金采源"
-            },
-            "es": {
-              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
-              "subtitle": "CHAEWON"
-            },
-            "pt": {
-              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
-              "subtitle": "CHAEWON"
-            }
-          }
-        },
-        {
           "id": "q_189",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「绝对不要向你想象中产生的不安低头！」",
-              "subtitle": "- 金采源"
+              "subtitle": "- 金采源 WVS"
             },
             "zh-Hant": {
               "title": "「絕對不要向你想像中產生的不安低頭！」",
+              "subtitle": "- 金采源 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_186",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
+              "subtitle": "CHAEWON  26.08.08 WVS"
+            },
+            "zh-Hans": {
+              "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
+              "subtitle": "- 金采源 26.08.08 WVS"
+            },
+            "zh-Hant": {
+              "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
+              "subtitle": "- 金采源 26.08.08 WVS"
+            },
+            "es": {
+              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
+              "subtitle": "CHAEWON  26.08.08 WVS"
+            },
+            "pt": {
+              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
+              "subtitle": "CHAEWON 26.08.08 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_214",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I believe every moment we go through has a reason, and each one can become an opportunity to make us stronger. We’ve become more determined because of it, and we’ll continue to focus on doing what we do best.",
+              "subtitle": "CHAEWON"
+            },
+            "zh-Hans": {
+              "title": "「我们经历的每一个瞬间都有它存在的理由，也会成为让我们变得更强大的机会。\n我们因此变得更加坚定，以后也会继续做好自己的事。」",
               "subtitle": "- 金采源"
+            },
+            "zh-Hant": {
+              "title": "「我們經歷的每一個瞬間都有它存在的理由，也會成為讓我們變得更強大的機會。\n我們因此變得更加堅定，以後也會繼續做好自己的事。」",
+              "subtitle": "- 金采源"
+            },
+            "es": {
+              "title": "Creo que cada momento que vivimos tiene una razón y puede convertirse en una oportunidad para hacernos más fuertes. Gracias a ello, nos hemos vuelto más firmes y seguiremos concentrándonos en hacer bien lo nuestro.",
+              "subtitle": "CHAEWON"
+            },
+            "pt": {
+              "title": "Acredito que cada momento que vivemos tem uma razão e pode se tornar uma oportunidade para nos deixar mais fortes. Por causa disso, nos tornamos mais determinados e continuaremos focados em fazer bem aquilo que nos cabe.",
+              "subtitle": "CHAEWON"
             }
           }
         },
@@ -145,11 +159,11 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「连一个月都无法努力的人，一整年也不会努力，甚至未来十年也不会努力；十年不努力的人，这辈子也很难改变。\n为了不给自己的人生留下遗憾，先努力学习这一个月吧！」",
+              "title": "「连一个月都无法努力的人，一整年也不会努力，甚至未来十年也不会努力，这辈子也很难改变。\n为了不给自己的人生留下遗憾，先努力学习这一个月吧！」",
               "subtitle": "- 宫脇咲良"
             },
             "zh-Hant": {
-              "title": "「連一個月都無法努力的人，一整年也不會努力，甚至未來十年也不會努力；十年不努力的人，這輩子也很難改變。\n為了不讓自己的人生留下遺憾，先努力學習這一個月吧！」",
+              "title": "「連一個月都無法努力的人，一整年也不會努力，甚至未來十年也不會努力，這輩子也很難改變。\n為了不讓自己的人生留下遺憾，先努力學習這一個月吧！」",
               "subtitle": "- 宮脇咲良"
             }
           }
@@ -204,16 +218,30 @@
       "name": "YUNJIN",
       "quotes": [
         {
+          "id": "q_195",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会再次找到你，在你最需要我的时候\nI will find you again when you need me most」",
+              "subtitle": "- 许允真 2026.08.12 WVS Live "
+            },
+            "zh-Hant": {
+              "title": "「我會再次找到你，在你最需要我的時候\nI will find you again when you need me most」",
+              "subtitle": "- 許允真 2026.08.12 WVS Live "
+            }
+          }
+        },
+        {
           "id": "q_114",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「如果我正在经历痛苦，那就代表我正在蜕变。这是多么美丽、又多么奇妙的一件事。无论未来的我会成为什么样子，我都一定会深深爱着她。」",
-              "subtitle": "- 许允真 wvs"
+              "title": "「无论未来的我会成为什么样子，我都一定会深深爱着她。」",
+              "subtitle": "- 许允真 WVS"
             },
             "zh-Hant": {
-              "title": "「如果我正在經歷痛苦，那就代表我正在蛻變。\n這是多麼美麗、又多麼奇妙的一件事。\n無論未來的我會成為什麼樣子，我都一定會深深愛著她。」",
-              "subtitle": "- 許允真 wvs"
+              "title": "「無論未來的我會成為什麼樣子，我都一定會深深愛著她。」",
+              "subtitle": "- 許允真 WVS"
             }
           }
         }
@@ -234,6 +262,20 @@
             },
             "zh-Hant": {
               "title": "「不要忘記我落下的芭蕾舞鞋。」",
+              "subtitle": "- 中村一葉"
+            }
+          }
+        },
+        {
+          "id": "q_115",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「对啊，呼吸也是运动，我们真的太厉害了。光是好好活着，就已经很了不起了。」",
+              "subtitle": "- 中村一叶"
+            },
+            "zh-Hant": {
+              "title": "「對啊，呼吸也是運動，我們真的太厲害了。\n光是好好活著，就已經很了不起了。」",
               "subtitle": "- 中村一葉"
             }
           }
@@ -263,20 +305,6 @@
               "subtitle": "KAZUHA"
             }
           }
-        },
-        {
-          "id": "q_115",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「对啊，呼吸也是运动，我们真的太厉害了。光是好好活着，就已经很了不起了。」",
-              "subtitle": "- 中村一叶"
-            },
-            "zh-Hant": {
-              "title": "「對啊，呼吸也是運動，我們真的太厲害了。\n光是好好活著，就已經很了不起了。」",
-              "subtitle": "- 中村一葉"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -286,12 +314,38 @@
       "name": "EUNCHAE",
       "quotes": [
         {
+          "id": "q_215",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Tomorrow’s goal is to be a little happier than today!",
+              "subtitle": "EUNCHAE"
+            },
+            "zh-Hans": {
+              "title": "「明天的目标是，比今天更幸福一点！」",
+              "subtitle": "- 洪恩採"
+            },
+            "zh-Hant": {
+              "title": "「明天的目標是，比今天再幸福一點！」",
+              "subtitle": "- 洪恩採"
+            },
+            "es": {
+              "title": "La meta de mañana es ser un poquito más feliz que hoy.",
+              "subtitle": "EUNCHAE"
+            },
+            "pt": {
+              "title": "A meta de amanhã é ser um pouquinho mais feliz do que hoje!",
+              "subtitle": "EUNCHAE"
+            }
+          }
+        },
+        {
           "id": "q_116",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「未来肯定会来，但过去无法回去」",
-              "subtitle": "- 洪恩采 《LENIVERSE》"
+              "subtitle": "- 洪恩採 《LENIVERSE》"
             },
             "zh-Hant": {
               "title": "「未来肯定会来，但过去无法回去」",
