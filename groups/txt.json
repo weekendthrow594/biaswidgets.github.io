@@ -7,132 +7,72 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_049",
+          "id": "q_211",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "Every day, there is definitely something beautiful hidden inside.",
-              "subtitle": "YEONJUN × UNICEF"
-            },
             "zh-Hans": {
-              "title": "「每一天里，一定都藏着某个美好的东西。」",
-              "subtitle": "- 崔然竣 × UNICEF"
+              "title": "如果爱你是一场游戏\n我愿意为你一直杋圭",
+              "subtitle": "- 崔杋圭"
             },
             "zh-Hant": {
-              "title": "「每一天裡，一定都藏著某個美好的東西。」",
-              "subtitle": "- 崔然竣 × UNICEF"
-            },
-            "es": {
-              "title": "En cada día, seguro hay algo hermoso escondido.",
-              "subtitle": "YEONJUN × UNICEF"
-            },
-            "pt": {
-              "title": "Em cada dia, com certeza existe algo bonito escondido.",
-              "subtitle": "YEONJUN × UNICEF"
+              "title": "如果愛你是一場遊戲，\n我願意為你一直杋圭。",
+              "subtitle": "- 崔杋圭"
             }
           }
         },
         {
-          "id": "q_052",
+          "id": "q_212",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "It is enough to shine as yourself. You don’t need to compare yourself with anyone.",
-              "subtitle": "SOOBIN × UNICEF"
-            },
             "zh-Hans": {
-              "title": "「只要作为自己发光就好了，不需要和任何人比较。」",
-              "subtitle": "- 崔秀彬 × UNICEF"
+              "title": "「喜欢你这件事，\n真的太显而易见了」",
+              "subtitle": "- 姜太显"
             },
             "zh-Hant": {
-              "title": "「只要作為自己發光就好了，不需要和任何人比較。」",
-              "subtitle": "- 崔秀彬 × UNICEF"
-            },
-            "es": {
-              "title": "Basta con brillar siendo tú mismo. No necesitas compararte con nadie.",
-              "subtitle": "SOOBIN × UNICEF"
-            },
-            "pt": {
-              "title": "Basta brilhar sendo você mesmo. Você não precisa se comparar com ninguém.",
-              "subtitle": "SOOBIN × UNICEF"
+              "title": "「喜歡你這件事，\n真的太顯而易見了。」",
+              "subtitle": "- 姜太顯"
             }
           }
         },
         {
-          "id": "q_056",
+          "id": "q_210",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "Don’t fall into pain trying to solve everything on your own.",
-              "subtitle": "BEOMGYU × UNICEF"
-            },
             "zh-Hans": {
-              "title": "「不要为了独自解决所有事情而陷入痛苦」",
-              "subtitle": "- 崔杋圭 × UNICEF"
+              "title": "「我是你最优秀的彬友」",
+              "subtitle": "- 崔秀彬"
             },
             "zh-Hant": {
-              "title": "「不要為了獨自解決所有事情而陷入痛苦」",
-              "subtitle": "- 崔杋圭 × UNICEF"
-            },
-            "es": {
-              "title": "No caigas en el dolor por intentar resolverlo todo tú solo.",
-              "subtitle": "BEOMGYU × UNICEF"
-            },
-            "pt": {
-              "title": "Não mergulhe na dor tentando resolver tudo sozinho.",
-              "subtitle": "BEOMGYU × UNICEF"
+              "title": "「我是你最優秀的彬友」",
+              "subtitle": "- 崔秀彬"
             }
           }
         },
         {
-          "id": "q_058",
+          "id": "q_209",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "When you feel like you can’t hold on anymore, press pause first.",
-              "subtitle": "TAEHYUN × UNICEF"
-            },
             "zh-Hans": {
-              "title": "「觉得撑不住的时候，就先按下暂停键吧」",
-              "subtitle": "- 姜太显 × UNICEF"
+              "title": "「我对你的爱，一言然竣」",
+              "subtitle": "- 崔然竣"
             },
             "zh-Hant": {
-              "title": "「覺得撐不住的時候，就先按下暫停鍵吧」",
-              "subtitle": "- 姜太顯 × UNICEF"
-            },
-            "es": {
-              "title": "Cuando sientas que ya no puedes seguir aguantando, primero presiona pausa.",
-              "subtitle": "TAEHYUN × UNICEF"
-            },
-            "pt": {
-              "title": "Quando sentir que não consegue mais aguentar, aperte pausa primeiro.",
-              "subtitle": "TAEHYUN × UNICEF"
+              "title": "「我對你的愛，一言然竣」",
+              "subtitle": "- 崔然竣"
             }
           }
         },
         {
-          "id": "q_047",
+          "id": "q_213",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "What matters is finding your own way to truly make yourself feel better.",
-              "subtitle": "HUENINGKAI × UNICEF"
-            },
             "zh-Hans": {
-              "title": "「重要的是，找到真正能让自己心情好起来、属于自己的方式。」",
-              "subtitle": "- 休宁凯 × UNICEF"
+              "title": "「宁好，欢光临」",
+              "subtitle": "- 休寧凱"
             },
             "zh-Hant": {
-              "title": "「重要的是，找到真正能讓自己心情好起來、屬於自己的方式。」",
-              "subtitle": "- 休寧凱 × UNICEF"
-            },
-            "es": {
-              "title": "Lo importante es encontrar tu propia manera de hacer que realmente te sientas mejor.",
-              "subtitle": "HUENINGKAI × UNICEF"
-            },
-            "pt": {
-              "title": "O importante é encontrar o seu próprio jeito de realmente se sentir melhor.",
-              "subtitle": "HUENINGKAI × UNICEF"
+              "title": "「寧好，緩光臨」",
+              "subtitle": "- 休寧凱"
             }
           }
         }
@@ -278,11 +218,11 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "我对你的爱，一言然竣",
+              "title": "「我对你的爱，一言然竣」",
               "subtitle": "- 崔然竣"
             },
             "zh-Hant": {
-              "title": "我對你的愛，一言然竣",
+              "title": "「我對你的愛，一言然竣」",
               "subtitle": "- 崔然竣"
             }
           }
@@ -377,11 +317,11 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "我是你最优秀的彬友",
+              "title": "「我是你最优秀的彬友」",
               "subtitle": "- 崔秀彬"
             },
             "zh-Hant": {
-              "title": "我是你最優秀的彬友",
+              "title": "「我是你最優秀的彬友」",
               "subtitle": "- 崔秀彬"
             }
           }
@@ -679,11 +619,11 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "喜欢你这件事，\n真的太显而易见了",
+              "title": "「喜欢你这件事，\n真的太显而易见了」",
               "subtitle": "- 姜太显"
             },
             "zh-Hant": {
-              "title": "喜歡你這件事，\n真的太顯而易見了。",
+              "title": "「喜歡你這件事，\n真的太顯而易見了。」",
               "subtitle": "- 姜太顯"
             }
           }
@@ -726,11 +666,11 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "宁好，欢光临",
+              "title": "「宁好，欢光临」",
               "subtitle": "- 休寧凱"
             },
             "zh-Hant": {
-              "title": "寧好，緩光臨",
+              "title": "「寧好，緩光臨」",
               "subtitle": "- 休寧凱"
             }
           }
