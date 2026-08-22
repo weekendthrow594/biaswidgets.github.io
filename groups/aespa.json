@@ -7,57 +7,57 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_120",
+          "id": "q_217",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「相爱的人会越来越像，那我们就一起度过帅气的人生吧。」",
-              "subtitle": "- 柳智敏"
+              "title": "「智敏的美貌 民族的荣耀」",
+              "subtitle": " "
             },
             "zh-Hant": {
-              "title": "「相愛的人會越來越像，那我們就一起度過帥氣的人生吧。」",
-              "subtitle": "- 劉知珉"
+              "title": "「知珉的美貌 民族的榮耀」",
+              "subtitle": " "
             }
           }
         },
         {
-          "id": "q_093",
+          "id": "q_216",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "title": "「老天保佑金山银山全都有」",
               "subtitle": "- Giselle"
             },
             "zh-Hant": {
-              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "title": "「老天保佑金山銀山全都有」",
               "subtitle": "- Giselle"
             }
           }
         },
         {
-          "id": "q_111",
+          "id": "q_218",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
+              "title": "「笨蛋小狗汪汪」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
+              "title": "「笨蛋小狗汪汪」",
               "subtitle": "- 金旼炡"
             }
           }
         },
         {
-          "id": "q_083",
+          "id": "q_219",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「想做什么就去做吧，女生们可以做任何事」",
-              "subtitle": "- 宁艺卓"
+              "title": "「我耳机呢？」",
+              "subtitle": "- 寧藝卓"
             },
             "zh-Hant": {
-              "title": "「想做什麼就去做吧，女生們可以做任何事。」",
+              "title": "「我耳機呢？」",
               "subtitle": "- 寧藝卓"
             }
           }
@@ -69,6 +69,20 @@
       "id": "aespa_karina",
       "name": "KARINA",
       "quotes": [
+        {
+          "id": "q_217",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「智敏的美貌 民族的荣耀」",
+              "subtitle": " "
+            },
+            "zh-Hant": {
+              "title": "「知珉的美貌 民族的榮耀」",
+              "subtitle": " "
+            }
+          }
+        },
         {
           "id": "q_121",
           "emojiPath": "",
@@ -171,15 +185,15 @@
       "name": "GISELLE",
       "quotes": [
         {
-          "id": "q_122",
+          "id": "q_216",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "title": "「老天保佑金山银山全都有」",
               "subtitle": "- Giselle"
             },
             "zh-Hant": {
-              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "title": "「老天保佑金山銀山全都有」",
               "subtitle": "- Giselle"
             }
           }
@@ -207,6 +221,20 @@
             "pt": {
               "title": "Você precisa acreditar em si mesmo, ter confiança e acreditar em si com tanta força que não consiga desistir.",
               "subtitle": "GISELLE"
+            }
+          }
+        },
+        {
+          "id": "q_122",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "subtitle": "- Giselle"
+            },
+            "zh-Hant": {
+              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "subtitle": "- Giselle"
             }
           }
         }
@@ -310,6 +338,20 @@
               "subtitle": "WINTER"
             }
           }
+        },
+        {
+          "id": "q_218",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -318,6 +360,20 @@
       "id": "aespa_ningning",
       "name": "NINGNING",
       "quotes": [
+        {
+          "id": "q_219",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我耳机呢？」",
+              "subtitle": "- 寧藝卓"
+            },
+            "zh-Hant": {
+              "title": "「我耳機呢？」",
+              "subtitle": "- 寧藝卓"
+            }
+          }
+        },
         {
           "id": "q_124",
           "emojiPath": "",
