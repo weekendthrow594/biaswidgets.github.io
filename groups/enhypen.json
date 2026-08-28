@@ -7,6 +7,32 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_224",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In this vast universe, our lives are no more than tiny specks of dust. If that’s the case, then even if life is brief, I want to live it as colorfully as I can.",
+              "subtitle": "JAY 26.04.22 WVS"
+            },
+            "zh-Hans": {
+              "title": "「在这浩瀚的宇宙中，我们过的不过是如尘埃般渺小的人生。\n既然如此，哪怕短暂，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴综星 26.04.22 WVS"
+            },
+            "zh-Hant": {
+              "title": "「在這浩瀚的宇宙中，我們過的不過是如塵埃般渺小的人生。\n既然如此，哪怕短暫，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴綜星 26.04.22 WVS"
+            },
+            "es": {
+              "title": "En este vasto universo, nuestras vidas no son más que diminutas motas de polvo. Si es así, aunque la vida sea breve, quiero vivirla de la forma más colorida posible.",
+              "subtitle": "JAY 26.04.22 WVS"
+            },
+            "pt": {
+              "title": "Neste vasto universo, nossas vidas não passam de pequenos grãos de poeira. Sendo assim, mesmo que a vida seja breve, quero vivê-la da forma mais colorida possível.",
+              "subtitle": "JAY 26.04.22 WVS"
+            }
+          }
+        },
+        {
           "id": "q_077",
           "emojiPath": "",
           "i18n": {
@@ -38,13 +64,184 @@
     {
       "id": "enhypen_jay",
       "name": "JAY",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_233",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我的工作永远是第一位的，然后是我的健康。\n我的工作就是让 ENGENE 们开心！爱比痛苦更强大，这是科学。」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「我的工作永遠是第一位的，然後是我的健康。\n我的工作就是讓 ENGENE 們開心！愛比痛苦更強大，這是科學。」",
+              "subtitle": "- 朴綜星"
+            }
+          }
+        },
+        {
+          "id": "q_231",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "「ENHYPEN is ENHYPEN」",
+              "subtitle": "JAY"
+            },
+            "zh-Hans": {
+              "title": "「ENHYPEN is ENHYPEN」",
+              "subtitle": "- 朴综星 2026.04.20 生日直播"
+            },
+            "zh-Hant": {
+              "title": "「ENHYPEN is ENHYPEN」",
+              "subtitle": "- 朴綜星 26.04.20 生日直播"
+            },
+            "es": {
+              "title": "「ENHYPEN is ENHYPEN」",
+              "subtitle": "JAY"
+            },
+            "pt": {
+              "title": "「ENHYPEN is ENHYPEN」",
+              "subtitle": "JAY"
+            }
+          }
+        },
+        {
+          "id": "q_223",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I don’t want to be an intimidating wall of overwhelming talent. I want to be a lighthouse for others on the path toward their dreams—because everything I have today was built, little by little, through hard work and sweat.",
+              "subtitle": "JAY"
+            },
+            "zh-Hans": {
+              "title": "「我不想成为那种天赋满溢、令人望而生畏的高墙，而是想成为别人追梦路上的灯塔——因为走到今天，我所拥有的一切，都是用汗水一点一滴筑成的。」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「我不想成為那種天賦滿溢、令人望而生畏的高牆，而是想成為別人追夢路上的燈塔——因為走到今天，我所擁有的一切，都是用汗水一點一滴築成的。」",
+              "subtitle": "- 朴綜星"
+            },
+            "es": {
+              "title": "No quiero ser un muro intimidante de talento desbordante. Quiero ser un faro para quienes persiguen sus sueños, porque todo lo que tengo hoy lo he construido poco a poco con esfuerzo y sudor.",
+              "subtitle": "JAY"
+            },
+            "pt": {
+              "title": "Não quero ser um muro intimidador de talento transbordante. Quero ser um farol no caminho daqueles que perseguem seus sonhos, porque tudo o que tenho hoje foi construído, pouco a pouco, com esforço e suor.",
+              "subtitle": "JAY"
+            }
+          }
+        },
+        {
+          "id": "q_224",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In this vast universe, our lives are no more than tiny specks of dust. If that’s the case, then even if life is brief, I want to live it as colorfully as I can.",
+              "subtitle": "JAY 26.04.22 WVS"
+            },
+            "zh-Hans": {
+              "title": "「在这浩瀚的宇宙中，我们过的不过是如尘埃般渺小的人生。\n既然如此，哪怕短暂，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴综星 26.04.22 WVS"
+            },
+            "zh-Hant": {
+              "title": "「在這浩瀚的宇宙中，我們過的不過是如塵埃般渺小的人生。\n既然如此，哪怕短暫，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴綜星 26.04.22 WVS"
+            },
+            "es": {
+              "title": "En este vasto universo, nuestras vidas no son más que diminutas motas de polvo. Si es así, aunque la vida sea breve, quiero vivirla de la forma más colorida posible.",
+              "subtitle": "JAY 26.04.22 WVS"
+            },
+            "pt": {
+              "title": "Neste vasto universo, nossas vidas não passam de pequenos grãos de poeira. Sendo assim, mesmo que a vida seja breve, quero vivê-la da forma mais colorida possível.",
+              "subtitle": "JAY 26.04.22 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_232",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t be someone who only “looks happy.” Let’s become people who are truly happy together!!",
+              "subtitle": "JAY"
+            },
+            "zh-Hans": {
+              "title": "「不要成为那个看起来很幸福的人，我们一起成为真正幸福的人吧！！」",
+              "subtitle": "- 朴综星 25.12.13 WVS"
+            },
+            "zh-Hant": {
+              "title": "「不要成為那個看起來很幸福的人，我們一起成為真正幸福的人吧！！」",
+              "subtitle": "- 朴綜星 25.12.13 WVS"
+            },
+            "es": {
+              "title": "No seamos personas que solo “parecen felices”. ¡¡Seamos verdaderamente felices juntos!!",
+              "subtitle": "JAY"
+            },
+            "pt": {
+              "title": "Não sejamos pessoas que apenas “parecem felizes”. Vamos ser verdadeiramente felizes juntos!!",
+              "subtitle": "JAY"
+            }
+          }
+        },
+        {
+          "id": "q_220",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Opportunities aren’t something you catch. Keep raising your hand, and eventually, an opportunity will find you.",
+              "subtitle": "JAY"
+            },
+            "zh-Hans": {
+              "title": "「机会不是靠抓住的，而是不停地举手，这样自然就会被机会选中。」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「機會不是靠抓住的，而是不停地舉手，這樣自然就會被機會選中。」",
+              "subtitle": "- 朴綜星"
+            },
+            "es": {
+              "title": "Las oportunidades no son algo que se atrapa. Sigue levantando la mano y, tarde o temprano, una oportunidad te encontrará.",
+              "subtitle": "JAY"
+            },
+            "pt": {
+              "title": "Oportunidades não são algo que você simplesmente agarra. Continue levantando a mão e, naturalmente, uma oportunidade encontrará você.",
+              "subtitle": "JAY"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "enhypen_jake",
       "name": "JAKE",
       "quotes": [
+        {
+          "id": "q_228",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Meeting ENGENE is the greatest miracle of our lives. We are who we are today because ENGENE is here with us.",
+              "subtitle": "JAKE"
+            },
+            "zh-Hans": {
+              "title": "「能够遇见 ENGENE，是我们生命中最大的奇迹。\n因为有 ENGENE 的存在，才有了现在的我们。」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「能夠遇見 ENGENE，是我們生命中最大的奇蹟。\n因為有 ENGENE 的存在，才有了現在的我們。」",
+              "subtitle": "- 沈載倫"
+            },
+            "es": {
+              "title": "Conocer a ENGENE es el mayor milagro de nuestras vidas. Somos quienes somos hoy gracias a que ENGENE está a nuestro lado.",
+              "subtitle": "JAKE"
+            },
+            "pt": {
+              "title": "Conhecer o ENGENE é o maior milagre das nossas vidas. Somos quem somos hoje porque o ENGENE está ao nosso lado.",
+              "subtitle": "JAKE"
+            }
+          }
+        },
         {
           "id": "q_076",
           "emojiPath": "",
@@ -55,11 +252,11 @@
             },
             "zh-Hans": {
               "title": "「我觉得世界上的所有人都很美丽大家都有各自的魅力，就算不是外在的部分」",
-              "subtitle": "- 沈载伦"
+              "subtitle": "- 沈载伦 WVS LIVE"
             },
             "zh-Hant": {
               "title": "「我覺得世界上的所有人都很美麗\n大家都有各自的魅力，就算不是外在的部分」",
-              "subtitle": "- 沈載倫"
+              "subtitle": "- 沈載倫 WVS LIVE"
             },
             "es": {
               "title": "Creo que todas las personas del mundo son hermosas. Cada una tiene su propio encanto, incluso más allá de la apariencia.",
@@ -67,6 +264,32 @@
             },
             "pt": {
               "title": "Eu acho que todas as pessoas do mundo são bonitas. Cada uma tem seu próprio encanto, mesmo além da aparência.",
+              "subtitle": "JAKE"
+            }
+          }
+        },
+        {
+          "id": "q_221",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Be happy in every moment.",
+              "subtitle": "JAKE"
+            },
+            "zh-Hans": {
+              "title": "「每个瞬间都要幸福。」",
+              "subtitle": "- 沈载伦 爱豆驿站线下卡"
+            },
+            "zh-Hant": {
+              "title": "「每個瞬間都要幸福。」",
+              "subtitle": "- 沈載倫 愛豆驛站線下卡"
+            },
+            "es": {
+              "title": "Sé feliz en cada momento.",
+              "subtitle": "JAKE"
+            },
+            "pt": {
+              "title": "Seja feliz em cada momento.",
               "subtitle": "JAKE"
             }
           }
@@ -103,6 +326,72 @@
               "subtitle": "SUNGHOON"
             }
           }
+        },
+        {
+          "id": "q_225",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "To ENGENE: SUNGHOON’s love for ENGENE is a love that wraps the long winter nights in warmth.",
+              "subtitle": "SUNGHOON"
+            },
+            "zh-Hans": {
+              "title": "「To ENGENE：用暖意包裹漫长冬夜的爱，是成训对 ENGENE 的感情。」",
+              "subtitle": "- 朴成训 B-day Paper"
+            },
+            "zh-Hant": {
+              "title": "「To ENGENE：用暖意包裹漫長冬夜的愛，是成訓對 ENGENE 的感情。」",
+              "subtitle": "- 朴成訓 B-day Paper"
+            },
+            "es": {
+              "title": "Para ENGENE: El amor de SUNGHOON por ENGENE es un amor que envuelve de calidez las largas noches de invierno.",
+              "subtitle": "SUNGHOON"
+            },
+            "pt": {
+              "title": "Para ENGENE: O amor de SUNGHOON pelo ENGENE é um amor que envolve as longas noites de inverno em calor e aconchego.",
+              "subtitle": "SUNGHOON"
+            }
+          }
+        },
+        {
+          "id": "q_226",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You can be confident. Don’t doubt yourself, and keep loving yourself with conviction.",
+              "subtitle": "SUNGHOON"
+            },
+            "zh-Hans": {
+              "title": "「你可以拥有自信，不必怀疑自己，请坚定地爱自己吧。」",
+              "subtitle": "- 朴成训 ELLE Korea"
+            },
+            "zh-Hant": {
+              "title": "「你可以擁有自信，不必懷疑自己，請堅定地愛自己吧。」",
+              "subtitle": "- 朴成訓 ELLE Korea"
+            },
+            "es": {
+              "title": "Puedes tener confianza en ti mismo. No dudes de ti y sigue amándote con firmeza.",
+              "subtitle": "SUNGHOON"
+            },
+            "pt": {
+              "title": "Você pode ter confiança em si mesmo. Não duvide de si e continue se amando com convicção.",
+              "subtitle": "SUNGHOON"
+            }
+          }
+        },
+        {
+          "id": "q_227",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我是为了遇见 ENGENE 而诞生的。」",
+              "subtitle": "- 朴成训 日本回归 Showcase"
+            },
+            "zh-Hant": {
+              "title": "「我是為了遇見 ENGENE 而誕生的。」",
+              "subtitle": "- 朴成訓 日本回歸 Showcase"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -110,13 +399,80 @@
     {
       "id": "enhypen_sunoo",
       "name": "SUNOO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_230",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t push yourselves too hard to keep running. Even if it’s just for a little while, make sure to save some time for yourselves!",
+              "subtitle": "SUNOO"
+            },
+            "zh-Hans": {
+              "title": "「恩静们，不要太勉强自己一直往前跑，哪怕只有一点点，也要留些属于自己的时间！」",
+              "subtitle": "- 金善禹"
+            },
+            "zh-Hant": {
+              "title": "「恩靜們，不要太勉強自己一直往前跑，哪怕只有一點點，也要留些屬於自己的時間！」",
+              "subtitle": "- 金善禹"
+            },
+            "es": {
+              "title": "No se esfuercen demasiado por seguir corriendo. Aunque sea solo un ratito, asegúrense de guardar algo de tiempo para ustedes mismos.",
+              "subtitle": "SUNOO"
+            },
+            "pt": {
+              "title": "Não se esforcem demais para continuar correndo. Mesmo que seja só por um tempinho, reservem um pouco de tempo para vocês mesmos!",
+              "subtitle": "SUNOO"
+            }
+          }
+        },
+        {
+          "id": "q_222",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "“地球毁灭前三十分钟要做什么？”\n金善禹：哦，我要开直播，对 ENGENE 说谢谢你们，我爱你们。",
+              "subtitle": "- 金善禹"
+            },
+            "zh-Hant": {
+              "title": "“地球毀滅前三十分鐘要做什麼？”\n金善禹：喔，我要開直播，對 ENGENE 說謝謝你們，我愛你們。",
+              "subtitle": "- 金善禹"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "enhypen_jungwon",
       "name": "JUNGWON",
       "quotes": [
+        {
+          "id": "q_234",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Because I have no other choice. All I have is ENGENE.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「因为我别无选择，我只有 ENGENE」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「因為我別無選擇，我只有 ENGENE」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Porque no tengo otra opción. Solo tengo a ENGENE.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
+              "subtitle": "JUNGWON"
+            }
+          }
+        },
         {
           "id": "q_152",
           "emojiPath": "",
@@ -132,28 +488,54 @@
           }
         },
         {
+          "id": "q_235",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Let’s walk together, hand in hand with ENGENE. Don’t let go, okay? Remember—we must never, ever, ever let go of each other.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「和 ENGENE 牵着手一起走，不准放手哦，记住了吗？\n我们绝对、绝对、绝对不要松手哦。」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「和 ENGENE 牽著手一起走，不准放手喔，記住了嗎？\n我們絕對、絕對、絕對不要鬆手喔。」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Caminemos juntos de la mano de ENGENE. No nos soltemos, ¿de acuerdo? Recuérdenlo: nunca, nunca, nunca debemos soltarnos.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Vamos caminhar juntos de mãos dadas com o ENGENE. Não vamos soltar, está bem? Lembrem-se: nunca, nunca, nunca devemos soltar as mãos.",
+              "subtitle": "JUNGWON"
+            }
+          }
+        },
+        {
           "id": "q_039",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Happiness isn’t far away.",
-              "subtitle": "JUNGWON · 2025.05.29"
+              "subtitle": "JUNGWON"
             },
             "zh-Hans": {
               "title": "「幸福在不远处」",
-              "subtitle": "- 梁祯元 20260529 《虽没菜》"
+              "subtitle": "- 梁祯元 26.05.29 虽没菜"
             },
             "zh-Hant": {
               "title": "「幸福在不遠處」",
-              "subtitle": "- 梁禎元 20260529 《雖沒菜》"
+              "subtitle": "- 梁禎元 26.05.29雖沒菜"
             },
             "es": {
               "title": "La felicidad no está lejos.",
-              "subtitle": "JUNGWON · 2025.05.29"
+              "subtitle": "JUNGWON"
             },
             "pt": {
               "title": "A felicidade não está longe.",
-              "subtitle": "JUNGWON · 2025.05.29"
+              "subtitle": "JUNGWON"
             }
           }
         }
@@ -186,6 +568,32 @@
             },
             "pt": {
               "title": "Vista um jeans. A juventude começa agora.",
+              "subtitle": "NI-KI"
+            }
+          }
+        },
+        {
+          "id": "q_229",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "ENGENE, I’ve got your back.",
+              "subtitle": "NI-KI"
+            },
+            "zh-Hans": {
+              "title": "「ENGENE，我罩你。」",
+              "subtitle": "- 西村力 中文卡"
+            },
+            "zh-Hant": {
+              "title": "「ENGENE，我罩你。」",
+              "subtitle": "- 西村力 中文卡"
+            },
+            "es": {
+              "title": "ENGENE, yo te cuido.",
+              "subtitle": "NI-KI"
+            },
+            "pt": {
+              "title": "ENGENE, eu cuido de você.",
               "subtitle": "NI-KI"
             }
           }
