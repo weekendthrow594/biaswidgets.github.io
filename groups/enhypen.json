@@ -7,54 +7,86 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_224",
+          "id": "q_236",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "In this vast universe, our lives are no more than tiny specks of dust. If that’s the case, then even if life is brief, I want to live it as colorfully as I can.",
-              "subtitle": "JAY 26.04.22 WVS"
-            },
             "zh-Hans": {
-              "title": "「在这浩瀚的宇宙中，我们过的不过是如尘埃般渺小的人生。\n既然如此，哪怕短暂，我也更想活得多姿多彩。」",
-              "subtitle": "- 朴综星 26.04.22 WVS"
+              "title": "「爱蒸者蒸蒸日上」",
+              "subtitle": "- 梁祯元"
             },
             "zh-Hant": {
-              "title": "「在這浩瀚的宇宙中，我們過的不過是如塵埃般渺小的人生。\n既然如此，哪怕短暫，我也更想活得多姿多彩。」",
-              "subtitle": "- 朴綜星 26.04.22 WVS"
-            },
-            "es": {
-              "title": "En este vasto universo, nuestras vidas no son más que diminutas motas de polvo. Si es así, aunque la vida sea breve, quiero vivirla de la forma más colorida posible.",
-              "subtitle": "JAY 26.04.22 WVS"
-            },
-            "pt": {
-              "title": "Neste vasto universo, nossas vidas não passam de pequenos grãos de poeira. Sendo assim, mesmo que a vida seja breve, quero vivê-la da forma mais colorida possível.",
-              "subtitle": "JAY 26.04.22 WVS"
+              "title": "「愛蒸者蒸蒸日上」",
+              "subtitle": "- 梁禎元"
             }
           }
         },
         {
-          "id": "q_077",
+          "id": "q_237",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "I think everyone in the world is beautiful. Everyone has their own charm, even beyond their appearance.",
-              "subtitle": "JAKE"
-            },
             "zh-Hans": {
-              "title": "「我觉得世界上的所有人都很美丽大家都有各自的魅力，就算不是外在的部分」",
+              "title": "「属于你的幸运星」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「屬於妳的幸運星」",
+              "subtitle": "- 朴綜星"
+            }
+          }
+        },
+        {
+          "id": "q_238",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是我的幸允符」",
               "subtitle": "- 沈载伦"
             },
             "zh-Hant": {
-              "title": "「我覺得世界上的所有人都很美麗\n大家都有各自的魅力，就算不是外在的部分」",
+              "title": "「你是我的幸允符」",
               "subtitle": "- 沈載倫"
+            }
+          }
+        },
+        {
+          "id": "q_239",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是为爱而生的人」",
+              "subtitle": "- 朴成训"
             },
-            "es": {
-              "title": "Creo que todas las personas del mundo son hermosas. Cada una tiene su propio encanto, incluso más allá de la apariencia.",
-              "subtitle": "JAKE"
+            "zh-Hant": {
+              "title": "「妳是為愛而生的人」",
+              "subtitle": "- 朴成訓"
+            }
+          }
+        },
+        {
+          "id": "q_240",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论下禹晴天我豆一直在」",
+              "subtitle": "- 金善禹"
             },
-            "pt": {
-              "title": "Eu acho que todas as pessoas do mundo são bonitas. Cada uma tem seu próprio encanto, mesmo além da aparência.",
-              "subtitle": "JAKE"
+            "zh-Hant": {
+              "title": "「無論下禹晴天我豆一直在」",
+              "subtitle": "- 金善禹"
+            }
+          }
+        },
+        {
+          "id": "q_241",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「NI就是我的天使」",
+              "subtitle": "- 西村力"
+            },
+            "zh-Hant": {
+              "title": "「NI就是我的天使」",
+              "subtitle": "- 西村力"
             }
           }
         }
@@ -75,6 +107,20 @@
             },
             "zh-Hant": {
               "title": "「我的工作永遠是第一位的，然後是我的健康。\n我的工作就是讓 ENGENE 們開心！愛比痛苦更強大，這是科學。」",
+              "subtitle": "- 朴綜星"
+            }
+          }
+        },
+        {
+          "id": "q_237",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「属于你的幸运星」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「屬於妳的幸運星」",
               "subtitle": "- 朴綜星"
             }
           }
@@ -217,6 +263,20 @@
       "name": "JAKE",
       "quotes": [
         {
+          "id": "q_238",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈載倫"
+            }
+          }
+        },
+        {
           "id": "q_228",
           "emojiPath": "",
           "i18n": {
@@ -328,6 +388,20 @@
           }
         },
         {
+          "id": "q_239",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是为爱而生的人」",
+              "subtitle": "- 朴成训"
+            },
+            "zh-Hant": {
+              "title": "「妳是為愛而生的人」",
+              "subtitle": "- 朴成訓"
+            }
+          }
+        },
+        {
           "id": "q_225",
           "emojiPath": "",
           "i18n": {
@@ -401,6 +475,20 @@
       "name": "SUNOO",
       "quotes": [
         {
+          "id": "q_240",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论下禹晴天我豆一直在」",
+              "subtitle": "- 金善禹"
+            },
+            "zh-Hant": {
+              "title": "「無論下禹晴天我豆一直在」",
+              "subtitle": "- 金善禹"
+            }
+          }
+        },
+        {
           "id": "q_230",
           "emojiPath": "",
           "i18n": {
@@ -448,27 +536,41 @@
       "name": "JUNGWON",
       "quotes": [
         {
-          "id": "q_234",
+          "id": "q_236",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "Because I have no other choice. All I have is ENGENE.",
-              "subtitle": "JUNGWON"
-            },
             "zh-Hans": {
-              "title": "「因为我别无选择，我只有 ENGENE」",
+              "title": "「爱蒸者蒸蒸日上」",
               "subtitle": "- 梁祯元"
             },
             "zh-Hant": {
-              "title": "「因為我別無選擇，我只有 ENGENE」",
+              "title": "「愛蒸者蒸蒸日上」",
               "subtitle": "- 梁禎元"
+            }
+          }
+        },
+        {
+          "id": "q_039",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Happiness isn’t far away.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「幸福在不远处」",
+              "subtitle": "- 梁祯元 26.05.29 虽没菜"
+            },
+            "zh-Hant": {
+              "title": "「幸福在不遠處」",
+              "subtitle": "- 梁禎元 26.05.29雖沒菜"
             },
             "es": {
-              "title": "Porque no tengo otra opción. Solo tengo a ENGENE.",
+              "title": "La felicidad no está lejos.",
               "subtitle": "JUNGWON"
             },
             "pt": {
-              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
+              "title": "A felicidade não está longe.",
               "subtitle": "JUNGWON"
             }
           }
@@ -514,27 +616,27 @@
           }
         },
         {
-          "id": "q_039",
+          "id": "q_234",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Happiness isn’t far away.",
+              "title": "Because I have no other choice. All I have is ENGENE.",
               "subtitle": "JUNGWON"
             },
             "zh-Hans": {
-              "title": "「幸福在不远处」",
-              "subtitle": "- 梁祯元 26.05.29 虽没菜"
+              "title": "「因为我别无选择，我只有 ENGENE」",
+              "subtitle": "- 梁祯元"
             },
             "zh-Hant": {
-              "title": "「幸福在不遠處」",
-              "subtitle": "- 梁禎元 26.05.29雖沒菜"
+              "title": "「因為我別無選擇，我只有 ENGENE」",
+              "subtitle": "- 梁禎元"
             },
             "es": {
-              "title": "La felicidad no está lejos.",
+              "title": "Porque no tengo otra opción. Solo tengo a ENGENE.",
               "subtitle": "JUNGWON"
             },
             "pt": {
-              "title": "A felicidade não está longe.",
+              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
               "subtitle": "JUNGWON"
             }
           }
@@ -546,6 +648,20 @@
       "id": "enhypen_niki",
       "name": "NI-KI",
       "quotes": [
+        {
+          "id": "q_241",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「NI就是我的天使」",
+              "subtitle": "- 西村力"
+            },
+            "zh-Hant": {
+              "title": "「NI就是我的天使」",
+              "subtitle": "- 西村力"
+            }
+          }
+        },
         {
           "id": "q_153",
           "emojiPath": "",
