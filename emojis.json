@@ -51,6 +51,18 @@
     ]
   },
   {
+    "id": "riize",
+    "name": "RIIZE",
+    "header": [
+      "RIIZE_header_4",
+      "RIIZE_header_3",
+      "RIIZE_header_5",
+      "RIIZE_header_2",
+      "RIIZE_header_1",
+      "RIIZE_header_6"
+    ]
+  },
+  {
     "id": "aespa",
     "name": "AESPA",
     "header": [
@@ -195,18 +207,6 @@
     ]
   },
   {
-    "id": "riize",
-    "name": "RIIZE",
-    "header": [
-      "RIIZE_header_4",
-      "RIIZE_header_3",
-      "RIIZE_header_5",
-      "RIIZE_header_2",
-      "RIIZE_header_1",
-      "RIIZE_header_6"
-    ]
-  },
-  {
     "id": "ive",
     "name": "IVE",
     "header": [
@@ -241,6 +241,20 @@
       "H2H_header_6",
       "H2H_header_7",
       "H2H_header_8"
+    ]
+  },
+  {
+    "id": "cortis",
+    "name": "CORTIS",
+    "ball": [
+      "CORTIS_ball_1",
+      "CORTIS_ball_3",
+      "CORTIS_ball_8",
+      "CORTIS_ball_7",
+      "CORTIS_ball_6",
+      "CORTIS_ball_5",
+      "CORTIS_ball_4",
+      "CORTIS_ball_2"
     ]
   }
 ]
