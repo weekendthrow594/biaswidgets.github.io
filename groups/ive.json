@@ -17,7 +17,50 @@
     {
       "id": "ive_yujin",
       "name": "YU-JIN",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_243",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「最近不管是什么，只要开始了，我就会竭尽全力、认真对待，为了把它做好而努力。」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「最近不管是什麼，只要開始了，我就會竭盡全力、認真對待，為了把它做好而努力。」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_245",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「早点起床，这样才能跟上你的梦想。」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「早點起床，這樣才能跟上你的夢想。」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_244",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在这样的我就很好。」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「現在這樣的我就很好。」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -29,7 +72,22 @@
     {
       "id": "ive_wonyoung",
       "name": "WON-YOUNG",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_242",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「Defined by none，forever young」",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "「Defined by none，forever young」",
+              "subtitle": "- 張員瑛"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
