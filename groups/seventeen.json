@@ -7,6 +7,34 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_248",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「只要各自努力生活，再次相见的时刻很快就会到来。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
+              "subtitle": "- 李硕珉"
+            },
+            "zh-Hant": {
+              "title": "「只要各自努力生活，再次相見的時刻很快就會到來。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
+              "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
+          "id": "q_247",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「会成为更好的自己，我去去就回。」",
+              "subtitle": "- 李硕珉"
+            },
+            "zh-Hant": {
+              "title": "「會成為更好的自己，我去去就回。」",
+              "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
           "id": "q_194",
           "emojiPath": "",
           "i18n": {
@@ -30,11 +58,11 @@
             },
             "zh-Hans": {
               "title": "「期待我们笑着再见的那一天。」",
-              "subtitle": "- DK"
+              "subtitle": "- 李硕珉"
             },
             "zh-Hant": {
               "title": "「期待我們笑著再見的那一天。」",
-              "subtitle": "- DK"
+              "subtitle": "- 李碩珉"
             },
             "es": {
               "title": "Espero con ilusión el día en que volvamos a encontrarnos sonriendo.",
@@ -43,46 +71,6 @@
             "pt": {
               "title": "Estou ansioso pelo dia em que nos encontraremos novamente com um sorriso.",
               "subtitle": "DK"
-            }
-          }
-        },
-        {
-          "id": "q_005",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Happiness is spending time freely with the people you like ✨",
-              "subtitle": "S.Coups"
-            },
-            "zh-Hans": {
-              "title": "「幸福就是和喜欢的人一起浪费时间✨」",
-              "subtitle": "- 崔胜哲"
-            },
-            "zh-Hant": {
-              "title": "「幸福就是和喜歡的人一起浪費時間✨」",
-              "subtitle": "- 崔勝哲"
-            },
-            "es": {
-              "title": "La felicidad es pasar el tiempo sin prisa con las personas que quieres ✨",
-              "subtitle": "S.Coups"
-            },
-            "pt": {
-              "title": "Felicidade é passar o tempo sem pressa com as pessoas de quem você gosta ✨",
-              "subtitle": "S.Coups"
-            }
-          }
-        },
-        {
-          "id": "q_104",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「无论你的旅程接下来带你去哪里，请记得，SEVENTEEN 就在这里。」",
-              "subtitle": "- 洪知秀 UNESCO"
-            },
-            "zh-Hant": {
-              "title": "「無論你的旅程接下來帶你去哪裡，\n請記得，SEVENTEEN 就在這裡。」",
-              "subtitle": "- 洪知秀 UNESCO"
             }
           }
         }
@@ -880,6 +868,34 @@
       "name": "DK",
       "quotes": [
         {
+          "id": "q_248",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「只要各自努力生活，再次相见的时刻很快就会到来。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
+              "subtitle": "- 李硕珉"
+            },
+            "zh-Hant": {
+              "title": "「只要各自努力生活，再次相見的時刻很快就會到來。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
+              "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
+          "id": "q_247",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「会成为更好的自己，我去去就回。」",
+              "subtitle": "- 李硕珉"
+            },
+            "zh-Hant": {
+              "title": "「會成為更好的自己，我去去就回。」",
+              "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
           "id": "q_205",
           "emojiPath": "",
           "i18n": {
@@ -889,11 +905,11 @@
             },
             "zh-Hans": {
               "title": "「期待我们笑着再见的那一天。」",
-              "subtitle": "- DK"
+              "subtitle": "- 李硕珉"
             },
             "zh-Hant": {
               "title": "「期待我們笑著再見的那一天。」",
-              "subtitle": "- DK"
+              "subtitle": "- 李碩珉"
             },
             "es": {
               "title": "Espero con ilusión el día en que volvamos a encontrarnos sonriendo.",
@@ -915,11 +931,11 @@
             },
             "zh-Hans": {
               "title": "「我笑的时候，希望你们也能跟着笑」",
-              "subtitle": "- DK"
+              "subtitle": "- 李硕珉"
             },
             "zh-Hant": {
               "title": "「我笑的時候，希望你們也能跟著笑」",
-              "subtitle": "- DK"
+              "subtitle": "- 李碩珉"
             },
             "es": {
               "title": "Cuando yo sonría, espero que ustedes también puedan sonreír conmigo.",
