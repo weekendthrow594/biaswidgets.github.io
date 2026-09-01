@@ -168,6 +168,32 @@
               "subtitle": "JAMES"
             }
           }
+        },
+        {
+          "id": "q_246",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「提醒自己 🏒\n在混亂中找到平靜。」",
+              "subtitle": "- 赵雨凡"
+            },
+            "zh-Hant": {
+              "title": "「提醒自己 🏒\n在混亂中找到內心的平靜。」",
+              "subtitle": "- 趙雨凡"
+            },
+            "es": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            }
+          }
         }
       ],
       "countdowns": []
