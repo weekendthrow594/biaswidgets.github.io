@@ -5,29 +5,209 @@
     {
       "id": "ive_today",
       "name": "TODAY",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_252",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「不管是谁，擅长做某件事的样子都很帅气，所以希望你也能全力以赴！Fighting！」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「不管是誰，擅長做某件事的樣子都很帥氣，所以希望你也能全力以赴！\nFighting！」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_251",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "From a narrow perspective, things can seem enormous. But when you take a step back, you’ll realize they’re actually as tiny as a speck of dust.",
+              "subtitle": "WONYOUNG"
+            },
+            "zh-Hans": {
+              "title": "「在狭窄的视角里，事情会显得无比巨大；但当你退后一步，就会发现它其实渺小得如同灰尘一般。」",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "「在狹窄的視角裡，事情會顯得無比巨大；但當你退後一步，就會發現它其實渺小得如同灰塵一般。」",
+              "subtitle": "- 張員瑛"
+            },
+            "es": {
+              "title": "Desde una perspectiva limitada, las cosas pueden parecer enormes. Pero cuando das un paso atrás, te das cuenta de que en realidad son tan pequeñas como una mota de polvo.",
+              "subtitle": "WONYOUNG"
+            },
+            "pt": {
+              "title": "De uma perspectiva limitada, as coisas podem parecer enormes. Mas, quando você dá um passo para trás, percebe que, na verdade, são tão pequenas quanto um grão de poeira.",
+              "subtitle": "WONYOUNG"
+            }
+          }
+        },
+        {
+          "id": "q_242",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            },
+            "zh-Hans": {
+              "title": "「Defined by none，forever young」",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "「Defined by none，forever young」",
+              "subtitle": "- 張員瑛"
+            },
+            "es": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            },
+            "pt": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            }
+          }
+        },
+        {
+          "id": "q_258",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「王子？不需要。\n到现在为止，没有王子我也过得很好，以后也会这样！没有王子也没关系！」",
+              "subtitle": "- 直井怜"
+            },
+            "zh-Hant": {
+              "title": "「王子？不需要。\n到現在為止，沒有王子我也過得很好，以後也會這樣！沒有王子也沒關係！」",
+              "subtitle": "- 直井怜"
+            }
+          }
+        },
+        {
+          "id": "q_266",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想法很多的时候，一边做些别的事情、一边让自己休息一下也挺好的。不要太勉强自己了，加油！」",
+              "subtitle": "- 金秋天"
+            },
+            "zh-Hant": {
+              "title": "「想法很多的時候，一邊做些別的事情、一邊讓自己休息一下也挺好的。不要太勉強自己了，加油！」",
+              "subtitle": "- 金秋天"
+            }
+          }
+        },
+        {
+          "id": "q_259",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在就忘掉过去，活在当下吧。和那些辛苦的事情说拜拜，从明天开始重新加油生活吧！！！！」",
+              "subtitle": "- 金志垣"
+            },
+            "zh-Hant": {
+              "title": "「現在就忘掉過去，活在當下吧。和那些辛苦的事情說掰掰，從明天開始重新加油生活吧！！！！」",
+              "subtitle": "- 金志垣"
+            }
+          }
+        },
+        {
+          "id": "q_255",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我想成为虽然渺小，却闪闪发光的存在。」",
+              "subtitle": "- 李瑞"
+            },
+            "zh-Hant": {
+              "title": "「我想成為雖然渺小，卻閃閃發光的存在。」",
+              "subtitle": "- 李瑞"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "ive_gaeul",
       "name": "GAEUL",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_266",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想法很多的时候，一边做些别的事情、一边让自己休息一下也挺好的。不要太勉强自己了，加油！」",
+              "subtitle": "- 金秋天"
+            },
+            "zh-Hant": {
+              "title": "「想法很多的時候，一邊做些別的事情、一邊讓自己休息一下也挺好的。不要太勉強自己了，加油！」",
+              "subtitle": "- 金秋天"
+            }
+          }
+        },
+        {
+          "id": "q_265",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「休息并不代表停止，感到疲惫的时候，暂时休息一下也是一种方法。」",
+              "subtitle": "- 金秋天"
+            },
+            "zh-Hant": {
+              "title": "「休息並不代表停止，感到疲憊的時候，暫時休息一下也是一種方法。」",
+              "subtitle": "- 金秋天"
+            }
+          }
+        },
+        {
+          "id": "q_263",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「通往幸福的路，我所做的一切都是为此而做。\n即使是在无法确认方向的深邃大海中游泳，最终也是为了抵达幸福。」",
+              "subtitle": "- 金秋天"
+            },
+            "zh-Hant": {
+              "title": "「通往幸福的路，我所做的一切都是為此而做。\n即使是在無法確認方向的深邃大海中游泳，最終也是為了抵達幸福。」",
+              "subtitle": "- 金秋天"
+            }
+          }
+        },
+        {
+          "id": "q_264",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在有我站在你这边，所以没关系。每一天都会成为有意义的一天！\n就这样一点一点积累下去，你一定能做到自己想做的事情。」",
+              "subtitle": "- 金秋天"
+            },
+            "zh-Hant": {
+              "title": "「現在有我站在你這邊，所以沒關係。每一天都會成為有意義的一天！\n就這樣一點一點累積下去，你一定能做到自己想做的事情。」",
+              "subtitle": "- 金秋天"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "ive_yujin",
-      "name": "YU-JIN",
+      "name": "YU JIN",
       "quotes": [
         {
-          "id": "q_243",
+          "id": "q_252",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「最近不管是什么，只要开始了，我就会竭尽全力、认真对待，为了把它做好而努力。」",
+              "title": "「不管是谁，擅长做某件事的样子都很帅气，所以希望你也能全力以赴！Fighting！」",
               "subtitle": "- 安宥真"
             },
             "zh-Hant": {
-              "title": "「最近不管是什麼，只要開始了，我就會竭盡全力、認真對待，為了把它做好而努力。」",
+              "title": "「不管是誰，擅長做某件事的樣子都很帥氣，所以希望你也能全力以赴！\nFighting！」",
               "subtitle": "- 安俞真"
             }
           }
@@ -42,6 +222,34 @@
             },
             "zh-Hant": {
               "title": "「早點起床，這樣才能跟上你的夢想。」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_253",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「就算有点不顺利也没关系，世界不会因此而崩塌。」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「就算有點不順利也沒關係，世界不會因此而崩塌。」",
+              "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_243",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「最近不管是什么，只要开始了，我就会竭尽全力、认真对待，为了把它做好而努力。」",
+              "subtitle": "- 安宥真"
+            },
+            "zh-Hant": {
+              "title": "「最近不管是什麼，只要開始了，我就會竭盡全力、認真對待，為了把它做好而努力。」",
               "subtitle": "- 安俞真"
             }
           }
@@ -66,23 +274,132 @@
     {
       "id": "ive_rei",
       "name": "REI",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_258",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「王子？不需要。\n到现在为止，没有王子我也过得很好，以后也会这样！没有王子也没关系！」",
+              "subtitle": "- 直井怜"
+            },
+            "zh-Hant": {
+              "title": "「王子？不需要。\n到現在為止，沒有王子我也過得很好，以後也會這樣！沒有王子也沒關係！」",
+              "subtitle": "- 直井怜"
+            }
+          }
+        },
+        {
+          "id": "q_256",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「虽然很辛苦，但一边看着 IVE，一边努力吧！」",
+              "subtitle": "- 直井怜"
+            },
+            "zh-Hant": {
+              "title": "「雖然很辛苦，但一邊看著 IVE，一邊努力吧！」",
+              "subtitle": "- 直井怜"
+            }
+          }
+        },
+        {
+          "id": "q_257",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「也许明天会比今天更幸福，也有可能恰恰相反，但每一天都是有意义的。」",
+              "subtitle": "- 直井怜"
+            },
+            "zh-Hant": {
+              "title": "「也許明天會比今天更幸福，也有可能恰恰相反，但每一天都是有意義的。」",
+              "subtitle": "- 直井怜"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "ive_wonyoung",
-      "name": "WON-YOUNG",
+      "name": "WON YOUNG",
       "quotes": [
+        {
+          "id": "q_251",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "From a narrow perspective, things can seem enormous. But when you take a step back, you’ll realize they’re actually as tiny as a speck of dust.",
+              "subtitle": "WONYOUNG"
+            },
+            "zh-Hans": {
+              "title": "「在狭窄的视角里，事情会显得无比巨大；但当你退后一步，就会发现它其实渺小得如同灰尘一般。」",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "「在狹窄的視角裡，事情會顯得無比巨大；但當你退後一步，就會發現它其實渺小得如同灰塵一般。」",
+              "subtitle": "- 張員瑛"
+            },
+            "es": {
+              "title": "Desde una perspectiva limitada, las cosas pueden parecer enormes. Pero cuando das un paso atrás, te das cuenta de que en realidad son tan pequeñas como una mota de polvo.",
+              "subtitle": "WONYOUNG"
+            },
+            "pt": {
+              "title": "De uma perspectiva limitada, as coisas podem parecer enormes. Mas, quando você dá um passo para trás, percebe que, na verdade, são tão pequenas quanto um grão de poeira.",
+              "subtitle": "WONYOUNG"
+            }
+          }
+        },
         {
           "id": "q_242",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            },
             "zh-Hans": {
               "title": "「Defined by none，forever young」",
               "subtitle": "- 张元英"
             },
             "zh-Hant": {
               "title": "「Defined by none，forever young」",
+              "subtitle": "- 張員瑛"
+            },
+            "es": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            },
+            "pt": {
+              "title": "Defined by none，forever young",
+              "subtitle": "WONYOUNG"
+            }
+          }
+        },
+        {
+          "id": "q_249",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "“嗯，这个世界上就是会有这样的人啊。”\n可是，不是还有更多喜欢我的人吗？那这样就足够了啊。",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "“嗯，這個世界上就是會有這樣的人啊。”\n可是，不是還有更多喜歡我的人嗎？那這樣就足夠了啊。",
+              "subtitle": "- 張員瑛"
+            }
+          }
+        },
+        {
+          "id": "q_250",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果感到有些低落，我会把注意力放在仍然留存的那一点积极情绪上，并从其他美好的经历中获得继续前进的力量。」",
+              "subtitle": "- 张元英"
+            },
+            "zh-Hant": {
+              "title": "「如果感到有些低落，我會把注意力放在仍然留存的那一點積極情緒上，並從其他美好的經歷中獲得繼續前進的力量。」",
               "subtitle": "- 張員瑛"
             }
           }
@@ -93,13 +410,99 @@
     {
       "id": "ive_liz",
       "name": "LIZ",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_259",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在就忘掉过去，活在当下吧。和那些辛苦的事情说拜拜，从明天开始重新加油生活吧！！！！」",
+              "subtitle": "- 金志垣"
+            },
+            "zh-Hant": {
+              "title": "「現在就忘掉過去，活在當下吧。和那些辛苦的事情說掰掰，從明天開始重新加油生活吧！！！！」",
+              "subtitle": "- 金志垣"
+            }
+          }
+        },
+        {
+          "id": "q_262",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「因为我的未来，是由现在的我创造的。」",
+              "subtitle": "- 金志垣"
+            },
+            "zh-Hant": {
+              "title": "「因為我的未來，是由現在的我創造的。」",
+              "subtitle": "- 金志垣"
+            }
+          }
+        },
+        {
+          "id": "q_261",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果遇到辛苦、疲惫的事情，不要勉强自己一定要克服。\n就把它当作是每个人都会经历的事，希望你不要给自己太大的压力。」",
+              "subtitle": "- 金志垣"
+            },
+            "zh-Hant": {
+              "title": "「如果遇到辛苦、疲憊的事情，不要勉強自己一定要克服。\n就把它當作是每個人都會經歷的事，希望你不要給自己太大的壓力。」",
+              "subtitle": "- 金志垣"
+            }
+          }
+        },
+        {
+          "id": "q_260",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「因为是人，所以难免会失误。\n只凭一个视频，就否定至今积累的努力和实力是不好的。以后好好表现就可以了。」",
+              "subtitle": "- 金志垣"
+            },
+            "zh-Hant": {
+              "title": "「因為是人，所以難免會失誤。\n只憑一個影片，就否定至今累積的努力和實力是不好的。以後好好表現就可以了。」",
+              "subtitle": "- 金志垣"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "ive_leeseo",
       "name": "LEESEO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_255",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我想成为虽然渺小，却闪闪发光的存在。」",
+              "subtitle": "- 李瑞"
+            },
+            "zh-Hant": {
+              "title": "「我想成為雖然渺小，卻閃閃發光的存在。」",
+              "subtitle": "- 李瑞"
+            }
+          }
+        },
+        {
+          "id": "q_254",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我想一直待在你身边，成为你的力量。\n如果有让你感到疲惫的事情，我会紧紧抱住你；如果有开心的事情发生，我会和你一起笑得比世界上任何人都幸福。」",
+              "subtitle": "- 李瑞"
+            },
+            "zh-Hant": {
+              "title": "「我想一直待在你身邊，成為你的力量。\n如果有讓你感到疲憊的事情，我會緊緊抱住你；如果有開心的事情發生，我會和你一起笑得比世界上任何人都幸福。」",
+              "subtitle": "- 李瑞"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
