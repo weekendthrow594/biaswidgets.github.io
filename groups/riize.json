@@ -5,43 +5,218 @@
     {
       "id": "riize_today",
       "name": "TODAY",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_267",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不管昨天、今天还是明天， \n理所当然要和BRIIZE在一起， \n自愿守护BRIIZE一辈子！",
+              "subtitle": "- 大崎将太郎"
+            },
+            "zh-Hant": {
+              "title": "不管昨天、今天還是明天，\n理所當然都要和 BRIIZE 在一起，\n自願守護 BRIIZE 一輩子！",
+              "subtitle": "- 大崎將太郎"
+            }
+          }
+        },
+        {
+          "id": "q_268",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "BRIIZE！ \n理理我嘛～ \n最喜欢，最离不开BRIIZE啦～！",
+              "subtitle": "- 宋银硕"
+            },
+            "zh-Hant": {
+              "title": "BRIIZE！\n理理我嘛～\n最喜歡、最離不開 BRIIZE 啦～！",
+              "subtitle": "- 宋恩奭"
+            }
+          }
+        },
+        {
+          "id": "q_269",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不好意思，我无可救药的爱上了BRIIZE，\n里里外外，脑海里装的都是BRIIZE，\n只喜欢BRIIZE",
+              "subtitle": "- 郑成灿"
+            },
+            "zh-Hant": {
+              "title": "不好意思，我無可救藥的愛上了BRIIZE，\n裡裡外外，腦海裡裝的都是BRIIZE，\n只喜歡BRIIZE",
+              "subtitle": "- 鄭成燦"
+            }
+          }
+        },
+        {
+          "id": "q_270",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "BRIIZE！\n离我近一点\n仔细听，你是我的唯一",
+              "subtitle": "- 朴元彬"
+            },
+            "zh-Hant": {
+              "title": "BRIIZE！\n離我近一點\n仔細聽，你是我的唯一",
+              "subtitle": "- 朴元彬"
+            }
+          }
+        },
+        {
+          "id": "q_271",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "bling bling bling bling是我，BRIIZE在干嘛\n离开你的每一秒钟都觉得好漫长，\n自始至终，我的眼里只有BRIIZE",
+              "subtitle": "- 李炤熙"
+            },
+            "zh-Hant": {
+              "title": "bling bling bling bling是我，BRIIZE在幹嘛\n離開你的每一秒鐘都覺得好漫長，\n自始至終，我的眼裡只有BRIIZE",
+              "subtitle": "- 李炤熙"
+            }
+          }
+        },
+        {
+          "id": "q_272",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不行，BRIIZE你只可以看我，\n立刻向我保证，\n只和我好噢～！",
+              "subtitle": "- 李灿荣"
+            },
+            "zh-Hant": {
+              "title": "不行，BRIIZE你只可以看我，\n立刻向我保證，\n只和我好噢～！",
+              "subtitle": "- 李燦榮"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Shotaro",
       "name": "SHOTARO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_267",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不管昨天、今天还是明天， \n理所当然要和BRIIZE在一起， \n自愿守护BRIIZE一辈子！",
+              "subtitle": "- 大崎将太郎"
+            },
+            "zh-Hant": {
+              "title": "不管昨天、今天還是明天，\n理所當然都要和 BRIIZE 在一起，\n自願守護 BRIIZE 一輩子！",
+              "subtitle": "- 大崎將太郎"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Eunseok",
       "name": "EUNSEOK",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_268",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "BRIIZE！ \n理理我嘛～ \n最喜欢，最离不开BRIIZE啦～！",
+              "subtitle": "- 宋银硕"
+            },
+            "zh-Hant": {
+              "title": "BRIIZE！\n理理我嘛～\n最喜歡、最離不開 BRIIZE 啦～！",
+              "subtitle": "- 宋恩奭"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Sungchan",
       "name": "SUNGCHAN",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_269",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不好意思，我无可救药的爱上了BRIIZE，\n里里外外，脑海里装的都是BRIIZE，\n只喜欢BRIIZE",
+              "subtitle": "- 郑成灿"
+            },
+            "zh-Hant": {
+              "title": "不好意思，我無可救藥的愛上了BRIIZE，\n裡裡外外，腦海裡裝的都是BRIIZE，\n只喜歡BRIIZE",
+              "subtitle": "- 鄭成燦"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Wonbin",
       "name": "WONBIN",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_270",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "BRIIZE！\n离我近一点\n仔细听，你是我的唯一",
+              "subtitle": "- 朴元彬"
+            },
+            "zh-Hant": {
+              "title": "BRIIZE！\n離我近一點\n仔細聽，你是我的唯一",
+              "subtitle": "- 朴元彬"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Sohee",
       "name": "SOHEE",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_271",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "bling bling bling bling是我，BRIIZE在干嘛\n离开你的每一秒钟都觉得好漫长，\n自始至终，我的眼里只有BRIIZE",
+              "subtitle": "- 李炤熙"
+            },
+            "zh-Hant": {
+              "title": "bling bling bling bling是我，BRIIZE在幹嘛\n離開你的每一秒鐘都覺得好漫長，\n自始至終，我的眼裡只有BRIIZE",
+              "subtitle": "- 李炤熙"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "riize_Anton",
       "name": "ANTON",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_272",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "不行，BRIIZE你只可以看我，\n立刻向我保证，\n只和我好噢～！",
+              "subtitle": "- 李灿荣"
+            },
+            "zh-Hant": {
+              "title": "不行，BRIIZE你只可以看我，\n立刻向我保證，\n只和我好噢～！",
+              "subtitle": "- 李燦榮"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
