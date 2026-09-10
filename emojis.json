@@ -51,18 +51,6 @@
     ]
   },
   {
-    "id": "riize",
-    "name": "RIIZE",
-    "header": [
-      "RIIZE_header_4",
-      "RIIZE_header_3",
-      "RIIZE_header_5",
-      "RIIZE_header_2",
-      "RIIZE_header_1",
-      "RIIZE_header_6"
-    ]
-  },
-  {
     "id": "aespa",
     "name": "AESPA",
     "header": [
@@ -70,6 +58,41 @@
       "Aespa_header_2",
       "Aespa_header_3",
       "Aespa_header_4"
+    ]
+  },
+  {
+    "id": "enhypen",
+    "name": "ENHYPEN",
+    "header": [
+      "ENHYPEN_header_6",
+      "ENHYPEN_header_4",
+      "ENHYPEN_header_1",
+      "ENHYPEN_header_2",
+      "ENHYPEN_header_3",
+      "ENHYPEN_header_5"
+    ]
+  },
+  {
+    "id": "ive",
+    "name": "IVE",
+    "header": [
+      "IVE_Header_6",
+      "IVE_Header_1",
+      "IVE_Header_3",
+      "IVE_Header_2",
+      "IVE_Header_4",
+      "IVE_Header_5"
+    ]
+  },
+  {
+    "id": "lsrf",
+    "name": "LE SSERAFIM",
+    "header": [
+      "LSRF_header_1",
+      "LSRF_header_2",
+      "LSRF_header_3",
+      "LSRF_header_4",
+      "LSRF_header_5"
     ]
   },
   {
@@ -87,20 +110,6 @@
     ]
   },
   {
-    "id": "ateez",
-    "name": "ATEEZ",
-    "header": [
-      "ATEEZ_header_5",
-      "ATEEZ_header_7",
-      "ATEEZ_header_1",
-      "ATEEZ_header_2",
-      "ATEEZ_header_3",
-      "ATEEZ_header_4",
-      "ATEEZ_header_6",
-      "ATEEZ_header_8"
-    ]
-  },
-  {
     "id": "bnd",
     "name": "BOYNEXTDOOR",
     "header": [
@@ -110,18 +119,6 @@
       "BND_header_6",
       "BND_header_1",
       "BND_header_4"
-    ]
-  },
-  {
-    "id": "enhypen",
-    "name": "ENHYPEN",
-    "header": [
-      "ENHYPEN_header_6",
-      "ENHYPEN_header_4",
-      "ENHYPEN_header_1",
-      "ENHYPEN_header_2",
-      "ENHYPEN_header_3",
-      "ENHYPEN_header_5"
     ]
   },
   {
@@ -136,24 +133,41 @@
     ]
   },
   {
-    "id": "lsrf",
-    "name": "LE SSERAFIM",
+    "id": "riize",
+    "name": "RIIZE",
     "header": [
-      "LSRF_header_1",
-      "LSRF_header_2",
-      "LSRF_header_3",
-      "LSRF_header_4",
-      "LSRF_header_5"
+      "RIIZE_header_4",
+      "RIIZE_header_3",
+      "RIIZE_header_5",
+      "RIIZE_header_2",
+      "RIIZE_header_1",
+      "RIIZE_header_6"
     ]
   },
   {
-    "id": "blackpink",
-    "name": "BLACKPINK",
+    "id": "ateez",
+    "name": "ATEEZ",
     "header": [
-      "BP_header_2",
-      "BP_header_4",
-      "BP_header_3",
-      "BP_header_1"
+      "ATEEZ_header_5",
+      "ATEEZ_header_7",
+      "ATEEZ_header_1",
+      "ATEEZ_header_2",
+      "ATEEZ_header_3",
+      "ATEEZ_header_4",
+      "ATEEZ_header_6",
+      "ATEEZ_header_8"
+    ]
+  },
+  {
+    "id": "nctwish",
+    "name": "NCTWISH",
+    "header": [
+      "NCTWISH_header_3",
+      "NCTWISH_header_2",
+      "NCTWISH_header_6",
+      "NCTWISH_header_1",
+      "NCTWISH_header_4",
+      "NCTWISH_header_5"
     ]
   },
   {
@@ -166,6 +180,28 @@
       "Nmixx_header_1",
       "Nmixx_header_2",
       "Nmixx_header_4"
+    ]
+  },
+  {
+    "id": "zb1",
+    "name": "ZB1",
+    "header": [
+      "ZB1_header_1",
+      "ZB1_header_2",
+      "ZB1_header_4",
+      "ZB1_header_3",
+      "ZB1_header_5"
+    ]
+  },
+  {
+    "id": "itzy",
+    "name": "ITZY",
+    "header": [
+      "ITZY_header_1",
+      "ITZY_header_2",
+      "ITZY_header_3",
+      "ITZY_header_4",
+      "ITZY_header_5"
     ]
   },
   {
@@ -184,49 +220,13 @@
     ]
   },
   {
-    "id": "nctwish",
-    "name": "NCTWISH",
+    "id": "blackpink",
+    "name": "BLACKPINK",
     "header": [
-      "NCTWISH_header_3",
-      "NCTWISH_header_2",
-      "NCTWISH_header_6",
-      "NCTWISH_header_1",
-      "NCTWISH_header_4",
-      "NCTWISH_header_5"
-    ]
-  },
-  {
-    "id": "zb1",
-    "name": "ZB1",
-    "header": [
-      "ZB1_header_1",
-      "ZB1_header_2",
-      "ZB1_header_4",
-      "ZB1_header_3",
-      "ZB1_header_5"
-    ]
-  },
-  {
-    "id": "ive",
-    "name": "IVE",
-    "header": [
-      "IVE_Header_6",
-      "IVE_Header_1",
-      "IVE_Header_3",
-      "IVE_Header_2",
-      "IVE_Header_4",
-      "IVE_Header_5"
-    ]
-  },
-  {
-    "id": "itzy",
-    "name": "ITZY",
-    "header": [
-      "ITZY_header_1",
-      "ITZY_header_2",
-      "ITZY_header_3",
-      "ITZY_header_4",
-      "ITZY_header_5"
+      "BP_header_2",
+      "BP_header_4",
+      "BP_header_3",
+      "BP_header_1"
     ]
   },
   {
@@ -255,6 +255,18 @@
       "CORTIS_ball_5",
       "CORTIS_ball_4",
       "CORTIS_ball_2"
+    ]
+  },
+  {
+    "id": "exo",
+    "name": "EXO",
+    "header": [
+      "EXO_header_6",
+      "EXO_header_4",
+      "EXO_header_5",
+      "EXO_header_3",
+      "EXO_header_2",
+      "EXO_header_1"
     ]
   }
 ]
