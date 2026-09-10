@@ -15,58 +15,58 @@
     "order": 3
   },
   {
-    "id": "cortis",
-    "name": "CORTIS",
-    "order": 4
-  },
-  {
     "id": "aespa",
     "name": "AESPA",
-    "order": 5
-  },
-  {
-    "id": "skz",
-    "name": "STRAY KIDS",
-    "order": 6
-  },
-  {
-    "id": "ateez",
-    "name": "ATEEZ",
-    "order": 7
-  },
-  {
-    "id": "bnd",
-    "name": "BOYNEXTDOOR",
-    "order": 8
+    "order": 4
   },
   {
     "id": "enhypen",
     "name": "ENHYPEN",
-    "order": 9
-  },
-  {
-    "id": "lsrf",
-    "name": "LE SSERAFIM",
-    "order": 10
+    "order": 5
   },
   {
     "id": "ive",
     "name": "IVE",
-    "order": 11
+    "order": 6
   },
   {
-    "id": "riize",
-    "name": "RIIZE",
-    "order": 12
+    "id": "lsrf",
+    "name": "LE SSERAFIM",
+    "order": 7
+  },
+  {
+    "id": "skz",
+    "name": "STRAY KIDS",
+    "order": 8
+  },
+  {
+    "id": "bnd",
+    "name": "BOYNEXTDOOR",
+    "order": 9
   },
   {
     "id": "idle",
     "name": "I-DLE",
+    "order": 10
+  },
+  {
+    "id": "riize",
+    "name": "RIIZE",
+    "order": 11
+  },
+  {
+    "id": "ateez",
+    "name": "ATEEZ",
+    "order": 12
+  },
+  {
+    "id": "nctwish",
+    "name": "NCTWISH",
     "order": 13
   },
   {
-    "id": "blackpink",
-    "name": "BLACKPINK",
+    "id": "nmixx",
+    "name": "NMIXX",
     "order": 14
   },
   {
@@ -85,13 +85,23 @@
     "order": 17
   },
   {
-    "id": "nctwish",
-    "name": "NCTWISH",
+    "id": "blackpink",
+    "name": "BLACKPINK",
     "order": 18
   },
   {
     "id": "h2h",
     "name": "Hearts2Hearts",
     "order": 19
+  },
+  {
+    "id": "cortis",
+    "name": "CORTIS",
+    "order": 20
+  },
+  {
+    "id": "exo",
+    "name": "EXO",
+    "order": 21
   }
 ]
