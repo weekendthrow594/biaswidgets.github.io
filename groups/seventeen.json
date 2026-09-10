@@ -7,16 +7,42 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_274",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "행복한 하루하루 보내야해\nMay you spend every day happily",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            },
+            "zh-Hans": {
+              "title": "행복한 하루하루 보내야해\n每一天都要幸福地度过",
+              "subtitle": "- 金珉奎 26.09.09 WVS"
+            },
+            "zh-Hant": {
+              "title": "행복한 하루하루 보내야해\n每一天都要幸福地度過",
+              "subtitle": "- 金珉奎 26.09.09 WVS"
+            },
+            "es": {
+              "title": "행복한 하루하루 보내야해\nQue pases cada día felizmente",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            },
+            "pt": {
+              "title": "행복한 하루하루 보내야해\nQue você passe todos os dias com felicidade",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            }
+          }
+        },
+        {
           "id": "q_273",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT们也要加油，我也会加油的ෆ⸒⸒",
-              "subtitle": "- 李硕珉 入伍 WVS"
+              "subtitle": "- 李硕珉 26.09.08 WVS"
             },
             "zh-Hant": {
               "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT們也要加油，我也會加油的ෆ⸒⸒",
-              "subtitle": "- 李碩珉 入伍 WVS"
+              "subtitle": "- 李碩珉 26.09.08 WVS"
             }
           }
         },
@@ -35,20 +61,6 @@
           }
         },
         {
-          "id": "q_194",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "在我不在的期间，希望你们偶尔也能得到一点力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
-              "subtitle": "- 夫胜宽"
-            },
-            "zh-Hant": {
-              "title": "在我不在的期間，希望你們偶爾也能得到一點力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
-              "subtitle": "- 夫勝寬"
-            }
-          }
-        },
-        {
           "id": "q_247",
           "emojiPath": "",
           "i18n": {
@@ -59,6 +71,20 @@
             "zh-Hant": {
               "title": "「會成為更好的自己，我去去就回。」",
               "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
+          "id": "q_194",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "在我不在的期间，希望你们偶尔也能得到一点力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
+              "subtitle": "- 夫胜宽"
+            },
+            "zh-Hant": {
+              "title": "在我不在的期間，希望你們偶爾也能得到一點力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
+              "subtitle": "- 夫勝寬"
             }
           }
         },
@@ -96,6 +122,9 @@
           "beginDateStr": "2025/04/03",
           "endDateStr": "2027/01/02",
           "i18n": {
+            "en": {
+              "title": "WONWOO’s Discharge"
+            },
             "zh-Hans": {
               "title": "全圆佑退伍"
             },
@@ -110,6 +139,9 @@
           "beginDateStr": "2025/09/16",
           "endDateStr": "2027/03/15",
           "i18n": {
+            "en": {
+              "title": "HOSHI’s Discharge"
+            },
             "zh-Hans": {
               "title": "权顺荣退伍"
             },
@@ -124,6 +156,9 @@
           "beginDateStr": "2025/09/15",
           "endDateStr": "2027/03/14",
           "i18n": {
+            "en": {
+              "title": "WOOZI’s Discharge"
+            },
             "zh-Hans": {
               "title": "李知勋退伍"
             },
@@ -138,11 +173,14 @@
           "beginDateStr": "2026/09/10",
           "endDateStr": "2028/06/09",
           "i18n": {
+            "en": {
+              "title": "MINGYU’s Discharge"
+            },
             "zh-Hans": {
-              "title": "金珉奎入伍"
+              "title": "金珉奎退伍"
             },
             "zh-Hant": {
-              "title": "金珉奎入伍"
+              "title": "金珉奎退伍"
             }
           }
         },
@@ -152,6 +190,9 @@
           "beginDateStr": "2026/09/08",
           "endDateStr": "2028/03/07",
           "i18n": {
+            "en": {
+              "title": "DK’s Discharge"
+            },
             "zh-Hans": {
               "title": "李硕珉退伍"
             },
@@ -166,6 +207,9 @@
           "beginDateStr": "2026/10/26",
           "endDateStr": "2028/04/25",
           "i18n": {
+            "en": {
+              "title": "SEUNGKWAN’s Enlistment"
+            },
             "zh-Hans": {
               "title": "夫胜宽入伍"
             },
@@ -180,6 +224,9 @@
           "beginDateStr": "2026/08/20",
           "endDateStr": "2028/05/19",
           "i18n": {
+            "en": {
+              "title": "VERNON’s Discharge"
+            },
             "zh-Hans": {
               "title": "崔瀚率退伍"
             },
@@ -194,6 +241,9 @@
           "beginDateStr": "2026/10/26",
           "endDateStr": "2028/04/25",
           "i18n": {
+            "en": {
+              "title": "DINO’s Enlistment"
+            },
             "zh-Hans": {
               "title": "李灿退伍"
             },
@@ -572,6 +622,9 @@
           "beginDateStr": "2025/09/16",
           "endDateStr": "2027/03/15",
           "i18n": {
+            "en": {
+              "title": "HOSHI’s Discharge"
+            },
             "zh-Hans": {
               "title": "权顺荣退伍"
             },
@@ -660,6 +713,9 @@
           "beginDateStr": "2025/04/03",
           "endDateStr": "2027/01/02",
           "i18n": {
+            "en": {
+              "title": "WONWOO’s Discharge"
+            },
             "zh-Hans": {
               "title": "全圆佑退伍"
             },
@@ -734,6 +790,9 @@
           "beginDateStr": "2025/09/15",
           "endDateStr": "2027/03/14",
           "i18n": {
+            "en": {
+              "title": "WOOZI’s Discharge"
+            },
             "zh-Hans": {
               "title": "李知勋退伍"
             },
@@ -782,6 +841,32 @@
       "name": "MINGYU",
       "quotes": [
         {
+          "id": "q_274",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "행복한 하루하루 보내야해\nMay you spend every day happily",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            },
+            "zh-Hans": {
+              "title": "행복한 하루하루 보내야해\n每一天都要幸福地度过",
+              "subtitle": "- 金珉奎 26.09.09 WVS"
+            },
+            "zh-Hant": {
+              "title": "행복한 하루하루 보내야해\n每一天都要幸福地度過",
+              "subtitle": "- 金珉奎 26.09.09 WVS"
+            },
+            "es": {
+              "title": "행복한 하루하루 보내야해\nQue pases cada día felizmente",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            },
+            "pt": {
+              "title": "행복한 하루하루 보내야해\nQue você passe todos os dias com felicidade",
+              "subtitle": "MINGYU 26.09.09 WVS"
+            }
+          }
+        },
+        {
           "id": "q_018",
           "emojiPath": "",
           "i18n": {
@@ -803,6 +888,32 @@
             },
             "pt": {
               "title": "Não se force demais. Se estiver cansado, descanse um pouco. Eu vou esperar por você.",
+              "subtitle": "MINGYU"
+            }
+          }
+        },
+        {
+          "id": "q_022",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You only live once, so please don’t leave any regrets behind.",
+              "subtitle": "MINGYU"
+            },
+            "zh-Hans": {
+              "title": "「人生只有一次，所以请不要留下遗憾」",
+              "subtitle": "- 金珉奎"
+            },
+            "zh-Hant": {
+              "title": "「人生只有一次，所以請不要留下遺憾」",
+              "subtitle": "- 金珉奎"
+            },
+            "es": {
+              "title": "Solo se vive una vez, así que por favor no dejes arrepentimientos.",
+              "subtitle": "MINGYU"
+            },
+            "pt": {
+              "title": "A vida é uma só, então, por favor, não deixe arrependimentos para trás.",
               "subtitle": "MINGYU"
             }
           }
@@ -834,27 +945,27 @@
           }
         },
         {
-          "id": "q_022",
+          "id": "q_275",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You only live once, so please don’t leave any regrets behind.",
+              "title": "I want to be someone who cherishes my work and every moment along the way.",
               "subtitle": "MINGYU"
             },
             "zh-Hans": {
-              "title": "「人生只有一次，所以请不要留下遗憾」",
-              "subtitle": "- 金珉奎"
+              "title": "「我想成为一个珍惜自己的职业，也珍惜每一个瞬间的人。」",
+              "subtitle": "- 金珉奎 26.05.25 WVS"
             },
             "zh-Hant": {
-              "title": "「人生只有一次，所以請不要留下遺憾」",
-              "subtitle": "- 金珉奎"
+              "title": "「我想成為一個珍惜自己的職業，也珍惜每一個瞬間的人。」",
+              "subtitle": "- 金珉奎 26.05.25 WVS"
             },
             "es": {
-              "title": "Solo se vive una vez, así que por favor no dejes arrepentimientos.",
+              "title": "Quiero ser una persona que valore mi trabajo y cada momento del camino.",
               "subtitle": "MINGYU"
             },
             "pt": {
-              "title": "A vida é uma só, então, por favor, não deixe arrependimentos para trás.",
+              "title": "Quero ser alguém que valorize meu trabalho e cada momento ao longo do caminho.",
               "subtitle": "MINGYU"
             }
           }
@@ -867,11 +978,14 @@
           "beginDateStr": "2026/09/10",
           "endDateStr": "2028/06/09",
           "i18n": {
+            "en": {
+              "title": "MINGYU’s Discharge"
+            },
             "zh-Hans": {
-              "title": "金珉奎入伍"
+              "title": "金珉奎退伍"
             },
             "zh-Hant": {
-              "title": "金珉奎入伍"
+              "title": "金珉奎退伍"
             }
           }
         }
@@ -887,11 +1001,11 @@
           "i18n": {
             "zh-Hans": {
               "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT们也要加油，我也会加油的ෆ⸒⸒",
-              "subtitle": "- 李硕珉 入伍 WVS"
+              "subtitle": "- 李硕珉 26.09.08 WVS"
             },
             "zh-Hant": {
               "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT們也要加油，我也會加油的ෆ⸒⸒",
-              "subtitle": "- 李碩珉 入伍 WVS"
+              "subtitle": "- 李碩珉 26.09.08 WVS"
             }
           }
         },
@@ -983,6 +1097,9 @@
           "beginDateStr": "2026/09/08",
           "endDateStr": "2028/03/07",
           "i18n": {
+            "en": {
+              "title": "DK’s Discharge"
+            },
             "zh-Hans": {
               "title": "李硕珉退伍"
             },
@@ -1045,6 +1162,9 @@
           "beginDateStr": "2026/10/26",
           "endDateStr": "2028/04/25",
           "i18n": {
+            "en": {
+              "title": "SEUNGKWAN’s Enlistment"
+            },
             "zh-Hans": {
               "title": "夫胜宽入伍"
             },
@@ -1159,6 +1279,9 @@
           "beginDateStr": "2026/08/20",
           "endDateStr": "2028/05/19",
           "i18n": {
+            "en": {
+              "title": "VERNON’s Discharge"
+            },
             "zh-Hans": {
               "title": "崔瀚率退伍"
             },
@@ -1180,6 +1303,9 @@
           "beginDateStr": "2026/10/26",
           "endDateStr": "2028/04/25",
           "i18n": {
+            "en": {
+              "title": "DINO’s Enlistment"
+            },
             "zh-Hans": {
               "title": "李灿退伍"
             },
