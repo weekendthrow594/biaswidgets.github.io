@@ -7,6 +7,20 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_194",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "在我不在的期间，希望你们偶尔也能得到一点力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
+              "subtitle": "- 夫胜宽"
+            },
+            "zh-Hant": {
+              "title": "在我不在的期間，希望你們偶爾也能得到一點力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
+              "subtitle": "- 夫勝寬"
+            }
+          }
+        },
+        {
           "id": "q_274",
           "emojiPath": "",
           "i18n": {
@@ -29,88 +43,6 @@
             "pt": {
               "title": "행복한 하루하루 보내야해\nQue você passe todos os dias com felicidade",
               "subtitle": "MINGYU 26.09.09 WVS"
-            }
-          }
-        },
-        {
-          "id": "q_273",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT们也要加油，我也会加油的ෆ⸒⸒",
-              "subtitle": "- 李硕珉 26.09.08 WVS"
-            },
-            "zh-Hant": {
-              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT們也要加油，我也會加油的ෆ⸒⸒",
-              "subtitle": "- 李碩珉 26.09.08 WVS"
-            }
-          }
-        },
-        {
-          "id": "q_248",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「只要各自努力生活，再次相见的时刻很快就会到来。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
-              "subtitle": "- 李硕珉"
-            },
-            "zh-Hant": {
-              "title": "「只要各自努力生活，再次相見的時刻很快就會到來。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
-              "subtitle": "- 李碩珉"
-            }
-          }
-        },
-        {
-          "id": "q_247",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「会成为更好的自己，我去去就回。」",
-              "subtitle": "- 李硕珉"
-            },
-            "zh-Hant": {
-              "title": "「會成為更好的自己，我去去就回。」",
-              "subtitle": "- 李碩珉"
-            }
-          }
-        },
-        {
-          "id": "q_194",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "在我不在的期间，希望你们偶尔也能得到一点力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
-              "subtitle": "- 夫胜宽"
-            },
-            "zh-Hant": {
-              "title": "在我不在的期間，希望你們偶爾也能得到一點力量。\n내가 없는 동안 조금이라도 간간히 힘 낼 수 있게 열심히 해내고 갈게😊",
-              "subtitle": "- 夫勝寬"
-            }
-          }
-        },
-        {
-          "id": "q_205",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "I’m looking forward to the day we meet again with a smile.",
-              "subtitle": "DK"
-            },
-            "zh-Hans": {
-              "title": "「期待我们笑着再见的那一天。」",
-              "subtitle": "- 李硕珉"
-            },
-            "zh-Hant": {
-              "title": "「期待我們笑著再見的那一天。」",
-              "subtitle": "- 李碩珉"
-            },
-            "es": {
-              "title": "Espero con ilusión el día en que volvamos a encontrarnos sonriendo.",
-              "subtitle": "DK"
-            },
-            "pt": {
-              "title": "Estou ansioso pelo dia em que nos encontraremos novamente com um sorriso.",
-              "subtitle": "DK"
             }
           }
         }
@@ -867,6 +799,46 @@
           }
         },
         {
+          "id": "q_275",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I want to be someone who cherishes my work and every moment along the way.",
+              "subtitle": "MINGYU"
+            },
+            "zh-Hans": {
+              "title": "「我想成为一个珍惜自己的职业，也珍惜每一个瞬间的人。」",
+              "subtitle": "- 金珉奎 26.05.25 WVS"
+            },
+            "zh-Hant": {
+              "title": "「我想成為一個珍惜自己的職業，也珍惜每一個瞬間的人。」",
+              "subtitle": "- 金珉奎 26.05.25 WVS"
+            },
+            "es": {
+              "title": "Quiero ser una persona que valore mi trabajo y cada momento del camino.",
+              "subtitle": "MINGYU"
+            },
+            "pt": {
+              "title": "Quero ser alguém que valorize meu trabalho e cada momento ao longo do caminho.",
+              "subtitle": "MINGYU"
+            }
+          }
+        },
+        {
+          "id": "q_282",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「万一没有办法改变现状\n那就改变自己的心态去接受现状\n下雨就带好雨伞，下雪就戴上手套\n找到对自己有帮助的方式」",
+              "subtitle": "- 金珉奎 mindset ep2"
+            },
+            "zh-Hant": {
+              "title": "「萬一沒有辦法改變現狀\n那就改變自己的心態去接受現狀\n下雨就帶好雨傘，下雪就戴上手套\n找到對自己有幫助的方式」",
+              "subtitle": "- 金珉奎 mindset ep2"
+            }
+          }
+        },
+        {
           "id": "q_018",
           "emojiPath": "",
           "i18n": {
@@ -888,32 +860,6 @@
             },
             "pt": {
               "title": "Não se force demais. Se estiver cansado, descanse um pouco. Eu vou esperar por você.",
-              "subtitle": "MINGYU"
-            }
-          }
-        },
-        {
-          "id": "q_022",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "You only live once, so please don’t leave any regrets behind.",
-              "subtitle": "MINGYU"
-            },
-            "zh-Hans": {
-              "title": "「人生只有一次，所以请不要留下遗憾」",
-              "subtitle": "- 金珉奎"
-            },
-            "zh-Hant": {
-              "title": "「人生只有一次，所以請不要留下遺憾」",
-              "subtitle": "- 金珉奎"
-            },
-            "es": {
-              "title": "Solo se vive una vez, así que por favor no dejes arrepentimientos.",
-              "subtitle": "MINGYU"
-            },
-            "pt": {
-              "title": "A vida é uma só, então, por favor, não deixe arrependimentos para trás.",
               "subtitle": "MINGYU"
             }
           }
@@ -945,27 +891,27 @@
           }
         },
         {
-          "id": "q_275",
+          "id": "q_022",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I want to be someone who cherishes my work and every moment along the way.",
+              "title": "You only live once, so please don’t leave any regrets behind.",
               "subtitle": "MINGYU"
             },
             "zh-Hans": {
-              "title": "「我想成为一个珍惜自己的职业，也珍惜每一个瞬间的人。」",
-              "subtitle": "- 金珉奎 26.05.25 WVS"
+              "title": "「人生只有一次，所以请不要留下遗憾」",
+              "subtitle": "- 金珉奎"
             },
             "zh-Hant": {
-              "title": "「我想成為一個珍惜自己的職業，也珍惜每一個瞬間的人。」",
-              "subtitle": "- 金珉奎 26.05.25 WVS"
+              "title": "「人生只有一次，所以請不要留下遺憾」",
+              "subtitle": "- 金珉奎"
             },
             "es": {
-              "title": "Quiero ser una persona que valore mi trabajo y cada momento del camino.",
+              "title": "Solo se vive una vez, así que por favor no dejes arrepentimientos.",
               "subtitle": "MINGYU"
             },
             "pt": {
-              "title": "Quero ser alguém que valorize meu trabalho e cada momento ao longo do caminho.",
+              "title": "A vida é uma só, então, por favor, não deixe arrependimentos para trás.",
               "subtitle": "MINGYU"
             }
           }
@@ -996,16 +942,16 @@
       "name": "DK",
       "quotes": [
         {
-          "id": "q_273",
+          "id": "q_276",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT们也要加油，我也会加油的ෆ⸒⸒",
-              "subtitle": "- 李硕珉 26.09.08 WVS"
+              "title": "「谢谢你没有放弃，还有，你现在做得很好。\n一点一点地做下去，总有一天会有好事情发生的，我会为你加油的 ღ」",
+              "subtitle": "- 李硕珉 WVS"
             },
             "zh-Hant": {
-              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT們也要加油，我也會加油的ෆ⸒⸒",
-              "subtitle": "- 李碩珉 26.09.08 WVS"
+              "title": "「謝謝你沒有放棄，還有，你現在做得很好。\n一點一點地做下去，總有一天會有好事情發生的，我會為你加油的 ღ」",
+              "subtitle": "- 李碩珉 WVS"
             }
           }
         },
@@ -1019,20 +965,6 @@
             },
             "zh-Hant": {
               "title": "「只要各自努力生活，再次相見的時刻很快就會到來。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
-              "subtitle": "- 李碩珉"
-            }
-          }
-        },
-        {
-          "id": "q_247",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「会成为更好的自己，我去去就回。」",
-              "subtitle": "- 李硕珉"
-            },
-            "zh-Hant": {
-              "title": "「會成為更好的自己，我去去就回。」",
               "subtitle": "- 李碩珉"
             }
           }
@@ -1064,6 +996,20 @@
           }
         },
         {
+          "id": "q_247",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「会成为更好的自己，我去去就回。」",
+              "subtitle": "- 李硕珉"
+            },
+            "zh-Hant": {
+              "title": "「會成為更好的自己，我去去就回。」",
+              "subtitle": "- 李碩珉"
+            }
+          }
+        },
+        {
           "id": "q_030",
           "emojiPath": "",
           "i18n": {
@@ -1086,6 +1032,20 @@
             "pt": {
               "title": "Quando eu sorrir, espero que vocês também possam sorrir comigo.",
               "subtitle": "DK"
+            }
+          }
+        },
+        {
+          "id": "q_273",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT们也要加油，我也会加油的ෆ⸒⸒",
+              "subtitle": "- 李硕珉 26.09.08 WVS"
+            },
+            "zh-Hant": {
+              "title": "그러니까 캐럿들도 힘내 나도 힘낼게ෆ⸒⸒\n所以CARAT們也要加油，我也會加油的ෆ⸒⸒",
+              "subtitle": "- 李碩珉 26.09.08 WVS"
             }
           }
         }
