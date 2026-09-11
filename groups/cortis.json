@@ -7,59 +7,45 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_204",
+          "id": "q_183",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "It’s exhausting, but this is how we have to keep living.",
-              "subtitle": "JAMES"
+              "title": "Paris is the city of love. You have to do what you love.",
+              "subtitle": "MARTIN"
             },
             "zh-Hans": {
-              "title": "「虽然很累，但就是要这样活着。」",
-              "subtitle": "- 赵雨凡"
+              "title": "「巴黎是爱之都，你必须做你喜欢的事情。」",
+              "subtitle": "- 马丁"
             },
             "zh-Hant": {
-              "title": "「雖然很累，但就是要這樣活著。」",
-              "subtitle": "- 趙雨凡"
+              "title": "「巴黎是愛之都，你必須做你喜歡的事情。」",
+              "subtitle": "- 馬丁"
             },
             "es": {
-              "title": "Aunque sea agotador, así es como tenemos que seguir viviendo.",
-              "subtitle": "JAMES"
+              "title": "París es la ciudad del amor. Tienes que hacer lo que amas.",
+              "subtitle": "MARTIN"
             },
             "pt": {
-              "title": "Mesmo sendo cansativo, é assim que precisamos continuar vivendo.",
-              "subtitle": "JAMES"
-            }
-          }
-        },
-        {
-          "id": "q_203",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Don’t let other people’s opinions become the standard by which you judge yourself.",
-              "subtitle": "JUHOON"
-            },
-            "zh-Hans": {
-              "title": "「不要把别人的目光当作判断自己的标准。」",
-              "subtitle": "- 金主训"
-            },
-            "zh-Hant": {
-              "title": "「不要把別人的目光當作判斷自己的標準。」",
-              "subtitle": "- 金主訓"
-            },
-            "es": {
-              "title": "No dejes que la opinión de los demás se convierta en la medida con la que te juzgas a ti mismo.",
-              "subtitle": "JUHOON"
-            },
-            "pt": {
-              "title": "Não deixe que a opinião dos outros se torne o padrão pelo qual você julga a si mesmo.",
-              "subtitle": "JUHOON"
+              "title": "Paris é a cidade do amor. Você precisa fazer o que ama.",
+              "subtitle": "MARTIN"
             }
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_010",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/5",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "cortis_james",
@@ -118,6 +104,46 @@
           }
         },
         {
+          "id": "q_278",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「撑下去，好好照顾自己，好好吃饭，也别忘了偶尔耍赖在床上什么都不做」",
+              "subtitle": "- 赵雨凡 ELLE India采访"
+            },
+            "zh-Hant": {
+              "title": "「撐下去，好好照顧自己，好好吃飯，也別忘了偶爾耍賴在床上什麼都不做」",
+              "subtitle": "- 趙雨凡 ELLE India 採訪"
+            }
+          }
+        },
+        {
+          "id": "q_246",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            },
+            "zh-Hans": {
+              "title": "「提醒自己 🏒\n在混乱中找到平静」",
+              "subtitle": "- 赵雨凡 26.09.01 WVS"
+            },
+            "zh-Hant": {
+              "title": "「提醒自己 🏒\n在混亂中找到平靜」",
+              "subtitle": "- 趙雨凡 26.09.01 WVS"
+            },
+            "es": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            },
+            "pt": {
+              "title": "Reminding myself 🏒 Find peace in the chaos",
+              "subtitle": "JAMES"
+            }
+          }
+        },
+        {
           "id": "q_204",
           "emojiPath": "",
           "i18n": {
@@ -165,32 +191,6 @@
             },
             "pt": {
               "title": "Lembre-se sempre de que, nesta jornada, você tem um amigo que te apoia. Estarei ao seu lado nos bons e maus momentos.",
-              "subtitle": "JAMES"
-            }
-          }
-        },
-        {
-          "id": "q_246",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
-              "subtitle": "JAMES"
-            },
-            "zh-Hans": {
-              "title": "「提醒自己 🏒\n在混乱中找到平静」",
-              "subtitle": "- 赵雨凡"
-            },
-            "zh-Hant": {
-              "title": "「提醒自己 🏒\n在混亂中找到平靜」",
-              "subtitle": "- 趙雨凡"
-            },
-            "es": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
-              "subtitle": "JAMES"
-            },
-            "pt": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
               "subtitle": "JAMES"
             }
           }
@@ -253,6 +253,32 @@
               "subtitle": "JUHOON"
             }
           }
+        },
+        {
+          "id": "q_279",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You’ve already come a long way, but there’s still a long road ahead.",
+              "subtitle": "JUHOON"
+            },
+            "zh-Hans": {
+              "title": "「你已经走了很远，但前面还有很长的路要走」",
+              "subtitle": "- 金主训 ELLE India采访"
+            },
+            "zh-Hant": {
+              "title": "「你已經走了很遠，但前面還有很長的路要走」",
+              "subtitle": "- 金主訓 ELLE India 採訪"
+            },
+            "es": {
+              "title": "Ya has recorrido un largo camino, pero aún queda mucho camino por delante.",
+              "subtitle": "JUHOON"
+            },
+            "pt": {
+              "title": "Você já percorreu um longo caminho, mas ainda há uma longa estrada pela frente.",
+              "subtitle": "JUHOON"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -284,6 +310,46 @@
             "pt": {
               "title": "As pessoas deveriam olhar mais para o céu. Não se torne alguém que passa a vida inteira olhando apenas para o chão. Olhe para este mundo, ele é um mundo de liberdade.",
               "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_183",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Paris is the city of love. You have to do what you love.",
+              "subtitle": "MARTIN"
+            },
+            "zh-Hans": {
+              "title": "「巴黎是爱之都，你必须做你喜欢的事情。」",
+              "subtitle": "- 马丁"
+            },
+            "zh-Hant": {
+              "title": "「巴黎是愛之都，你必須做你喜歡的事情。」",
+              "subtitle": "- 馬丁"
+            },
+            "es": {
+              "title": "París es la ciudad del amor. Tienes que hacer lo que amas.",
+              "subtitle": "MARTIN"
+            },
+            "pt": {
+              "title": "Paris é a cidade do amor. Você precisa fazer o que ama.",
+              "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_277",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「别想太多，也别被那些事情绑住。做自己，保持正面。\n我知道未来还有很多事情要做，但最重要的，还是把爱传递出去」",
+              "subtitle": "- 马丁 ELLE India采访"
+            },
+            "zh-Hant": {
+              "title": "「別想太多，也別被那些事情綁住。做自己，保持正面。\n我知道未來還有很多事情要做，但最重要的，還是把愛傳遞出去」",
+              "subtitle": "- 馬丁 ELLE India 採訪"
             }
           }
         },
@@ -338,32 +404,6 @@
               "subtitle": "MARTIN"
             }
           }
-        },
-        {
-          "id": "q_183",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Paris is the city of love. You have to do what you love.",
-              "subtitle": "MARTIN"
-            },
-            "zh-Hans": {
-              "title": "「巴黎是爱之都，你必须做你喜欢的事情。」",
-              "subtitle": "- 马丁"
-            },
-            "zh-Hant": {
-              "title": "「巴黎是愛之都，你必須做你喜歡的事情。」",
-              "subtitle": "- 馬丁"
-            },
-            "es": {
-              "title": "París es la ciudad del amor. Tienes que hacer lo que amas.",
-              "subtitle": "MARTIN"
-            },
-            "pt": {
-              "title": "Paris é a cidade do amor. Você precisa fazer o que ama.",
-              "subtitle": "MARTIN"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -372,6 +412,20 @@
       "id": "cortis_seongyeon",
       "name": "SEONGHYEON",
       "quotes": [
+        {
+          "id": "q_280",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我相信你现在一定过得很好👍🏼」",
+              "subtitle": "- 严成玹 ELLE India采访"
+            },
+            "zh-Hant": {
+              "title": "「我相信你現在一定過得很好👍🏼」",
+              "subtitle": "- 嚴成玹 ELLE India 採訪"
+            }
+          }
+        },
         {
           "id": "q_155",
           "emojiPath": "",
@@ -411,7 +465,7 @@
           "i18n": {
             "en": {
               "title": "Messing up one day out of 365 doesn't mean the rest of your life will fail.",
-              "subtitle": "Keonho"
+              "subtitle": "KEONHO"
             },
             "zh-Hans": {
               "title": "「365天中的1天搞砸了，不代表之后的人生会失败。」",
@@ -423,11 +477,37 @@
             },
             "es": {
               "title": "Arruinar un día de los 365 no significa que el resto de tu vida vaya a fracasar.",
-              "subtitle": "Keonho"
+              "subtitle": "KEONHO"
             },
             "pt": {
               "title": "Estragar um dia dos 365 não significa que o resto da sua vida será um fracasso.",
-              "subtitle": "Keonho"
+              "subtitle": "KEONHO"
+            }
+          }
+        },
+        {
+          "id": "q_281",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Stay calm, and keep your inner peace.",
+              "subtitle": "KEONHO"
+            },
+            "zh-Hans": {
+              "title": "「保持冷静，也保持内心的平静」",
+              "subtitle": "- 安乾镐 ELLE India采访"
+            },
+            "zh-Hant": {
+              "title": "「保持冷靜，也保持內心的平靜」",
+              "subtitle": "- 安乾鎬 ELLE India 採訪"
+            },
+            "es": {
+              "title": "Mantén la calma y conserva la paz interior.",
+              "subtitle": "KEONHO"
+            },
+            "pt": {
+              "title": "Mantenha a calma e preserve a paz interior.",
+              "subtitle": "KEONHO"
             }
           }
         }
