@@ -7,32 +7,6 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_198",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Don’t compare yourself to others. Everyone should live life in their own way and focus on their own pace and rhythm.",
-              "subtitle": "V"
-            },
-            "zh-Hans": {
-              "title": "「不要和别人比较，\n每个人都应该用自己的方式过自己的人生，专注于属于自己的节奏和步调。」",
-              "subtitle": "- 金泰亨 WVS Live"
-            },
-            "zh-Hant": {
-              "title": "「不要和別人比較，\n每個人都應該用自己的方式過自己的人生，專注在屬於自己的節奏和步調上。」",
-              "subtitle": "- 金泰亨 WVS Live"
-            },
-            "es": {
-              "title": "No te compares con los demás. Cada persona debería vivir su vida a su manera y centrarse en su propio ritmo.",
-              "subtitle": "V"
-            },
-            "pt": {
-              "title": "Não se compare com os outros. Cada pessoa deve viver a vida à sua maneira e seguir o seu próprio ritmo.",
-              "subtitle": "V"
-            }
-          }
-        },
-        {
           "id": "q_146",
           "emojiPath": "",
           "i18n": {
@@ -194,11 +168,6 @@
               "subtitle": "RM"
             }
           }
-        },
-        {
-          "id": "q_166",
-          "emojiPath": "",
-          "i18n": {}
         }
       ],
       "countdowns": []
@@ -562,32 +531,6 @@
       "name": "V",
       "quotes": [
         {
-          "id": "q_198",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Don’t compare yourself to others. Everyone should live life in their own way and focus on their own pace and rhythm.",
-              "subtitle": "V"
-            },
-            "zh-Hans": {
-              "title": "「不要和别人比较，\n每个人都应该用自己的方式过自己的人生，专注于属于自己的节奏和步调。」",
-              "subtitle": "- 金泰亨 WVS Live"
-            },
-            "zh-Hant": {
-              "title": "「不要和別人比較，\n每個人都應該用自己的方式過自己的人生，專注在屬於自己的節奏和步調上。」",
-              "subtitle": "- 金泰亨 WVS Live"
-            },
-            "es": {
-              "title": "No te compares con los demás. Cada persona debería vivir su vida a su manera y centrarse en su propio ritmo.",
-              "subtitle": "V"
-            },
-            "pt": {
-              "title": "Não se compare com os outros. Cada pessoa deve viver a vida à sua maneira e seguir o seu próprio ritmo.",
-              "subtitle": "V"
-            }
-          }
-        },
-        {
           "id": "q_086",
           "emojiPath": "",
           "i18n": {
@@ -596,11 +539,11 @@
               "subtitle": "V · Dear Class of 2020"
             },
             "zh-Hans": {
-              "title": "「现在或许有点困难，\n但在某个地方，\n幸运和机会正在等着你。」",
+              "title": "「现在或许有点困难，\n但在某个地方，\n幸运和机会正在等着你」",
               "subtitle": "- 金泰亨 《Dear Class of 2020》"
             },
             "zh-Hant": {
-              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你。」",
+              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你」",
               "subtitle": "- 金泰亨 《Dear Class of 2020》"
             },
             "es": {
@@ -614,54 +557,54 @@
           }
         },
         {
-          "id": "q_118",
+          "id": "q_198",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V 20260717 weverse"
+              "title": "Don’t compare yourself to others. Everyone should live life in their own way and focus on their own pace and rhythm.",
+              "subtitle": "V"
             },
             "zh-Hans": {
-              "title": "「我爱你，比昨天多一点，却比明天少一点」",
-              "subtitle": "- 金泰亨 20260717 weverse"
+              "title": "「不要和别人比较，\n每个人都应该用自己的方式过自己的人生，专注于属于自己的节奏和步调」",
+              "subtitle": "- 金泰亨 WVS Live"
             },
             "zh-Hant": {
-              "title": "「我愛你，比昨天多一點，卻比明天少一點。」",
-              "subtitle": "- 金泰亨 20260717 weverse"
+              "title": "「不要和別人比較，\n每個人都應該用自己的方式過自己的人生，專注在屬於自己的節奏和步調上」",
+              "subtitle": "- 金泰亨 WVS Live"
             },
             "es": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V 20260717 weverse"
+              "title": "No te compares con los demás. Cada persona debería vivir su vida a su manera y centrarse en su propio ritmo.",
+              "subtitle": "V"
             },
             "pt": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V 20260717 weverse"
+              "title": "Não se compare com os outros. Cada pessoa deve viver a vida à sua maneira e seguir o seu próprio ritmo.",
+              "subtitle": "V"
             }
           }
         },
         {
-          "id": "q_165",
+          "id": "q_283",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "If complicated relationships are wearing you out, it's okay to step away for a while. ARMYs are wonderful. If someone can't get along with you, that's their problem, not yours.",
-              "subtitle": "V"
+              "title": "You’ve done well, and you’re doing well now too. Everything will work out, so get some good rest.",
+              "subtitle": "V · DAZED"
             },
             "zh-Hans": {
-              "title": "如果复杂的人际关系让你感到疲惫，那就先放一放吧。\n我们ARMY这么好，相处不来是她们的问题。",
-              "subtitle": "- 金泰亨"
+              "title": "「你做得很好，你现在也做得很好，一切都会顺利的，所以好好休息吧」",
+              "subtitle": "- 金泰亨 DAZED 专访"
             },
             "zh-Hant": {
-              "title": "「如果複雜的人際關係讓你感到疲憊，那就先放一放吧。\n我們ARMY這麼好，相處不來是她們的問題。」",
-              "subtitle": "- 金泰亨"
+              "title": "「你做得很好，你現在也做得很好，一切都會順利的，所以好好休息吧」",
+              "subtitle": "- 金泰亨 DAZED 專訪"
             },
             "es": {
-              "title": "Si las relaciones complicadas te están agotando, está bien alejarte por un tiempo. Los ARMY son personas maravillosas. Si alguien no puede llevarse bien contigo, ese es su problema, no el tuyo.",
-              "subtitle": "V"
+              "title": "Lo has hecho muy bien, y ahora también lo estás haciendo muy bien. Todo saldrá bien, así que descansa bien.",
+              "subtitle": "V · DAZED"
             },
             "pt": {
-              "title": "Se os relacionamentos complicados estão deixando você cansado, tudo bem dar um tempo. Os ARMYs são pessoas incríveis. Se alguém não consegue se dar bem com você, esse é um problema dessa pessoa, não seu.",
-              "subtitle": "V"
+              "title": "Você tem se saído muito bem, e agora também está indo muito bem. Tudo vai dar certo, então descanse bem.",
+              "subtitle": "V · DAZED"
             }
           }
         },
@@ -692,6 +635,58 @@
           }
         },
         {
+          "id": "q_118",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
+            },
+            "zh-Hans": {
+              "title": "「我爱你，比昨天多一点，却比明天少一点」",
+              "subtitle": "- 金泰亨 26.7.17 WVS"
+            },
+            "zh-Hant": {
+              "title": "「我愛你，比昨天多一點，卻比明天少一點」",
+              "subtitle": "- 金泰亨 26.7.17 WVS"
+            },
+            "es": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
+            },
+            "pt": {
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_165",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If complicated relationships are wearing you out, it's okay to step away for a while. ARMYs are wonderful. If someone can't get along with you, that's their problem, not yours.",
+              "subtitle": "V"
+            },
+            "zh-Hans": {
+              "title": "「如果复杂的人际关系让你感到疲惫，那就先放一放吧。\n我们ARMY这么好，相处不来是她们的问题」",
+              "subtitle": "- 金泰亨"
+            },
+            "zh-Hant": {
+              "title": "「如果複雜的人際關係讓你感到疲憊，那就先放一放吧。\n我們ARMY這麼好，相處不來是她們的問題」",
+              "subtitle": "- 金泰亨"
+            },
+            "es": {
+              "title": "Si las relaciones complicadas te están agotando, está bien alejarte por un tiempo. Los ARMY son personas maravillosas. Si alguien no puede llevarse bien contigo, ese es su problema, no el tuyo.",
+              "subtitle": "V"
+            },
+            "pt": {
+              "title": "Se os relacionamentos complicados estão deixando você cansado, tudo bem dar um tempo. Os ARMYs são pessoas incríveis. Se alguém não consegue se dar bem com você, esse é um problema dessa pessoa, não seu.",
+              "subtitle": "V"
+            }
+          }
+        },
+        {
           "id": "q_029",
           "emojiPath": "",
           "i18n": {
@@ -700,11 +695,11 @@
               "subtitle": "V"
             },
             "zh-Hans": {
-              "title": "「成长不是变成别人，而是更像真正的自己。」",
+              "title": "「成长不是变成别人，而是更像真正的自己」",
               "subtitle": "- 金泰亨"
             },
             "zh-Hant": {
-              "title": "「成長不是變成別人，而是更像真正的自己。」",
+              "title": "「成長不是變成別人，而是更像真正的自己」",
               "subtitle": "- 金泰亨"
             },
             "es": {
