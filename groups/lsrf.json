@@ -7,42 +7,58 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_195",
+          "id": "q_287",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「我会再次找到你，在你最需要我的时候\nI will find you again when you need me most」",
-              "subtitle": "- 许允真 2026.08.12 WVS Live "
+              "title": "每个人都有自己的时区，别让社会定义的“太晚”阻止你尝试",
+              "subtitle": "- 许允真 Podcast 《HMM》"
             },
             "zh-Hant": {
-              "title": "「我會再次找到你，在你最需要我的時候\nI will find you again when you need me most」",
-              "subtitle": "- 許允真 2026.08.12 WVS Live "
+              "title": "每個人都有自己的時區，別讓社會定義的「太晚」阻止你嘗試",
+              "subtitle": "- 許允真 Podcast 《HMM》"
             }
           }
         },
         {
-          "id": "q_186",
+          "id": "q_286",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
-              "subtitle": "CHAEWON  26.08.08 WVS"
-            },
             "zh-Hans": {
-              "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
-              "subtitle": "- 金采源 26.08.08 WVS"
+              "title": "「相信心中的不安，害怕也可能代表自己正走在对的路上」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
             },
             "zh-Hant": {
-              "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
-              "subtitle": "- 金采源 26.08.08 WVS"
+              "title": "「相信心中的不安，害怕也可能代表自己正走在對的路上」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_285",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「每个人都是第一次体验人生，不必急着规划好一切」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
             },
-            "es": {
-              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
-              "subtitle": "CHAEWON  26.08.08 WVS"
+            "zh-Hant": {
+              "title": "「每個人都是第一次體驗人生，不必急著規劃好一切」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_288",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "保有一点“异想天开的自信”，即使结果未知，也要相信自己做得到",
+              "subtitle": "- 许允真 Podcast 《HMM》"
             },
-            "pt": {
-              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
-              "subtitle": "CHAEWON 26.08.08 WVS"
+            "zh-Hant": {
+              "title": "保有一點「異想天開的自信」，即使結果未知，也要相信自己做得到",
+              "subtitle": "- 許允真 Podcast 《HMM》"
             }
           }
         }
@@ -218,16 +234,72 @@
       "name": "YUNJIN",
       "quotes": [
         {
+          "id": "q_287",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "每个人都有自己的时区，别让社会定义的“太晚”阻止你尝试",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "每個人都有自己的時區，別讓社會定義的「太晚」阻止你嘗試",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_286",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「相信心中的不安，害怕也可能代表自己正走在对的路上」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "「相信心中的不安，害怕也可能代表自己正走在對的路上」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_285",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「每个人都是第一次体验人生，不必急着规划好一切」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "「每個人都是第一次體驗人生，不必急著規劃好一切」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_288",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "保有一点“异想天开的自信”，即使结果未知，也要相信自己做得到",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "保有一點「異想天開的自信」，即使結果未知，也要相信自己做得到",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
           "id": "q_195",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
               "title": "「我会再次找到你，在你最需要我的时候\nI will find you again when you need me most」",
-              "subtitle": "- 许允真 2026.08.12 WVS Live "
+              "subtitle": "- 许允真 26.08.12 WVS Live  "
             },
             "zh-Hant": {
               "title": "「我會再次找到你，在你最需要我的時候\nI will find you again when you need me most」",
-              "subtitle": "- 許允真 2026.08.12 WVS Live "
+              "subtitle": "- 許允真 26.08.12 WVS Live "
             }
           }
         },
