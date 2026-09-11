@@ -7,6 +7,20 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_218",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
           "id": "q_217",
           "emojiPath": "",
           "i18n": {
@@ -31,20 +45,6 @@
             "zh-Hant": {
               "title": "「老天保佑金山銀山全都有」",
               "subtitle": "- Giselle"
-            }
-          }
-        },
-        {
-          "id": "q_218",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
             }
           }
         },
@@ -246,29 +246,43 @@
       "name": "WINTER",
       "quotes": [
         {
-          "id": "q_095",
+          "id": "q_284",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "title": "「一直喜欢金旼炡吧，喜欢旼炡到死吧，先背叛的是小狗哦。」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "title": "「一直喜歡金旼炡吧，喜歡旼炡到死吧，先背叛的是小狗喔。」",
               "subtitle": "- 金旼炡"
             }
           }
         },
         {
-          "id": "q_123",
+          "id": "q_218",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
+              "title": "「笨蛋小狗汪汪」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
+          "id": "q_094",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「千万人的Winter 你一个人的旼炡」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「千萬人的Winter 你一個人的旼炡」",
               "subtitle": "- 金旼炡"
             }
           }
@@ -300,15 +314,15 @@
           }
         },
         {
-          "id": "q_094",
+          "id": "q_095",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「千万人的Winter 你一个人的旼炡」",
+              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「千萬人的Winter 你一個人的旼炡」",
+              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
               "subtitle": "- 金旼炡"
             }
           }
@@ -340,15 +354,15 @@
           }
         },
         {
-          "id": "q_218",
+          "id": "q_123",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「笨蛋小狗汪汪」",
+              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
               "subtitle": "- 金旼炡"
             },
             "zh-Hant": {
-              "title": "「笨蛋小狗汪汪」",
+              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
               "subtitle": "- 金旼炡"
             }
           }
