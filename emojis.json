@@ -122,14 +122,17 @@
     ]
   },
   {
-    "id": "idle",
-    "name": "I-DLE",
-    "header": [
-      "I-DLE_header_3",
-      "I-DLE_header_1",
-      "I-DLE_header_2",
-      "I-DLE_header_4",
-      "I-DLE_header_5"
+    "id": "cortis",
+    "name": "CORTIS",
+    "ball": [
+      "CORTIS_ball_1",
+      "CORTIS_ball_3",
+      "CORTIS_ball_8",
+      "CORTIS_ball_7",
+      "CORTIS_ball_6",
+      "CORTIS_ball_5",
+      "CORTIS_ball_4",
+      "CORTIS_ball_2"
     ]
   },
   {
@@ -159,15 +162,14 @@
     ]
   },
   {
-    "id": "nctwish",
-    "name": "NCTWISH",
+    "id": "idle",
+    "name": "I-DLE",
     "header": [
-      "NCTWISH_header_3",
-      "NCTWISH_header_2",
-      "NCTWISH_header_6",
-      "NCTWISH_header_1",
-      "NCTWISH_header_4",
-      "NCTWISH_header_5"
+      "I-DLE_header_3",
+      "I-DLE_header_1",
+      "I-DLE_header_2",
+      "I-DLE_header_4",
+      "I-DLE_header_5"
     ]
   },
   {
@@ -244,17 +246,15 @@
     ]
   },
   {
-    "id": "cortis",
-    "name": "CORTIS",
-    "ball": [
-      "CORTIS_ball_1",
-      "CORTIS_ball_3",
-      "CORTIS_ball_8",
-      "CORTIS_ball_7",
-      "CORTIS_ball_6",
-      "CORTIS_ball_5",
-      "CORTIS_ball_4",
-      "CORTIS_ball_2"
+    "id": "nctwish",
+    "name": "NCTWISH",
+    "header": [
+      "NCTWISH_header_3",
+      "NCTWISH_header_2",
+      "NCTWISH_header_6",
+      "NCTWISH_header_1",
+      "NCTWISH_header_4",
+      "NCTWISH_header_5"
     ]
   },
   {
