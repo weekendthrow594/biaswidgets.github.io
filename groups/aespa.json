@@ -7,58 +7,28 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_218",
+          "id": "q_298",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Even when you’re busy, try to save a little time for yourself. Everyone needs time to recharge and reconnect with themselves.",
+              "subtitle": "NINGNING | El Espectador"
+            },
             "zh-Hans": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
+              "title": "「再忙的时候，也要尽量留一点时间给自己。\n人需要有重新充电、重新和自己连接的时间。」",
+              "subtitle": "- 宁艺卓 El Espectador"
             },
             "zh-Hant": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
-            }
-          }
-        },
-        {
-          "id": "q_217",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「智敏的美貌 民族的荣耀」",
-              "subtitle": " "
+              "title": "「再忙的時候，也要盡量留一點時間給自己。\n人需要有重新充電、重新和自己連結的時間。」",
+              "subtitle": "- 寧藝卓 El Espectador"
             },
-            "zh-Hant": {
-              "title": "「知珉的美貌 民族的榮耀」",
-              "subtitle": " "
-            }
-          }
-        },
-        {
-          "id": "q_216",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「老天保佑金山银山全都有」",
-              "subtitle": "- Giselle"
+            "es": {
+              "title": "Incluso cuando estés muy ocupado, intenta reservar un poco de tiempo para ti. Todos necesitamos tiempo para recargar energías y volver a conectar con nosotros mismos.",
+              "subtitle": "NINGNING | El Espectador"
             },
-            "zh-Hant": {
-              "title": "「老天保佑金山銀山全都有」",
-              "subtitle": "- Giselle"
-            }
-          }
-        },
-        {
-          "id": "q_219",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我耳机呢？」",
-              "subtitle": "- 寧藝卓"
-            },
-            "zh-Hant": {
-              "title": "「我耳機呢？」",
-              "subtitle": "- 寧藝卓"
+            "pt": {
+              "title": "Mesmo quando estiver muito ocupado, tente reservar um pouco de tempo para você. Todo mundo precisa de um tempo para recarregar as energias e se reconectar consigo mesmo.",
+              "subtitle": "NINGNING | El Espectador"
             }
           }
         }
@@ -375,16 +345,28 @@
       "name": "NINGNING",
       "quotes": [
         {
-          "id": "q_219",
+          "id": "q_298",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Even when you’re busy, try to save a little time for yourself. Everyone needs time to recharge and reconnect with themselves.",
+              "subtitle": "NINGNING | El Espectador"
+            },
             "zh-Hans": {
-              "title": "「我耳机呢？」",
-              "subtitle": "- 寧藝卓"
+              "title": "「再忙的时候，也要尽量留一点时间给自己。\n人需要有重新充电、重新和自己连接的时间。」",
+              "subtitle": "- 宁艺卓 El Espectador"
             },
             "zh-Hant": {
-              "title": "「我耳機呢？」",
-              "subtitle": "- 寧藝卓"
+              "title": "「再忙的時候，也要盡量留一點時間給自己。\n人需要有重新充電、重新和自己連結的時間。」",
+              "subtitle": "- 寧藝卓 El Espectador"
+            },
+            "es": {
+              "title": "Incluso cuando estés muy ocupado, intenta reservar un poco de tiempo para ti. Todos necesitamos tiempo para recargar energías y volver a conectar con nosotros mismos.",
+              "subtitle": "NINGNING | El Espectador"
+            },
+            "pt": {
+              "title": "Mesmo quando estiver muito ocupado, tente reservar um pouco de tempo para você. Todo mundo precisa de um tempo para recarregar as energias e se reconectar consigo mesmo.",
+              "subtitle": "NINGNING | El Espectador"
             }
           }
         },
@@ -403,13 +385,61 @@
           }
         },
         {
-          "id": "q_064",
+          "id": "q_299",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I think every woman in the world is a princess.",
-              "subtitle": "NINGNING"
+              "title": "The more ideas you have, the easier it is to find inspiration, and the less likely you are to trap yourself within one way of thinking.",
+              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
             },
+            "zh-Hans": {
+              "title": "「想法越多，反而越容易得到灵感，也不会把自己困在一个圈子里。」",
+              "subtitle": "- 宁艺卓  26.4.17《GQ Korea》"
+            },
+            "zh-Hant": {
+              "title": "「想法越多，反而越容易得到靈感，也不會把自己困在一個圈子裡。」",
+              "subtitle": "- 寧藝卓 26.4.17《GQ Korea》"
+            },
+            "es": {
+              "title": "Cuantas más ideas tengas, más fácil será encontrar inspiración y menos probable será que te encierres en una sola forma de pensar.",
+              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
+            },
+            "pt": {
+              "title": "Quanto mais ideias você tiver, mais fácil será encontrar inspiração e menos provável será que você se prenda a uma única forma de pensar.",
+              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
+            }
+          }
+        },
+        {
+          "id": "q_297",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Expressing yourself and having ambition are not bad things. Expressing yourself is natural, and having ambition is a good thing too.",
+              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+            },
+            "zh-Hans": {
+              "title": "「表达自己和有野心都不是坏事。\n表达自己是很自然的事情，有野心也是一件好事。」",
+              "subtitle": "- 宁艺卓 26.5.7《Marie Claire China》"
+            },
+            "zh-Hant": {
+              "title": "「表達自己和有野心都不是壞事。\n表達自己是很自然的事情，有野心也是一件好事。」",
+              "subtitle": "- 寧藝卓 26.5.7《Marie Claire China》"
+            },
+            "es": {
+              "title": "Expresarte y tener ambición no son cosas malas. Expresarte es algo natural, y tener ambición también es algo bueno.",
+              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+            },
+            "pt": {
+              "title": "Expressar-se e ter ambição não são coisas ruins. Expressar-se é algo natural, e ter ambição também é algo bom.",
+              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+            }
+          }
+        },
+        {
+          "id": "q_064",
+          "emojiPath": "",
+          "i18n": {
             "zh-Hans": {
               "title": "「我认为全世界的女人都是公主」",
               "subtitle": "- 宁艺卓"
@@ -417,14 +447,6 @@
             "zh-Hant": {
               "title": "「我認為全世界的女人都是公主」",
               "subtitle": "- 寧藝卓"
-            },
-            "es": {
-              "title": "Creo que todas las mujeres del mundo son princesas.",
-              "subtitle": "NINGNING"
-            },
-            "pt": {
-              "title": "Eu acho que todas as mulheres do mundo são princesas.",
-              "subtitle": "NINGNING"
             }
           }
         }
