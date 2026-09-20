@@ -7,86 +7,30 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_236",
+          "id": "q_306",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「爱蒸者蒸蒸日上」",
-              "subtitle": "- 梁祯元"
+              "title": "「我只是想让 ENGENE 笑一笑。\n因为我觉得，一天里至少也应该有一件能让人笑出来的事。」",
+              "subtitle": "- 梁祯元 26.9.15 WVS LIVE"
             },
             "zh-Hant": {
-              "title": "「愛蒸者蒸蒸日上」",
-              "subtitle": "- 梁禎元"
+              "title": "「我只是想讓 ENGENE 笑一笑。\n因為我覺得，一天裡至少也應該有一件能讓人笑出來的事。」",
+              "subtitle": "- 梁禎元 26.9.15 WVS LIVE"
             }
           }
         },
         {
-          "id": "q_237",
+          "id": "q_307",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「属于你的幸运星」",
-              "subtitle": "- 朴综星"
+              "title": "「什么时候都不算晚～」",
+              "subtitle": "- 梁祯元 26.9.18 WVS"
             },
             "zh-Hant": {
-              "title": "「屬於妳的幸運星」",
-              "subtitle": "- 朴綜星"
-            }
-          }
-        },
-        {
-          "id": "q_238",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈载伦"
-            },
-            "zh-Hant": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈載倫"
-            }
-          }
-        },
-        {
-          "id": "q_239",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你是为爱而生的人」",
-              "subtitle": "- 朴成训"
-            },
-            "zh-Hant": {
-              "title": "「妳是為愛而生的人」",
-              "subtitle": "- 朴成訓"
-            }
-          }
-        },
-        {
-          "id": "q_240",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「无论下禹晴天我豆一直在」",
-              "subtitle": "- 金善禹"
-            },
-            "zh-Hant": {
-              "title": "「無論下禹晴天我豆一直在」",
-              "subtitle": "- 金善禹"
-            }
-          }
-        },
-        {
-          "id": "q_241",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「NI就是我的天使」",
-              "subtitle": "- 西村力"
-            },
-            "zh-Hant": {
-              "title": "「NI就是我的天使」",
-              "subtitle": "- 西村力"
+              "title": "「什麼時候都不算晚～」",
+              "subtitle": "- 梁禎元 26.9.18 WVS"
             }
           }
         }
@@ -98,20 +42,6 @@
       "name": "JAY",
       "quotes": [
         {
-          "id": "q_233",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我的工作永远是第一位的，然后是我的健康。\n我的工作就是让 ENGENE 们开心！爱比痛苦更强大，这是科学。」",
-              "subtitle": "- 朴综星"
-            },
-            "zh-Hant": {
-              "title": "「我的工作永遠是第一位的，然後是我的健康。\n我的工作就是讓 ENGENE 們開心！愛比痛苦更強大，這是科學。」",
-              "subtitle": "- 朴綜星"
-            }
-          }
-        },
-        {
           "id": "q_237",
           "emojiPath": "",
           "i18n": {
@@ -121,6 +51,20 @@
             },
             "zh-Hant": {
               "title": "「屬於妳的幸運星」",
+              "subtitle": "- 朴綜星"
+            }
+          }
+        },
+        {
+          "id": "q_233",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我的工作永远是第一位的，然后是我的健康。\n我的工作就是让 ENGENE 们开心！爱比痛苦更强大，这是科学。」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「我的工作永遠是第一位的，然後是我的健康。\n我的工作就是讓 ENGENE 們開心！愛比痛苦更強大，這是科學。」",
               "subtitle": "- 朴綜星"
             }
           }
@@ -263,20 +207,6 @@
       "name": "JAKE",
       "quotes": [
         {
-          "id": "q_238",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈载伦"
-            },
-            "zh-Hant": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈載倫"
-            }
-          }
-        },
-        {
           "id": "q_228",
           "emojiPath": "",
           "i18n": {
@@ -299,6 +229,20 @@
             "pt": {
               "title": "Conhecer o ENGENE é o maior milagre das nossas vidas. Somos quem somos hoje porque o ENGENE está ao nosso lado.",
               "subtitle": "JAKE"
+            }
+          }
+        },
+        {
+          "id": "q_238",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈載倫"
             }
           }
         },
@@ -536,6 +480,32 @@
       "name": "JUNGWON",
       "quotes": [
         {
+          "id": "q_235",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Let’s walk together, hand in hand with ENGENE. Don’t let go, okay? Remember—we must never, ever, ever let go of each other.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「和 ENGENE 牵着手一起走，不准放手哦，记住了吗？\n我们绝对、绝对、绝对不要松手哦。」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「和 ENGENE 牽著手一起走，不准放手喔，記住了嗎？\n我們絕對、絕對、絕對不要鬆手喔。」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Caminemos juntos de la mano de ENGENE. No nos soltemos, ¿de acuerdo? Recuérdenlo: nunca, nunca, nunca debemos soltarnos.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Vamos caminhar juntos de mãos dadas com o ENGENE. Não vamos soltar, está bem? Lembrem-se: nunca, nunca, nunca devemos soltar as mãos.",
+              "subtitle": "JUNGWON"
+            }
+          }
+        },
+        {
           "id": "q_236",
           "emojiPath": "",
           "i18n": {
@@ -546,6 +516,60 @@
             "zh-Hant": {
               "title": "「愛蒸者蒸蒸日上」",
               "subtitle": "- 梁禎元"
+            }
+          }
+        },
+        {
+          "id": "q_306",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我只是想让 ENGENE 笑一笑。\n因为我觉得，一天里至少也应该有一件能让人笑出来的事。」",
+              "subtitle": "- 梁祯元 26.9.15 WVS LIVE"
+            },
+            "zh-Hant": {
+              "title": "「我只是想讓 ENGENE 笑一笑。\n因為我覺得，一天裡至少也應該有一件能讓人笑出來的事。」",
+              "subtitle": "- 梁禎元 26.9.15 WVS LIVE"
+            }
+          }
+        },
+        {
+          "id": "q_307",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「什么时候都不算晚～」",
+              "subtitle": "- 梁祯元 26.9.18 WVS"
+            },
+            "zh-Hant": {
+              "title": "「什麼時候都不算晚～」",
+              "subtitle": "- 梁禎元 26.9.18 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_234",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Because I have no other choice. All I have is ENGENE.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「因为我别无选择，我只有 ENGENE」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「因為我別無選擇，我只有 ENGENE」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Porque no tengo otra opción. Solo tengo a ENGENE.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
+              "subtitle": "JUNGWON"
             }
           }
         },
@@ -588,58 +612,6 @@
               "subtitle": "- 梁禎元"
             }
           }
-        },
-        {
-          "id": "q_235",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Let’s walk together, hand in hand with ENGENE. Don’t let go, okay? Remember—we must never, ever, ever let go of each other.",
-              "subtitle": "JUNGWON"
-            },
-            "zh-Hans": {
-              "title": "「和 ENGENE 牵着手一起走，不准放手哦，记住了吗？\n我们绝对、绝对、绝对不要松手哦。」",
-              "subtitle": "- 梁祯元"
-            },
-            "zh-Hant": {
-              "title": "「和 ENGENE 牽著手一起走，不准放手喔，記住了嗎？\n我們絕對、絕對、絕對不要鬆手喔。」",
-              "subtitle": "- 梁禎元"
-            },
-            "es": {
-              "title": "Caminemos juntos de la mano de ENGENE. No nos soltemos, ¿de acuerdo? Recuérdenlo: nunca, nunca, nunca debemos soltarnos.",
-              "subtitle": "JUNGWON"
-            },
-            "pt": {
-              "title": "Vamos caminhar juntos de mãos dadas com o ENGENE. Não vamos soltar, está bem? Lembrem-se: nunca, nunca, nunca devemos soltar as mãos.",
-              "subtitle": "JUNGWON"
-            }
-          }
-        },
-        {
-          "id": "q_234",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Because I have no other choice. All I have is ENGENE.",
-              "subtitle": "JUNGWON"
-            },
-            "zh-Hans": {
-              "title": "「因为我别无选择，我只有 ENGENE」",
-              "subtitle": "- 梁祯元"
-            },
-            "zh-Hant": {
-              "title": "「因為我別無選擇，我只有 ENGENE」",
-              "subtitle": "- 梁禎元"
-            },
-            "es": {
-              "title": "Porque no tengo otra opción. Solo tengo a ENGENE.",
-              "subtitle": "JUNGWON"
-            },
-            "pt": {
-              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
-              "subtitle": "JUNGWON"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -659,32 +631,6 @@
             "zh-Hant": {
               "title": "「NI就是我的天使」",
               "subtitle": "- 西村力"
-            }
-          }
-        },
-        {
-          "id": "q_153",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Put on your jeans, and youth begins right now.",
-              "subtitle": "NI-KI"
-            },
-            "zh-Hans": {
-              "title": "「穿上牛仔裤，青春就在此刻。」",
-              "subtitle": "- 西村力"
-            },
-            "zh-Hant": {
-              "title": "「穿上牛仔褲，青春就在此刻。」",
-              "subtitle": "- 西村力"
-            },
-            "es": {
-              "title": "Ponte unos jeans. La juventud comienza justo ahora.",
-              "subtitle": "NI-KI"
-            },
-            "pt": {
-              "title": "Vista um jeans. A juventude começa agora.",
-              "subtitle": "NI-KI"
             }
           }
         },
@@ -710,6 +656,32 @@
             },
             "pt": {
               "title": "ENGENE, eu cuido de você.",
+              "subtitle": "NI-KI"
+            }
+          }
+        },
+        {
+          "id": "q_153",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Put on your jeans, and youth begins right now.",
+              "subtitle": "NI-KI"
+            },
+            "zh-Hans": {
+              "title": "「穿上牛仔裤，青春就在此刻。」",
+              "subtitle": "- 西村力"
+            },
+            "zh-Hant": {
+              "title": "「穿上牛仔褲，青春就在此刻。」",
+              "subtitle": "- 西村力"
+            },
+            "es": {
+              "title": "Ponte unos jeans. La juventud comienza justo ahora.",
+              "subtitle": "NI-KI"
+            },
+            "pt": {
+              "title": "Vista um jeans. A juventude começa agora.",
               "subtitle": "NI-KI"
             }
           }
