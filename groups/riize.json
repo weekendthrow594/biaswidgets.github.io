@@ -7,91 +7,47 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_267",
+          "id": "q_309",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "不管昨天、今天还是明天， \n理所当然要和BRIIZE在一起， \n自愿守护BRIIZE一辈子！",
-              "subtitle": "- 大崎将太郎"
+              "title": "「以后也长久地见面吧，直到50周年的那一天。」",
+              "subtitle": "- 宋银硕 26.9.14 Weverse"
             },
             "zh-Hant": {
-              "title": "不管昨天、今天還是明天，\n理所當然都要和 BRIIZE 在一起，\n自願守護 BRIIZE 一輩子！",
-              "subtitle": "- 大崎將太郎"
+              "title": "「以後也長久地見面吧，直到50週年的那一天。」",
+              "subtitle": "- 宋恩奭 26.9.14 Weverse"
             }
           }
         },
         {
-          "id": "q_268",
+          "id": "q_310",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "BRIIZE！ \n理理我嘛～ \n最喜欢，最离不开BRIIZE啦～！",
-              "subtitle": "- 宋银硕"
+              "title": "「比起成为大家人生的全部，我更希望我们能成为在你们的生活里，多少带来一点好心情和积极影响的存在。」",
+              "subtitle": "- 李灿荣 26.9.15 Weverse"
             },
             "zh-Hant": {
-              "title": "BRIIZE！\n理理我嘛～\n最喜歡、最離不開 BRIIZE 啦～！",
-              "subtitle": "- 宋恩奭"
-            }
-          }
-        },
-        {
-          "id": "q_269",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "不好意思，我无可救药的爱上了BRIIZE，\n里里外外，脑海里装的都是BRIIZE，\n只喜欢BRIIZE",
-              "subtitle": "- 郑成灿"
-            },
-            "zh-Hant": {
-              "title": "不好意思，我無可救藥的愛上了BRIIZE，\n裡裡外外，腦海裡裝的都是BRIIZE，\n只喜歡BRIIZE",
-              "subtitle": "- 鄭成燦"
-            }
-          }
-        },
-        {
-          "id": "q_270",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "BRIIZE！\n离我近一点\n仔细听，你是我的唯一",
-              "subtitle": "- 朴元彬"
-            },
-            "zh-Hant": {
-              "title": "BRIIZE！\n離我近一點\n仔細聽，你是我的唯一",
-              "subtitle": "- 朴元彬"
-            }
-          }
-        },
-        {
-          "id": "q_271",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "bling bling bling bling是我，BRIIZE在干嘛\n离开你的每一秒钟都觉得好漫长，\n自始至终，我的眼里只有BRIIZE",
-              "subtitle": "- 李炤熙"
-            },
-            "zh-Hant": {
-              "title": "bling bling bling bling是我，BRIIZE在幹嘛\n離開你的每一秒鐘都覺得好漫長，\n自始至終，我的眼裡只有BRIIZE",
-              "subtitle": "- 李炤熙"
-            }
-          }
-        },
-        {
-          "id": "q_272",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "不行，BRIIZE你只可以看我，\n立刻向我保证，\n只和我好噢～！",
-              "subtitle": "- 李灿荣"
-            },
-            "zh-Hant": {
-              "title": "不行，BRIIZE你只可以看我，\n立刻向我保證，\n只和我好噢～！",
-              "subtitle": "- 李燦榮"
+              "title": "「比起成為大家人生的全部，我更希望我們能成為在你們的生活裡，多少帶來一點好心情和積極影響的存在。」",
+              "subtitle": "- 李燦榮 26.9.15 Weverse"
             }
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_010",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/5",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "riize_Shotaro",
@@ -118,6 +74,20 @@
       "id": "riize_Eunseok",
       "name": "EUNSEOK",
       "quotes": [
+        {
+          "id": "q_309",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「以后也长久地见面吧，直到50周年的那一天。」",
+              "subtitle": "- 宋银硕 26.9.14 Weverse"
+            },
+            "zh-Hant": {
+              "title": "「以後也長久地見面吧，直到50週年的那一天。」",
+              "subtitle": "- 宋恩奭 26.9.14 Weverse"
+            }
+          }
+        },
         {
           "id": "q_268",
           "emojiPath": "",
@@ -202,6 +172,20 @@
       "id": "riize_Anton",
       "name": "ANTON",
       "quotes": [
+        {
+          "id": "q_310",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「比起成为大家人生的全部，我更希望我们能成为在你们的生活里，多少带来一点好心情和积极影响的存在。」",
+              "subtitle": "- 李灿荣 26.9.15 Weverse"
+            },
+            "zh-Hant": {
+              "title": "「比起成為大家人生的全部，我更希望我們能成為在你們的生活裡，多少帶來一點好心情和積極影響的存在。」",
+              "subtitle": "- 李燦榮 26.9.15 Weverse"
+            }
+          }
+        },
         {
           "id": "q_272",
           "emojiPath": "",
