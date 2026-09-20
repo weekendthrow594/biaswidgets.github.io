@@ -31,6 +31,34 @@
               "subtitle": "NINGNING | El Espectador"
             }
           }
+        },
+        {
+          "id": "q_308",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果觉得自己正在承受压力，就会一直感到被束缚；但如果觉得自己能做到，就会变得无限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
+            },
+            "zh-Hant": {
+              "title": "「如果覺得自己正在承受壓力，就會一直感到被束縛；但如果覺得自己能做到，就會變得無限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
+            }
+          }
+        },
+        {
+          "id": "q_303",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我不是先有自信才努力，而是靠努力一点一点建立自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "zh-Hant": {
+              "title": "「我不是先有自信才努力，而是靠努力一點一點建立自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -155,20 +183,6 @@
       "name": "GISELLE",
       "quotes": [
         {
-          "id": "q_216",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「老天保佑金山银山全都有」",
-              "subtitle": "- Giselle"
-            },
-            "zh-Hant": {
-              "title": "「老天保佑金山銀山全都有」",
-              "subtitle": "- Giselle"
-            }
-          }
-        },
-        {
           "id": "q_062",
           "emojiPath": "",
           "i18n": {
@@ -199,12 +213,92 @@
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「不要让任何人黯淡你的光芒。永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。\n我会一直在这里陪着你，我爱你。」",
+              "title": "「不要让任何人黯淡你的光芒。\n永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。」",
               "subtitle": "- Giselle"
             },
             "zh-Hant": {
-              "title": "「不要讓任何人黯淡你的光芒。永遠記得，你的存在本身就已經如此美麗且強大。你比自己想像中，擁有更多掌控人生的力量。\n我會一直在這裡陪著你，我愛你。」",
+              "title": "「不要讓任何人黯淡你的光芒。\n永遠記得，你的存在本身就已經如此美麗且強大，你比自己想像中，擁有更多掌控人生的力量。",
               "subtitle": "- Giselle"
+            }
+          }
+        },
+        {
+          "id": "q_300",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Right now, I’m slowly finding my way back to who I used to be.",
+              "subtitle": "GISELLE"
+            },
+            "zh-Hans": {
+              "title": "「现在的我，正在一点一点回到原本的自己。」",
+              "subtitle": "- Giselle 26.6.3《DAZED Korea》"
+            },
+            "zh-Hant": {
+              "title": "「現在的我，正在一點一點回到原本的自己。」",
+              "subtitle": "- Giselle 26.6.3《DAZED Korea》"
+            },
+            "es": {
+              "title": "Ahora mismo, poco a poco estoy volviendo a ser quien era antes.",
+              "subtitle": "GISELLE"
+            },
+            "pt": {
+              "title": "Agora, aos poucos, estou voltando a ser quem eu era antes.",
+              "subtitle": "GISELLE"
+            }
+          }
+        },
+        {
+          "id": "q_301",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even doing just a little something can become the first step toward what comes next.",
+              "subtitle": "GISELLE"
+            },
+            "zh-Hans": {
+              "title": "「哪怕只是做一点什么，也可能成为走向下一步的第一个起点。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "zh-Hant": {
+              "title": "「哪怕只是做一點什麼，也可能成為走向下一步的第一個起點。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "es": {
+              "title": "Incluso hacer algo pequeño puede convertirse en el primer paso hacia lo que viene después",
+              "subtitle": "GISELLE"
+            },
+            "pt": {
+              "title": "Mesmo fazer algo pequeno pode se tornar o primeiro passo em direção ao que vem depois.",
+              "subtitle": "GISELLE"
+            }
+          }
+        },
+        {
+          "id": "q_302",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「也许谁都很难做到100%满意。但如果不忽略那些小小的满足，一点一点把它们收集起来，我觉得它们最终会变成自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "zh-Hant": {
+              "title": "「也許誰都很難做到100%滿意。但如果不忽略那些小小的滿足，一點一點把它們收集起來，我覺得它們最終會變成自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            }
+          }
+        },
+        {
+          "id": "q_303",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我不是先有自信才努力，而是靠努力一点一点建立自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "zh-Hant": {
+              "title": "「我不是先有自信才努力，而是靠努力一點一點建立自信。」",
+              "subtitle": "- Giselle 26.8.28《CLASSY》"
             }
           }
         }
@@ -298,6 +392,34 @@
           }
         },
         {
+          "id": "q_308",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果觉得自己正在承受压力，就会一直感到被束缚；但如果觉得自己能做到，就会变得无限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
+            },
+            "zh-Hant": {
+              "title": "「如果覺得自己正在承受壓力，就會一直感到被束縛；但如果覺得自己能做到，就會變得無限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
+            }
+          }
+        },
+        {
+          "id": "q_123",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
+              "subtitle": "- 金旼炡"
+            }
+          }
+        },
+        {
           "id": "q_063",
           "emojiPath": "",
           "i18n": {
@@ -320,20 +442,6 @@
             "pt": {
               "title": "Espero que você, que gosta de mim, possa ser feliz. Ter você gostando de mim também me faz feliz.",
               "subtitle": "WINTER"
-            }
-          }
-        },
-        {
-          "id": "q_123",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
-              "subtitle": "- 金旼炡"
             }
           }
         }
