@@ -7,20 +7,54 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_196",
+          "id": "q_316",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "If stars are falling tonight,\nmaybe I fell asleep early\nto find you in your dreams\nand become a star STAY can see for a while.",
-              "subtitle": "HAN"
+              "title": "When things get hard, you can always lean on me.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
             },
             "zh-Hans": {
-              "title": "「如果今晚有星星洒落下来，\n那大概是我早早睡着了，\n为了走进你的梦里，\n短暂变成一颗让 STAY 看得见的星星。」",
-              "subtitle": "- 韩知城 BUBBLE"
+              "title": "「辛苦的时候，随时都可以依靠我」",
+              "subtitle": "- 李龙馥 26.9.20 《RUN IT JAPAN》Osaka D2"
             },
             "zh-Hant": {
-              "title": "「如果今晚有星星灑落下來，\n那大概是我早早睡著了，\n為了走進你的夢裡，\n短暫變成一顆讓 STAY 看得見的星星。」",
-              "subtitle": "- 韓知城 BUBBLE"
+              "title": "「辛苦的時候，隨時都可以依靠我」",
+              "subtitle": "- 李龍馥 26.9.20 《RUN IT JAPAN》Osaka D2"
+            },
+            "es": {
+              "title": "Cuando las cosas se pongan difíciles, siempre puedes apoyarte en mí.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            },
+            "pt": {
+              "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            }
+          }
+        },
+        {
+          "id": "q_317",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I’ve waited and endured so many things… and through it all, I kept trying to find happiness.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+            },
+            "zh-Hans": {
+              "title": "「我等待并熬过了那么多事情……而在这一切之中，我努力寻找着幸福」",
+              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+            },
+            "zh-Hant": {
+              "title": "「我等待並熬過了那麼多事情……而在這一切之中，我努力尋找著幸福」",
+              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+            },
+            "es": {
+              "title": "He esperado y soportado tantas cosas… y, en medio de todo ello, seguí intentando encontrar la felicidad.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+            },
+            "pt": {
+              "title": "Esperei e suportei tantas coisas… e, em meio a tudo isso, continuei tentando encontrar a felicidade.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
             }
           }
         }
@@ -385,12 +419,38 @@
       "name": "Felix",
       "quotes": [
         {
+          "id": "q_316",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When things get hard, you can always lean on me.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            },
+            "zh-Hans": {
+              "title": "「辛苦的时候，随时都可以依靠我」",
+              "subtitle": "- 李龙馥 26.9.20 《RUN IT JAPAN》Osaka D2"
+            },
+            "zh-Hant": {
+              "title": "「辛苦的時候，隨時都可以依靠我」",
+              "subtitle": "- 李龍馥 26.9.20 《RUN IT JAPAN》Osaka D2"
+            },
+            "es": {
+              "title": "Cuando las cosas se pongan difíciles, siempre puedes apoyarte en mí.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            },
+            "pt": {
+              "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
+              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            }
+          }
+        },
+        {
           "id": "q_141",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Even if you can't come to the concert, I'll still love you from afar.",
-              "subtitle": "Felix"
+              "subtitle": "FELIX"
             },
             "zh-Hans": {
               "title": "「就算不能来到演唱会，我也会在远方爱着你。」",
@@ -402,11 +462,11 @@
             },
             "es": {
               "title": "Aunque no puedas venir al concierto, te seguiré queriendo desde lejos.",
-              "subtitle": "Felix"
+              "subtitle": "FELIX"
             },
             "pt": {
               "title": "Mesmo que você não possa vir ao show, eu vou continuar te amando de longe.",
-              "subtitle": "Felix"
+              "subtitle": "FELIX"
             }
           }
         }
@@ -418,12 +478,38 @@
       "name": "Seungmin",
       "quotes": [
         {
+          "id": "q_317",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I’ve waited and endured so many things… and through it all, I kept trying to find happiness.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+            },
+            "zh-Hans": {
+              "title": "「我等待并熬过了那么多事情……而在这一切之中，我努力寻找着幸福」",
+              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+            },
+            "zh-Hant": {
+              "title": "「我等待並熬過了那麼多事情……而在這一切之中，我努力尋找著幸福」",
+              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+            },
+            "es": {
+              "title": "He esperado y soportado tantas cosas… y, en medio de todo ello, seguí intentando encontrar la felicidad.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+            },
+            "pt": {
+              "title": "Esperei e suportei tantas coisas… e, em meio a tudo isso, continuei tentando encontrar a felicidade.",
+              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+            }
+          }
+        },
+        {
           "id": "q_142",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "We want to become the group that stays with you for the longest time.",
-              "subtitle": "Seungmin"
+              "subtitle": "SEUNGMIN"
             },
             "zh-Hans": {
               "title": "「我们想成为这个世界上陪伴大家最久的团体。」",
@@ -435,11 +521,11 @@
             },
             "es": {
               "title": "Queremos ser el grupo que permanezca a su lado durante más tiempo.",
-              "subtitle": "Seungmin"
+              "subtitle": "SEUNGMIN"
             },
             "pt": {
               "title": "Queremos ser o grupo que permaneça ao lado de vocês por mais tempo.",
-              "subtitle": "Seungmin"
+              "subtitle": "SEUNGMIN"
             }
           }
         }
