@@ -7,38 +7,40 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_183",
+          "id": "q_304",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "Paris is the city of love. You have to do what you love.",
-              "subtitle": "MARTIN"
-            },
             "zh-Hans": {
-              "title": "「巴黎是爱之都，你必须做你喜欢的事情。」",
-              "subtitle": "- 马丁"
+              "title": "「能够做自己喜欢的事，同时还感到幸福，其实并不是一件容易的事。\n我们真的很幸运，希望大家都幸福。」",
+              "subtitle": "- 金主训 26.9.19 TMA"
             },
             "zh-Hant": {
-              "title": "「巴黎是愛之都，你必須做你喜歡的事情。」",
-              "subtitle": "- 馬丁"
+              "title": "「能夠做自己喜歡的事，同時還感到幸福，其實並不是一件容易的事。\n我們真的很幸運，希望大家都幸福。」",
+              "subtitle": "- 金主訓 26.9.19 TMA"
+            }
+          }
+        },
+        {
+          "id": "q_314",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「生活的美在于为了让自己变得更好，不断寻找新的挑战，以及在这个过程中得到的经验」",
+              "subtitle": "- 赵雨凡 26.9.24《Vogue Korea》"
             },
-            "es": {
-              "title": "París es la ciudad del amor. Tienes que hacer lo que amas.",
-              "subtitle": "MARTIN"
-            },
-            "pt": {
-              "title": "Paris é a cidade do amor. Você precisa fazer o que ama.",
-              "subtitle": "MARTIN"
+            "zh-Hant": {
+              "title": "「生活的美在於為了讓自己變得更好，不斷尋找新的挑戰，以及在這個過程中得到的經驗」",
+              "subtitle": "- 趙雨凡 26.9.24《Vogue Korea》"
             }
           }
         }
       ],
       "countdowns": [
         {
-          "id": "c_010",
+          "id": "c_011",
           "emojiPath": "",
           "beginDateStr": "2026/09/19",
-          "endDateStr": "2026/12/5",
+          "endDateStr": "2026/12/6",
           "i18n": {
             "zh-Hant": {
               "title": "AAA"
@@ -51,6 +53,20 @@
       "id": "cortis_james",
       "name": "JAMES",
       "quotes": [
+        {
+          "id": "q_305",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "If you are able to color outside the lines.\nYou are one of us.\nYou are one of CORTIS.",
+              "subtitle": "- 赵雨凡 26.9.19 TMA"
+            },
+            "zh-Hant": {
+              "title": "If you are able to color outside the lines.\nYou are one of us.\nYou are one of CORTIS.",
+              "subtitle": "- 趙雨凡 26.9.19 TMA"
+            }
+          }
+        },
         {
           "id": "q_148",
           "emojiPath": "",
@@ -194,6 +210,20 @@
               "subtitle": "JAMES"
             }
           }
+        },
+        {
+          "id": "q_314",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「生活的美在于为了让自己变得更好，不断寻找新的挑战，以及在这个过程中得到的经验」",
+              "subtitle": "- 赵雨凡 26.9.24《Vogue Korea》"
+            },
+            "zh-Hant": {
+              "title": "「生活的美在於為了讓自己變得更好，不斷尋找新的挑戰，以及在這個過程中得到的經驗」",
+              "subtitle": "- 趙雨凡 26.9.24《Vogue Korea》"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -277,6 +307,20 @@
             "pt": {
               "title": "Você já percorreu um longo caminho, mas ainda há uma longa estrada pela frente.",
               "subtitle": "JUHOON"
+            }
+          }
+        },
+        {
+          "id": "q_304",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「能够做自己喜欢的事，同时还感到幸福，其实并不是一件容易的事。\n我们真的很幸运，希望大家都幸福。」",
+              "subtitle": "- 金主训 26.9.19 TMA"
+            },
+            "zh-Hant": {
+              "title": "「能夠做自己喜歡的事，同時還感到幸福，其實並不是一件容易的事。\n我們真的很幸運，希望大家都幸福。」",
+              "subtitle": "- 金主訓 26.9.19 TMA"
             }
           }
         }
