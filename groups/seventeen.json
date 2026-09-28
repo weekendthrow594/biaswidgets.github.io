@@ -740,28 +740,42 @@
       "name": "THE8",
       "quotes": [
         {
+          "id": "q_315",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "夜色很好～感谢陪伴\n愿我们在各自的路上 都能好好吃饭 好好生活\n晚安💜",
+              "subtitle": "- THE8 26.9.25 WVS"
+            },
+            "zh-Hant": {
+              "title": "夜色很好～感謝陪伴 \n願我們在各自的路上 都能好好吃飯 好好生活 \n晚安💜",
+              "subtitle": "- THE8 26.9.25 WVS"
+            }
+          }
+        },
+        {
           "id": "q_159",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "Why doubt yourself? There’s only one you in this world.",
-              "subtitle": "The8"
+              "subtitle": "THE 8"
             },
             "zh-Hans": {
               "title": "「干嘛不自信？这世上只有一个你。」",
-              "subtitle": "- The8"
+              "subtitle": "- THE8"
             },
             "zh-Hant": {
               "title": "「幹嘛不自信？這世上只有一個你。」",
-              "subtitle": "- The8"
+              "subtitle": "- THE8"
             },
             "es": {
               "title": "¿Por qué dudar de ti? Solo hay una persona como tú en este mundo.",
-              "subtitle": "The8"
+              "subtitle": "THE 8"
             },
             "pt": {
               "title": "Por que duvidar de si mesmo? Só existe uma pessoa como você neste mundo.",
-              "subtitle": "The8"
+              "subtitle": "THE 8"
             }
           }
         }
@@ -961,11 +975,11 @@
           "i18n": {
             "zh-Hans": {
               "title": "「只要各自努力生活，再次相见的时刻很快就会到来。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
-              "subtitle": "- 李硕珉"
+              "subtitle": "- 李硕珉 26.07.27 WVS"
             },
             "zh-Hant": {
               "title": "「只要各自努力生活，再次相見的時刻很快就會到來。\n각자의 삶을 열심히 살다 보면 만남의 시간은 금방 다시 돌아올 거예요」",
-              "subtitle": "- 李碩珉"
+              "subtitle": "- 李碩珉 26.07.27 WVS"
             }
           }
         },
@@ -1255,7 +1269,22 @@
     {
       "id": "seventeen_dino",
       "name": "DINO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_291",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「언제나 나의 존재의 이유 캐럿들!!\n永远都是我存在的理由，CARAT们!!」",
+              "subtitle": "- 李灿 26.09.06 WVS"
+            },
+            "zh-Hant": {
+              "title": "「언제나 나의 존재의 이유 캐럿들!!\n永遠都是我存在的理由，CARAT們!!」",
+              "subtitle": "- 李燦 26.09.06 WVS"
+            }
+          }
+        }
+      ],
       "countdowns": [
         {
           "id": "c_009",
