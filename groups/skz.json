@@ -57,6 +57,32 @@
               "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
             }
           }
+        },
+        {
+          "id": "q_320",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In a fast-moving world, take a moment to pause and look back on the time and dreams you shared with the people who matter to you.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+            },
+            "zh-Hans": {
+              "title": "「在快速流逝的世界里，稍微停下脚步，回头看看和重要的人一起度过的时间与梦想」",
+              "subtitle": "- 李龙馥 26.9.1《Slow It Down》 Comment"
+            },
+            "zh-Hant": {
+              "title": "「在快速流逝的世界裡，稍微停下腳步，回頭看看和重要的人一起度過的時間與夢想」",
+              "subtitle": "- 李龍馥 26.9.1《Slow It Down》 Comment"
+            },
+            "es": {
+              "title": "En un mundo que avanza tan rápido, detente un momento y mira atrás, hacia el tiempo y los sueños que compartiste con las personas importantes para ti.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+            },
+            "pt": {
+              "title": "Em um mundo que passa tão rápido, pare por um momento e olhe para trás, para o tempo e os sonhos que você compartilhou com as pessoas importantes para você.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -441,6 +467,32 @@
             "pt": {
               "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
               "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+            }
+          }
+        },
+        {
+          "id": "q_320",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In a fast-moving world, take a moment to pause and look back on the time and dreams you shared with the people who matter to you.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+            },
+            "zh-Hans": {
+              "title": "「在快速流逝的世界里，稍微停下脚步，回头看看和重要的人一起度过的时间与梦想」",
+              "subtitle": "- 李龙馥 26.9.1《Slow It Down》 Comment"
+            },
+            "zh-Hant": {
+              "title": "「在快速流逝的世界裡，稍微停下腳步，回頭看看和重要的人一起度過的時間與夢想」",
+              "subtitle": "- 李龍馥 26.9.1《Slow It Down》 Comment"
+            },
+            "es": {
+              "title": "En un mundo que avanza tan rápido, detente un momento y mira atrás, hacia el tiempo y los sueños que compartiste con las personas importantes para ti.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+            },
+            "pt": {
+              "title": "Em um mundo que passa tão rápido, pare por um momento e olhe para trás, para o tempo e os sonhos que você compartilhou com as pessoas importantes para você.",
+              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
             }
           }
         },
