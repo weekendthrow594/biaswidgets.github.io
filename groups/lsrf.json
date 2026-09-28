@@ -7,58 +7,54 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_287",
+          "id": "q_319",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I am a one-of-a-kind person, and I don’t belong to anyone. So I want to center myself and build my own sense of what beauty means.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
+            },
             "zh-Hans": {
-              "title": "每个人都有自己的时区，别让社会定义的“太晚”阻止你尝试",
-              "subtitle": "- 许允真 Podcast 《HMM》"
+              "title": "「自己是独一无二的存在，也不属于任何人。\n所以我会以自己为中心，建立属于自己的价值观」",
+              "subtitle": "- 宫脇咲良 26.9.24《MAQUIA》"
             },
             "zh-Hant": {
-              "title": "每個人都有自己的時區，別讓社會定義的「太晚」阻止你嘗試",
-              "subtitle": "- 許允真 Podcast 《HMM》"
+              "title": "「自己是獨一無二的存在，也不屬於任何人。\n所以我會以自己為中心，建立屬於自己的價值觀」",
+              "subtitle": "- 宮脇咲良 26.9.24《MAQUIA》"
+            },
+            "es": {
+              "title": "Soy una persona única y no le pertenezco a nadie. Por eso quiero ponerme a mí misma en el centro y construir mi propia idea de lo que significa la belleza.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
+            },
+            "pt": {
+              "title": "Sou uma pessoa única e não pertenço a ninguém. Por isso, quero me colocar no centro e construir a minha própria visão do que é beleza.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
             }
           }
         },
         {
-          "id": "q_286",
+          "id": "q_318",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "The things we truly love, and the things we’re willing to spend time cherishing, can give us a little more strength to keep moving forward in life.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+            },
             "zh-Hans": {
-              "title": "「相信心中的不安，害怕也可能代表自己正走在对的路上」",
-              "subtitle": "- 许允真 Podcast 《HMM》"
+              "title": "「自己真正喜欢的事物，以及那些愿意花时间去珍惜的东西，都会为我们继续向前生活，多增加一点点力量。」",
+              "subtitle": "- 许允真 26.9.25 PUREFLOW Phoenix"
             },
             "zh-Hant": {
-              "title": "「相信心中的不安，害怕也可能代表自己正走在對的路上」",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
-        {
-          "id": "q_285",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「每个人都是第一次体验人生，不必急着规划好一切」",
-              "subtitle": "- 许允真 Podcast 《HMM》"
+              "title": "「自己真正喜歡的事物，以及那些願意花時間去珍惜的東西，都會為我們繼續向前生活，多增加一點點力量。」",
+              "subtitle": "- 許允真 26.9.25 PUREFLOW Phoenix"
             },
-            "zh-Hant": {
-              "title": "「每個人都是第一次體驗人生，不必急著規劃好一切」",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
-        {
-          "id": "q_288",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "保有一点“异想天开的自信”，即使结果未知，也要相信自己做得到",
-              "subtitle": "- 许允真 Podcast 《HMM》"
+            "es": {
+              "title": "Las cosas que realmente amamos, y aquellas que estamos dispuestos a dedicar tiempo a cuidar, pueden darnos un poco más de fuerza para seguir avanzando en la vida.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
             },
-            "zh-Hant": {
-              "title": "保有一點「異想天開的自信」，即使結果未知，也要相信自己做得到",
-              "subtitle": "- 許允真 Podcast 《HMM》"
+            "pt": {
+              "title": "As coisas de que realmente gostamos, e aquelas às quais estamos dispostos a dedicar tempo e carinho, podem nos dar um pouco mais de força para continuar seguindo em frente na vida.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
             }
           }
         }
@@ -157,15 +153,55 @@
       "name": "SAKURA",
       "quotes": [
         {
+          "id": "q_113",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论多么辛苦的瞬间，最终都会过去。所以，时间永远站在我这边。」",
+              "subtitle": "- 宫脇咲良 PUREFLOW寄语"
+            },
+            "zh-Hant": {
+              "title": "「無論多麼辛苦的瞬間，最終都會過去。\n所以，時間永遠站在我這邊。」",
+              "subtitle": "- 宮脇咲良 PUREFLOW寄語"
+            }
+          }
+        },
+        {
+          "id": "q_319",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I am a one-of-a-kind person, and I don’t belong to anyone. So I want to center myself and build my own sense of what beauty means.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
+            },
+            "zh-Hans": {
+              "title": "「自己是独一无二的存在，也不属于任何人。\n所以我会以自己为中心，建立属于自己的价值观」",
+              "subtitle": "- 宫脇咲良 26.9.24《MAQUIA》"
+            },
+            "zh-Hant": {
+              "title": "「自己是獨一無二的存在，也不屬於任何人。\n所以我會以自己為中心，建立屬於自己的價值觀」",
+              "subtitle": "- 宮脇咲良 26.9.24《MAQUIA》"
+            },
+            "es": {
+              "title": "Soy una persona única y no le pertenezco a nadie. Por eso quiero ponerme a mí misma en el centro y construir mi propia idea de lo que significa la belleza.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
+            },
+            "pt": {
+              "title": "Sou uma pessoa única e não pertenço a ninguém. Por isso, quero me colocar no centro e construir a minha própria visão do que é beleza.",
+              "subtitle": "SAKURA | 9/24 MAQUIA"
+            }
+          }
+        },
+        {
           "id": "q_193",
           "emojiPath": "",
           "i18n": {
             "zh-Hans": {
-              "title": "「有些事情不得不面对，有些事情也很困难。\n但我希望自己成为那个，能够享受其中的人。」",
+              "title": "「有些事情不得不面对，有些事情也很困难。\n但我希望自己成为那个，能够享受其中的人」",
               "subtitle": "- 宫脇咲良"
             },
             "zh-Hant": {
-              "title": "「有些事情不得不面對，有些事情也很困難。\n但我希望自己成為那個，能夠享受其中的人。」",
+              "title": "「有些事情不得不面對，有些事情也很困難。\n但我希望自己成為那個，能夠享受其中的人」",
               "subtitle": "- 宮脇咲良"
             }
           }
@@ -199,20 +235,6 @@
           }
         },
         {
-          "id": "q_113",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「无论多么辛苦的瞬间，最终都会过去。所以，时间永远站在我这边。」",
-              "subtitle": "- 宫脇咲良 PUREFLOW寄语"
-            },
-            "zh-Hant": {
-              "title": "「無論多麼辛苦的瞬間，最終都會過去。\n所以，時間永遠站在我這邊。」",
-              "subtitle": "- 宮脇咲良 PUREFLOW寄語"
-            }
-          }
-        },
-        {
           "id": "q_191",
           "emojiPath": "",
           "i18n": {
@@ -233,62 +255,6 @@
       "id": "lsrf_yunjin",
       "name": "YUNJIN",
       "quotes": [
-        {
-          "id": "q_287",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "每个人都有自己的时区，别让社会定义的“太晚”阻止你尝试",
-              "subtitle": "- 许允真 Podcast 《HMM》"
-            },
-            "zh-Hant": {
-              "title": "每個人都有自己的時區，別讓社會定義的「太晚」阻止你嘗試",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
-        {
-          "id": "q_286",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「相信心中的不安，害怕也可能代表自己正走在对的路上」",
-              "subtitle": "- 许允真 Podcast 《HMM》"
-            },
-            "zh-Hant": {
-              "title": "「相信心中的不安，害怕也可能代表自己正走在對的路上」",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
-        {
-          "id": "q_285",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「每个人都是第一次体验人生，不必急着规划好一切」",
-              "subtitle": "- 许允真 Podcast 《HMM》"
-            },
-            "zh-Hant": {
-              "title": "「每個人都是第一次體驗人生，不必急著規劃好一切」",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
-        {
-          "id": "q_288",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "保有一点“异想天开的自信”，即使结果未知，也要相信自己做得到",
-              "subtitle": "- 许允真 Podcast 《HMM》"
-            },
-            "zh-Hant": {
-              "title": "保有一點「異想天開的自信」，即使結果未知，也要相信自己做得到",
-              "subtitle": "- 許允真 Podcast 《HMM》"
-            }
-          }
-        },
         {
           "id": "q_195",
           "emojiPath": "",
@@ -314,6 +280,88 @@
             "zh-Hant": {
               "title": "「無論未來的我會成為什麼樣子，我都一定會深深愛著她。」",
               "subtitle": "- 許允真 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_287",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "每个人都有自己的时区，别让社会定义的“太晚”阻止你尝试",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "每個人都有自己的時區，別讓社會定義的「太晚」阻止你嘗試",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_285",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「每个人都是第一次体验人生，不必急着规划好一切」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "「每個人都是第一次體驗人生，不必急著規劃好一切」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_286",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「相信心中的不安，害怕也可能代表自己正走在对的路上」",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "「相信心中的不安，害怕也可能代表自己正走在對的路上」",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_288",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "保有一点“异想天开的自信”，即使结果未知，也要相信自己做得到",
+              "subtitle": "- 许允真 Podcast 《HMM》"
+            },
+            "zh-Hant": {
+              "title": "保有一點「異想天開的自信」，即使結果未知，也要相信自己做得到",
+              "subtitle": "- 許允真 Podcast 《HMM》"
+            }
+          }
+        },
+        {
+          "id": "q_318",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The things we truly love, and the things we’re willing to spend time cherishing, can give us a little more strength to keep moving forward in life.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+            },
+            "zh-Hans": {
+              "title": "「自己真正喜欢的事物，以及那些愿意花时间去珍惜的东西，都会为我们继续向前生活，多增加一点点力量。」",
+              "subtitle": "- 许允真 26.9.25 PUREFLOW Phoenix"
+            },
+            "zh-Hant": {
+              "title": "「自己真正喜歡的事物，以及那些願意花時間去珍惜的東西，都會為我們繼續向前生活，多增加一點點力量。」",
+              "subtitle": "- 許允真 26.9.25 PUREFLOW Phoenix"
+            },
+            "es": {
+              "title": "Las cosas que realmente amamos, y aquellas que estamos dispuestos a dedicar tiempo a cuidar, pueden darnos un poco más de fuerza para seguir avanzando en la vida.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+            },
+            "pt": {
+              "title": "As coisas de que realmente gostamos, e aquelas às quais estamos dispostos a dedicar tempo e carinho, podem nos dar um pouco mais de força para continuar seguindo em frente na vida.",
+              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
             }
           }
         }
