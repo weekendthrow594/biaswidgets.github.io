@@ -70,6 +70,14 @@
       "ENHYPEN_header_2",
       "ENHYPEN_header_3",
       "ENHYPEN_header_5"
+    ],
+    "halloween": [
+      "ENHYPEN_halloween_6",
+      "ENHYPEN_halloween_4",
+      "ENHYPEN_halloween_1",
+      "ENHYPEN_halloween_2",
+      "ENHYPEN_halloween_3",
+      "ENHYPEN_halloween_5"
     ]
   },
   {
@@ -133,6 +141,16 @@
       "CORTIS_ball_5",
       "CORTIS_ball_4",
       "CORTIS_ball_2"
+    ],
+    "newball": [
+      "CORTIS_newball_1",
+      "CORTIS_newball_3",
+      "CORTIS_newball_8",
+      "CORTIS_newball_7",
+      "CORTIS_newball_6",
+      "CORTIS_newball_5",
+      "CORTIS_newball_4",
+      "CORTIS_newball_2"
     ]
   },
   {
@@ -267,6 +285,18 @@
       "EXO_header_3",
       "EXO_header_2",
       "EXO_header_1"
+    ]
+  },
+  {
+    "id": "tws",
+    "name": "TWS",
+    "header": [
+      "TWS_header_1",
+      "TWS_header_2",
+      "TWS_header_3",
+      "TWS_header_4",
+      "TWS_header_5",
+      "TWS_header_6"
     ]
   }
 ]
