@@ -45,8 +45,8 @@
     "order": 9
   },
   {
-    "id": "idle",
-    "name": "I-DLE",
+    "id": "cortis",
+    "name": "CORTIS",
     "order": 10
   },
   {
@@ -60,8 +60,8 @@
     "order": 12
   },
   {
-    "id": "nctwish",
-    "name": "NCTWISH",
+    "id": "idle",
+    "name": "I-DLE",
     "order": 13
   },
   {
@@ -95,13 +95,18 @@
     "order": 19
   },
   {
-    "id": "cortis",
-    "name": "CORTIS",
+    "id": "nctwish",
+    "name": "NCTWISH",
     "order": 20
   },
   {
     "id": "exo",
     "name": "EXO",
     "order": 21
+  },
+  {
+    "id": "tws",
+    "name": "TWS",
+    "order": 22
   }
 ]
