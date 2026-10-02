@@ -5,7 +5,22 @@
     {
       "id": "idle_today",
       "name": "TODAY",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_321",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「脆弱有什么不好？那不是需要隐藏的情绪，谁又能一直坚强呢？」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            },
+            "zh-Hant": {
+              "title": "「脆弱有什麼不好？那不是需要隱藏的情緒，誰又能一直堅強呢？」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
@@ -38,13 +53,98 @@
     {
       "id": "idle_soyeon",
       "name": "SOYEON",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_296",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「把自己真实的感受放进去，本身就是一件需要勇气的事。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》发行采访"
+            },
+            "zh-Hant": {
+              "title": "「把自己真實的感受放進去，本身就是一件需要勇氣的事。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》發行採訪"
+            }
+          }
+        },
+        {
+          "id": "q_294",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「比起一直担心未来，我更希望大家能幸福地活在这一刻。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》发行采访"
+            },
+            "zh-Hant": {
+              "title": "「比起一直擔心未來，我更希望大家能幸福地活在這一刻。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》發行採訪"
+            }
+          }
+        },
+        {
+          "id": "q_295",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论是什么模样的人生，等以后回头看，应该都会觉得：这真是一段很棒的人生。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》发行采访"
+            },
+            "zh-Hant": {
+              "title": "「無論是什麼模樣的人生，等以後回頭看，應該都會覺得：這真是一段很棒的人生。」",
+              "subtitle": "- 田小娟 26.09.07《What a Wonderful Life》發行採訪"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "idle_yuqi",
       "name": "YUQI",
       "quotes": [
+        {
+          "id": "q_323",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「就算它没有大红又怎样？\n它依然是我的作品，我依然爱它。」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            },
+            "zh-Hant": {
+              "title": "「就算它沒有大紅又怎樣？\n它依然是我的作品，我依然愛它。」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            }
+          }
+        },
+        {
+          "id": "q_321",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「脆弱有什么不好？那不是需要隐藏的情绪，谁又能一直坚强呢？」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            },
+            "zh-Hant": {
+              "title": "「脆弱有什麼不好？那不是需要隱藏的情緒，誰又能一直堅強呢？」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            }
+          }
+        },
+        {
+          "id": "q_322",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「到最后，最重要的是能和自己和平相处。」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            },
+            "zh-Hant": {
+              "title": "「到最後，最重要的是能和自己和平相處。」",
+              "subtitle": "- 宋雨琦 26.9.28《Vogue Hong Kong》"
+            }
+          }
+        },
         {
           "id": "q_178",
           "emojiPath": "",
