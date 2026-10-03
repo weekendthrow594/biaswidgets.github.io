@@ -7,6 +7,20 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_325",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「Just enjoy\n如果没有得到想要的结果也没关系，还会有下一次\n享受这个过程就好」",
+              "subtitle": "- 方灿 Teen Vogue, 2022"
+            },
+            "zh-Hant": {
+              "title": "「Just enjoy\n如果沒有得到想要的結果也沒關係，還會有下一次\n享受這個過程就好」",
+              "subtitle": "- 方燦 Teen Vogue, 2022"
+            }
+          }
+        },
+        {
           "id": "q_324",
           "emojiPath": "",
           "i18n": {
@@ -146,6 +160,20 @@
             "pt": {
               "title": "Você tem cicatrizes, e eu também. Não se arrependa nem esconda quem você é. Toda cicatriz tem um significado.",
               "subtitle": "Bang Chan"
+            }
+          }
+        },
+        {
+          "id": "q_325",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「Just enjoy\n如果没有得到想要的结果也没关系，还会有下一次\n享受这个过程就好」",
+              "subtitle": "- 方灿 Teen Vogue, 2022"
+            },
+            "zh-Hant": {
+              "title": "「Just enjoy\n如果沒有得到想要的結果也沒關係，還會有下一次\n享受這個過程就好」",
+              "subtitle": "- 方燦 Teen Vogue, 2022"
             }
           }
         },
