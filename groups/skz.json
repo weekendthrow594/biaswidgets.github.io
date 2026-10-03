@@ -7,12 +7,38 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_324",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I think everyone deserves to be loved. Whether it’s friendship, family love, or romantic love… everyone needs love. It keeps us going, and it keeps us alive.",
+              "subtitle": "Bang Chan"
+            },
+            "zh-Hans": {
+              "title": "「我觉得每个人都值得被爱。不管是友情、亲情，还是爱情\n每个人都需要爱，它让我们继续走下去，也让我们活着」",
+              "subtitle": "- 方灿 Chan’s Room Ep.17"
+            },
+            "zh-Hant": {
+              "title": "「我覺得每個人都值得被愛。不管是友情、親情，還是愛情\n每個人都需要愛，它讓我們繼續走下去，也讓我們活著」",
+              "subtitle": "- 方燦 Chan’s Room Ep.17"
+            },
+            "es": {
+              "title": "Creo que todos merecen ser amados. Ya sea amistad, amor familiar o amor romántico… todos necesitamos amor. Nos ayuda a seguir adelante y también nos mantiene vivos.",
+              "subtitle": "Bang Chan"
+            },
+            "pt": {
+              "title": "Acho que todo mundo merece ser amado. Seja amizade, amor familiar ou amor romântico… todo mundo precisa de amor. É isso que nos faz continuar e também nos mantém vivos.",
+              "subtitle": "Bang Chan"
+            }
+          }
+        },
+        {
           "id": "q_316",
           "emojiPath": "",
           "i18n": {
             "en": {
               "title": "When things get hard, you can always lean on me.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             },
             "zh-Hans": {
               "title": "「辛苦的时候，随时都可以依靠我」",
@@ -24,11 +50,11 @@
             },
             "es": {
               "title": "Cuando las cosas se pongan difíciles, siempre puedes apoyarte en mí.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             },
             "pt": {
               "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             }
           }
         },
@@ -38,7 +64,7 @@
           "i18n": {
             "en": {
               "title": "I’ve waited and endured so many things… and through it all, I kept trying to find happiness.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             },
             "zh-Hans": {
               "title": "「我等待并熬过了那么多事情……而在这一切之中，我努力寻找着幸福」",
@@ -50,42 +76,48 @@
             },
             "es": {
               "title": "He esperado y soportado tantas cosas… y, en medio de todo ello, seguí intentando encontrar la felicidad.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             },
             "pt": {
               "title": "Esperei e suportei tantas coisas… e, em meio a tudo isso, continuei tentando encontrar a felicidade.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
-            }
-          }
-        },
-        {
-          "id": "q_320",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "In a fast-moving world, take a moment to pause and look back on the time and dreams you shared with the people who matter to you.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
-            },
-            "zh-Hans": {
-              "title": "「在快速流逝的世界里，稍微停下脚步，回头看看和重要的人一起度过的时间与梦想」",
-              "subtitle": "- 李龙馥 26.9.1《Slow It Down》 Comment"
-            },
-            "zh-Hant": {
-              "title": "「在快速流逝的世界裡，稍微停下腳步，回頭看看和重要的人一起度過的時間與夢想」",
-              "subtitle": "- 李龍馥 26.9.1《Slow It Down》 Comment"
-            },
-            "es": {
-              "title": "En un mundo que avanza tan rápido, detente un momento y mira atrás, hacia el tiempo y los sueños que compartiste con las personas importantes para ti.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
-            },
-            "pt": {
-              "title": "Em um mundo que passa tão rápido, pare por um momento e olhe para trás, para o tempo e os sonhos que você compartilhou com as pessoas importantes para você.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             }
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_012",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/4",
+          "endDateStr": "2026/12/5",
+          "i18n": {
+            "en": {
+              "title": "<RUN IT HONG KONG>"
+            },
+            "zh-Hans": {
+              "title": "<RUN IT HONG KONG>"
+            },
+            "zh-Hant": {
+              "title": "<RUN IT HONG KONG>"
+            }
+          }
+        },
+        {
+          "id": "c_013",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/17",
+          "endDateStr": "2026/12/12",
+          "i18n": {
+            "en": {
+              "title": "＜RUN IT TAIPEI＞"
+            },
+            "zh-Hant": {
+              "title": "＜RUN IT TAIPEI＞"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "skz_bangchan",
@@ -113,6 +145,32 @@
             },
             "pt": {
               "title": "Você tem cicatrizes, e eu também. Não se arrependa nem esconda quem você é. Toda cicatriz tem um significado.",
+              "subtitle": "Bang Chan"
+            }
+          }
+        },
+        {
+          "id": "q_324",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I think everyone deserves to be loved. Whether it’s friendship, family love, or romantic love… everyone needs love. It keeps us going, and it keeps us alive.",
+              "subtitle": "Bang Chan"
+            },
+            "zh-Hans": {
+              "title": "「我觉得每个人都值得被爱。不管是友情、亲情，还是爱情\n每个人都需要爱，它让我们继续走下去，也让我们活着」",
+              "subtitle": "- 方灿 Chan’s Room Ep.17"
+            },
+            "zh-Hant": {
+              "title": "「我覺得每個人都值得被愛。不管是友情、親情，還是愛情\n每個人都需要愛，它讓我們繼續走下去，也讓我們活著」",
+              "subtitle": "- 方燦 Chan’s Room Ep.17"
+            },
+            "es": {
+              "title": "Creo que todos merecen ser amados. Ya sea amistad, amor familiar o amor romántico… todos necesitamos amor. Nos ayuda a seguir adelante y también nos mantiene vivos.",
+              "subtitle": "Bang Chan"
+            },
+            "pt": {
+              "title": "Acho que todo mundo merece ser amado. Seja amizade, amor familiar ou amor romântico… todo mundo precisa de amor. É isso que nos faz continuar e também nos mantém vivos.",
               "subtitle": "Bang Chan"
             }
           }
@@ -450,7 +508,7 @@
           "i18n": {
             "en": {
               "title": "When things get hard, you can always lean on me.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             },
             "zh-Hans": {
               "title": "「辛苦的时候，随时都可以依靠我」",
@@ -462,11 +520,11 @@
             },
             "es": {
               "title": "Cuando las cosas se pongan difíciles, siempre puedes apoyarte en mí.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             },
             "pt": {
               "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
-              "subtitle": "FELIX | 26.9.20 Osaka D2 Ending Ment"
+              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
             }
           }
         },
@@ -476,7 +534,7 @@
           "i18n": {
             "en": {
               "title": "In a fast-moving world, take a moment to pause and look back on the time and dreams you shared with the people who matter to you.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+              "subtitle": "FELIX | 09/01/26 Slow It Down Official Comment"
             },
             "zh-Hans": {
               "title": "「在快速流逝的世界里，稍微停下脚步，回头看看和重要的人一起度过的时间与梦想」",
@@ -488,11 +546,11 @@
             },
             "es": {
               "title": "En un mundo que avanza tan rápido, detente un momento y mira atrás, hacia el tiempo y los sueños que compartiste con las personas importantes para ti.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+              "subtitle": "FELIX | 09/01/26 Slow It Down Official Comment"
             },
             "pt": {
               "title": "Em um mundo que passa tão rápido, pare por um momento e olhe para trás, para o tempo e os sonhos que você compartilhou com as pessoas importantes para você.",
-              "subtitle": "FELIX | 26.9.1 Slow It Down Official Comment"
+              "subtitle": "FELIX | 09/01/26 Slow It Down Official Comment"
             }
           }
         },
@@ -535,7 +593,7 @@
           "i18n": {
             "en": {
               "title": "I’ve waited and endured so many things… and through it all, I kept trying to find happiness.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             },
             "zh-Hans": {
               "title": "「我等待并熬过了那么多事情……而在这一切之中，我努力寻找着幸福」",
@@ -547,11 +605,11 @@
             },
             "es": {
               "title": "He esperado y soportado tantas cosas… y, en medio de todo ello, seguí intentando encontrar la felicidad.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             },
             "pt": {
               "title": "Esperei e suportei tantas coisas… e, em meio a tudo isso, continuei tentando encontrar a felicidade.",
-              "subtitle": "SEUNGMIN | 26.9.22 Birthday Live"
+              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
             }
           }
         },
