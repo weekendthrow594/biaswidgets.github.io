@@ -1,0 +1,180 @@
+{
+  "id": "nmixx",
+  "name": "NMIXX",
+  "members": [
+    {
+      "id": "nmixx_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_326",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Let’s live happily. In the end, whatever we do, we’re doing it to be happy, right? That’s why I think those words are the simplest, yet also the most important.",
+              "subtitle": "SULLYOON | W Korea Interview"
+            },
+            "zh-Hans": {
+              "title": "「幸福地生活吧。\n说到底，不管做什么，都是为了幸福不是吗？\n所以我觉得这句话最简单，也最重要」",
+              "subtitle": "- 薛仑娥《W Korea》專訪"
+            },
+            "zh-Hant": {
+              "title": "「幸福地生活吧。\n說到底，不管做什麼，都是為了幸福不是嗎？\n所以我覺得這句話最簡單，也最重要」",
+              "subtitle": "- 薛侖娥《W Korea》專訪"
+            },
+            "es": {
+              "title": "Vivamos felices. Al final, hagamos lo que hagamos, todo es para ser felices, ¿no? Por eso creo que esas palabras son las más simples y, al mismo tiempo, las más importantes.",
+              "subtitle": "SULLYOON | Entrevista con W Korea"
+            },
+            "pt": {
+              "title": "Vamos viver felizes. No fim das contas, tudo o que fazemos é para sermos felizes, não é? Por isso acho que essas palavras são as mais simples e, ao mesmo tempo, as mais importantes.",
+              "subtitle": "SULLYOON | Entrevista à W Korea"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_lily",
+      "name": "LILY",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_haewon",
+      "name": "HAEWON",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_sullyoon",
+      "name": "SULLYOON",
+      "quotes": [
+        {
+          "id": "q_326",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Let’s live happily. In the end, whatever we do, we’re doing it to be happy, right? That’s why I think those words are the simplest, yet also the most important.",
+              "subtitle": "SULLYOON | W Korea Interview"
+            },
+            "zh-Hans": {
+              "title": "「幸福地生活吧。\n说到底，不管做什么，都是为了幸福不是吗？\n所以我觉得这句话最简单，也最重要」",
+              "subtitle": "- 薛仑娥《W Korea》專訪"
+            },
+            "zh-Hant": {
+              "title": "「幸福地生活吧。\n說到底，不管做什麼，都是為了幸福不是嗎？\n所以我覺得這句話最簡單，也最重要」",
+              "subtitle": "- 薛侖娥《W Korea》專訪"
+            },
+            "es": {
+              "title": "Vivamos felices. Al final, hagamos lo que hagamos, todo es para ser felices, ¿no? Por eso creo que esas palabras son las más simples y, al mismo tiempo, las más importantes.",
+              "subtitle": "SULLYOON | Entrevista con W Korea"
+            },
+            "pt": {
+              "title": "Vamos viver felizes. No fim das contas, tudo o que fazemos é para sermos felizes, não é? Por isso acho que essas palavras são as mais simples e, ao mesmo tempo, as mais importantes.",
+              "subtitle": "SULLYOON | Entrevista à W Korea"
+            }
+          }
+        },
+        {
+          "id": "q_327",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "More than anything else, the most important thing was gaining the certainty that, ‘We’re on the right path, and we’ve been doing well all along.",
+              "subtitle": "SULLYOON | W Korea Interview"
+            },
+            "zh-Hans": {
+              "title": "「比起其他事情，最重要的是获得了\"原来这条路是对的，我们一直走得很好\"的确信」",
+              "subtitle": "- 薛仑娥《W Korea》專訪"
+            },
+            "zh-Hant": {
+              "title": "「比起其他事情，最重要的是獲得了\"原來這條路是對的，我們一直走得很好\"的確信」",
+              "subtitle": "- 薛侖娥《W Korea》專訪"
+            },
+            "es": {
+              "title": "Más que cualquier otra cosa, lo más importante fue tener la certeza de que: ‘Este es el camino correcto y lo hemos estado haciendo bien todo este tiempo.’",
+              "subtitle": "SULLYOON | Entrevista con W Korea"
+            },
+            "pt": {
+              "title": "Mais do que qualquer outra coisa, o mais importante foi ter a certeza de que: ‘Este é o caminho certo, e temos seguido muito bem até aqui.’",
+              "subtitle": "SULLYOON | Entrevista à W Korea"
+            }
+          }
+        },
+        {
+          "id": "q_328",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "My love for NSWER keeps growing deeper and deeper. Now, we’ve reached the point where just by looking into each other’s eyes, we can understand how the other is feeling.",
+              "subtitle": "SULLYOON | 2026.05.18 Allure Korea"
+            },
+            "zh-Hans": {
+              "title": "「我对 NSWER 的爱正在变得越来越深。\n现在的我们，已经到了只要看着彼此的眼睛，就能读懂对方心情的程度」",
+              "subtitle": "- 薛仑娥 26.05.18《Allure Korea》"
+            },
+            "zh-Hant": {
+              "title": "「我對 NSWER 的愛正在變得越來越深。\n現在的我們，已經到了只要看著彼此的眼睛，就能讀懂對方心情的程度」",
+              "subtitle": "- 薛侖娥 26.05.18《Allure Korea》"
+            },
+            "es": {
+              "title": "Mi amor por NSWER se hace cada vez más profundo. Ahora hemos llegado al punto en que, con solo mirarnos a los ojos, podemos entender cómo se siente el otro.",
+              "subtitle": "SULLYOON | 2026.05.18 Allure Korea"
+            },
+            "pt": {
+              "title": "Meu amor pelo NSWER está ficando cada vez mais profundo. Agora chegamos ao ponto em que, só de olhar nos olhos uns dos outros, conseguimos entender como o outro está se sentindo.",
+              "subtitle": "SULLYOON | 2026.05.18 Allure Korea"
+            }
+          }
+        },
+        {
+          "id": "q_329",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You’re already beautiful. You don’t need to let your weight determine your worth, and you can enjoy the foods you love.",
+              "subtitle": "SULLYOON"
+            },
+            "zh-Hans": {
+              "title": "「你已经很漂亮，不需要让体重决定自己的价值，也可以享受自己喜欢的食物」",
+              "subtitle": "- 薛仑娥"
+            },
+            "zh-Hant": {
+              "title": "「你已經很漂亮，不需要讓體重決定自己的價值，也可以享受自己喜歡的食物」",
+              "subtitle": "- 薛侖娥"
+            },
+            "es": {
+              "title": "Ya eres hermosa. No necesitas dejar que tu peso determine tu valor, y también puedes disfrutar de la comida que te gusta.",
+              "subtitle": "SULLYOON"
+            },
+            "pt": {
+              "title": "Você já é linda. Não precisa deixar que o seu peso determine o seu valor, e também pode aproveitar as comidas de que gosta.",
+              "subtitle": "SULLYOON"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_bae",
+      "name": "BAE",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_jiwoo",
+      "name": "JIWOO",
+      "quotes": [],
+      "countdowns": []
+    },
+    {
+      "id": "nmixx_kyujin",
+      "name": "KYUJIN",
+      "quotes": [],
+      "countdowns": []
+    }
+  ]
+}
