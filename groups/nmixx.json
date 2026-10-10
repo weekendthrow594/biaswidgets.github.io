@@ -7,28 +7,203 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_326",
+          "id": "q_331",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Let’s live happily. In the end, whatever we do, we’re doing it to be happy, right? That’s why I think those words are the simplest, yet also the most important.",
-              "subtitle": "SULLYOON | W Korea Interview"
+              "title": "Even in the hardest times, don’t give up. Keep going! You’re already doing so well!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
             },
             "zh-Hans": {
-              "title": "「幸福地生活吧。\n说到底，不管做什么，都是为了幸福不是吗？\n所以我觉得这句话最简单，也最重要」",
-              "subtitle": "- 薛仑娥《W Korea》專訪"
+              "title": "「即使在最艰难的时候，也不要放弃，继续走下去！\n你已经做得很好了！」",
+              "subtitle": "- 薛仑娥 2022.11.10《ELLE》"
             },
             "zh-Hant": {
-              "title": "「幸福地生活吧。\n說到底，不管做什麼，都是為了幸福不是嗎？\n所以我覺得這句話最簡單，也最重要」",
-              "subtitle": "- 薛侖娥《W Korea》專訪"
+              "title": "「即使在最艱難的時候，也不要放棄，繼續走下去！\n你已經做得很好了！」",
+              "subtitle": "- 薛侖娥 2022.11.10《ELLE》"
             },
             "es": {
-              "title": "Vivamos felices. Al final, hagamos lo que hagamos, todo es para ser felices, ¿no? Por eso creo que esas palabras son las más simples y, al mismo tiempo, las más importantes.",
-              "subtitle": "SULLYOON | Entrevista con W Korea"
+              "title": "Incluso en los momentos más difíciles, no te rindas. ¡Sigue adelante! ¡Ya lo estás haciendo muy bien!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
             },
             "pt": {
-              "title": "Vamos viver felizes. No fim das contas, tudo o que fazemos é para sermos felizes, não é? Por isso acho que essas palavras são as mais simples e, ao mesmo tempo, as mais importantes.",
-              "subtitle": "SULLYOON | Entrevista à W Korea"
+              "title": "Mesmo nos momentos mais difíceis, não desista. Continue seguindo em frente! Você já está indo muito bem!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
+            }
+          }
+        },
+        {
+          "id": "q_333",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I don’t put perfection first. What matters most is making sure my future self has no regrets.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            },
+            "zh-Hans": {
+              "title": "「我不会把完美放在第一位。\n最重要的是，不要让未来的自己留下遗憾」",
+              "subtitle": "吴海嫄 2024.01.15 allkpop"
+            },
+            "zh-Hant": {
+              "title": "「我不會把完美放在第一位。\n最重要的是，不要讓未來的自己留下遺憾」",
+              "subtitle": "- 吳海嫄 2024.01.15 allkpop"
+            },
+            "es": {
+              "title": "No pongo la perfección en primer lugar. Lo más importante es asegurarme de que mi yo del futuro no tenga arrepentimientos.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            },
+            "pt": {
+              "title": "Eu não coloco a perfeição em primeiro lugar. O mais importante é garantir que o meu eu do futuro não tenha arrependimentos.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            }
+          }
+        },
+        {
+          "id": "q_334",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Step out of your familiar surroundings and take one more step forward.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            },
+            "zh-Hans": {
+              "title": "「走出熟悉的环境，再向前迈进一步吧」",
+              "subtitle": "- 金智羽 2026.02.25《W Korea》"
+            },
+            "zh-Hant": {
+              "title": "「走出熟悉的環境，再向前邁進一步吧」",
+              "subtitle": "- 金智羽 2026.02.25《W Korea》"
+            },
+            "es": {
+              "title": "Sal de tu entorno familiar y da un paso más hacia adelante.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            },
+            "pt": {
+              "title": "Saia do ambiente com o qual você está acostumado e dê mais um passo adiante.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            }
+          }
+        },
+        {
+          "id": "q_332",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Focus on your practice right now! How far your future self can go depends on how much effort you put in before debut.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「专注于现在的练习吧！\n因为未来的自己能走到哪里，取决于出道前付出了多少努力。」",
+              "subtitle": "- 裴真率 2022.11.10《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「專注於現在的練習吧！\n因為未來的自己能走到哪裡，取決於出道前付出了多少努力。」",
+              "subtitle": "- 裴真率 2022.11.10《ELLE》"
+            },
+            "es": {
+              "title": "¡Concéntrate en practicar ahora! Hasta dónde pueda llegar tu yo del futuro dependerá de cuánto esfuerzo hayas puesto antes de debutar.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            },
+            "pt": {
+              "title": "Concentre-se nos treinos de agora! Até onde o seu eu do futuro poderá chegar depende de quanto esforço você dedicou antes do debut.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            }
+          }
+        },
+        {
+          "id": "q_330",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Believe in yourself and try to stay grounded. Don’t worry too much about what other people say.",
+              "subtitle": "LILY | 11/10/22 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「相信自己，试着保持平常心。\n不要太在意别人怎么说」",
+              "subtitle": "- LILY 2022.11.10《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「相信自己，試著保持平常心。\n不要太在意別人怎麼說」",
+              "subtitle": "- LILY 2022.11.10《ELLE》"
+            },
+            "es": {
+              "title": "Cree en ti y trata de mantener la calma. No te preocupes demasiado por lo que digan los demás.",
+              "subtitle": "LILY | 11/10/22 ELLE"
+            },
+            "pt": {
+              "title": "Acredite em si mesmo e tente manter a calma. Não se preocupe demais com o que os outros dizem.",
+              "subtitle": "LILY | 11/10/22 ELLE"
+            }
+          }
+        },
+        {
+          "id": "q_335",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Tomorrow is the day when NSWER’s hard work will finally bear fruit. Don’t put too much pressure on yourself. It’s important to get yourself into the right mindset.",
+              "subtitle": "KYUJIN | 13/11/24"
+            },
+            "zh-Hans": {
+              "title": "「明天就是 NSWER 们的努力开花结果的日子了。\n不要给自己太大压力，调整好心态很重要」",
+              "subtitle": "- 张圭真"
+            },
+            "zh-Hant": {
+              "title": "「明天就是 NSWER 們的努力開花結果的日子了。\n不要給自己太大壓力，調整好心態很重要」",
+              "subtitle": "- 張圭真"
+            },
+            "es": {
+              "title": "Mañana será el día en que todo el esfuerzo de NSWER finalmente dará sus frutos. No te pongas demasiada presión. Es importante mantener una buena mentalidad.",
+              "subtitle": "KYUJIN | 13/11/24"
+            },
+            "pt": {
+              "title": "Amanhã será o dia em que todo o esforço do NSWER finalmente dará frutos. Não coloque pressão demais sobre si mesmo. É importante manter uma boa mentalidade.",
+              "subtitle": "KYUJIN | 13/11/24"
+            }
+          }
+        }
+      ],
+      "countdowns": [
+        {
+          "id": "c_011",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/6",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "nmixx_lily",
+      "name": "LILY",
+      "quotes": [
+        {
+          "id": "q_330",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Believe in yourself and try to stay grounded. Don’t worry too much about what other people say.",
+              "subtitle": "LILY | 11/10/22 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「相信自己，试着保持平常心。\n不要太在意别人怎么说」",
+              "subtitle": "- LILY 2022.11.10《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「相信自己，試著保持平常心。\n不要太在意別人怎麼說」",
+              "subtitle": "- LILY 2022.11.10《ELLE》"
+            },
+            "es": {
+              "title": "Cree en ti y trata de mantener la calma. No te preocupes demasiado por lo que digan los demás.",
+              "subtitle": "LILY | 11/10/22 ELLE"
+            },
+            "pt": {
+              "title": "Acredite em si mesmo e tente manter a calma. Não se preocupe demais com o que os outros dizem.",
+              "subtitle": "LILY | 11/10/22 ELLE"
             }
           }
         }
@@ -36,21 +211,68 @@
       "countdowns": []
     },
     {
-      "id": "nmixx_lily",
-      "name": "LILY",
-      "quotes": [],
-      "countdowns": []
-    },
-    {
       "id": "nmixx_haewon",
       "name": "HAEWON",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_333",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I don’t put perfection first. What matters most is making sure my future self has no regrets.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            },
+            "zh-Hans": {
+              "title": "「我不会把完美放在第一位。\n最重要的是，不要让未来的自己留下遗憾」",
+              "subtitle": "吴海嫄 2024.01.15 allkpop"
+            },
+            "zh-Hant": {
+              "title": "「我不會把完美放在第一位。\n最重要的是，不要讓未來的自己留下遺憾」",
+              "subtitle": "- 吳海嫄 2024.01.15 allkpop"
+            },
+            "es": {
+              "title": "No pongo la perfección en primer lugar. Lo más importante es asegurarme de que mi yo del futuro no tenga arrepentimientos.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            },
+            "pt": {
+              "title": "Eu não coloco a perfeição em primeiro lugar. O mais importante é garantir que o meu eu do futuro não tenha arrependimentos.",
+              "subtitle": "HAEWON | 15/01/24 allkpop"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "nmixx_sullyoon",
       "name": "SULLYOON",
       "quotes": [
+        {
+          "id": "q_331",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even in the hardest times, don’t give up. Keep going! You’re already doing so well!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「即使在最艰难的时候，也不要放弃，继续走下去！\n你已经做得很好了！」",
+              "subtitle": "- 薛仑娥 2022.11.10《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「即使在最艱難的時候，也不要放棄，繼續走下去！\n你已經做得很好了！」",
+              "subtitle": "- 薛侖娥 2022.11.10《ELLE》"
+            },
+            "es": {
+              "title": "Incluso en los momentos más difíciles, no te rindas. ¡Sigue adelante! ¡Ya lo estás haciendo muy bien!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
+            },
+            "pt": {
+              "title": "Mesmo nos momentos mais difíceis, não desista. Continue seguindo em frente! Você já está indo muito bem!",
+              "subtitle": "SULLYOON | 10/11/22 ELLE"
+            }
+          }
+        },
         {
           "id": "q_326",
           "emojiPath": "",
@@ -161,19 +383,100 @@
     {
       "id": "nmixx_bae",
       "name": "BAE",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_332",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Focus on your practice right now! How far your future self can go depends on how much effort you put in before debut.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「专注于现在的练习吧！\n因为未来的自己能走到哪里，取决于出道前付出了多少努力。」",
+              "subtitle": "- 裴真率 2022.11.10《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「專注於現在的練習吧！\n因為未來的自己能走到哪裡，取決於出道前付出了多少努力。」",
+              "subtitle": "- 裴真率 2022.11.10《ELLE》"
+            },
+            "es": {
+              "title": "¡Concéntrate en practicar ahora! Hasta dónde pueda llegar tu yo del futuro dependerá de cuánto esfuerzo hayas puesto antes de debutar.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            },
+            "pt": {
+              "title": "Concentre-se nos treinos de agora! Até onde o seu eu do futuro poderá chegar depende de quanto esforço você dedicou antes do debut.",
+              "subtitle": "BAE | 10/11/22 ELLE"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "nmixx_jiwoo",
       "name": "JIWOO",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_334",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Step out of your familiar surroundings and take one more step forward.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            },
+            "zh-Hans": {
+              "title": "「走出熟悉的环境，再向前迈进一步吧」",
+              "subtitle": "- 金智羽 2026.02.25《W Korea》"
+            },
+            "zh-Hant": {
+              "title": "「走出熟悉的環境，再向前邁進一步吧」",
+              "subtitle": "- 金智羽 2026.02.25《W Korea》"
+            },
+            "es": {
+              "title": "Sal de tu entorno familiar y da un paso más hacia adelante.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            },
+            "pt": {
+              "title": "Saia do ambiente com o qual você está acostumado e dê mais um passo adiante.",
+              "subtitle": "JIWOO | 02/25/26 W Korea"
+            }
+          }
+        }
+      ],
       "countdowns": []
     },
     {
       "id": "nmixx_kyujin",
       "name": "KYUJIN",
-      "quotes": [],
+      "quotes": [
+        {
+          "id": "q_335",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Tomorrow is the day when NSWER’s hard work will finally bear fruit. Don’t put too much pressure on yourself. It’s important to get yourself into the right mindset.",
+              "subtitle": "KYUJIN | 13/11/24"
+            },
+            "zh-Hans": {
+              "title": "「明天就是 NSWER 们的努力开花结果的日子了。\n不要给自己太大压力，调整好心态很重要」",
+              "subtitle": "- 张圭真"
+            },
+            "zh-Hant": {
+              "title": "「明天就是 NSWER 們的努力開花結果的日子了。\n不要給自己太大壓力，調整好心態很重要」",
+              "subtitle": "- 張圭真"
+            },
+            "es": {
+              "title": "Mañana será el día en que todo el esfuerzo de NSWER finalmente dará sus frutos. No te pongas demasiada presión. Es importante mantener una buena mentalidad.",
+              "subtitle": "KYUJIN | 13/11/24"
+            },
+            "pt": {
+              "title": "Amanhã será o dia em que todo o esforço do NSWER finalmente dará frutos. Não coloque pressão demais sobre si mesmo. É importante manter uma boa mentalidade.",
+              "subtitle": "KYUJIN | 13/11/24"
+            }
+          }
+        }
+      ],
       "countdowns": []
     }
   ]
