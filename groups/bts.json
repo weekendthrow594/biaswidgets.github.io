@@ -7,28 +7,132 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_146",
+          "id": "q_341",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You are the Earth. Why do you keep seeing yourself as an island?",
-              "subtitle": "SUGA"
+              "title": "If the stars are hidden, let the moonlight guide us. And if even the moon goes dark, let each other’s faces become the light that illuminates the road ahead.",
+              "subtitle": "RM · UNICEF"
             },
             "zh-Hans": {
-              "title": "「你明明是地球，为何总把自己当作一座孤岛？」",
-              "subtitle": "- 闵玧其"
+              "title": "「如果星星被遮住了，就让月光引领我们。\n如果连月亮也暗了，就让彼此的脸庞成为照亮前路的光」",
+              "subtitle": "- 金南俊 UNICEF"
             },
             "zh-Hant": {
-              "title": "「你明明是地球，為何總將自己視為孤島？」",
-              "subtitle": "- 閔玧其"
+              "title": "「如果星星被遮住了，就讓月光引領我們。\n如果連月亮也暗了，就讓彼此的臉龐成為照亮前路的光」",
+              "subtitle": "- 金南俊 UNICEF"
             },
             "es": {
-              "title": "Eres la Tierra. ¿Por qué sigues viéndote como una isla?",
-              "subtitle": "SUGA"
+              "title": "Si las estrellas quedan ocultas, dejemos que la luz de la luna nos guíe. Y si incluso la luna se apaga, que nuestros rostros se conviertan en la luz que ilumine el camino.",
+              "subtitle": "RM · UNICEF"
             },
             "pt": {
-              "title": "Você é a Terra. Então por que continua se vendo como uma ilha?",
-              "subtitle": "SUGA"
+              "title": "Se as estrelas ficarem escondidas, deixemos que a luz da lua nos guie. E, se até a lua se apagar, que o rosto uns dos outros se torne a luz que ilumina o caminho à frente.",
+              "subtitle": "RM · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_342",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Thinking about the future and working hard to move forward are important, but what matters most is cherishing yourself, encouraging yourself, and making yourself happy.",
+              "subtitle": "JIN · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「思考未来、努力向前固然重要，但珍惜自己、鼓励自己，让自己幸福，才是最重要的」",
+              "subtitle": "- 金硕珍 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「思考未來、努力向前固然重要，但珍惜自己、鼓勵自己，讓自己幸福，才是最重要的」",
+              "subtitle": "- 金硕珍 UNICEF"
+            },
+            "es": {
+              "title": "Pensar en el futuro y esforzarte por seguir adelante es importante, pero lo más importante es valorarte, animarte y hacerte feliz.",
+              "subtitle": "JIN · UNICEF"
+            },
+            "pt": {
+              "title": "Pensar no futuro e se esforçar para seguir em frente é importante, mas o mais importante é valorizar a si mesmo, encorajar-se e fazer-se feliz.",
+              "subtitle": "JIN · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_343",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The room may be small, but my world—and our world—can reach far beyond it.",
+              "subtitle": "SUGA · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「房间虽然很小，但我和我们的世界，却能延伸得很远」",
+              "subtitle": "- 闵玧其 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「房間雖然很小，但我和我們的世界，卻能延伸得很遠」",
+              "subtitle": "- 閔玧其 UNICEF"
+            },
+            "es": {
+              "title": "La habitación puede ser pequeña, pero mi mundo, y nuestro mundo, pueden extenderse mucho más allá.",
+              "subtitle": "SUGA · UNICEF"
+            },
+            "pt": {
+              "title": "O quarto pode ser pequeno, mas o meu mundo — e o nosso mundo — pode se estender muito além dele.",
+              "subtitle": "SUGA · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_344",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I knew where I wanted to go, but I didn’t know how to get there. All I’ve done to make it this far is believe in myself, give it my very best, and love what I do.",
+              "subtitle": "J-HOPE · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「我知道自己想去哪里，却不知道该如何抵达。\n一路走到这里，我所做的就是相信自己、尽最大的努力，并热爱自己正在做的事」",
+              "subtitle": "- 郑号锡 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「我知道自己想去哪裡，卻不知道該如何抵達。\n一路走到這裡，我所做的就是相信自己、盡最大的努力，並熱愛自己正在做的事」",
+              "subtitle": "- 鄭號錫 UNICEF"
+            },
+            "es": {
+              "title": "Sabía adónde quería llegar, pero no sabía cómo hacerlo. Para llegar hasta aquí, lo único que he hecho es creer en mí mismo, dar lo mejor de mí y amar lo que hago.",
+              "subtitle": "J-HOPE · UNICEF"
+            },
+            "pt": {
+              "title": "Eu sabia aonde queria chegar, mas não sabia como chegar lá. Para chegar até aqui, tudo o que fiz foi acreditar em mim mesmo, dar o meu melhor e amar o que faço.",
+              "subtitle": "J-HOPE · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_345",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If I give up here, then I’m no longer the main character of my own life.",
+              "subtitle": "V · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「如果我在这里放弃，那我就不是自己人生的主角了」",
+              "subtitle": "- 金泰亨 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「如果我在這裡放棄，那我就不是自己人生的主角了。」",
+              "subtitle": "- 金泰亨 UNICEF"
+            },
+            "es": {
+              "title": "Si me rindo aquí, entonces dejaré de ser el protagonista de mi propia vida.",
+              "subtitle": "V · UNICEF"
+            },
+            "pt": {
+              "title": "Se eu desistir aqui, então deixarei de ser o protagonista da minha própria vida.",
+              "subtitle": "V · UNICEF"
             }
           }
         }
@@ -39,6 +143,58 @@
       "id": "bts_rm",
       "name": "RM",
       "quotes": [
+        {
+          "id": "q_341",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If the stars are hidden, let the moonlight guide us. And if even the moon goes dark, let each other’s faces become the light that illuminates the road ahead.",
+              "subtitle": "RM · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「如果星星被遮住了，就让月光引领我们。\n如果连月亮也暗了，就让彼此的脸庞成为照亮前路的光」",
+              "subtitle": "- 金南俊 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「如果星星被遮住了，就讓月光引領我們。\n如果連月亮也暗了，就讓彼此的臉龐成為照亮前路的光」",
+              "subtitle": "- 金南俊 UNICEF"
+            },
+            "es": {
+              "title": "Si las estrellas quedan ocultas, dejemos que la luz de la luna nos guíe. Y si incluso la luna se apaga, que nuestros rostros se conviertan en la luz que ilumine el camino.",
+              "subtitle": "RM · UNICEF"
+            },
+            "pt": {
+              "title": "Se as estrelas ficarem escondidas, deixemos que a luz da lua nos guie. E, se até a lua se apagar, que o rosto uns dos outros se torne a luz que ilumina o caminho à frente.",
+              "subtitle": "RM · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_293",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Life is really interesting, so don’t forget that\nI hope everyone can live each day with a happy and joyful heart",
+              "subtitle": "RM 09/12/26 WVS LIVE"
+            },
+            "zh-Hans": {
+              "title": "「人生是很有趣的，别忘了这一点\n希望大家每天都能带着开心、幸福的心情生活」",
+              "subtitle": "- 金南俊 26.09.12 WVS LIVE"
+            },
+            "zh-Hant": {
+              "title": "「人生是很有趣的，別忘了這一點\n希望大家每天都能帶著開心、幸福的心情生活」",
+              "subtitle": "- 金南俊 26.09.12 WVS LIVE"
+            },
+            "es": {
+              "title": "La vida es realmente interesante, así que no lo olvides\nEspero que todos puedan vivir cada día con un corazón alegre y feliz",
+              "subtitle": "RM 09/12/26 WVS LIVE"
+            },
+            "pt": {
+              "title": "A vida é realmente interessante, então não se esqueça disso\nEspero que todos possam viver cada dia com o coração feliz e cheio de alegria",
+              "subtitle": "RM 09/12/26 WVS LIVE"
+            }
+          }
+        },
         {
           "id": "q_001",
           "emojiPath": "",
@@ -177,6 +333,32 @@
       "name": "JIN",
       "quotes": [
         {
+          "id": "q_342",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Thinking about the future and working hard to move forward are important, but what matters most is cherishing yourself, encouraging yourself, and making yourself happy.",
+              "subtitle": "JIN · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「思考未来、努力向前固然重要，但珍惜自己、鼓励自己，让自己幸福，才是最重要的」",
+              "subtitle": "- 金硕珍 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「思考未來、努力向前固然重要，但珍惜自己、鼓勵自己，讓自己幸福，才是最重要的」",
+              "subtitle": "- 金硕珍 UNICEF"
+            },
+            "es": {
+              "title": "Pensar en el futuro y esforzarte por seguir adelante es importante, pero lo más importante es valorarte, animarte y hacerte feliz.",
+              "subtitle": "JIN · UNICEF"
+            },
+            "pt": {
+              "title": "Pensar no futuro e se esforçar para seguir em frente é importante, mas o mais importante é valorizar a si mesmo, encorajar-se e fazer-se feliz.",
+              "subtitle": "JIN · UNICEF"
+            }
+          }
+        },
+        {
           "id": "q_036",
           "emojiPath": "",
           "i18n": {
@@ -223,6 +405,32 @@
       "id": "bts_suga",
       "name": "SUGA",
       "quotes": [
+        {
+          "id": "q_343",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The room may be small, but my world—and our world—can reach far beyond it.",
+              "subtitle": "SUGA · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「房间虽然很小，但我和我们的世界，却能延伸得很远」",
+              "subtitle": "- 闵玧其 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「房間雖然很小，但我和我們的世界，卻能延伸得很遠」",
+              "subtitle": "- 閔玧其 UNICEF"
+            },
+            "es": {
+              "title": "La habitación puede ser pequeña, pero mi mundo, y nuestro mundo, pueden extenderse mucho más allá.",
+              "subtitle": "SUGA · UNICEF"
+            },
+            "pt": {
+              "title": "O quarto pode ser pequeno, mas o meu mundo — e o nosso mundo — pode se estender muito além dele.",
+              "subtitle": "SUGA · UNICEF"
+            }
+          }
+        },
         {
           "id": "q_003",
           "emojiPath": "",
@@ -334,6 +542,32 @@
       "id": "bts_jhope",
       "name": "JHOPE",
       "quotes": [
+        {
+          "id": "q_344",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I knew where I wanted to go, but I didn’t know how to get there. All I’ve done to make it this far is believe in myself, give it my very best, and love what I do.",
+              "subtitle": "J-HOPE · UNICEF"
+            },
+            "zh-Hans": {
+              "title": "「我知道自己想去哪里，却不知道该如何抵达。\n一路走到这里，我所做的就是相信自己、尽最大的努力，并热爱自己正在做的事」",
+              "subtitle": "- 郑号锡 UNICEF"
+            },
+            "zh-Hant": {
+              "title": "「我知道自己想去哪裡，卻不知道該如何抵達。\n一路走到這裡，我所做的就是相信自己、盡最大的努力，並熱愛自己正在做的事」",
+              "subtitle": "- 鄭號錫 UNICEF"
+            },
+            "es": {
+              "title": "Sabía adónde quería llegar, pero no sabía cómo hacerlo. Para llegar hasta aquí, lo único que he hecho es creer en mí mismo, dar lo mejor de mí y amar lo que hago.",
+              "subtitle": "J-HOPE · UNICEF"
+            },
+            "pt": {
+              "title": "Eu sabia aonde queria chegar, mas não sabia como chegar lá. Para chegar até aqui, tudo o que fiz foi acreditar em mim mesmo, dar o meu melhor e amar o que faço.",
+              "subtitle": "J-HOPE · UNICEF"
+            }
+          }
+        },
         {
           "id": "q_087",
           "emojiPath": "",
@@ -531,28 +765,28 @@
       "name": "V",
       "quotes": [
         {
-          "id": "q_086",
+          "id": "q_283",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
-              "subtitle": "V · Dear Class of 2020"
+              "title": "You’ve done well, and you’re doing well now too. Everything will work out, so get some good rest.",
+              "subtitle": "V · DAZED"
             },
             "zh-Hans": {
-              "title": "「现在或许有点困难，\n但在某个地方，\n幸运和机会正在等着你」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+              "title": "「你做得很好，你现在也做得很好，一切都会顺利的，所以好好休息吧」",
+              "subtitle": "- 金泰亨 26.09.09 DAZED"
             },
             "zh-Hant": {
-              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你」",
-              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+              "title": "「你做得很好，你現在也做得很好，一切都會順利的，所以好好休息吧」",
+              "subtitle": "- 金泰亨 26.09.09 DAZED"
             },
             "es": {
-              "title": "Puede que ahora sea un poco difícil, pero en algún lugar, la suerte y las oportunidades te están esperando.",
-              "subtitle": "V · Dear Class of 2020"
+              "title": "Lo has hecho muy bien, y ahora también lo estás haciendo muy bien. Todo saldrá bien, así que descansa bien.",
+              "subtitle": "V · DAZED"
             },
             "pt": {
-              "title": "Pode estar um pouco difícil agora, mas em algum lugar, a sorte e as oportunidades estão esperando por você.",
-              "subtitle": "V · Dear Class of 2020"
+              "title": "Você tem se saído muito bem, e agora também está indo muito bem. Tudo vai dar certo, então descanse bem.",
+              "subtitle": "V · DAZED"
             }
           }
         },
@@ -583,32 +817,6 @@
           }
         },
         {
-          "id": "q_283",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "You’ve done well, and you’re doing well now too. Everything will work out, so get some good rest.",
-              "subtitle": "V · DAZED"
-            },
-            "zh-Hans": {
-              "title": "「你做得很好，你现在也做得很好，一切都会顺利的，所以好好休息吧」",
-              "subtitle": "- 金泰亨 DAZED 专访"
-            },
-            "zh-Hant": {
-              "title": "「你做得很好，你現在也做得很好，一切都會順利的，所以好好休息吧」",
-              "subtitle": "- 金泰亨 DAZED 專訪"
-            },
-            "es": {
-              "title": "Lo has hecho muy bien, y ahora también lo estás haciendo muy bien. Todo saldrá bien, así que descansa bien.",
-              "subtitle": "V · DAZED"
-            },
-            "pt": {
-              "title": "Você tem se saído muito bem, e agora também está indo muito bem. Tudo vai dar certo, então descanse bem.",
-              "subtitle": "V · DAZED"
-            }
-          }
-        },
-        {
           "id": "q_028",
           "emojiPath": "",
           "i18n": {
@@ -635,28 +843,80 @@
           }
         },
         {
-          "id": "q_118",
+          "id": "q_345",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V · 26.7.17 WVS"
+              "title": "If I give up here, then I’m no longer the main character of my own life.",
+              "subtitle": "V · UNICEF"
             },
             "zh-Hans": {
-              "title": "「我爱你，比昨天多一点，却比明天少一点」",
-              "subtitle": "- 金泰亨 26.7.17 WVS"
+              "title": "「如果我在这里放弃，那我就不是自己人生的主角了」",
+              "subtitle": "- 金泰亨 UNICEF"
             },
             "zh-Hant": {
-              "title": "「我愛你，比昨天多一點，卻比明天少一點」",
-              "subtitle": "- 金泰亨 26.7.17 WVS"
+              "title": "「如果我在這裡放棄，那我就不是自己人生的主角了。」",
+              "subtitle": "- 金泰亨 UNICEF"
             },
             "es": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V · 26.7.17 WVS"
+              "title": "Si me rindo aquí, entonces dejaré de ser el protagonista de mi propia vida.",
+              "subtitle": "V · UNICEF"
             },
             "pt": {
-              "title": "Je t’aime plus qu’hier et moins que demain.",
-              "subtitle": "V · 26.7.17 WVS"
+              "title": "Se eu desistir aqui, então deixarei de ser o protagonista da minha própria vida.",
+              "subtitle": "V · UNICEF"
+            }
+          }
+        },
+        {
+          "id": "q_086",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It may be a little difficult right now, but somewhere, luck and opportunity are waiting for you.",
+              "subtitle": "V · Dear Class of 2020"
+            },
+            "zh-Hans": {
+              "title": "「现在或许有点困难，\n但在某个地方，\n幸运和机会正在等着你」",
+              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+            },
+            "zh-Hant": {
+              "title": "「現在或許有點困難，\n但在某個地方，\n幸運和機會正在等著你」",
+              "subtitle": "- 金泰亨 《Dear Class of 2020》"
+            },
+            "es": {
+              "title": "Puede que ahora sea un poco difícil, pero en algún lugar, la suerte y las oportunidades te están esperando.",
+              "subtitle": "V · Dear Class of 2020"
+            },
+            "pt": {
+              "title": "Pode estar um pouco difícil agora, mas em algum lugar, a sorte e as oportunidades estão esperando por você.",
+              "subtitle": "V · Dear Class of 2020"
+            }
+          }
+        },
+        {
+          "id": "q_029",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Growing up doesn’t mean becoming someone else. It means becoming more like your true self.",
+              "subtitle": "V"
+            },
+            "zh-Hans": {
+              "title": "「成长不是变成别人，而是更像真正的自己」",
+              "subtitle": "- 金泰亨"
+            },
+            "zh-Hant": {
+              "title": "「成長不是變成別人，而是更像真正的自己」",
+              "subtitle": "- 金泰亨"
+            },
+            "es": {
+              "title": "Crecer no significa convertirse en otra persona. Significa parecerse cada vez más a tu verdadero yo.",
+              "subtitle": "V"
+            },
+            "pt": {
+              "title": "Crescer não significa se tornar outra pessoa. Significa se tornar cada vez mais parecido com quem você realmente é.",
+              "subtitle": "V"
             }
           }
         },
@@ -687,28 +947,28 @@
           }
         },
         {
-          "id": "q_029",
+          "id": "q_118",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Growing up doesn’t mean becoming someone else. It means becoming more like your true self.",
-              "subtitle": "V"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
             },
             "zh-Hans": {
-              "title": "「成长不是变成别人，而是更像真正的自己」",
-              "subtitle": "- 金泰亨"
+              "title": "「我爱你，比昨天多一点，却比明天少一点」",
+              "subtitle": "- 金泰亨 26.7.17 WVS"
             },
             "zh-Hant": {
-              "title": "「成長不是變成別人，而是更像真正的自己」",
-              "subtitle": "- 金泰亨"
+              "title": "「我愛你，比昨天多一點，卻比明天少一點」",
+              "subtitle": "- 金泰亨 26.7.17 WVS"
             },
             "es": {
-              "title": "Crecer no significa convertirse en otra persona. Significa parecerse cada vez más a tu verdadero yo.",
-              "subtitle": "V"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
             },
             "pt": {
-              "title": "Crescer não significa se tornar outra pessoa. Significa se tornar cada vez mais parecido com quem você realmente é.",
-              "subtitle": "V"
+              "title": "Je t’aime plus qu’hier et moins que demain.",
+              "subtitle": "V · 26.7.17 WVS"
             }
           }
         }
