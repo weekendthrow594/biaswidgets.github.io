@@ -1,0 +1,293 @@
+{
+  "id": "h2h",
+  "name": "Hearts2Hearts",
+  "members": [
+    {
+      "id": "h2h_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_346",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「没有什么年龄是开始某事的太晚的。\n今天是我们未来生活日子里最年轻的一天。\n所以如果你有想做的事，就全部试试看吧」",
+              "subtitle": "- JIWOO"
+            },
+            "zh-Hant": {
+              "title": "「沒有什麼年齡是開始某事的太晚的。\n今天是我們未來生活日子裡最年輕的一天。\n所以如果你有想做的事，就全部試試看吧」",
+              "subtitle": "- JIWOO"
+            }
+          }
+        },
+        {
+          "id": "q_347",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果受了伤，或经历了辛苦的事情，就把它当成让自己变得更坚强的机会吧」",
+              "subtitle": "- CARMEN 2026.09.17《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「如果受了傷，或經歷了辛苦的事情，就把它當成讓自己變得更堅強的機會吧」",
+              "subtitle": "- CARMEN 2026.09.17《non-no》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_348",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「相信自己，继续向前吧。\n每个人绽放的方式都不同，所以相信自己的步调，不要急着迎来属于自己的花季」",
+              "subtitle": "- YUHA 2025.10.29《Wonderland》专访"
+            },
+            "zh-Hant": {
+              "title": "「相信自己，繼續向前吧。\n每個人綻放的方式都不同，所以相信自己的步調，不要急著迎來屬於自己的花季」",
+              "subtitle": "- YUHA 2025.10.29《Wonderland》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_349",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「要有自信，我要活成自己的样子！」",
+              "subtitle": "- STELLA"
+            },
+            "zh-Hant": {
+              "title": "「要有自信，我要活成自己的樣子！」",
+              "subtitle": "- STELLA"
+            }
+          }
+        },
+        {
+          "id": "q_350",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在的我还有很多不足，所以想继续深入研究舞蹈，建立只属于自己的风格」",
+              "subtitle": "- JUUN 2026.09.15《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「現在的我還有很多不足，所以想繼續深入研究舞蹈，建立只屬於自己的風格」",
+              "subtitle": "-JUUN 2026.09.15《non-no》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_351",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我认为，能成为别人憧憬的存在，不只是外表出众，内在也必须充满魅力」",
+              "subtitle": "- ANA 2026.09.15《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「我認為，能成為別人憧憬的存在，不只是外表出眾，內在也必須充滿魅力」",
+              "subtitle": "- ANA 2026.09.15《non-no》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_352",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会努力成为一个配得上那份期待、甚至能超越你们期待的人」",
+              "subtitle": "- IAN"
+            },
+            "zh-Hant": {
+              "title": "「我會努力成為一個配得上那份期待、甚至能超越你們期待的人」",
+              "subtitle": "- IAN"
+            }
+          }
+        },
+        {
+          "id": "q_353",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想要好好思考事情的时候，我会留一点时间给自己，独自抬头看看天空。\n躺在床上静静地望着天空，不安的心情也会慢慢平静下来」",
+              "subtitle": "- YEON - YEON 2026.09.16《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「想要好好思考事情的時候，我會留一點時間給自己，獨自抬頭看看天空。\n躺在床上靜靜地望著天空，不安的心情也會慢慢平靜下來」",
+              "subtitle": "- YEON 2026.09.16《non-no》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_jiwoo",
+      "name": "JIWOO",
+      "quotes": [
+        {
+          "id": "q_346",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「没有什么年龄是开始某事的太晚的。\n今天是我们未来生活日子里最年轻的一天。\n所以如果你有想做的事，就全部试试看吧」",
+              "subtitle": "- JIWOO"
+            },
+            "zh-Hant": {
+              "title": "「沒有什麼年齡是開始某事的太晚的。\n今天是我們未來生活日子裡最年輕的一天。\n所以如果你有想做的事，就全部試試看吧」",
+              "subtitle": "- JIWOO"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_carmen",
+      "name": "CARMEN",
+      "quotes": [
+        {
+          "id": "q_347",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果受了伤，或经历了辛苦的事情，就把它当成让自己变得更坚强的机会吧」",
+              "subtitle": "- CARMEN 2026.09.17《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「如果受了傷，或經歷了辛苦的事情，就把它當成讓自己變得更堅強的機會吧」",
+              "subtitle": "- CARMEN 2026.09.17《non-no》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_yuha",
+      "name": "YUHA",
+      "quotes": [
+        {
+          "id": "q_348",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「相信自己，继续向前吧。\n每个人绽放的方式都不同，所以相信自己的步调，不要急着迎来属于自己的花季」",
+              "subtitle": "- YUHA 2025.10.29《Wonderland》专访"
+            },
+            "zh-Hant": {
+              "title": "「相信自己，繼續向前吧。\n每個人綻放的方式都不同，所以相信自己的步調，不要急著迎來屬於自己的花季」",
+              "subtitle": "- YUHA 2025.10.29《Wonderland》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_stella",
+      "name": "STELLA",
+      "quotes": [
+        {
+          "id": "q_349",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「要有自信，我要活成自己的样子！」",
+              "subtitle": "- STELLA"
+            },
+            "zh-Hant": {
+              "title": "「要有自信，我要活成自己的樣子！」",
+              "subtitle": "- STELLA"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_juun",
+      "name": "JUUN",
+      "quotes": [
+        {
+          "id": "q_350",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「现在的我还有很多不足，所以想继续深入研究舞蹈，建立只属于自己的风格」",
+              "subtitle": "- JUUN 2026.09.15《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「現在的我還有很多不足，所以想繼續深入研究舞蹈，建立只屬於自己的風格」",
+              "subtitle": "-JUUN 2026.09.15《non-no》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_ana",
+      "name": "ANA",
+      "quotes": [
+        {
+          "id": "q_351",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我认为，能成为别人憧憬的存在，不只是外表出众，内在也必须充满魅力」",
+              "subtitle": "- ANA 2026.09.15《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「我認為，能成為別人憧憬的存在，不只是外表出眾，內在也必須充滿魅力」",
+              "subtitle": "- ANA 2026.09.15《non-no》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_ian",
+      "name": "IAN",
+      "quotes": [
+        {
+          "id": "q_352",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会努力成为一个配得上那份期待、甚至能超越你们期待的人」",
+              "subtitle": "- IAN"
+            },
+            "zh-Hant": {
+              "title": "「我會努力成為一個配得上那份期待、甚至能超越你們期待的人」",
+              "subtitle": "- IAN"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "h2h_yeon",
+      "name": "YEON",
+      "quotes": [
+        {
+          "id": "q_353",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「想要好好思考事情的时候，我会留一点时间给自己，独自抬头看看天空。\n躺在床上静静地望着天空，不安的心情也会慢慢平静下来」",
+              "subtitle": "- YEON - YEON 2026.09.16《non-no》专访"
+            },
+            "zh-Hant": {
+              "title": "「想要好好思考事情的時候，我會留一點時間給自己，獨自抬頭看看天空。\n躺在床上靜靜地望著天空，不安的心情也會慢慢平靜下來」",
+              "subtitle": "- YEON 2026.09.16《non-no》專訪"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}
