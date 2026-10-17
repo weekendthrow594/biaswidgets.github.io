@@ -1,0 +1,321 @@
+{
+  "id": "tws",
+  "name": "TWS",
+  "members": [
+    {
+      "id": "tws_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_365",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「乌云后面一定有非常耀眼的阳光。\n即使感到疲惫和辛苦，黑暗之中也一定有希望和光芒，所以不要放弃，一直加油吧！」",
+              "subtitle": "- 李炅潣 2025.03.05 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「烏雲後面一定有非常耀眼的陽光。\n即使感到疲憊和辛苦，黑暗之中也一定有希望和光芒，所以不要放棄，一直加油吧！」",
+              "subtitle": "- 李炅潣 2025.03.05 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_358",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「TWS的答案，永远都是42」",
+              "subtitle": "- 崔英宰 2025.02.25 ·WVS"
+            },
+            "zh-Hant": {
+              "title": "「TWS的答案，永遠都是42」",
+              "subtitle": "- 崔英宰 2025.02.25 ·WVS"
+            }
+          }
+        },
+        {
+          "id": "q_357",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会努力成为42的骄傲，成为值得你们自豪的TWS」",
+              "subtitle": "- 金道勋 2024.07.10 WVS"
+            },
+            "zh-Hant": {
+              "title": "「我會努力成為42的驕傲，成為值得你們自豪的TWS」",
+              "subtitle": "- 金道勳 2024.07.10 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_361",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「事情不一定总会按照计划进行，但我学会了把那些经历变成下一次做得更好的动力」",
+              "subtitle": "- 韩振 2026.09.24 · CNA Lifestyle 采访"
+            },
+            "zh-Hant": {
+              "title": "「事情不一定總會按照計劃進行，但我學會了把那些經歷變成下一次做得更好的動力」",
+              "subtitle": "- 韓振 2026.09.24 · CNA Lifestyle 採訪"
+            }
+          }
+        },
+        {
+          "id": "q_362",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「希望大家都能像水母一样，轻松自在地漂浮、游动」",
+              "subtitle": "- 韩志薰 2024.07.03 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「希望大家都能像水母一樣，輕鬆自在地漂浮、游動」",
+              "subtitle": "- 韓志薰 2024.07.03 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_356",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「今后也一起创造幸福的回忆吧，从1000天到10000天，都一起走下去。」",
+              "subtitle": "- 申惟 2024.07.10 WVS"
+            },
+            "zh-Hant": {
+              "title": "「今後也一起創造幸福的回憶吧，從1000天到10000天，都一起走下去」",
+              "subtitle": "- 申惟 2024.07.10 WVS"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_SHINYU",
+      "name": "SHINYU",
+      "quotes": [
+        {
+          "id": "q_355",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「能和我喜欢的人、也喜欢我的人一起创造回忆，真的是一件非常幸福的事。」",
+              "subtitle": "- 申惟 2024.08.08 WVS"
+            },
+            "zh-Hant": {
+              "title": "「能和我喜歡的人、也喜歡我的人一起創造回憶，真的是一件非常幸福的事」",
+              "subtitle": "- 申惟 2024.08.08 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_356",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「今后也一起创造幸福的回忆吧，从1000天到10000天，都一起走下去。」",
+              "subtitle": "- 申惟 2024.07.10 WVS"
+            },
+            "zh-Hant": {
+              "title": "「今後也一起創造幸福的回憶吧，從1000天到10000天，都一起走下去」",
+              "subtitle": "- 申惟 2024.07.10 WVS"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_DOHOON",
+      "name": "DOHOON",
+      "quotes": [
+        {
+          "id": "q_357",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「我会努力成为42的骄傲，成为值得你们自豪的TWS」",
+              "subtitle": "- 金道勋 2024.07.10 WVS"
+            },
+            "zh-Hant": {
+              "title": "「我會努力成為42的驕傲，成為值得你們自豪的TWS」",
+              "subtitle": "- 金道勳 2024.07.10 WVS"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_YOUNGJAE",
+      "name": "YOUNGJAE",
+      "quotes": [
+        {
+          "id": "q_358",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「TWS的答案，永远都是42」",
+              "subtitle": "- 崔英宰 2025.02.25 ·WVS"
+            },
+            "zh-Hant": {
+              "title": "「TWS的答案，永遠都是42」",
+              "subtitle": "- 崔英宰 2025.02.25 ·WVS"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_HANJIN",
+      "name": "HANJIN",
+      "quotes": [
+        {
+          "id": "q_361",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「事情不一定总会按照计划进行，但我学会了把那些经历变成下一次做得更好的动力」",
+              "subtitle": "- 韩振 2026.09.24 · CNA Lifestyle 采访"
+            },
+            "zh-Hant": {
+              "title": "「事情不一定總會按照計劃進行，但我學會了把那些經歷變成下一次做得更好的動力」",
+              "subtitle": "- 韓振 2026.09.24 · CNA Lifestyle 採訪"
+            }
+          }
+        },
+        {
+          "id": "q_359",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「如果42愿意的话，800天、1000天，还有更遥远的未来，我也想像现在这样，和大家慢慢地一起走下去」",
+              "subtitle": "- 韩振 2025.12.22 WVS"
+            },
+            "zh-Hant": {
+              "title": "「如果42願意的話，800天、1000天，還有更遙遠的未來，我也想像現在這樣，和大家慢慢地一起走下去」",
+              "subtitle": "- 韓振 2025.12.22 WVS"
+            }
+          }
+        },
+        {
+          "id": "q_360",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「思念像风，能到达任何地方。\n无论距离多远，我们的心永远都在彼此身边」",
+              "subtitle": "- 韩振 2024.08.07 · WVS"
+            },
+            "zh-Hant": {
+              "title": "「思念像風，能到達任何地方。\n無論距離多遠，我們的心永遠都在彼此身邊」",
+              "subtitle": "- 韓振 2024.08.07 · WVS"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_JIHOON",
+      "name": "JIHOON",
+      "quotes": [
+        {
+          "id": "q_364",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「无论如何，你们的安全和幸福，都是我最优先的愿望」",
+              "subtitle": "- 韩志薰 2026.07.12 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「無論如何，你們的安全和幸福，都是我最優先的願望」",
+              "subtitle": "- 韓志薰 2026.07.12 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_363",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「回头看和42一起度过的每一天，感觉每一天都闪耀着灿烂的光芒」",
+              "subtitle": "- 韩志薰 2024.08.09 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「回頭看和42一起度過的每一天，感覺每一天都閃耀著燦爛的光芒」",
+              "subtitle": "- 韓志薰 2024.08.09 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_362",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「希望大家都能像水母一样，轻松自在地漂浮、游动」",
+              "subtitle": "- 韩志薰 2024.07.03 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「希望大家都能像水母一樣，輕鬆自在地漂浮、游動」",
+              "subtitle": "- 韓志薰 2024.07.03 · Weverse"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "tws_KYUNGMIN",
+      "name": "KYUNGMIN",
+      "quotes": [
+        {
+          "id": "q_365",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「乌云后面一定有非常耀眼的阳光。\n即使感到疲惫和辛苦，黑暗之中也一定有希望和光芒，所以不要放弃，一直加油吧！」",
+              "subtitle": "- 李炅潣 2025.03.05 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「烏雲後面一定有非常耀眼的陽光。\n即使感到疲憊和辛苦，黑暗之中也一定有希望和光芒，所以不要放棄，一直加油吧！」",
+              "subtitle": "- 李炅潣 2025.03.05 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_367",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「没关系，事情总会发生的。」",
+              "subtitle": "- 李炅潣 2025.06.30 · NME 采访"
+            },
+            "zh-Hant": {
+              "title": "「沒關係，事情總會發生的。」",
+              "subtitle": "- 李炅潣 2025.06.30 · NME 採訪"
+            }
+          }
+        },
+        {
+          "id": "q_366",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「希望我们也能成为为你们的人生增添一点光芒的歌手。\n累了的时候，也请多多依靠我们」",
+              "subtitle": "- 李炅潣 2024.07.10 · Weverse"
+            },
+            "zh-Hant": {
+              "title": "「希望我們也能成為為你們的人生增添一點光芒的歌手。\n累了的時候，也請多多依靠我們」",
+              "subtitle": "- 李炅潣 2024.07.10 · Weverse"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}
