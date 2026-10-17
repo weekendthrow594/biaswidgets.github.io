@@ -298,5 +298,35 @@
       "TWS_header_5",
       "TWS_header_6"
     ]
+  },
+  {
+    "id": "triples",
+    "name": "tripleS",
+    "header": [
+      "TRIPLES_header_1",
+      "TRIPLES_header_2",
+      "TRIPLES_header_3",
+      "TRIPLES_header_4",
+      "TRIPLES_header_5",
+      "TRIPLES_header_6",
+      "TRIPLES_header_7",
+      "TRIPLES_header_8",
+      "TRIPLES_header_9",
+      "TRIPLES_header_10",
+      "TRIPLES_header_11",
+      "TRIPLES_header_12",
+      "TRIPLES_header_13",
+      "TRIPLES_header_14",
+      "TRIPLES_header_15",
+      "TRIPLES_header_16",
+      "TRIPLES_header_17",
+      "TRIPLES_header_18",
+      "TRIPLES_header_19",
+      "TRIPLES_header_20",
+      "TRIPLES_header_21",
+      "TRIPLES_header_22",
+      "TRIPLES_header_23",
+      "TRIPLES_header_24"
+    ]
   }
 ]
