@@ -257,40 +257,5 @@
     "traditional": "崔英宰",
     "en": "YOUNGJAE",
     "group": "tws"
-  },
-  {
-    "path": "soobin_sign_1",
-    "simplified": "崔秀彬",
-    "traditional": "崔秀彬",
-    "en": "SOOBIN",
-    "group": "TXT"
-  },
-  {
-    "path": "yeonjun_sign_1",
-    "simplified": "崔然竣",
-    "traditional": "崔然竣",
-    "en": "YEONJUN",
-    "group": "TXT"
-  },
-  {
-    "path": "beomgyu_sign_1",
-    "simplified": "崔杋圭",
-    "traditional": "崔杋圭",
-    "en": "BEOMGYU",
-    "group": "TXT"
-  },
-  {
-    "path": "taehyun_sign_1",
-    "simplified": "姜太显",
-    "traditional": "姜太顯",
-    "en": "TAEHYUN",
-    "group": "TXT"
-  },
-  {
-    "path": "hueningkai_sign_1",
-    "simplified": "休宁凯",
-    "traditional": "休寧凱",
-    "en": "HUENING KAI",
-    "group": "TXT"
   }
 ]
