@@ -1,0 +1,778 @@
+{
+  "id": "twice",
+  "name": "TWICE",
+  "members": [
+    {
+      "id": "twice_today",
+      "name": "TODAY",
+      "quotes": [
+        {
+          "id": "q_369",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I keep reminding myself that once I make up my mind, I have the ability to become the person I want to be.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「我不断提醒自己，只要下定决心，就有能力成为自己想成为的人。」",
+              "subtitle": "- 林娜琏 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「我不斷提醒自己，只要下定決心，就有能力成為自己想成為的人。」",
+              "subtitle": "- 林娜璉 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "Me recuerdo constantemente que, una vez que tomo una decisión, tengo la capacidad de convertirme en la persona que quiero ser.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "Eu sempre me lembro de que, quando tomo uma decisão, tenho a capacidade de me tornar a pessoa que quero ser.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_370",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You'll become an amazing person in the future, so don't worry too much about what's ahead or put too much pressure on yourself. Enjoy every moment and keep moving forward!",
+              "subtitle": "JEONGYEON | 06/11/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「未来的你会成为一个很棒的人，所以不要太担心未来，也别让自己背负太多压力。\n享受每一个当下，继续向前走吧！」",
+              "subtitle": "- 俞定延 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「未來的你會成為一個很棒的人，所以不要太擔心未來，也別讓自己背負太多壓力。\n享受每一個當下，繼續向前走吧！」",
+              "subtitle": "- 俞定延 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "En el futuro te convertirás en una persona increíble, así que no te preocupes demasiado por el futuro ni te pongas tanta presión. ¡Disfruta cada momento y sigue adelante!",
+              "subtitle": "JEONGYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "No futuro, você vai se tornar uma pessoa incrível, então não se preocupe tanto com o futuro nem coloque tanta pressão sobre si. Aproveite cada momento e continue seguindo em frente!",
+              "subtitle": "JEONGYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_372",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Laugh freely, keep smiling, and make yourself happy. It's the most important and most powerful way to take care of yourself.",
+              "subtitle": "MOMO |06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「尽情地大笑、保持微笑，让自己开心，是最重要、也最有力量的自我照顾方式。」",
+              "subtitle": "- 平井桃 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「盡情地大笑、保持微笑，讓自己開心，是最重要、也最有力量的自我照顧方式。」",
+              "subtitle": "- 平井桃 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "Reír a carcajadas, seguir sonriendo y hacerte feliz es la forma más importante y poderosa de cuidar de ti misma.",
+              "subtitle": "MOMO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Rir à vontade, continuar sorrindo e fazer a si mesma feliz é a forma mais importante e poderosa de cuidar de si mesma.",
+              "subtitle": "MOMO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_374",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No matter what I do, I always try to have fun and enjoy the process. Even when I feel nervous, I try to embrace that nervousness too and fully experience the present moment.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            },
+            "zh-Hans": {
+              "title": "「无论做什么，我都会抱着开心去做、享受过程的心态。\n即使感到紧张，也试着连这份紧张一起享受，好好感受当下。」",
+              "subtitle": "- 凑崎纱夏 2026年《ARENA HOMME+ Korea》"
+            },
+            "zh-Hant": {
+              "title": "「無論做什麼，我都會抱著開心去做、享受過程的心態。\n即使感到緊張，也試著連這份緊張一起享受，好好感受當下。」",
+              "subtitle": "- 湊崎紗夏 2026年《ARENA HOMME+ Korea》"
+            },
+            "es": {
+              "title": "Haga lo que haga, siempre intento divertirme y disfrutar del proceso. Incluso cuando me siento nerviosa, trato de disfrutar también de esos nervios y vivir plenamente el momento presente.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            },
+            "pt": {
+              "title": "Não importa o que eu faça, sempre tento me divertir e aproveitar o processo. Mesmo quando fico nervosa, tento aproveitar até esse nervosismo e viver plenamente o momento presente.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            }
+          }
+        },
+        {
+          "id": "q_376",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Just getting started takes courage, and that courage can help you accomplish so many things. Don't doubt yourself, love yourself a little more, and cherish everything you've created.",
+              "subtitle": "JIHYO |06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「开始本身就需要勇气，而这份勇气能够推动你完成许多事情。\n不要怀疑自己，多爱自己一点，也要珍惜自己创造的一切。」",
+              "subtitle": "- 朴志效 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「開始本身就需要勇氣，而這份勇氣能夠推動你完成許多事情。\n不要懷疑自己，多愛自己一點，也要珍惜自己創造的一切。」",
+              "subtitle": "- 朴志效 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "Dar el primer paso ya requiere valentía, y esa valentía puede impulsarte a lograr muchas cosas. No dudes de ti, quiérete un poco más y valora todo lo que has creado.",
+              "subtitle": "JIHYO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Só começar já exige coragem, e essa coragem pode te impulsionar a conquistar muitas coisas. Não duvide de você, ame-se um pouco mais e valorize tudo o que você criou.",
+              "subtitle": "JIHYO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_378",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Rather than imitating others, spend time getting to know yourself and discovering who you truly are. That way, you can shine brighter than anyone else. Loving yourself and believing in what you think is right are the most important things.",
+              "subtitle": "MINA | 06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「与其模仿别人，不如花时间去认识自己、找到真正的自己。\n这样才能比任何人都更加闪耀。\n爱自己，相信自己认为正确的事情，是最重要的。」",
+              "subtitle": "- 名井南 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「與其模仿別人，不如花時間去認識自己、找到真正的自己。\n這樣才能比任何人都更加閃耀。\n愛自己，相信自己認為正確的事情，是最重要的。」",
+              "subtitle": "- 名井南 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "En lugar de imitar a los demás, dedica tiempo a conocerte y descubrir quién eres realmente. Así podrás brillar más que nadie. Lo más importante es quererte y confiar en lo que consideras correcto.",
+              "subtitle": "MINA | 11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Em vez de imitar os outros, dedique um tempo para se conhecer e descobrir quem você realmente é. Assim, poderá brilhar mais do que qualquer outra pessoa. O mais importante é se amar e acreditar naquilo que considera certo.",
+              "subtitle": "MINA | 11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_381",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The time that's gone will never come back, so live life to the fullest and cherish every moment.",
+              "subtitle": "DAHYUN |06/11/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「过去的时间不会再回来，所以要尽情地生活，珍惜每一个当下。」",
+              "subtitle": "- 金多贤 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「過去的時間不會再回來，所以要盡情地生活，珍惜每一個當下。」",
+              "subtitle": "- 金多賢 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "El tiempo que ha pasado nunca volverá, así que vive la vida al máximo y valora cada momento.",
+              "subtitle": "DAHYUN |11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "O tempo que passou nunca mais volta, então viva a vida ao máximo e valorize cada momento.",
+              "subtitle": "DAHYUN |11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_382",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When I go through difficult times, I take a break from creating and give myself time to rest. Once I've regained my strength, I start again.",
+              "subtitle": "CHAEYOUNG | 09/16/25 GRAMMY LIL FANTASY vol.1 Interview"
+            },
+            "zh-Hans": {
+              "title": "「遇到那些艰难的时刻，我会先停下手中的创作，让自己好好休息。\n等重新拥有力量之后，再继续开始。」",
+              "subtitle": "- 孙彩瑛 2025.09.16 GRAMMY《LIL FANTASY vol.1》专访"
+            },
+            "zh-Hant": {
+              "title": "「遇到那些艱難的時刻，我會先停下手中的創作，讓自己好好休息。\n等重新擁有力量之後，再繼續開始。」",
+              "subtitle": "- 孫彩瑛 2025.09.16 GRAMMY《LIL FANTASY vol.1》專訪"
+            },
+            "es": {
+              "title": "Cuando paso por momentos difíciles, hago una pausa en mi trabajo creativo y me doy tiempo para descansar. Cuando recupero las fuerzas, vuelvo a empezar.",
+              "subtitle": "CHAEYOUNG | 16/09/25 Entrevista con GRAMMY LIL FANTASY vol.1"
+            },
+            "pt": {
+              "title": "Quando passo por momentos difíceis, faço uma pausa no meu trabalho criativo e me dou um tempo para descansar. Quando recupero minhas forças, começo de novo.",
+              "subtitle": "CHAEYOUNG | 16/09/25 Entrevista à GRAMMY LIL FANTASY vol.1"
+            }
+          }
+        },
+        {
+          "id": "q_384",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you truly love something, be brave and go for it. Whether your experiences are good or bad, you'll gain something from them. You'll learn so much along the way, so don't be afraid.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            },
+            "zh-Hans": {
+              "title": "「如果你真的热爱某件事，那就勇敢去做吧。\n无论经历是好是坏，都会让你有所收获。\n你会在过程中学到很多，所以不要害怕。」",
+              "subtitle": "- 周子瑜 2024年 UPROXX《abouTZU》"
+            },
+            "zh-Hant": {
+              "title": "「如果你真的熱愛某件事，那就勇敢去做吧。\n無論經歷是好是壞，都會讓你有所收穫。\n你會在過程中學到很多，所以不要害怕。」",
+              "subtitle": "- 周子瑜 2024年 UPROXX《abouTZU》"
+            },
+            "es": {
+              "title": "Si realmente amas algo, atrévete a hacerlo. Ya sean buenas o malas, todas las experiencias te aportarán algo. Aprenderás mucho en el camino, así que no tengas miedo.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            },
+            "pt": {
+              "title": "Se você realmente ama alguma coisa, tenha coragem e vá em frente. Sejam boas ou ruins, todas as experiências vão te trazer algum aprendizado. Você vai aprender muito ao longo do caminho, então não tenha medo.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_nayeon",
+      "name": "NAYEON",
+      "quotes": [
+        {
+          "id": "q_369",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I keep reminding myself that once I make up my mind, I have the ability to become the person I want to be.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「我不断提醒自己，只要下定决心，就有能力成为自己想成为的人。」",
+              "subtitle": "- 林娜琏 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「我不斷提醒自己，只要下定決心，就有能力成為自己想成為的人。」",
+              "subtitle": "- 林娜璉 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "Me recuerdo constantemente que, una vez que tomo una decisión, tengo la capacidad de convertirme en la persona que quiero ser.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "Eu sempre me lembro de que, quando tomo uma decisão, tenho a capacidade de me tornar a pessoa que quero ser.",
+              "subtitle": "NAYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_368",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When I tried to stop comparing myself to others, I felt more at ease and gradually began to see my own progress.",
+              "subtitle": "NAYEON | 24/07/18 JTBC Kim Jae Dong's Talk To You"
+            },
+            "zh-Hans": {
+              "title": "「当我试着不再和别人比较，心情就变得轻松了，也慢慢看见自己的进步。」",
+              "subtitle": "- 林娜琏 2018.07.24 JTBC《Kim Jae Dong's Talk To You》"
+            },
+            "zh-Hant": {
+              "title": "「當我試著不再和別人比較，心情就變得輕鬆了，也慢慢看見自己的進步。」",
+              "subtitle": "- 林娜璉 2018.07.24 JTBC《Kim Jae Dong's Talk To You》"
+            },
+            "es": {
+              "title": "Cuando intenté dejar de compararme con los demás, empecé a sentirme más tranquila y poco a poco pude ver mi propio progreso.",
+              "subtitle": "NAYEON | 24/07/18 JTBC Kim Jae Dong's Talk To You"
+            },
+            "pt": {
+              "title": "Quando tentei parar de me comparar com os outros, comecei a me sentir mais leve e, aos poucos, passei a enxergar o meu próprio progresso.",
+              "subtitle": "NAYEON | 24/07/18 JTBC Kim Jae Dong's Talk To You"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_jeongyeon",
+      "name": "JEONGYEON",
+      "quotes": [
+        {
+          "id": "q_370",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You'll become an amazing person in the future, so don't worry too much about what's ahead or put too much pressure on yourself. Enjoy every moment and keep moving forward!",
+              "subtitle": "JEONGYEON | 06/11/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「未来的你会成为一个很棒的人，所以不要太担心未来，也别让自己背负太多压力。\n享受每一个当下，继续向前走吧！」",
+              "subtitle": "- 俞定延 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「未來的你會成為一個很棒的人，所以不要太擔心未來，也別讓自己背負太多壓力。\n享受每一個當下，繼續向前走吧！」",
+              "subtitle": "- 俞定延 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "En el futuro te convertirás en una persona increíble, así que no te preocupes demasiado por el futuro ni te pongas tanta presión. ¡Disfruta cada momento y sigue adelante!",
+              "subtitle": "JEONGYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "No futuro, você vai se tornar uma pessoa incrível, então não se preocupe tanto com o futuro nem coloque tanta pressão sobre si. Aproveite cada momento e continue seguindo em frente!",
+              "subtitle": "JEONGYEON | 11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_371",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The number of friends you have doesn't matter. As long as you have friends who truly believe in you, trust you, and support you no matter what you do, your life will feel complete.",
+              "subtitle": "JEONGYEON | 11/19/21 EUPHORIA. Interview"
+            },
+            "zh-Hans": {
+              "title": "「朋友的数量并不重要。\n只要有真正相信你、信任你，无论做什么都会支持你的朋友，人生就会变得完整。」",
+              "subtitle": "- 俞定延 2021.11.19《EUPHORIA.》专访"
+            },
+            "zh-Hant": {
+              "title": "「朋友的數量並不重要。\n只要有真正相信你、信任你，無論做什麼都會支持你的朋友，人生就會變得完整。」",
+              "subtitle": "- 俞定延 2021.11.19《EUPHORIA.》專訪"
+            },
+            "es": {
+              "title": "La cantidad de amigos no importa. Mientras tengas amigos que de verdad crean en ti, confíen en ti y te apoyen hagas lo que hagas, tu vida se sentirá plena.",
+              "subtitle": "JEONGYEON | 19/11/21 Entrevista con EUPHORIA."
+            },
+            "pt": {
+              "title": "A quantidade de amigos não importa. Desde que você tenha amigos que realmente acreditem em você, confiem em você e te apoiem em tudo o que fizer, sua vida será completa.",
+              "subtitle": "JEONGYEON | 19/11/21 Entrevista à EUPHORIA."
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_momo",
+      "name": "MOMO",
+      "quotes": [
+        {
+          "id": "q_372",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Laugh freely, keep smiling, and make yourself happy. It's the most important and most powerful way to take care of yourself.",
+              "subtitle": "MOMO |06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「尽情地大笑、保持微笑，让自己开心，是最重要、也最有力量的自我照顾方式。」",
+              "subtitle": "- 平井桃 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「盡情地大笑、保持微笑，讓自己開心，是最重要、也最有力量的自我照顧方式。」",
+              "subtitle": "- 平井桃 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "Reír a carcajadas, seguir sonriendo y hacerte feliz es la forma más importante y poderosa de cuidar de ti misma.",
+              "subtitle": "MOMO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Rir à vontade, continuar sorrindo e fazer a si mesma feliz é a forma mais importante e poderosa de cuidar de si mesma.",
+              "subtitle": "MOMO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_373",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "At the time, I did feel a little like going back to Japan, but in the end, I chose to work even harder.",
+              "subtitle": "MOMO |08/18/16 Naver V+ Beautiful TWICE MOMO #2"
+            },
+            "zh-Hans": {
+              "title": "「当时我确实有一点想回日本，但最后我还是选择了更加努力。」",
+              "subtitle": "- 平井桃 2016.08.18 Naver V+《Beautiful TWICE MOMO #2》"
+            },
+            "zh-Hant": {
+              "title": "「當時我確實有一點想回日本，但最後我還是選擇了更加努力。」",
+              "subtitle": "- 平井桃 2016.08.18 Naver V+《Beautiful TWICE MOMO #2》"
+            },
+            "es": {
+              "title": "En aquel momento, sí tenía un poco de ganas de volver a Japón, pero al final decidí esforzarme aún más.",
+              "subtitle": "MOMO |18/08/16 Naver V+ Beautiful TWICE MOMO #2"
+            },
+            "pt": {
+              "title": "Naquela época, eu realmente tinha um pouco de vontade de voltar para o Japão, mas no fim escolhi me esforçar ainda mais.",
+              "subtitle": "MOMO |18/08/16 Naver V+ Beautiful TWICE MOMO #2"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_sana",
+      "name": "SANA",
+      "quotes": [
+        {
+          "id": "q_374",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "No matter what I do, I always try to have fun and enjoy the process. Even when I feel nervous, I try to embrace that nervousness too and fully experience the present moment.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            },
+            "zh-Hans": {
+              "title": "「无论做什么，我都会抱着开心去做、享受过程的心态。\n即使感到紧张，也试着连这份紧张一起享受，好好感受当下。」",
+              "subtitle": "- 凑崎纱夏 2026年《ARENA HOMME+ Korea》"
+            },
+            "zh-Hant": {
+              "title": "「無論做什麼，我都會抱著開心去做、享受過程的心態。\n即使感到緊張，也試著連這份緊張一起享受，好好感受當下。」",
+              "subtitle": "- 湊崎紗夏 2026年《ARENA HOMME+ Korea》"
+            },
+            "es": {
+              "title": "Haga lo que haga, siempre intento divertirme y disfrutar del proceso. Incluso cuando me siento nerviosa, trato de disfrutar también de esos nervios y vivir plenamente el momento presente.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            },
+            "pt": {
+              "title": "Não importa o que eu faça, sempre tento me divertir e aproveitar o processo. Mesmo quando fico nervosa, tento aproveitar até esse nervosismo e viver plenamente o momento presente.",
+              "subtitle": "SANA |2026 ARENA HOMME+ Korea"
+            }
+          }
+        },
+        {
+          "id": "q_375",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I've learned how important it is to encourage one another. We've always valued each other's feelings and made an effort to understand one another.",
+              "subtitle": "SANA |06/09/20 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「我学到了互相鼓励有多么重要。\n我们也一直很重视彼此的感受，努力体谅对方。」",
+              "subtitle": "- 凑崎纱夏 2020.06.09《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「我學到了互相鼓勵有多麼重要。\n我們也一直很重視彼此的感受，努力體諒對方。」",
+              "subtitle": "- 湊崎紗夏 2020.06.09《ELLE》"
+            },
+            "es": {
+              "title": "He aprendido lo importante que es animarnos mutuamente. Siempre hemos valorado los sentimientos de las demás y nos hemos esforzado por comprendernos unas a otras.",
+              "subtitle": "SANA |09/06/20 ELLE"
+            },
+            "pt": {
+              "title": "Aprendi como é importante incentivar umas às outras. Sempre valorizamos os sentimentos umas das outras e nos esforçamos para nos compreender melhor.",
+              "subtitle": "SANA |09/06/20 ELLE"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_jihyo",
+      "name": "JIHYO",
+      "quotes": [
+        {
+          "id": "q_376",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Just getting started takes courage, and that courage can help you accomplish so many things. Don't doubt yourself, love yourself a little more, and cherish everything you've created.",
+              "subtitle": "JIHYO |06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「开始本身就需要勇气，而这份勇气能够推动你完成许多事情。\n不要怀疑自己，多爱自己一点，也要珍惜自己创造的一切。」",
+              "subtitle": "- 朴志效 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「開始本身就需要勇氣，而這份勇氣能夠推動你完成許多事情。\n不要懷疑自己，多愛自己一點，也要珍惜自己創造的一切。」",
+              "subtitle": "- 朴志效 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "Dar el primer paso ya requiere valentía, y esa valentía puede impulsarte a lograr muchas cosas. No dudes de ti, quiérete un poco más y valora todo lo que has creado.",
+              "subtitle": "JIHYO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Só começar já exige coragem, e essa coragem pode te impulsionar a conquistar muitas coisas. Não duvide de você, ame-se um pouco mais e valorize tudo o que você criou.",
+              "subtitle": "JIHYO |11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_377",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you're doing something that makes you happy, the people around you will feel happy just by seeing you happy too.",
+              "subtitle": "JIHYO |07/24/18 JTBC Kim Jae Dong's Talk To You"
+            },
+            "zh-Hans": {
+              "title": "「如果你做着让自己感到幸福的事情，那么看着你的身边的人，也会因此感到幸福。」",
+              "subtitle": "- 朴志效 2018.07.24 JTBC《Kim Jae Dong's Talk To You》"
+            },
+            "zh-Hant": {
+              "title": "「如果你做著讓自己感到幸福的事情，那麼看著你的身邊的人，也會因此感到幸福。」",
+              "subtitle": "- 朴志效 2018.07.24 JTBC《Kim Jae Dong's Talk To You》"
+            },
+            "es": {
+              "title": "Si haces cosas que te hacen feliz, las personas que te rodean también se sentirán felices al verte así.",
+              "subtitle": "JIHYO |24/07/18 JTBC Kim Jae Dong's Talk To You"
+            },
+            "pt": {
+              "title": "Se você faz coisas que te deixam feliz, as pessoas ao seu redor também vão se sentir felizes ao ver você assim.",
+              "subtitle": "JIHYO |24/07/18 JTBC Kim Jae Dong's Talk To You"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_mina",
+      "name": "MINA",
+      "quotes": [
+        {
+          "id": "q_378",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Rather than imitating others, spend time getting to know yourself and discovering who you truly are. That way, you can shine brighter than anyone else. Loving yourself and believing in what you think is right are the most important things.",
+              "subtitle": "MINA | 06/11/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "zh-Hans": {
+              "title": "「与其模仿别人，不如花时间去认识自己、找到真正的自己。\n这样才能比任何人都更加闪耀。\n爱自己，相信自己认为正确的事情，是最重要的。」",
+              "subtitle": "- 名井南 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「與其模仿別人，不如花時間去認識自己、找到真正的自己。\n這樣才能比任何人都更加閃耀。\n愛自己，相信自己認為正確的事情，是最重要的。」",
+              "subtitle": "- 名井南 2021.06.11 Tumblr《K-Pop Spotlight: TWICE》"
+            },
+            "es": {
+              "title": "En lugar de imitar a los demás, dedica tiempo a conocerte y descubrir quién eres realmente. Así podrás brillar más que nadie. Lo más importante es quererte y confiar en lo que consideras correcto.",
+              "subtitle": "MINA | 11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            },
+            "pt": {
+              "title": "Em vez de imitar os outros, dedique um tempo para se conhecer e descobrir quem você realmente é. Assim, poderá brilhar mais do que qualquer outra pessoa. O mais importante é se amar e acreditar naquilo que considera certo.",
+              "subtitle": "MINA | 11/06/21 Tumblr K-Pop Spotlight: TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_379",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Before the end of each day, I always tell myself, “You worked really hard today” and “You can definitely do it next time!” That's how I make sure to praise and encourage myself.",
+              "subtitle": "MINA | 07/27/22 ELLE Japan Interview"
+            },
+            "zh-Hans": {
+              "title": "「每天结束之前，我一定会对自己说‘今天也很努力了呢’ ‘下一次也一定能做到！’，像这样好好称赞自己、鼓励自己。」",
+              "subtitle": "- 名井南 2022.07.27《ELLE Japan》MINA 专访"
+            },
+            "zh-Hant": {
+              "title": "「每天結束之前，我一定會對自己說‘今天也很努力了呢’ ‘下一次也一定能做到！’，像這樣好好稱讚自己、鼓勵自己。」",
+              "subtitle": "- 名井南 2022.07.27《ELLE Japan》MINA 專訪"
+            },
+            "es": {
+              "title": "Antes de terminar cada día, siempre me digo: «Hoy también te has esforzado mucho» y «¡La próxima vez seguro que lo lograrás!». Así me aseguro de reconocer mi esfuerzo y animarme a mí misma.",
+              "subtitle": "MINA | 27/07/22 Entrevista con ELLE Japan"
+            },
+            "pt": {
+              "title": "Antes de terminar cada dia, sempre digo a mim mesma: “Você se esforçou muito hoje” e “Na próxima vez, com certeza vai conseguir!”. É assim que faço questão de me elogiar e me encorajar.",
+              "subtitle": "MINA | 27/07/22 Entrevista à ELLE Japan"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_dahyun",
+      "name": "DAHYUN",
+      "quotes": [
+        {
+          "id": "q_381",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The time that's gone will never come back, so live life to the fullest and cherish every moment.",
+              "subtitle": "DAHYUN |06/11/21 Billboard 20 Questions With TWICE"
+            },
+            "zh-Hans": {
+              "title": "「过去的时间不会再回来，所以要尽情地生活，珍惜每一个当下。」",
+              "subtitle": "- 金多贤 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "zh-Hant": {
+              "title": "「過去的時間不會再回來，所以要盡情地生活，珍惜每一個當下。」",
+              "subtitle": "- 金多賢 2021.06.11 Billboard《20 Questions With TWICE》"
+            },
+            "es": {
+              "title": "El tiempo que ha pasado nunca volverá, así que vive la vida al máximo y valora cada momento.",
+              "subtitle": "DAHYUN |11/06/21 Billboard 20 Questions With TWICE"
+            },
+            "pt": {
+              "title": "O tempo que passou nunca mais volta, então viva a vida ao máximo e valorize cada momento.",
+              "subtitle": "DAHYUN |11/06/21 Billboard 20 Questions With TWICE"
+            }
+          }
+        },
+        {
+          "id": "q_380",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I wish my past self had found more joy in preparing for debut, with less pressure and more excitement.",
+              "subtitle": "DAHYUN |11/19/21 EUPHORIA."
+            },
+            "zh-Hans": {
+              "title": "「我希望过去的自己能够在准备出道的过程中找到更多乐趣，少一些压力，多一些期待。」",
+              "subtitle": "- 金多贤 2021.11.19《EUPHORIA.》"
+            },
+            "zh-Hant": {
+              "title": "「我希望過去的自己能夠在準備出道的過程中找到更多樂趣，少一些壓力，多一些期待。」",
+              "subtitle": "- 金多賢 2021.11.19《EUPHORIA.》"
+            },
+            "es": {
+              "title": "Ojalá mi yo de entonces hubiera disfrutado más del proceso de preparación para el debut, con menos presión y más ilusión.",
+              "subtitle": "DAHYUN |19/11/21 EUPHORIA."
+            },
+            "pt": {
+              "title": "Eu queria que meu eu do passado tivesse aproveitado mais a preparação para a estreia, com menos pressão e mais entusiasmo.",
+              "subtitle": "DAHYUN |19/11/21 EUPHORIA."
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_chaeyoung",
+      "name": "CHAEYOUNG",
+      "quotes": [
+        {
+          "id": "q_382",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When I go through difficult times, I take a break from creating and give myself time to rest. Once I've regained my strength, I start again.",
+              "subtitle": "CHAEYOUNG | 09/16/25 GRAMMY LIL FANTASY vol.1 Interview"
+            },
+            "zh-Hans": {
+              "title": "「遇到那些艰难的时刻，我会先停下手中的创作，让自己好好休息。\n等重新拥有力量之后，再继续开始。」",
+              "subtitle": "- 孙彩瑛 2025.09.16 GRAMMY《LIL FANTASY vol.1》专访"
+            },
+            "zh-Hant": {
+              "title": "「遇到那些艱難的時刻，我會先停下手中的創作，讓自己好好休息。\n等重新擁有力量之後，再繼續開始。」",
+              "subtitle": "- 孫彩瑛 2025.09.16 GRAMMY《LIL FANTASY vol.1》專訪"
+            },
+            "es": {
+              "title": "Cuando paso por momentos difíciles, hago una pausa en mi trabajo creativo y me doy tiempo para descansar. Cuando recupero las fuerzas, vuelvo a empezar.",
+              "subtitle": "CHAEYOUNG | 16/09/25 Entrevista con GRAMMY LIL FANTASY vol.1"
+            },
+            "pt": {
+              "title": "Quando passo por momentos difíceis, faço uma pausa no meu trabalho criativo e me dou um tempo para descansar. Quando recupero minhas forças, começo de novo.",
+              "subtitle": "CHAEYOUNG | 16/09/25 Entrevista à GRAMMY LIL FANTASY vol.1"
+            }
+          }
+        },
+        {
+          "id": "q_383",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I don't want to set limits for myself in my own mind. For us, what matters is continuing to grow and showing new sides of ourselves.",
+              "subtitle": "CHAEYOUNG | 09/12/25 Wonderland Interview"
+            },
+            "zh-Hans": {
+              "title": "「我不想在心里先给自己设下界限。对我们而言，重要的是不断成长，展现新的自己。」",
+              "subtitle": "- 孙彩瑛 2025.09.12《Wonderland》专访"
+            },
+            "zh-Hant": {
+              "title": "「我不想在心裡先給自己設下界限。對我們而言，重要的是不斷成長，展現新的自己。」",
+              "subtitle": "- 孫彩瑛 2025.09.12《Wonderland》專訪"
+            },
+            "es": {
+              "title": "No quiero ponerme límites en mi propia mente. Para nosotras, lo importante es seguir creciendo y mostrar nuevas facetas de nosotras mismas.",
+              "subtitle": "CHAEYOUNG | 12/09/25 Entrevista con Wonderland"
+            },
+            "pt": {
+              "title": "Não quero impor limites a mim mesma na minha própria mente. Para nós, o importante é continuar crescendo e mostrando novos lados de nós mesmas.",
+              "subtitle": "CHAEYOUNG | 12/09/25 Entrevista à Wonderland"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    },
+    {
+      "id": "twice_tzuyu",
+      "name": "TZUYU",
+      "quotes": [
+        {
+          "id": "q_384",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you truly love something, be brave and go for it. Whether your experiences are good or bad, you'll gain something from them. You'll learn so much along the way, so don't be afraid.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            },
+            "zh-Hans": {
+              "title": "「如果你真的热爱某件事，那就勇敢去做吧。\n无论经历是好是坏，都会让你有所收获。\n你会在过程中学到很多，所以不要害怕。」",
+              "subtitle": "- 周子瑜 2024年 UPROXX《abouTZU》"
+            },
+            "zh-Hant": {
+              "title": "「如果你真的熱愛某件事，那就勇敢去做吧。\n無論經歷是好是壞，都會讓你有所收穫。\n你會在過程中學到很多，所以不要害怕。」",
+              "subtitle": "- 周子瑜 2024年 UPROXX《abouTZU》"
+            },
+            "es": {
+              "title": "Si realmente amas algo, atrévete a hacerlo. Ya sean buenas o malas, todas las experiencias te aportarán algo. Aprenderás mucho en el camino, así que no tengas miedo.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            },
+            "pt": {
+              "title": "Se você realmente ama alguma coisa, tenha coragem e vá em frente. Sejam boas ou ruins, todas as experiências vão te trazer algum aprendizado. Você vai aprender muito ao longo do caminho, então não tenha medo.",
+              "subtitle": "TZUYU |2024 UPROXX abouTZU"
+            }
+          }
+        },
+        {
+          "id": "q_385",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Focus on the positive things in life and pay attention to what truly brings you encouragement and strength.",
+              "subtitle": "TZUYU |06/09/20 ELLE"
+            },
+            "zh-Hans": {
+              "title": "「把注意力放在积极的事情上，关注那些真正能带给自己鼓励和力量的事物。」",
+              "subtitle": "- 周子瑜 2020.06.09《ELLE》"
+            },
+            "zh-Hant": {
+              "title": "「把注意力放在積極的事情上，關注那些真正能帶給自己鼓勵和力量的事物。」",
+              "subtitle": "- 周子瑜 2020.06.09《ELLE》"
+            },
+            "es": {
+              "title": "Concéntrate en las cosas positivas de la vida y presta atención a aquello que realmente te da ánimo y fuerza.",
+              "subtitle": "TZUYU |09/06/20 ELLE"
+            },
+            "pt": {
+              "title": "Concentre-se nas coisas positivas da vida e dê atenção àquilo que realmente te traz incentivo e força.",
+              "subtitle": "TZUYU |09/06/20 ELLE"
+            }
+          }
+        }
+      ],
+      "countdowns": []
+    }
+  ]
+}
