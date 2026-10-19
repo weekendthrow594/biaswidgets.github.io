@@ -257,5 +257,82 @@
     "traditional": "崔英宰",
     "en": "YOUNGJAE",
     "group": "tws"
+  },
+  {
+    "path": "soobin_sign_1",
+    "simplified": "崔秀彬",
+    "traditional": "崔秀彬",
+    "en": "SOOBIN",
+    "group": "TXT"
+  },
+  {
+    "path": "yeonjun_sign_1",
+    "simplified": "崔然竣",
+    "traditional": "崔然竣",
+    "en": "YEONJUN",
+    "group": "TXT"
+  },
+  {
+    "path": "beomgyu_sign_1",
+    "simplified": "崔杋圭",
+    "traditional": "崔杋圭",
+    "en": "BEOMGYU",
+    "group": "TXT"
+  },
+  {
+    "path": "taehyun_sign_1",
+    "simplified": "姜太显",
+    "traditional": "姜太顯",
+    "en": "TAEHYUN",
+    "group": "TXT"
+  },
+  {
+    "path": "hueningkai_sign_1",
+    "simplified": "休宁凯",
+    "traditional": "休寧凱",
+    "en": "HUENING KAI",
+    "group": "TXT"
+  },
+  {
+    "path": "shotaro_sign_1",
+    "simplified": "大崎将太郎",
+    "traditional": "大崎將太郎",
+    "en": "SHOTARO",
+    "group": "riize"
+  },
+  {
+    "path": "eunseok_sign_1",
+    "simplified": "宋恩奭",
+    "traditional": "宋恩奭",
+    "en": "EUNSEOK",
+    "group": "riize"
+  },
+  {
+    "path": "sungchan_sign_1",
+    "simplified": "郑成灿",
+    "traditional": "鄭成燦",
+    "en": "SUNGCHAN",
+    "group": "riize"
+  },
+  {
+    "path": "wonbin_sign_1",
+    "simplified": "朴元彬",
+    "traditional": "朴元彬",
+    "en": "WONBIN",
+    "group": "riize"
+  },
+  {
+    "path": "sohee_sign_1",
+    "simplified": "李炤熙",
+    "traditional": "李炤熙",
+    "en": "SOHEE",
+    "group": "riize"
+  },
+  {
+    "path": "anton_sign_1",
+    "simplified": "李灿荣",
+    "traditional": "李燦榮",
+    "en": "ANTON",
+    "group": "riize"
   }
 ]
