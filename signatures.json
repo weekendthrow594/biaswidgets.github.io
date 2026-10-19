@@ -334,5 +334,103 @@
     "traditional": "李燦榮",
     "en": "ANTON",
     "group": "riize"
+  },
+  {
+    "path": "yeji_sign_1",
+    "simplified": "黄礼志",
+    "traditional": "黃禮志",
+    "en": "YEJI",
+    "group": "itzy"
+  },
+  {
+    "path": "lia_sign_1",
+    "simplified": "崔智秀",
+    "traditional": "崔智秀",
+    "en": "LIA",
+    "group": "itzy"
+  },
+  {
+    "path": "ryujin_sign_1",
+    "simplified": "申留真",
+    "traditional": "申留眞",
+    "en": "RYUJIN",
+    "group": "itzy"
+  },
+  {
+    "path": "chaeryeong_sign_1",
+    "simplified": "李彩领",
+    "traditional": "李彩領",
+    "en": "CHAERYEONG",
+    "group": "itzy"
+  },
+  {
+    "path": "yuna_sign_1",
+    "simplified": "申有娜",
+    "traditional": "申有娜",
+    "en": "YUNA",
+    "group": "itzy"
+  },
+  {
+    "path": "nayeon_sign_1",
+    "simplified": "林娜琏",
+    "traditional": "林娜璉",
+    "en": "NAYEON",
+    "group": "twice"
+  },
+  {
+    "path": "jeongyeon_sign_1",
+    "simplified": "俞定延",
+    "traditional": "俞定延",
+    "en": "JEONGYEON",
+    "group": "twice"
+  },
+  {
+    "path": "momo_sign_1",
+    "simplified": "平井桃",
+    "traditional": "平井桃",
+    "en": "MOMO",
+    "group": "twice"
+  },
+  {
+    "path": "sana_sign_1",
+    "simplified": "凑崎纱夏",
+    "traditional": "湊崎紗夏",
+    "en": "SANA",
+    "group": "twice"
+  },
+  {
+    "path": "jihyo_sign_1",
+    "simplified": "朴志效",
+    "traditional": "朴志效",
+    "en": "JIHYO",
+    "group": "twice"
+  },
+  {
+    "path": "mina_sign_1",
+    "simplified": "名井南",
+    "traditional": "名井南",
+    "en": "MINA",
+    "group": "twice"
+  },
+  {
+    "path": "dahyun_sign_1",
+    "simplified": "金多贤",
+    "traditional": "金多賢",
+    "en": "DAHYUN",
+    "group": "twice"
+  },
+  {
+    "path": "chaeyoung_sign_1",
+    "simplified": "孙彩瑛",
+    "traditional": "孫彩瑛",
+    "en": "CHAEYOUNG",
+    "group": "twice"
+  },
+  {
+    "path": "tzuyu_sign_1",
+    "simplified": "周子瑜",
+    "traditional": "周子瑜",
+    "en": "TZUYU",
+    "group": "twice"
   }
 ]
