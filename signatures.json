@@ -3,126 +3,126 @@
     "path": "karina_sign_1",
     "simplified": "柳智敏",
     "traditional": "劉知珉",
-    "en": "karina",
+    "en": "KARINA",
     "group": "aespa"
   },
   {
     "path": "giselle_sign_1",
     "simplified": "吉赛尔",
     "traditional": "吉賽爾",
-    "en": "Giselle",
+    "en": "GISELLE",
     "group": "aespa"
   },
   {
     "path": "winter_sign_1",
     "simplified": "金冬天",
     "traditional": "金冬天",
-    "en": "winter",
+    "en": "WINTER",
     "group": "aespa"
   },
   {
     "path": "ningning_sign_1",
     "simplified": "宁艺卓",
     "traditional": "寧藝卓",
-    "en": "ningning",
+    "en": "NINGNING",
     "group": "aespa"
   },
   {
     "path": "gaeul_sign_1",
     "simplified": "金秋天",
     "traditional": "金秋天",
-    "en": "Gaeul",
+    "en": "GAEUL",
     "group": "ive"
   },
   {
     "path": "leeseo_sign_1",
     "simplified": "李贤瑞",
     "traditional": "李賢瑞",
-    "en": "Leeseo",
+    "en": "LEESEO",
     "group": "ive"
   },
   {
     "path": "liz_sign_1",
     "simplified": "金志垣",
     "traditional": "金志垣",
-    "en": "liz",
+    "en": "LIZ",
     "group": "ive"
   },
   {
     "path": "rei_sign_1",
     "simplified": "直井怜",
     "traditional": "直井怜",
-    "en": "rei",
+    "en": "REI",
     "group": "ive"
   },
   {
     "path": "wonyoung_sign_1",
     "simplified": "张员瑛",
     "traditional": "張員瑛",
-    "en": "Wonyoung",
+    "en": "WONYOUNG",
     "group": "ive"
   },
   {
     "path": "wonyoung_sign_2",
     "simplified": "张员瑛",
     "traditional": "張員瑛",
-    "en": "Wonyoung",
+    "en": "WONYOUNG",
     "group": "ive"
   },
   {
     "path": "yujin_sign_1",
     "simplified": "安俞真",
     "traditional": "安兪真",
-    "en": "yujin",
+    "en": "YUJIN",
     "group": "ive"
   },
   {
     "path": "yujin_sign_2",
     "simplified": "安俞真",
     "traditional": "安兪真",
-    "en": "yujin",
+    "en": "YUJIN",
     "group": "ive"
   },
   {
     "path": "chaewon_sign_1",
     "simplified": "金采源",
     "traditional": "金采源",
-    "en": "Chaewon",
+    "en": "CHAEWON",
     "group": "LESSERAFIM"
   },
   {
     "path": "chaewon_sign_2",
     "simplified": "金采源",
     "traditional": "金采源",
-    "en": "Chaewon",
+    "en": "CHAEWON",
     "group": "LESSERAFIM"
   },
   {
     "path": "eunchae_sign_1",
     "simplified": "洪恩彩",
     "traditional": "洪恩採",
-    "en": "Eunchae",
+    "en": "EUNCHAE",
     "group": "LESSERAFIM"
   },
   {
     "path": "kazuha_sign_1",
     "simplified": "中村一叶",
     "traditional": "中村一葉",
-    "en": "Kazuha",
+    "en": "KAZUHA",
     "group": "LESSERAFIM"
   },
   {
     "path": "sakura_sign_1",
     "simplified": "宫胁咲良",
     "traditional": "宮脇咲良",
-    "en": "Sakura",
+    "en": "SAKURA",
     "group": "LESSERAFIM"
   },
   {
     "path": "yunjin_sign_1",
     "simplified": "许允真",
     "traditional": "許允眞",
-    "en": "Yunjin",
+    "en": "YUNJIN",
     "group": "LESSERAFIM"
   },
   {
@@ -336,41 +336,6 @@
     "group": "riize"
   },
   {
-    "path": "yeji_sign_1",
-    "simplified": "黄礼志",
-    "traditional": "黃禮志",
-    "en": "YEJI",
-    "group": "itzy"
-  },
-  {
-    "path": "lia_sign_1",
-    "simplified": "崔智秀",
-    "traditional": "崔智秀",
-    "en": "LIA",
-    "group": "itzy"
-  },
-  {
-    "path": "ryujin_sign_1",
-    "simplified": "申留真",
-    "traditional": "申留眞",
-    "en": "RYUJIN",
-    "group": "itzy"
-  },
-  {
-    "path": "chaeryeong_sign_1",
-    "simplified": "李彩领",
-    "traditional": "李彩領",
-    "en": "CHAERYEONG",
-    "group": "itzy"
-  },
-  {
-    "path": "yuna_sign_1",
-    "simplified": "申有娜",
-    "traditional": "申有娜",
-    "en": "YUNA",
-    "group": "itzy"
-  },
-  {
     "path": "nayeon_sign_1",
     "simplified": "林娜琏",
     "traditional": "林娜璉",
@@ -432,5 +397,152 @@
     "traditional": "周子瑜",
     "en": "TZUYU",
     "group": "twice"
+  },
+  {
+    "path": "yeji_sign_1",
+    "simplified": "黄礼志",
+    "traditional": "黃禮志",
+    "en": "YEJI",
+    "group": "itzy"
+  },
+  {
+    "path": "lia_sign_1",
+    "simplified": "崔智秀",
+    "traditional": "崔智秀",
+    "en": "LIA",
+    "group": "itzy"
+  },
+  {
+    "path": "ryujin_sign_1",
+    "simplified": "申留真",
+    "traditional": "申留眞",
+    "en": "RYUJIN",
+    "group": "itzy"
+  },
+  {
+    "path": "chaeryeong_sign_1",
+    "simplified": "李彩领",
+    "traditional": "李彩領",
+    "en": "CHAERYEONG",
+    "group": "itzy"
+  },
+  {
+    "path": "yuna_sign_1",
+    "simplified": "申有娜",
+    "traditional": "申有娜",
+    "en": "YUNA",
+    "group": "itzy"
+  },
+  {
+    "path": "carmen_sign_1",
+    "simplified": "卡门",
+    "traditional": "卡門",
+    "en": "CARMEN",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "choijiwoo_sign_1",
+    "simplified": "崔志宇",
+    "traditional": "崔志宇",
+    "en": "JIWOO",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "yuha_sign_1",
+    "simplified": "柳河览",
+    "traditional": "柳河覽",
+    "en": "YUHA",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "stella_sign_1",
+    "simplified": "金多绚",
+    "traditional": "金多絢",
+    "en": "STELLA",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "juun_sign_1",
+    "simplified": "金主恩",
+    "traditional": "金主恩",
+    "en": "JUUN",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "ana_sign_1",
+    "simplified": "卢惟娜",
+    "traditional": "盧惟娜",
+    "en": "A-NA",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "ian_sign_1",
+    "simplified": "郑以安",
+    "traditional": "鄭以安",
+    "en": "IAN",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "yeon_sign_1",
+    "simplified": "金奈延",
+    "traditional": "金奈延",
+    "en": "YE-ON",
+    "group": "Hearts2Hearts"
+  },
+  {
+    "path": "hongjoong_sign_1",
+    "simplified": "金弘中",
+    "traditional": "金弘中",
+    "en": "HONGJOONG",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "seonghwa_sign_1",
+    "simplified": "朴星化",
+    "traditional": "朴星化",
+    "en": "SEONGHWA",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "yunho_sign_1",
+    "simplified": "丁润浩",
+    "traditional": "丁潤浩",
+    "en": "YUNHO",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "yeosang_sign_1",
+    "simplified": "姜吕尚",
+    "traditional": "姜呂尚",
+    "en": "YEOSANG",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "san_sign_1",
+    "simplified": "崔伞",
+    "traditional": "崔傘",
+    "en": "SAN",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "mingi_sign_1",
+    "simplified": "宋旼琦",
+    "traditional": "宋旼琦",
+    "en": "MINGI",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "wooyoung_sign_1",
+    "simplified": "郑友荣",
+    "traditional": "鄭友榮",
+    "en": "WOOYOUNG",
+    "group": "ATEEZ"
+  },
+  {
+    "path": "jongho_sign_1",
+    "simplified": "崔钟浩",
+    "traditional": "崔鍾浩",
+    "en": "JONGHO",
+    "group": "ATEEZ"
   }
 ]
