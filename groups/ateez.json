@@ -7,6 +7,58 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_397",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "don't think that you're late. rather than thinking about not having seen my past, rather than having those unnecessary feelings/regrets, i hope you'll feel more excitement about what's ahead.",
+              "subtitle": "SEONGHWA"
+            },
+            "zh-Hans": {
+              "title": "「不要觉得自己来晚了。与其想着没能见证我的过去，为此感到不必要的遗憾，我更希望你能对未来即将发生的事情充满期待。」",
+              "subtitle": "- 朴星化"
+            },
+            "zh-Hant": {
+              "title": "「不要覺得自己來晚了。與其想著沒能見證我的過去，為此感到不必要的遺憾，我更希望你能對未來即將發生的事情充滿期待。」",
+              "subtitle": "- 朴星化"
+            },
+            "es": {
+              "title": "No pienses que has llegado tarde. En lugar de lamentarte por no haber sido parte de mi pasado y sentir esos remordimientos innecesarios, espero que sientas más ilusión por todo lo que nos espera.",
+              "subtitle": "SEONGHWA"
+            },
+            "pt": {
+              "title": "Não pense que você chegou tarde. Em vez de ficar pensando que não acompanhou meu passado e sentir esses arrependimentos desnecessários, espero que você sinta mais entusiasmo por tudo o que está por vir.",
+              "subtitle": "SEONGHWA"
+            }
+          }
+        },
+        {
+          "id": "q_398",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Sometimes, the people around us bring us down more than we realize. Learning to choose yourself is very important.",
+              "subtitle": "MINGI"
+            },
+            "zh-Hans": {
+              "title": "「有时候，我们身边的人对自己的打击，比我们意识到的还要多。学会选择自己，是很重要的。」",
+              "subtitle": "- 宋旼琦"
+            },
+            "zh-Hant": {
+              "title": "「有時候，我們身邊的人對自己的打擊，比我們意識到的還要多。學會選擇自己，是很重要的。」",
+              "subtitle": "- 宋旼琦"
+            },
+            "es": {
+              "title": "A veces, las personas que nos rodean nos afectan más de lo que nos damos cuenta. Aprender a elegirte a ti mismo es muy importante.",
+              "subtitle": "MINGI"
+            },
+            "pt": {
+              "title": "Às vezes, as pessoas ao nosso redor nos abalam mais do que percebemos. Aprender a escolher a si mesmo é muito importante.",
+              "subtitle": "MINGI"
+            }
+          }
+        },
+        {
           "id": "q_133",
           "emojiPath": "",
           "i18n": {
@@ -153,6 +205,32 @@
       "id": "ateez_seonghwa",
       "name": "SEONGHWA",
       "quotes": [
+        {
+          "id": "q_397",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "don't think that you're late. rather than thinking about not having seen my past, rather than having those unnecessary feelings/regrets, i hope you'll feel more excitement about what's ahead.",
+              "subtitle": "SEONGHWA"
+            },
+            "zh-Hans": {
+              "title": "「不要觉得自己来晚了。与其想着没能见证我的过去，为此感到不必要的遗憾，我更希望你能对未来即将发生的事情充满期待。」",
+              "subtitle": "- 朴星化"
+            },
+            "zh-Hant": {
+              "title": "「不要覺得自己來晚了。與其想著沒能見證我的過去，為此感到不必要的遺憾，我更希望你能對未來即將發生的事情充滿期待。」",
+              "subtitle": "- 朴星化"
+            },
+            "es": {
+              "title": "No pienses que has llegado tarde. En lugar de lamentarte por no haber sido parte de mi pasado y sentir esos remordimientos innecesarios, espero que sientas más ilusión por todo lo que nos espera.",
+              "subtitle": "SEONGHWA"
+            },
+            "pt": {
+              "title": "Não pense que você chegou tarde. Em vez de ficar pensando que não acompanhou meu passado e sentir esses arrependimentos desnecessários, espero que você sinta mais entusiasmo por tudo o que está por vir.",
+              "subtitle": "SEONGHWA"
+            }
+          }
+        },
         {
           "id": "q_160",
           "emojiPath": "",
@@ -485,6 +563,32 @@
       "id": "ateez_mingi",
       "name": "MINGI",
       "quotes": [
+        {
+          "id": "q_398",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Sometimes, the people around us bring us down more than we realize. Learning to choose yourself is very important.",
+              "subtitle": "MINGI"
+            },
+            "zh-Hans": {
+              "title": "「有时候，我们身边的人对自己的打击，比我们意识到的还要多。学会选择自己，是很重要的。」",
+              "subtitle": "- 宋旼琦"
+            },
+            "zh-Hant": {
+              "title": "「有時候，我們身邊的人對自己的打擊，比我們意識到的還要多。學會選擇自己，是很重要的。」",
+              "subtitle": "- 宋旼琦"
+            },
+            "es": {
+              "title": "A veces, las personas que nos rodean nos afectan más de lo que nos damos cuenta. Aprender a elegirte a ti mismo es muy importante.",
+              "subtitle": "MINGI"
+            },
+            "pt": {
+              "title": "Às vezes, as pessoas ao nosso redor nos abalam mais do que percebemos. Aprender a escolher a si mesmo é muito importante.",
+              "subtitle": "MINGI"
+            }
+          }
+        },
         {
           "id": "q_130",
           "emojiPath": "",
