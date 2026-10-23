@@ -40,11 +40,25 @@
           "beginDateStr": "2026/07/28",
           "endDateStr": "2026/10/25",
           "i18n": {
+            "en": {
+              "title": "MUSIC EXPO IN TAIPEI"
+            },
             "zh-Hans": {
               "title": "MUSIC EXPO IN TAIPEI"
             },
             "zh-Hant": {
               "title": "MUSIC EXPO IN TAIPEI"
+            }
+          }
+        },
+        {
+          "id": "c_010",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/5",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
             }
           }
         }
@@ -103,6 +117,32 @@
             "pt": {
               "title": "Não siga tendências. Expresse aquilo que realmente ressoa com você, de um jeito que seja só seu.",
               "subtitle": "HONGJOONG"
+            }
+          }
+        },
+        {
+          "id": "q_390",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Being able to run with my fans and spread kindness on my birthday every year is something truly meaningful to me.",
+              "subtitle": "HONGJOONG | 10/06/26 HONGJOONG 6K Virtual Run"
+            },
+            "zh-Hans": {
+              "title": "「每年生日都能和粉丝们一起奔跑、分享善意，对我来说也是一件意义重大的事。」",
+              "subtitle": "- 金弘中 2026.10.06《HONGJOONG 6K Virtual Run》"
+            },
+            "zh-Hant": {
+              "title": "「每年生日都能和粉絲們一起奔跑、分享善意，對我來說也是一件意義重大的事。」",
+              "subtitle": "- 金弘中 2026.10.06《HONGJOONG 6K Virtual Run》"
+            },
+            "es": {
+              "title": "Poder correr junto a mis fans y compartir bondad en mi cumpleaños cada año también es algo muy significativo para mí.",
+              "subtitle": "HONGJOONG | 06/10/26 HONGJOONG 6K Virtual Run"
+            },
+            "pt": {
+              "title": "Poder correr junto com meus fãs e espalhar gentileza no meu aniversário todos os anos também é algo muito significativo para mim.",
+              "subtitle": "HONGJOONG | 06/10/26 HONGJOONG 6K Virtual Run"
             }
           }
         }
@@ -192,7 +232,19 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_011",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/6",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "ateez_yunho",
@@ -221,6 +273,110 @@
             "pt": {
               "title": "Podemos ser a fonte de energia positiva um do outro.",
               "subtitle": "YUNHO, Singles interview"
+            }
+          }
+        },
+        {
+          "id": "q_386",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Rather than letting pressure overwhelm me, I'd rather turn it into motivation and focus on the new experiences and opportunities ahead.",
+              "subtitle": "YUNHO | 10/13/26 Men's Folio Vietnam"
+            },
+            "zh-Hans": {
+              "title": "「与其让压力压垮自己，我更愿意把它转化为动力，专注于即将到来的新体验与机会。」",
+              "subtitle": "- 丁润浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "zh-Hant": {
+              "title": "「與其讓壓力壓垮自己，我更願意把它轉化為動力，專注於即將到來的新體驗與機會。」",
+              "subtitle": "- 丁潤浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "es": {
+              "title": "En lugar de dejar que la presión me abrume, prefiero convertirla en motivación y centrarme en las nuevas experiencias y oportunidades que están por venir.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            },
+            "pt": {
+              "title": "Em vez de deixar a pressão me sobrecarregar, prefiro transformá-la em motivação e me concentrar nas novas experiências e oportunidades que estão por vir.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            }
+          }
+        },
+        {
+          "id": "q_388",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Those simple little hobbies and quiet moments alone help me recharge and take better care of myself.",
+              "subtitle": "YUNHO | 10/13/26 Men's Folio Vietnam"
+            },
+            "zh-Hans": {
+              "title": "「那些简单的小爱好和安静的独处时光，让我重新获得能量，也让我能够更好地照顾自己。」",
+              "subtitle": "- 丁润浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "zh-Hant": {
+              "title": "「那些簡單的小愛好和安靜的獨處時光，讓我重新獲得能量，也讓我能夠更好地照顧自己。」",
+              "subtitle": "- 丁潤浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "es": {
+              "title": "Esos pequeños pasatiempos y momentos tranquilos a solas me ayudan a recargar energías y a cuidarme mejor.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            },
+            "pt": {
+              "title": "Esses pequenos hobbies e momentos tranquilos sozinho me ajudam a recarregar as energias e a cuidar melhor de mim mesmo.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            }
+          }
+        },
+        {
+          "id": "q_389",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I want to keep moving forward, challenge myself, and show everyone more sides of who I am.",
+              "subtitle": "YUNHO | 10/13/26 Men's Folio Vietnam"
+            },
+            "zh-Hans": {
+              "title": "「我希望继续向前迈进、挑战自己，让大家看到更多不同的自己。」",
+              "subtitle": "- 丁润浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "zh-Hant": {
+              "title": "「我希望繼續向前邁進、挑戰自己，讓大家看到更多不同的自己。」",
+              "subtitle": "- 丁潤浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "es": {
+              "title": "Quiero seguir avanzando, desafiarme a mí mismo y mostrarles a todos más facetas de mí.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            },
+            "pt": {
+              "title": "Quero continuar seguindo em frente, me desafiando e mostrando a todos mais lados de quem eu sou.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            }
+          }
+        },
+        {
+          "id": "q_387",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Right here, right now, being YUNHO of ATEEZ and sharing this moment with ATINY is my golden moment.",
+              "subtitle": "YUNHO | 10/13/26 Men's Folio Vietnam"
+            },
+            "zh-Hans": {
+              "title": "「此时此刻，能够作为 ATEEZ 的 YUNHO 与 ATINY 在一起，就是我的黄金时刻。」",
+              "subtitle": "- 丁润浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "zh-Hant": {
+              "title": "「此時此刻，能夠作為 ATEEZ 的 YUNHO 與 ATINY 在一起，就是我的黃金時刻。」",
+              "subtitle": "- 丁潤浩 2026.10.13《Men's Folio Vietnam》"
+            },
+            "es": {
+              "title": "Aquí y ahora, poder estar con ATINY como YUNHO de ATEEZ es mi momento dorado.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
+            },
+            "pt": {
+              "title": "Aqui e agora, poder estar com o ATINY como YUNHO do ATEEZ é o meu momento de ouro.",
+              "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
             }
           }
         }
@@ -295,6 +451,32 @@
               "subtitle": "- 崔傘《GQ》"
             }
           }
+        },
+        {
+          "id": "q_391",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I only have this one tattoo, and I've never regretted it.",
+              "subtitle": "SAN | 10/13/26 YouTube Salon Drip"
+            },
+            "zh-Hans": {
+              "title": "「我身上只有这一个纹身，从来没有后悔过。」",
+              "subtitle": "- 崔伞 2026.10.13 YouTube《Salon Drip》"
+            },
+            "zh-Hant": {
+              "title": "「我身上只有這一個紋身，從來沒有後悔過。」",
+              "subtitle": "- 崔傘 2026.10.13 YouTube《Salon Drip》"
+            },
+            "es": {
+              "title": "Solo tengo este tatuaje y nunca me he arrepentido de hacérmelo.",
+              "subtitle": "SAN | 13/10/26 YouTube Salon Drip"
+            },
+            "pt": {
+              "title": "Só tenho essa tatuagem e nunca me arrependi de tê-la feito.",
+              "subtitle": "SAN | 13/10/26 YouTube Salon Drip"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -322,7 +504,19 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_011",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/6",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "ateez_wooyoung",
@@ -347,7 +541,19 @@
           }
         }
       ],
-      "countdowns": []
+      "countdowns": [
+        {
+          "id": "c_011",
+          "emojiPath": "",
+          "beginDateStr": "2026/09/19",
+          "endDateStr": "2026/12/6",
+          "i18n": {
+            "zh-Hant": {
+              "title": "AAA"
+            }
+          }
+        }
+      ]
     },
     {
       "id": "ateez_jongho",
