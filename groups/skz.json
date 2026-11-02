@@ -7,94 +7,158 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_325",
+          "id": "q_435",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "As long as we're together, nothing is impossible.",
+              "subtitle": "BANG CHAN | 10/06/26 · ELLE"
+            },
             "zh-Hans": {
-              "title": "「Just enjoy\n如果没有得到想要的结果也没关系，还会有下一次\n享受这个过程就好」",
-              "subtitle": "- 方灿 Teen Vogue, 2022"
+              "title": "「只要我们在一起，就没有什么是不可能的。」",
+              "subtitle": "- 方灿 2026.10.06 · ELLE"
             },
             "zh-Hant": {
-              "title": "「Just enjoy\n如果沒有得到想要的結果也沒關係，還會有下一次\n享受這個過程就好」",
-              "subtitle": "- 方燦 Teen Vogue, 2022"
+              "title": "「只要我們在一起，就沒有什麼是不可能的。」",
+              "subtitle": "- 方燦 2026.10.06 · ELLE"
+            },
+            "es": {
+              "title": "Mientras estemos juntos, nada es imposible.",
+              "subtitle": "BANG CHAN | 06/10/26 · ELLE"
+            },
+            "pt": {
+              "title": "Enquanto estivermos juntos, nada é impossível.",
+              "subtitle": "BANG CHAN | 06/10/26 · ELLE"
             }
           }
         },
         {
-          "id": "q_324",
+          "id": "q_439",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I think everyone deserves to be loved. Whether it’s friendship, family love, or romantic love… everyone needs love. It keeps us going, and it keeps us alive.",
-              "subtitle": "Bang Chan"
+              "title": "Even if I think I can't do it, I'll still give it a try.",
+              "subtitle": "HAN | 10/26/26 · DAZED Korea"
             },
             "zh-Hans": {
-              "title": "「我觉得每个人都值得被爱。不管是友情、亲情，还是爱情\n每个人都需要爱，它让我们继续走下去，也让我们活着」",
-              "subtitle": "- 方灿 Chan’s Room Ep.17"
+              "title": "「即使觉得可能做不到，我还是会先尝试看看。」",
+              "subtitle": "- 韩知城 2026.10.26 · DAZED Korea"
             },
             "zh-Hant": {
-              "title": "「我覺得每個人都值得被愛。不管是友情、親情，還是愛情\n每個人都需要愛，它讓我們繼續走下去，也讓我們活著」",
-              "subtitle": "- 方燦 Chan’s Room Ep.17"
+              "title": "「即使覺得可能做不到，我還是會先嘗試看看。」",
+              "subtitle": "- 韓知城 2026.10.26 · DAZED Korea"
             },
             "es": {
-              "title": "Creo que todos merecen ser amados. Ya sea amistad, amor familiar o amor romántico… todos necesitamos amor. Nos ayuda a seguir adelante y también nos mantiene vivos.",
-              "subtitle": "Bang Chan"
+              "title": "Aunque crea que no puedo hacerlo, lo intentaré de todos modos.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
             },
             "pt": {
-              "title": "Acho que todo mundo merece ser amado. Seja amizade, amor familiar ou amor romântico… todo mundo precisa de amor. É isso que nos faz continuar e também nos mantém vivos.",
-              "subtitle": "Bang Chan"
+              "title": "Mesmo achando que não consigo, vou tentar assim mesmo.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
             }
           }
         },
         {
-          "id": "q_316",
+          "id": "q_437",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "When things get hard, you can always lean on me.",
-              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
+              "title": "Don't be afraid or keep worrying. Just take a brave step forward.",
+              "subtitle": "LEE KNOW | 10/27/26 · W Korea"
             },
             "zh-Hans": {
-              "title": "「辛苦的时候，随时都可以依靠我」",
-              "subtitle": "- 李龙馥 26.9.20 《RUN IT JAPAN》Osaka D2"
+              "title": "「不要害怕，也不要一直不安，先勇敢地向前冲吧。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korera"
             },
             "zh-Hant": {
-              "title": "「辛苦的時候，隨時都可以依靠我」",
-              "subtitle": "- 李龍馥 26.9.20 《RUN IT JAPAN》Osaka D2"
+              "title": "「不要害怕，也不要一直不安，先勇敢地向前衝吧。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korera"
             },
             "es": {
-              "title": "Cuando las cosas se pongan difíciles, siempre puedes apoyarte en mí.",
-              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
+              "title": "No tengas miedo ni te preocupes tanto. Atrévete a dar el primer paso.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
             },
             "pt": {
-              "title": "Quando as coisas ficarem difíceis, você sempre pode contar comigo.",
-              "subtitle": "FELIX | 09/20/26 Osaka D2 Ending Ment"
+              "title": "Não tenha medo nem fique tão ansioso. Dê o primeiro passo com coragem.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
             }
           }
         },
         {
-          "id": "q_317",
+          "id": "q_436",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I’ve waited and endured so many things… and through it all, I kept trying to find happiness.",
-              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
+              "title": "Consistent effort never lets you down. Even small steps will take you far someday.",
+              "subtitle": "LEE KNOW | 10/27/26 · W Korea"
             },
             "zh-Hans": {
-              "title": "「我等待并熬过了那么多事情……而在这一切之中，我努力寻找着幸福」",
-              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+              "title": "「持续努力是不会背叛你的。即使每次只累积一点点，总有一天也能走到很远的地方。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korea"
             },
             "zh-Hant": {
-              "title": "「我等待並熬過了那麼多事情……而在這一切之中，我努力尋找著幸福」",
-              "subtitle": "- 金昇玟 26.9.22 Birthday Live"
+              "title": "「持續努力是不會背叛你的。即使每次只累積一點點，總有一天也能走到很遠的地方。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korea"
             },
             "es": {
-              "title": "He esperado y soportado tantas cosas… y, en medio de todo ello, seguí intentando encontrar la felicidad.",
-              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
+              "title": "El esfuerzo constante nunca te falla. Incluso los pequeños pasos te llevarán lejos algún día.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
             },
             "pt": {
-              "title": "Esperei e suportei tantas coisas… e, em meio a tudo isso, continuei tentando encontrar a felicidade.",
-              "subtitle": "SEUNGMIN | 09/22/26 Birthday Live"
+              "title": "O esforço contínuo nunca te decepciona. Mesmo pequenos passos vão te levar longe um dia.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
+            }
+          }
+        },
+        {
+          "id": "q_438",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if the results aren't great, I still want to keep creating because it's what I truly want to do.",
+              "subtitle": "HYUNJIN | 10/23/26 · Esquire Korea"
+            },
+            "zh-Hans": {
+              "title": "「即使最后没有做出很好的成果，我还是想继续创作，因为这本来就是我想做的事。」",
+              "subtitle": "- 黄铉辰 2026.10.23 · Esquire Korea ·"
+            },
+            "zh-Hant": {
+              "title": "「即使最後沒有做出很好的成果，我還是想繼續創作，因為這本來就是我想做的事。」",
+              "subtitle": "- 黃鉉辰 2026.10.23 · Esquire Korea ·"
+            },
+            "es": {
+              "title": "Aunque el resultado no sea bueno, quiero seguir creando porque es lo que realmente deseo hacer.",
+              "subtitle": "HYUNJIN | 23/10/26 · Esquire Korea"
+            },
+            "pt": {
+              "title": "Mesmo que o resultado não seja bom, quero continuar criando porque é isso que realmente desejo fazer.",
+              "subtitle": "HYUNJIN | 23/10/26 · Esquire Korea"
+            }
+          }
+        },
+        {
+          "id": "q_440",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Emotions can't be fully defined by familiar words. Even within happiness and sadness, there are feelings without names.",
+              "subtitle": "HAN | 10/26/26 · DAZED Korea"
+            },
+            "zh-Hans": {
+              "title": "「情感不是用我们熟悉的词语就能完全定义的。即使在幸福与悲伤之中，也有许多还没有名字的情绪。」",
+              "subtitle": "- 韩知城 2026.10.26 · DAZED Korea"
+            },
+            "zh-Hant": {
+              "title": "「情感不是用我們熟悉的詞語就能完全定義的。即使在幸福與悲傷之中，也有許多還沒有名字的情緒。」",
+              "subtitle": "- 韓知城 2026.10.26 · DAZED Korea"
+            },
+            "es": {
+              "title": "Las emociones no se definen solo con palabras conocidas. Incluso entre la felicidad y la tristeza, hay sentimientos sin nombre.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
+            },
+            "pt": {
+              "title": "As emoções não cabem nas palavras que conhecemos. Mesmo entre a felicidade e a tristeza, há sentimentos sem nome.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
             }
           }
         }
@@ -138,35 +202,13 @@
       "name": "Bang Chan",
       "quotes": [
         {
-          "id": "q_137",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "You have scars, and so do I. Don't regret them or hide because of them. Every scar has its own meaning.",
-              "subtitle": "Bang Chan"
-            },
-            "zh-Hans": {
-              "title": "「你有伤疤，我也有伤疤。不必后悔，也不用因此压抑自己，每一道伤疤都有它存在的意义。」",
-              "subtitle": "- 方灿"
-            },
-            "zh-Hant": {
-              "title": "「你有傷疤，我也有傷疤，不用為此後悔，也不需要因此而壓抑，每個傷疤都有它的意義。」",
-              "subtitle": "- 方燦"
-            },
-            "es": {
-              "title": "Tú tienes cicatrices, y yo también. No te arrepientas ni las ocultes; cada cicatriz tiene su propio significado.",
-              "subtitle": "Bang Chan"
-            },
-            "pt": {
-              "title": "Você tem cicatrizes, e eu também. Não se arrependa nem esconda quem você é. Toda cicatriz tem um significado.",
-              "subtitle": "Bang Chan"
-            }
-          }
-        },
-        {
           "id": "q_325",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Just enjoy\nIt's okay if you don't get the result you wanted. There will always be another chance\nJust enjoy the process.",
+              "subtitle": "BANG CHAN | 2022 Teen Vogue"
+            },
             "zh-Hans": {
               "title": "「Just enjoy\n如果没有得到想要的结果也没关系，还会有下一次\n享受这个过程就好」",
               "subtitle": "- 方灿 Teen Vogue, 2022"
@@ -174,6 +216,40 @@
             "zh-Hant": {
               "title": "「Just enjoy\n如果沒有得到想要的結果也沒關係，還會有下一次\n享受這個過程就好」",
               "subtitle": "- 方燦 Teen Vogue, 2022"
+            },
+            "es": {
+              "title": "Simplemente disfruta\nNo pasa nada si no obtienes el resultado que querías. Siempre habrá otra oportunidad\nSolo disfruta del proceso",
+              "subtitle": "BANG CHAN | 2022 Teen Vogue"
+            },
+            "pt": {
+              "title": "Apenas aproveite\nTudo bem se você não conseguir o resultado que queria. Sempre haverá outra oportunidade\nApenas aproveite o processo",
+              "subtitle": "BANG CHAN | 2022 Teen Vogue"
+            }
+          }
+        },
+        {
+          "id": "q_435",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "As long as we're together, nothing is impossible.",
+              "subtitle": "BANG CHAN | 10/06/26 · ELLE"
+            },
+            "zh-Hans": {
+              "title": "「只要我们在一起，就没有什么是不可能的。」",
+              "subtitle": "- 方灿 2026.10.06 · ELLE"
+            },
+            "zh-Hant": {
+              "title": "「只要我們在一起，就沒有什麼是不可能的。」",
+              "subtitle": "- 方燦 2026.10.06 · ELLE"
+            },
+            "es": {
+              "title": "Mientras estemos juntos, nada es imposible.",
+              "subtitle": "BANG CHAN | 06/10/26 · ELLE"
+            },
+            "pt": {
+              "title": "Enquanto estivermos juntos, nada é impossível.",
+              "subtitle": "BANG CHAN | 06/10/26 · ELLE"
             }
           }
         },
@@ -182,24 +258,50 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I think everyone deserves to be loved. Whether it’s friendship, family love, or romantic love… everyone needs love. It keeps us going, and it keeps us alive.",
-              "subtitle": "Bang Chan"
+              "title": "I think everyone deserves to be loved, whether it's friendship, family love, or romantic love.\nEveryone needs love. It keeps us going and keeps us alive.",
+              "subtitle": "BANG CHAN | Chan’s Room Ep.17"
             },
             "zh-Hans": {
-              "title": "「我觉得每个人都值得被爱。不管是友情、亲情，还是爱情\n每个人都需要爱，它让我们继续走下去，也让我们活着」",
+              "title": "「我觉得每个人都值得被爱，不管是友情、亲情，还是爱情。\n每个人都需要爱，它让我们继续走下去，也让我们活着」",
               "subtitle": "- 方灿 Chan’s Room Ep.17"
             },
             "zh-Hant": {
-              "title": "「我覺得每個人都值得被愛。不管是友情、親情，還是愛情\n每個人都需要愛，它讓我們繼續走下去，也讓我們活著」",
+              "title": "「我覺得每個人都值得被愛，不管是友情、親情，還是愛情。\n每個人都需要愛，它讓我們繼續走下去，也讓我們活著」",
               "subtitle": "- 方燦 Chan’s Room Ep.17"
             },
             "es": {
-              "title": "Creo que todos merecen ser amados. Ya sea amistad, amor familiar o amor romántico… todos necesitamos amor. Nos ayuda a seguir adelante y también nos mantiene vivos.",
-              "subtitle": "Bang Chan"
+              "title": "Creo que todos merecen ser amados, ya sea a través de la amistad, el amor familiar o el amor romántico.\nTodos necesitamos amor. Nos ayuda a seguir adelante y nos mantiene vivos.",
+              "subtitle": "BANG CHAN | Chan’s Room Ep.17"
             },
             "pt": {
-              "title": "Acho que todo mundo merece ser amado. Seja amizade, amor familiar ou amor romântico… todo mundo precisa de amor. É isso que nos faz continuar e também nos mantém vivos.",
-              "subtitle": "Bang Chan"
+              "title": "Acho que todo mundo merece ser amado, seja por meio da amizade, do amor familiar ou do amor romântico.\nTodos nós precisamos de amor. Ele nos faz seguir em frente e nos mantém vivos.",
+              "subtitle": "BANG CHAN | Chan’s Room Ep.17"
+            }
+          }
+        },
+        {
+          "id": "q_137",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You have scars, and so do I. You don't have to regret them or suppress yourself because of them. Every scar has its own meaning.",
+              "subtitle": "BANG CHAN"
+            },
+            "zh-Hans": {
+              "title": "「你有伤疤，我也有伤疤，不用为此后悔，也不需要因此而压抑，每个伤疤都有它的意义」",
+              "subtitle": "- 方灿"
+            },
+            "zh-Hant": {
+              "title": "「你有傷疤，我也有傷疤，不用為此後悔，也不需要因此而壓抑，每個傷疤都有它的意義」",
+              "subtitle": "- 方燦"
+            },
+            "es": {
+              "title": "Tú tienes cicatrices, y yo también. No tienes que arrepentirte de ellas ni reprimirte por tenerlas. Cada cicatriz tiene su propio significado.",
+              "subtitle": "BANG CHAN"
+            },
+            "pt": {
+              "title": "Você tem cicatrizes, e eu também. Não precisa se arrepender delas nem se reprimir por causa delas. Cada cicatriz tem seu próprio significado.",
+              "subtitle": "BANG CHAN"
             }
           }
         }
@@ -215,8 +317,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Live with ease in this complicated world.",
-              "subtitle": "Lee Know"
+              "title": "Live with ease in a complicated world.",
+              "subtitle": "LEE KNOW"
             },
             "zh-Hans": {
               "title": "「在复杂的世界里，轻松地生活。」",
@@ -228,11 +330,11 @@
             },
             "es": {
               "title": "Vive con tranquilidad en un mundo complicado.",
-              "subtitle": "Lee Know"
+              "subtitle": "LEE KNOW"
             },
             "pt": {
               "title": "Viva com leveza em um mundo complicado.",
-              "subtitle": "Lee Know"
+              "subtitle": "LEE KNOW"
             }
           }
         },
@@ -241,8 +343,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "If we are diamonds, then our fans are the light. Diamonds shine because of the light.",
-              "subtitle": "Lee Know"
+              "title": "If we're diamonds, our fans are the light. Diamonds can only shine when there's light.",
+              "subtitle": "LEE KNOW"
             },
             "zh-Hans": {
               "title": "「如果我们是钻石，那我们的粉丝就是光。因为有了光，钻石才会闪耀。」",
@@ -253,12 +355,12 @@
               "subtitle": "- 李旻浩"
             },
             "es": {
-              "title": "Si nosotros somos diamantes, entonces nuestros fans son la luz. Los diamantes brillan gracias a la luz.",
-              "subtitle": "Lee Know"
+              "title": "Si somos diamantes, nuestros fans son la luz. Porque los diamantes solo brillan con luz.",
+              "subtitle": "LEE KNOW"
             },
             "pt": {
-              "title": "Se nós somos diamantes, então nossos fãs são a luz. É a luz que faz um diamante brilhar.",
-              "subtitle": "Lee Know"
+              "title": "Se somos diamantes, nossos fãs são a luz. Pois diamantes só brilham quando há luz.",
+              "subtitle": "LEE KNOW"
             }
           }
         },
@@ -267,8 +369,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "「180°C. Put it in the air fryer for 20 minutes.」",
-              "subtitle": "Lee Know"
+              "title": "180°C, in the air fryer for 20 minutes.",
+              "subtitle": "LEE KNOW"
             },
             "zh-Hans": {
               "title": "「180度，放进空气炸锅里炸20分钟。」",
@@ -279,12 +381,12 @@
               "subtitle": "- 李旻浩"
             },
             "es": {
-              "title": "「A 180 °C, mételo en la freidora de aire durante 20 minutos.」",
-              "subtitle": "Lee Know"
+              "title": "A 180 °C, en la freidora de aire durante 20 minutos.",
+              "subtitle": "LEE KNOW"
             },
             "pt": {
-              "title": "「A 180 °C, coloque na air fryer por 20 minutos.」",
-              "subtitle": "Lee Know"
+              "title": "A 180 °C, na air fryer por 20 minutos.",
+              "subtitle": "LEE KNOW"
             }
           }
         },
@@ -293,8 +395,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even if life crumbles into powder, don't give up. Mix it well—you might end up making delicious cookies.",
-              "subtitle": "Lee Know"
+              "title": "Don't give up when life crumbles into powder. Mix it up, and you can make delicious cookies!",
+              "subtitle": "LEE KNOW"
             },
             "zh-Hans": {
               "title": "「就算人生变成了粉末，也不要放弃。搅一搅，说不定还能做成美味的曲奇饼。」",
@@ -305,12 +407,38 @@
               "subtitle": "- 李旻浩"
             },
             "es": {
-              "title": "Aunque la vida se haga polvo, no te rindas. Mézclala bien y quizá termines haciendo unas deliciosas galletas.",
-              "subtitle": "Lee Know"
+              "title": "No te rindas si la vida se hace polvo. ¡Mézclalo bien y podrás hacer unas galletas deliciosas!",
+              "subtitle": "LEE KNOW"
             },
             "pt": {
-              "title": "Mesmo que a vida vire pó, não desista. Misture tudo e talvez você faça deliciosos biscoitos.",
-              "subtitle": "Lee Know"
+              "title": "Não desista se a vida virar pó. Misture tudo e faça biscoitos deliciosos!",
+              "subtitle": "LEE KNOW"
+            }
+          }
+        },
+        {
+          "id": "q_437",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't be afraid or keep worrying. Just take a brave step forward.",
+              "subtitle": "LEE KNOW | 10/27/26 · W Korea"
+            },
+            "zh-Hans": {
+              "title": "「不要害怕，也不要一直不安，先勇敢地向前冲吧。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korera"
+            },
+            "zh-Hant": {
+              "title": "「不要害怕，也不要一直不安，先勇敢地向前衝吧。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korera"
+            },
+            "es": {
+              "title": "No tengas miedo ni te preocupes tanto. Atrévete a dar el primer paso.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
+            },
+            "pt": {
+              "title": "Não tenha medo nem fique tão ansioso. Dê o primeiro passo com coragem.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
             }
           }
         },
@@ -318,6 +446,10 @@
           "id": "q_149",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "You did well. You're beautiful. Be happy.",
+              "subtitle": "LEE KNOW"
+            },
             "zh-Hans": {
               "title": "「做得很好，很漂亮，要幸福。」",
               "subtitle": "- 李旻浩"
@@ -325,6 +457,40 @@
             "zh-Hant": {
               "title": "「做得好，很漂亮，要幸福。」",
               "subtitle": "- 李旻浩"
+            },
+            "es": {
+              "title": "Lo hiciste bien. Eres hermoso. Sé feliz.",
+              "subtitle": "LEE KNOW"
+            },
+            "pt": {
+              "title": "Você foi muito bem. É lindo. Seja feliz.",
+              "subtitle": "LEE KNOW"
+            }
+          }
+        },
+        {
+          "id": "q_436",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Consistent effort never lets you down. Even small steps will take you far someday.",
+              "subtitle": "LEE KNOW | 10/27/26 · W Korea"
+            },
+            "zh-Hans": {
+              "title": "「持续努力是不会背叛你的。即使每次只累积一点点，总有一天也能走到很远的地方。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korea"
+            },
+            "zh-Hant": {
+              "title": "「持續努力是不會背叛你的。即使每次只累積一點點，總有一天也能走到很遠的地方。」",
+              "subtitle": "- 李旻浩 2026.10.27 · W Korea"
+            },
+            "es": {
+              "title": "El esfuerzo constante nunca te falla. Incluso los pequeños pasos te llevarán lejos algún día.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
+            },
+            "pt": {
+              "title": "O esforço contínuo nunca te decepciona. Mesmo pequenos passos vão te levar longe um dia.",
+              "subtitle": "LEE KNOW | 27/10/26 · W Korea"
             }
           }
         }
@@ -340,24 +506,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
+              "title": "Rest when it's time to rest, and work hard when it's time to work hard!",
+              "subtitle": "CHANGBIN | 07/31/26 STAYweeK"
             },
             "zh-Hans": {
-              "title": "「该休息时就休息，该努力时再努力。」",
-              "subtitle": "- 徐彰彬"
+              "title": "「该休息时就休息，该努力时再努力！」",
+              "subtitle": "- 徐彰彬 2026.7.31 STAYweeK"
             },
             "zh-Hant": {
-              "title": "「該休息時就休息，該努力時再努力」",
-              "subtitle": "- 徐彰彬"
+              "title": "「該休息時就休息，該努力時再努力！」",
+              "subtitle": "- 徐彰彬 2026.7.31 STAYweeK"
             },
             "es": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
+              "title": "¡Descansa cuando toque descansar y esfuérzate cuando toque esforzarte!",
+              "subtitle": "CHANGBIN | 31/07/26 STAYweeK"
             },
             "pt": {
-              "title": "Rest when it's time to rest, and work hard when it's time to work hard.",
-              "subtitle": "Changbin"
+              "title": "Descanse quando for hora de descansar e se esforce quando for hora de se esforçar!",
+              "subtitle": "CHANGBIN | 31/07/26 STAYweeK"
             }
           }
         },
@@ -366,24 +532,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t let other people’s words control you. Live your life with a mind of your own.",
-              "subtitle": "Changbin"
+              "title": "Don't let others' words sway you. \nLive your life on your own terms.",
+              "subtitle": "CHANGBIN | 10/20/20《SKZ-TALKER》EP.33"
             },
             "zh-Hans": {
-              "title": "「不被他人的言语左右，有主见地过好自己的人生。」",
-              "subtitle": "- 徐彰彬"
+              "title": "「不被他人的言语左右，有主见地过好自己的人生」",
+              "subtitle": "- 徐彰彬 2020.10.20《SKZ-TALKER》EP.33"
             },
             "zh-Hant": {
-              "title": "「不被他人的言語左右，有主見地過好自己的人生。」",
-              "subtitle": "- 徐彰彬"
+              "title": "「不被他人的言語左右，有主見地過好自己的人生」",
+              "subtitle": "- 徐彰彬 2020.10.20《SKZ-TALKER》EP.33"
             },
             "es": {
-              "title": "No dejes que las palabras de los demás te controlen. Vive tu vida con criterio propio.",
-              "subtitle": "Changbin"
+              "title": "No te dejes influir por las palabras de otros. Vive tu vida a tu manera.",
+              "subtitle": "CHANGBIN | 20/10/20《SKZ-TALKER》EP.33"
             },
             "pt": {
-              "title": "Não deixe que as palavras dos outros controlem você. Viva a sua vida com suas próprias convicções.",
-              "subtitle": "Changbin"
+              "title": "Não deixe que as palavras dos outros te influenciem. Viva sua vida do seu jeito.",
+              "subtitle": "CHANGBIN | 20/10/20《SKZ-TALKER》EP.33"
             }
           }
         }
@@ -399,8 +565,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "How could anyone be good at everything the first time? It's okay even if you feel embarrassed.",
-              "subtitle": "Hyunjin"
+              "title": "How can you be good at everything on your first try? It's okay to feel embarrassed.",
+              "subtitle": "HYUNJIN"
             },
             "zh-Hans": {
               "title": "「第一次做，怎么可能什么都做好？就算觉得丢脸也没关系。」",
@@ -411,12 +577,38 @@
               "subtitle": "- 黃鉉辰"
             },
             "es": {
-              "title": "¿Cómo vas a hacerlo todo bien la primera vez? Está bien si te da vergüenza.",
-              "subtitle": "Hyunjin"
+              "title": "¿Cómo vas a hacerlo todo bien a la primera? No pasa nada si te da vergüenza.",
+              "subtitle": "HYUNJIN"
             },
             "pt": {
-              "title": "Como alguém poderia fazer tudo bem na primeira vez? Não tem problema sentir vergonha.",
-              "subtitle": "Hyunjin"
+              "title": "Como acertar em tudo na primeira tentativa? Tudo bem sentir vergonha.",
+              "subtitle": "HYUNJIN"
+            }
+          }
+        },
+        {
+          "id": "q_438",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if the results aren't great, I still want to keep creating because it's what I truly want to do.",
+              "subtitle": "HYUNJIN | 10/23/26 · Esquire Korea"
+            },
+            "zh-Hans": {
+              "title": "「即使最后没有做出很好的成果，我还是想继续创作，因为这本来就是我想做的事。」",
+              "subtitle": "- 黄铉辰 2026.10.23 · Esquire Korea ·"
+            },
+            "zh-Hant": {
+              "title": "「即使最後沒有做出很好的成果，我還是想繼續創作，因為這本來就是我想做的事。」",
+              "subtitle": "- 黃鉉辰 2026.10.23 · Esquire Korea ·"
+            },
+            "es": {
+              "title": "Aunque el resultado no sea bueno, quiero seguir creando porque es lo que realmente deseo hacer.",
+              "subtitle": "HYUNJIN | 23/10/26 · Esquire Korea"
+            },
+            "pt": {
+              "title": "Mesmo que o resultado não seja bom, quero continuar criando porque é isso que realmente desejo fazer.",
+              "subtitle": "HYUNJIN | 23/10/26 · Esquire Korea"
             }
           }
         }
@@ -432,8 +624,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "If stars are falling tonight,\nmaybe I fell asleep early\nto find you in your dreams\nand become a star STAY can see for a while.",
-              "subtitle": "HAN"
+              "title": "If stars fall tonight,\nperhaps I fell asleep early\nto visit your dreams,\nbriefly becoming a star STAY can see.",
+              "subtitle": "HAN | Bubble"
             },
             "zh-Hans": {
               "title": "「如果今晚有星星洒落下来，\n那大概是我早早睡着了，\n为了走进你的梦里，\n短暂变成一颗让 STAY 看得见的星星。」",
@@ -442,6 +634,14 @@
             "zh-Hant": {
               "title": "「如果今晚有星星灑落下來，\n那大概是我早早睡著了，\n為了走進你的夢裡，\n短暫變成一顆讓 STAY 看得見的星星。」",
               "subtitle": "- 韓知城 BUBBLE"
+            },
+            "es": {
+              "title": "Si caen estrellas esta noche,\nquizá me dormí temprano\npara entrar en tus sueños\ny ser por un instante una estrella que STAY pueda ver.",
+              "subtitle": "HAN | Bubble"
+            },
+            "pt": {
+              "title": "Se estrelas caírem esta noite,\ntalvez eu tenha dormido cedo\npara entrar nos seus sonhos\ne virar por um instante uma estrela que STAY possa ver.",
+              "subtitle": "HAN | Bubble"
             }
           }
         },
@@ -451,23 +651,23 @@
           "i18n": {
             "en": {
               "title": "Don't cry. Find happiness in the little things in everyday life.",
-              "subtitle": "HAN"
+              "subtitle": "HAN | 2 Kids Room 2025"
             },
             "zh-Hans": {
-              "title": "「不要哭，从生活中那些微小的事情里寻找幸福吧。」",
-              "subtitle": "- 韩知城"
+              "title": "「不要哭，从日常琐碎的小事中寻找幸福吧。」",
+              "subtitle": "- 韩知城《2 Kids Room 2025》"
             },
             "zh-Hant": {
               "title": "「不要哭，從日常瑣碎的小事中尋找幸福吧。」",
-              "subtitle": "- 韓知城"
+              "subtitle": "- 韓知城《2 Kids Room 2025》"
             },
             "es": {
               "title": "No llores. Encuentra la felicidad en las pequeñas cosas de la vida cotidiana.",
-              "subtitle": "HAN"
+              "subtitle": "HAN | 2 Kids Room 2025"
             },
             "pt": {
-              "title": "Não chore. Encontre felicidade nas pequenas coisas do dia a dia.",
-              "subtitle": "HAN"
+              "title": "Não chore. Encontre a felicidade nas pequenas coisas do dia a dia.",
+              "subtitle": "HAN | 2 Kids Room 2025"
             }
           }
         },
@@ -476,7 +676,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Every day is a chance to change, as long as you don't give up.",
+              "title": "Every day is a chance for change, as long as you don't give up.",
               "subtitle": "HAN"
             },
             "zh-Hans": {
@@ -492,8 +692,34 @@
               "subtitle": "HAN"
             },
             "pt": {
-              "title": "Todo dia é uma oportunidade para mudar, desde que você não desista.",
+              "title": "Cada dia é uma oportunidade de mudar, desde que você não desista.",
               "subtitle": "HAN"
+            }
+          }
+        },
+        {
+          "id": "q_439",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if I think I can't do it, I'll still give it a try.",
+              "subtitle": "HAN | 10/26/26 · DAZED Korea"
+            },
+            "zh-Hans": {
+              "title": "「即使觉得可能做不到，我还是会先尝试看看。」",
+              "subtitle": "- 韩知城 2026.10.26 · DAZED Korea"
+            },
+            "zh-Hant": {
+              "title": "「即使覺得可能做不到，我還是會先嘗試看看。」",
+              "subtitle": "- 韓知城 2026.10.26 · DAZED Korea"
+            },
+            "es": {
+              "title": "Aunque crea que no puedo hacerlo, lo intentaré de todos modos.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
+            },
+            "pt": {
+              "title": "Mesmo achando que não consigo, vou tentar assim mesmo.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
             }
           }
         },
@@ -502,11 +728,11 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Thank you for being more than just someone who passed by. Thank you for staying and becoming someone truly precious to me.",
+              "title": "Thank you for not just passing me by, but choosing to stay and become someone precious to me.",
               "subtitle": "HAN"
             },
             "zh-Hans": {
-              "title": "「谢谢你没有只是与我擦肩而过，而是选择停留，成为我珍贵的人。」",
+              "title": "「谢谢你不只是与我擦肩而过，而是选择停留，成为我珍贵的人。」",
               "subtitle": "- 韩知城"
             },
             "zh-Hant": {
@@ -514,12 +740,38 @@
               "subtitle": "- 韓知城"
             },
             "es": {
-              "title": "Gracias por no ser solo alguien que pasó por mi vida. Gracias por quedarte y convertirte en alguien muy valioso para mí.",
+              "title": "Gracias por no pasar de largo, sino por elegir quedarte y convertirte en alguien muy especial para mí.",
               "subtitle": "HAN"
             },
             "pt": {
-              "title": "Obrigado por não ter sido apenas alguém que passou pela minha vida. Obrigado por ficar e se tornar alguém muito precioso para mim.",
+              "title": "Obrigado por não apenas passar por mim, mas por escolher ficar e se tornar alguém precioso para mim.",
               "subtitle": "HAN"
+            }
+          }
+        },
+        {
+          "id": "q_440",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Emotions can't be fully defined by familiar words. Even within happiness and sadness, there are feelings without names.",
+              "subtitle": "HAN | 10/26/26 · DAZED Korea"
+            },
+            "zh-Hans": {
+              "title": "「情感不是用我们熟悉的词语就能完全定义的。即使在幸福与悲伤之中，也有许多还没有名字的情绪。」",
+              "subtitle": "- 韩知城 2026.10.26 · DAZED Korea"
+            },
+            "zh-Hant": {
+              "title": "「情感不是用我們熟悉的詞語就能完全定義的。即使在幸福與悲傷之中，也有許多還沒有名字的情緒。」",
+              "subtitle": "- 韓知城 2026.10.26 · DAZED Korea"
+            },
+            "es": {
+              "title": "Las emociones no se definen solo con palabras conocidas. Incluso entre la felicidad y la tristeza, hay sentimientos sin nombre.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
+            },
+            "pt": {
+              "title": "As emoções não cabem nas palavras que conhecemos. Mesmo entre a felicidade e a tristeza, há sentimentos sem nome.",
+              "subtitle": "HAN | 26/10/26 · DAZED Korea"
             }
           }
         }
