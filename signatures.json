@@ -544,5 +544,194 @@
     "traditional": "崔鍾浩",
     "en": "JONGHO",
     "group": "ATEEZ"
+  },
+  {
+    "path": "bangchan_sign_1",
+    "simplified": "方灿",
+    "traditional": "方燦",
+    "en": "BANG CHAN",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "leeknow_sign_1",
+    "simplified": "李旻浩",
+    "traditional": "李旻浩",
+    "en": "LEE KNOW",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "changbin_sign_1",
+    "simplified": "徐彰彬",
+    "traditional": "徐彰彬",
+    "en": "CHANGBIN",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "hyunjin_sign_1",
+    "simplified": "黄铉辰",
+    "traditional": "黃鉉辰",
+    "en": "HYUNJIN",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "han_sign_1",
+    "simplified": "韩知城",
+    "traditional": "韓知城",
+    "en": "HAN",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "felix_sign_1",
+    "simplified": "李龙馥",
+    "traditional": "李龍馥",
+    "en": "FELIX",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "seungmin_sign_1",
+    "simplified": "金昇玟",
+    "traditional": "金昇玟",
+    "en": "SEUNGMIN",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "in_sign_1",
+    "simplified": "梁精寅",
+    "traditional": "梁精寅",
+    "en": "I.N",
+    "group": "Stray Kids"
+  },
+  {
+    "path": "coups_sign_1",
+    "simplified": "崔胜喆",
+    "traditional": "崔勝喆",
+    "en": "S.COUPS",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "jeonghan_sign_1",
+    "simplified": "尹净汉",
+    "traditional": "尹淨漢",
+    "en": "JEONGHAN",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "joshua_sign_1",
+    "simplified": "洪知秀",
+    "traditional": "洪知秀",
+    "en": "JOSHUA",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "jun_sign_1",
+    "simplified": "文俊辉",
+    "traditional": "文俊輝",
+    "en": "JUN",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "hoshi_sign_1",
+    "simplified": "权顺荣",
+    "traditional": "權順榮",
+    "en": "HOSHI",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "wonwoo_sign_1",
+    "simplified": "全圆佑",
+    "traditional": "全圓佑",
+    "en": "WONWOO",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "woozi_sign_1",
+    "simplified": "李知勋",
+    "traditional": "李知勳",
+    "en": "WOOZI",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "the8_sign_1",
+    "simplified": "徐明浩",
+    "traditional": "徐明浩",
+    "en": "THE 8",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "mingyu_sign_1",
+    "simplified": "金珉奎",
+    "traditional": "金珉奎",
+    "en": "MINGYU",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "dk_sign_1",
+    "simplified": "李硕珉",
+    "traditional": "李碩珉",
+    "en": "DK",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "seungkwan_sign_1",
+    "simplified": "夫胜宽",
+    "traditional": "夫勝寬",
+    "en": "SEUNGKWAN",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "vernon_sign_1",
+    "simplified": "崔瀚率",
+    "traditional": "崔瀚率",
+    "en": "VERNON",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "dino_sign_1",
+    "simplified": "李灿",
+    "traditional": "李燦",
+    "en": "DINO",
+    "group": "SEVENTEEN"
+  },
+  {
+    "path": "sungho_sign_1",
+    "simplified": "朴成淏",
+    "traditional": "朴成淏",
+    "en": "SUNGHO",
+    "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "riwoo_sign_1",
+    "simplified": "李常赫",
+    "traditional": "李常赫",
+    "en": "RIWOO",
+    "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "jaehyun_sign_1",
+    "simplified": "明宰铉",
+    "traditional": "明宰鉉",
+    "en": "JAEHYUN",
+    "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "taesan_sign_1",
+    "simplified": "汉东旼",
+    "traditional": "漢東旼",
+    "en": "TAESAN",
+    "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "leehan_sign_1",
+    "simplified": "金桐儇",
+    "traditional": "金桐儇",
+    "en": "LEEHAN",
+    "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "woonhak_sign_1",
+    "simplified": "金云鹤",
+    "traditional": "金雲鶴",
+    "en": "WOONHAK",
+    "group": "BOYNEXTDOOR"
   }
 ]
