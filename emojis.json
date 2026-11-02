@@ -328,5 +328,17 @@
       "TRIPLES_header_23",
       "TRIPLES_header_24"
     ]
+  },
+  {
+    "id": "gfriend",
+    "name": "GFRIEND",
+    "header": [
+      "GFRIEND_header_1",
+      "GFRIEND_header_2",
+      "GFRIEND_header_3",
+      "GFRIEND_header_4",
+      "GFRIEND_header_5",
+      "GFRIEND_header_6"
+    ]
   }
 ]
