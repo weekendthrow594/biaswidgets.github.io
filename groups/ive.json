@@ -7,44 +7,132 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_260",
+          "id": "q_442",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Even on busy days, make sure to take some time to rest!",
+              "subtitle": "WONYOUNG | 10/20/26 · Melon"
+            },
             "zh-Hans": {
-              "title": "「首先从好好过好今天开始吧。\n只要一直好好过好每一天，时间就会过得很快呢」",
-              "subtitle": "- 金志垣 26.09.21 Bubble"
+              "title": "「即使是忙碌的日子，也一定要留点时间好好休息！」",
+              "subtitle": "- 张元英 2026.10.20 · Melon"
             },
             "zh-Hant": {
-              "title": "「首先從好好過好今天開始吧。\n只要一直好好過好每一天，時間就會過得很快呢」",
-              "subtitle": "- 金志垣 26.09.21 Bubble"
+              "title": "「即使是忙碌的日子，也一定要留點時間好好休息！」",
+              "subtitle": "- 張員瑛 2026.10.20 · Melon"
+            },
+            "es": {
+              "title": "¡Incluso en los días ocupados, tómate un tiempo para descansar!",
+              "subtitle": "WONYOUNG | 20/10/26 · Melon"
+            },
+            "pt": {
+              "title": "Mesmo nos dias corridos, reserve um tempo para descansar!",
+              "subtitle": "WONYOUNG | 20/10/26 · Melon"
             }
           }
         },
         {
-          "id": "q_311",
+          "id": "q_444",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I was nervous trying it for the first time, but it was a joyful and meaningful experience.\nI hope to keep growing with the confidence I gained.",
+              "subtitle": "REI | 10/19/26 · STARNEWS"
+            },
             "zh-Hans": {
-              "title": "「偶尔不展现完美的样子也没关系，因为我们都是人。\n我想告诉你：仅仅是你本来的样子，就已经是值得被爱的人」",
-              "subtitle": "- 直井怜 26.02.25《Cosmopolitan Korea》"
+              "title": "「虽然第一次尝试时会感到紧张，但那仍然是一段快乐又有意义的经历。\n我希望带着从中获得的自信，继续成长。」",
+              "subtitle": "- 直井怜 2026.10.19 · STARNEWS"
             },
             "zh-Hant": {
-              "title": "「偶爾不展現完美的樣子也沒關係，因為我們都是人。\n我想告訴你：僅僅是你本來的樣子，就已經是值得被愛的人」",
-              "subtitle": "- 直井怜 26.02.25《Cosmopolitan Korea》"
+              "title": "「雖然第一次嘗試時會感到緊張，但那仍然是一段快樂又有意義的經歷。\n我希望帶著從中獲得的自信，繼續成長。」",
+              "subtitle": "- 直井怜 2026.10.19 · STARNEWS"
+            },
+            "es": {
+              "title": "Aunque estaba nerviosa al intentarlo por primera vez, fue una experiencia feliz y valiosa.\nEspero seguir creciendo con la confianza que gané.",
+              "subtitle": "REI | 19/10/26 · STARNEWS"
+            },
+            "pt": {
+              "title": "Fiquei nervosa ao tentar pela primeira vez, mas foi uma experiência feliz e significativa.\nEspero continuar crescendo com a confiança que ganhei.",
+              "subtitle": "REI | 19/10/26 · STARNEWS"
             }
           }
         },
         {
-          "id": "q_313",
+          "id": "q_441",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "A little encouragement can give someone courage.\nWe can all be heroes for one another.",
+              "subtitle": "WONYOUNG | 10/19/26 · Dispatch / STARNEWS"
+            },
             "zh-Hans": {
-              "title": "「我会以过去的经验为基础，展现更加成长的样子」",
-              "subtitle": "- 李瑞 26.09.22《Inkigayo Live in Tokyo》"
+              "title": "「一句小小的鼓励，也可能成为另一个人的勇气。\n我们每个人，都能成为彼此的英雄。」",
+              "subtitle": "- 张元英 2026.10.19 · Dispatch / STARNEWS"
             },
             "zh-Hant": {
-              "title": "「我會以過去的經驗為基礎，展現更加成長的樣子」",
-              "subtitle": "- 李瑞 26.09.22《Inkigayo Live in Tokyo》"
+              "title": "「一句小小的鼓勵，也可能成為另一個人的勇氣。\n我們每個人，都能成為彼此的英雄。」",
+              "subtitle": "- 張員瑛 2026.10.19 · Dispatch / STARNEWS"
+            },
+            "es": {
+              "title": "Un poco de ánimo puede darle valor a alguien.\nTodos podemos ser héroes los unos para los otros.",
+              "subtitle": "WONYOUNG | 19/10/26 · Dispatch / STARNEWS"
+            },
+            "pt": {
+              "title": "Um pequeno incentivo pode dar coragem a alguém.\nTodos podemos ser heróis uns para os outros.",
+              "subtitle": "WONYOUNG | 19/10/26 · Dispatch / STARNEWS"
+            }
+          }
+        },
+        {
+          "id": "q_443",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When we inspire each other positively, we can create change together.",
+              "subtitle": "YUJIN | 10/19/26 · STARNEWS"
+            },
+            "zh-Hans": {
+              "title": "「当我们彼此带来正面的影响，就能一起创造新的改变。」",
+              "subtitle": "- 安宥真 2026.10.19 · STARNEWS"
+            },
+            "zh-Hant": {
+              "title": "「當我們彼此帶來正面的影響，就能一起創造新的改變。」",
+              "subtitle": "- 安宥真 2026.10.19 · STARNEWS"
+            },
+            "es": {
+              "title": "Cuando nos influimos positivamente, podemos crear cambios juntos.",
+              "subtitle": "YUJIN | 19/10/26 · STARNEWS"
+            },
+            "pt": {
+              "title": "Quando influenciamos uns aos outros positivamente, podemos criar mudanças juntos.",
+              "subtitle": "YUJIN | 19/10/26 · STARNEWS"
+            }
+          }
+        },
+        {
+          "id": "q_445",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Music is truly powerful.\nI hope to bring a little happiness to DIVE's everyday life, so I kept practicing hard today.",
+              "subtitle": "REI | 10/20/26 · Berriz Artist"
+            },
+            "zh-Hans": {
+              "title": "「音乐的力量真的很大。\n希望自己也能成为 DIVE 日常生活中小小的幸福，所以今天也继续努力练习了。」",
+              "subtitle": "- 直井怜 2026.10.20 · Berriz Artist"
+            },
+            "zh-Hant": {
+              "title": "「音樂的力量真的很大。\n希望自己也能成為 DIVE 日常生活中小小的幸福，所以今天也繼續努力練習了。」",
+              "subtitle": "- 直井怜 2026.10.20 · Berriz Artist"
+            },
+            "es": {
+              "title": "La música tiene un poder enorme.\nQuiero dar un poco de felicidad a DIVE cada día, así que hoy seguí practicando mucho.",
+              "subtitle": "REI | 20/10/26 · Berriz Artist"
+            },
+            "pt": {
+              "title": "A música tem um poder enorme.\nQuero trazer um pouco de felicidade ao dia a dia dos DIVEs, por isso continuei treinando bastante hoje.",
+              "subtitle": "REI | 20/10/26 · Berriz Artist"
             }
           }
         }
@@ -155,7 +243,7 @@
               "subtitle": "- 安宥真"
             },
             "zh-Hant": {
-              "title": "「就算有點不順利也沒關係，世界不會因此而崩塌。」",
+              "title": "「就算有點不順利也沒關係，世界不會因此而崩塌」",
               "subtitle": "- 安俞真"
             }
           }
@@ -185,6 +273,32 @@
             "zh-Hant": {
               "title": "「現在這樣的我就很好。」",
               "subtitle": "- 安俞真"
+            }
+          }
+        },
+        {
+          "id": "q_443",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "When we inspire each other positively, we can create change together.",
+              "subtitle": "YUJIN | 10/19/26 · STARNEWS"
+            },
+            "zh-Hans": {
+              "title": "「当我们彼此带来正面的影响，就能一起创造新的改变。」",
+              "subtitle": "- 安宥真 2026.10.19 · STARNEWS"
+            },
+            "zh-Hant": {
+              "title": "「當我們彼此帶來正面的影響，就能一起創造新的改變。」",
+              "subtitle": "- 安宥真 2026.10.19 · STARNEWS"
+            },
+            "es": {
+              "title": "Cuando nos influimos positivamente, podemos crear cambios juntos.",
+              "subtitle": "YUJIN | 19/10/26 · STARNEWS"
+            },
+            "pt": {
+              "title": "Quando influenciamos uns aos outros positivamente, podemos criar mudanças juntos.",
+              "subtitle": "YUJIN | 19/10/26 · STARNEWS"
             }
           }
         }
@@ -250,6 +364,58 @@
               "subtitle": "- 直井怜"
             }
           }
+        },
+        {
+          "id": "q_444",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I was nervous trying it for the first time, but it was a joyful and meaningful experience.\nI hope to keep growing with the confidence I gained.",
+              "subtitle": "REI | 10/19/26 · STARNEWS"
+            },
+            "zh-Hans": {
+              "title": "「虽然第一次尝试时会感到紧张，但那仍然是一段快乐又有意义的经历。\n我希望带着从中获得的自信，继续成长。」",
+              "subtitle": "- 直井怜 2026.10.19 · STARNEWS"
+            },
+            "zh-Hant": {
+              "title": "「雖然第一次嘗試時會感到緊張，但那仍然是一段快樂又有意義的經歷。\n我希望帶著從中獲得的自信，繼續成長。」",
+              "subtitle": "- 直井怜 2026.10.19 · STARNEWS"
+            },
+            "es": {
+              "title": "Aunque estaba nerviosa al intentarlo por primera vez, fue una experiencia feliz y valiosa.\nEspero seguir creciendo con la confianza que gané.",
+              "subtitle": "REI | 19/10/26 · STARNEWS"
+            },
+            "pt": {
+              "title": "Fiquei nervosa ao tentar pela primeira vez, mas foi uma experiência feliz e significativa.\nEspero continuar crescendo com a confiança que ganhei.",
+              "subtitle": "REI | 19/10/26 · STARNEWS"
+            }
+          }
+        },
+        {
+          "id": "q_445",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Music is truly powerful.\nI hope to bring a little happiness to DIVE's everyday life, so I kept practicing hard today.",
+              "subtitle": "REI | 10/20/26 · Berriz Artist"
+            },
+            "zh-Hans": {
+              "title": "「音乐的力量真的很大。\n希望自己也能成为 DIVE 日常生活中小小的幸福，所以今天也继续努力练习了。」",
+              "subtitle": "- 直井怜 2026.10.20 · Berriz Artist"
+            },
+            "zh-Hant": {
+              "title": "「音樂的力量真的很大。\n希望自己也能成為 DIVE 日常生活中小小的幸福，所以今天也繼續努力練習了。」",
+              "subtitle": "- 直井怜 2026.10.20 · Berriz Artist"
+            },
+            "es": {
+              "title": "La música tiene un poder enorme.\nQuiero dar un poco de felicidad a DIVE cada día, así que hoy seguí practicando mucho.",
+              "subtitle": "REI | 20/10/26 · Berriz Artist"
+            },
+            "pt": {
+              "title": "A música tem um poder enorme.\nQuero trazer um pouco de felicidade ao dia a dia dos DIVEs, por isso continuei treinando bastante hoje.",
+              "subtitle": "REI | 20/10/26 · Berriz Artist"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -259,28 +425,16 @@
       "name": "WON YOUNG",
       "quotes": [
         {
-          "id": "q_251",
+          "id": "q_249",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "From a narrow perspective, things can seem enormous. But when you take a step back, you’ll realize they’re actually as tiny as a speck of dust.",
-              "subtitle": "WONYOUNG"
-            },
             "zh-Hans": {
-              "title": "「在狭窄的视角里，事情会显得无比巨大；但当你退后一步，就会发现它其实渺小得如同灰尘一般。」",
+              "title": "“嗯，这个世界上就是会有这样的人啊。”\n可是，不是还有更多喜欢我的人吗？那这样就足够了啊。",
               "subtitle": "- 张元英"
             },
             "zh-Hant": {
-              "title": "「在狹窄的視角裡，事情會顯得無比巨大；但當你退後一步，就會發現它其實渺小得如同灰塵一般。」",
+              "title": "“嗯，這個世界上就是會有這樣的人啊。”\n可是，不是還有更多喜歡我的人嗎？那這樣就足夠了啊。",
               "subtitle": "- 張員瑛"
-            },
-            "es": {
-              "title": "Desde una perspectiva limitada, las cosas pueden parecer enormes. Pero cuando das un paso atrás, te das cuenta de que en realidad son tan pequeñas como una mota de polvo.",
-              "subtitle": "WONYOUNG"
-            },
-            "pt": {
-              "title": "De uma perspectiva limitada, as coisas podem parecer enormes. Mas, quando você dá um passo para trás, percebe que, na verdade, são tão pequenas quanto um grão de poeira.",
-              "subtitle": "WONYOUNG"
             }
           }
         },
@@ -311,16 +465,54 @@
           }
         },
         {
-          "id": "q_249",
+          "id": "q_442",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Even on busy days, make sure to take some time to rest!",
+              "subtitle": "WONYOUNG | 10/20/26 · Melon"
+            },
             "zh-Hans": {
-              "title": "“嗯，这个世界上就是会有这样的人啊。”\n可是，不是还有更多喜欢我的人吗？那这样就足够了啊。",
+              "title": "「即使是忙碌的日子，也一定要留点时间好好休息！」",
+              "subtitle": "- 张元英 2026.10.20 · Melon"
+            },
+            "zh-Hant": {
+              "title": "「即使是忙碌的日子，也一定要留點時間好好休息！」",
+              "subtitle": "- 張員瑛 2026.10.20 · Melon"
+            },
+            "es": {
+              "title": "¡Incluso en los días ocupados, tómate un tiempo para descansar!",
+              "subtitle": "WONYOUNG | 20/10/26 · Melon"
+            },
+            "pt": {
+              "title": "Mesmo nos dias corridos, reserve um tempo para descansar!",
+              "subtitle": "WONYOUNG | 20/10/26 · Melon"
+            }
+          }
+        },
+        {
+          "id": "q_251",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "From a narrow perspective, things can seem enormous. But when you take a step back, you’ll realize they’re actually as tiny as a speck of dust.",
+              "subtitle": "WONYOUNG"
+            },
+            "zh-Hans": {
+              "title": "「在狭窄的视角里，事情会显得无比巨大；但当你退后一步，就会发现它其实渺小得如同灰尘一般。」",
               "subtitle": "- 张元英"
             },
             "zh-Hant": {
-              "title": "“嗯，這個世界上就是會有這樣的人啊。”\n可是，不是還有更多喜歡我的人嗎？那這樣就足夠了啊。",
+              "title": "「在狹窄的視角裡，事情會顯得無比巨大；\n但當你退後一步，就會發現它其實渺小得如同灰塵一般。」",
               "subtitle": "- 張員瑛"
+            },
+            "es": {
+              "title": "Desde una perspectiva limitada, las cosas pueden parecer enormes. Pero cuando das un paso atrás, te das cuenta de que en realidad son tan pequeñas como una mota de polvo.",
+              "subtitle": "WONYOUNG"
+            },
+            "pt": {
+              "title": "De uma perspectiva limitada, as coisas podem parecer enormes. Mas, quando você dá um passo para trás, percebe que, na verdade, são tão pequenas quanto um grão de poeira.",
+              "subtitle": "WONYOUNG"
             }
           }
         },
@@ -335,6 +527,32 @@
             "zh-Hant": {
               "title": "「如果感到有些低落，我會把注意力放在仍然留存的那一點積極情緒上，並從其他美好的經歷中獲得繼續前進的力量。」",
               "subtitle": "- 張員瑛"
+            }
+          }
+        },
+        {
+          "id": "q_441",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "A little encouragement can give someone courage.\nWe can all be heroes for one another.",
+              "subtitle": "WONYOUNG | 10/19/26 · Dispatch / STARNEWS"
+            },
+            "zh-Hans": {
+              "title": "「一句小小的鼓励，也可能成为另一个人的勇气。\n我们每个人，都能成为彼此的英雄。」",
+              "subtitle": "- 张元英 2026.10.19 · Dispatch / STARNEWS"
+            },
+            "zh-Hant": {
+              "title": "「一句小小的鼓勵，也可能成為另一個人的勇氣。\n我們每個人，都能成為彼此的英雄。」",
+              "subtitle": "- 張員瑛 2026.10.19 · Dispatch / STARNEWS"
+            },
+            "es": {
+              "title": "Un poco de ánimo puede darle valor a alguien.\nTodos podemos ser héroes los unos para los otros.",
+              "subtitle": "WONYOUNG | 19/10/26 · Dispatch / STARNEWS"
+            },
+            "pt": {
+              "title": "Um pequeno incentivo pode dar coragem a alguém.\nTodos podemos ser heróis uns para os outros.",
+              "subtitle": "WONYOUNG | 19/10/26 · Dispatch / STARNEWS"
             }
           }
         }
