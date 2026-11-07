@@ -7,28 +7,158 @@
       "name": "TODAY",
       "quotes": [
         {
+          "id": "q_463",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "My B-Side is a pretty good mix of contradictions.\nThose contradictions are actually essential pieces of life's puzzle.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "zh-Hans": {
+              "title": "「我的 B-Side，是个还不赖的矛盾体。\n那些看似矛盾的特质，其实都是人生中不可或缺的拼图」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "zh-Hant": {
+              "title": "「我的 B-Side，是個還不賴的矛盾體。\n那些看似矛盾的特質，其實都是人生中不可或缺的拼圖」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "es": {
+              "title": "Mi B-Side es una curiosa mezcla de contradicciones.\nEsas contradicciones son piezas esenciales del rompecabezas de la vida.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "pt": {
+              "title": "Meu B-Side é uma mistura interessante de contradições.\nEssas contradições são peças essenciais do quebra-cabeça da vida.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            }
+          }
+        },
+        {
+          "id": "q_452",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Tears are precious. I want to save mine for a more meaningful moment, when I finally reach the top and cry tears of joy.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "zh-Hans": {
+              "title": "「眼泪是非常珍贵的东西，我想先留着，等到真正站上顶峰、更有意义的时刻，再流下喜悦的泪水。」",
+              "subtitle": "- 金道勋 B-Side of DOHOON"
+            },
+            "zh-Hant": {
+              "title": "「眼淚是非常珍貴的東西，我想先留著，等到真正站上頂峰、更有意義的時刻，再流下喜悅的淚水。」",
+              "subtitle": "- 金道勳 B-Side of DOHOON"
+            },
+            "es": {
+              "title": "«Las lágrimas son valiosas. Quiero guardarlas para cuando llegue a la cima y pueda llorar de alegría en un momento especial».",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "pt": {
+              "title": "“Lágrimas são preciosas. Quero guardá-las para quando chegar ao topo e puder chorar de alegria em um momento especial.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            }
+          }
+        },
+        {
+          "id": "q_457",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“You don't have to be perfect when trying something new.\nWhat matters more is doing it out of joy and passion.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「去挑战一件事，不必非要做到完美；\n比起必须做好，更重要的是因为开心和热爱才去尝试。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「去挑戰一件事，不必非要做到完美；\n比起必須做好，更重要的是因為開心和熱愛才去嘗試。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«No necesitas ser perfecto al intentar algo nuevo.\nLo importante es hacerlo por alegría y pasión».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Você não precisa ser perfeito ao tentar algo novo.\nO importante é fazer por alegria e paixão.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
+        {
+          "id": "q_462",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I'm like a color on a pixel palette, with endless shades of blue.\nDon't define me by one label. I have countless colors yet to reveal.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "zh-Hans": {
+              "title": "「我就像像素调色板里的颜色，同样是蓝也有千万种层次。\n不要用单一标签定义我，我还有无限的色彩等待展开」",
+              "subtitle": "- 韩志薰 B-Side of JIHOON"
+            },
+            "zh-Hant": {
+              "title": "「我就像像素調色板裡的顏色，同樣是藍也有千萬種層次。\n不要用單一標籤定義我，我還有無限的色彩等待展開」",
+              "subtitle": "- 韓志薰 B-Side of JIHOON"
+            },
+            "es": {
+              "title": "Soy como un color en una paleta de píxeles, con mil tonos de azul.\nNo me definas con una sola etiqueta. Aún tengo infinitos colores por mostrar.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "pt": {
+              "title": "Sou como uma cor numa paleta de pixels, com infinitos tons de azul.\nNão me defina por um só rótulo. Ainda tenho inúmeras cores para revelar.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            }
+          }
+        },
+        {
+          "id": "q_448",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Neither tears nor regrets can change the outcome.\nInstead of wasting time standing still, make the most of it.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "zh-Hans": {
+              "title": "「就算哭了也改变不了结果，就算后悔也改变不了结果。\n与其停在原地浪费时间，不如重新抓紧时间」",
+              "subtitle": "- 韩振 B-Side of HANJIN"
+            },
+            "zh-Hant": {
+              "title": "「就算哭了也改變不了結果，就算後悔也改變不了結果。\n與其停在原地浪費時間，不如重新抓緊時間」",
+              "subtitle": "- 韓振 B-Side of HANJIN"
+            },
+            "es": {
+              "title": "«Ni las lágrimas ni los arrepentimientos cambian el resultado.\nEn vez de perder tiempo sin avanzar, aprovéchalo».",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "pt": {
+              "title": "“Nem lágrimas nem arrependimentos mudam o resultado.\nEm vez de perder tempo parado, aproveite-o melhor.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            }
+          }
+        },
+        {
           "id": "q_446",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I want to stay true to myself, stand firm, and follow the path I've chosen.",
-              "subtitle": "SHINYU | B-Side of SHINYU"
+              "title": "“No matter how many twists and turns we take, everything we do always centers around TWS.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
             },
             "zh-Hans": {
-              "title": "「我希望自己能成为不轻易被动摇的人，忠于自己，坚定地走在自己选择的道路上」",
-              "subtitle": "- 申惟 B-Side of SHINYU"
+              "title": "「我们所做的一切，无论怎样兜兜转转，中心始终都是 TWS。」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
             },
             "zh-Hant": {
-              "title": "「我希望自己能成為不輕易被動搖的人，忠於自己，堅定地走在自己選擇的道路上」",
-              "subtitle": "- 申惟 B-Side of SHINYU"
+              "title": "「我們所做的一切，無論怎樣兜兜轉轉，中心始終都是 TWS。」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
             },
             "es": {
-              "title": "Quiero ser fiel a mí mismo, mantenerme firme y seguir el camino que elegí.",
-              "subtitle": "SHINYU | B-Side of SHINYU"
+              "title": "«Por muchas vueltas que demos, todo lo que hacemos siempre gira en torno a TWS».",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
             },
             "pt": {
-              "title": "Quero ser fiel a mim mesmo, manter-me firme e seguir o caminho que escolhi.",
-              "subtitle": "SHINYU | B-Side of SHINYU"
+              "title": "“Por mais voltas que a gente dê, tudo o que fazemos sempre gira em torno do TWS.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
             }
           }
         }
@@ -40,27 +170,105 @@
       "name": "SHINYU",
       "quotes": [
         {
-          "id": "q_446",
+          "id": "q_463",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I want to stay true to myself, stand firm, and follow the path I've chosen.",
+              "title": "My B-Side is a pretty good mix of contradictions.\nThose contradictions are actually essential pieces of life's puzzle.",
               "subtitle": "SHINYU | B-Side of SHINYU"
             },
             "zh-Hans": {
-              "title": "「我希望自己能成为不轻易被动摇的人，忠于自己，坚定地走在自己选择的道路上」",
+              "title": "「我的 B-Side，是个还不赖的矛盾体。\n那些看似矛盾的特质，其实都是人生中不可或缺的拼图」",
               "subtitle": "- 申惟 B-Side of SHINYU"
             },
             "zh-Hant": {
-              "title": "「我希望自己能成為不輕易被動搖的人，忠於自己，堅定地走在自己選擇的道路上」",
+              "title": "「我的 B-Side，是個還不賴的矛盾體。\n那些看似矛盾的特質，其實都是人生中不可或缺的拼圖」",
               "subtitle": "- 申惟 B-Side of SHINYU"
             },
             "es": {
-              "title": "Quiero ser fiel a mí mismo, mantenerme firme y seguir el camino que elegí.",
+              "title": "Mi B-Side es una curiosa mezcla de contradicciones.\nEsas contradicciones son piezas esenciales del rompecabezas de la vida.",
               "subtitle": "SHINYU | B-Side of SHINYU"
             },
             "pt": {
-              "title": "Quero ser fiel a mim mesmo, manter-me firme e seguir o caminho que escolhi.",
+              "title": "Meu B-Side é uma mistura interessante de contradições.\nEssas contradições são peças essenciais do quebra-cabeça da vida.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            }
+          }
+        },
+        {
+          "id": "q_464",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I hope TWS becomes a group that brings back the feeling of youth.\nAnd I want to be someone who helps others find their strength again.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "zh-Hans": {
+              "title": "「希望 TWS 成为唤起青春的团队；\n而我希望能成为一个有能力让别人重新振作起来的人」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "zh-Hant": {
+              "title": "「希望 TWS 成為喚起青春的團隊；\n而我希望能成為一個有能力讓別人重新振作起來的人」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "es": {
+              "title": "Espero que TWS sea un grupo que despierte la juventud.\nY quiero ser alguien que ayude a otros a recuperar sus fuerzas.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "pt": {
+              "title": "Espero que o TWS seja um grupo que desperte a juventude.\nE quero ser alguém que ajude os outros a recuperar suas forças.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            }
+          }
+        },
+        {
+          "id": "q_465",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Give your heart fully, listen quietly, and be there whenever someone needs you.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "zh-Hans": {
+              "title": "「毫无保留付出的真心，以及安安静静地倾听——做那个只要你需要，就会出现的人」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "zh-Hant": {
+              "title": "「毫無保留付出的真心，以及安安靜靜地傾聽——做那個只要你需要，就會出現的人」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "es": {
+              "title": "Entrega tu corazón, escucha en silencio y está presente cuando alguien te necesite.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "pt": {
+              "title": "Entregue seu coração, escute em silêncio e esteja presente quando alguém precisar de você.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            }
+          }
+        },
+        {
+          "id": "q_466",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't lean to either side. Stay true to your heart and move forward calmly and steadily.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "zh-Hans": {
+              "title": "「不偏向任何一边，坚持自己的内心，踏实而从容地往前走。」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "zh-Hant": {
+              "title": "「不偏向任何一邊，堅持自己的內心，踏實而從容地往前走。」",
+              "subtitle": "- 申惟 B-Side of SHINYU"
+            },
+            "es": {
+              "title": "No te inclines hacia ningún lado. Sigue fiel a tu corazón y avanza con calma y firmeza.",
+              "subtitle": "SHINYU | B-Side of SHINYU"
+            },
+            "pt": {
+              "title": "Não tome partido. Siga seu coração e avance com calma e firmeza.",
               "subtitle": "SHINYU | B-Side of SHINYU"
             }
           }
@@ -74,36 +282,8 @@
               "subtitle": "- 申惟"
             },
             "zh-Hant": {
-              "title": "想到\n申邊有42們在，就覺得很\n幸福！",
+              "title": "「想到\n申邊有42們在，就覺得很\n幸福！」",
               "subtitle": "- 申惟"
-            }
-          }
-        },
-        {
-          "id": "q_356",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「今后也一起创造幸福的回忆吧，从1000天到10000天，都一起走下去。」",
-              "subtitle": "- 申惟 2024.07.10 WVS"
-            },
-            "zh-Hant": {
-              "title": "「今後也一起創造幸福的回憶吧，從1000天到10000天，都一起走下去」",
-              "subtitle": "- 申惟 2024.07.10 WVS"
-            }
-          }
-        },
-        {
-          "id": "q_355",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「能和我喜欢的人、也喜欢我的人一起创造回忆，真的是一件非常幸福的事。」",
-              "subtitle": "- 申惟 2024.08.08 WVS"
-            },
-            "zh-Hant": {
-              "title": "「能和我喜歡的人、也喜歡我的人一起創造回憶，真的是一件非常幸福的事」",
-              "subtitle": "- 申惟 2024.08.08 WVS"
             }
           }
         }
@@ -115,6 +295,84 @@
       "name": "DOHOON",
       "quotes": [
         {
+          "id": "q_452",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Tears are precious. I want to save mine for a more meaningful moment, when I finally reach the top and cry tears of joy.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "zh-Hans": {
+              "title": "「眼泪是非常珍贵的东西，我想先留着，等到真正站上顶峰、更有意义的时刻，再流下喜悦的泪水。」",
+              "subtitle": "- 金道勋 B-Side of DOHOON"
+            },
+            "zh-Hant": {
+              "title": "「眼淚是非常珍貴的東西，我想先留著，等到真正站上頂峰、更有意義的時刻，再流下喜悅的淚水。」",
+              "subtitle": "- 金道勳 B-Side of DOHOON"
+            },
+            "es": {
+              "title": "«Las lágrimas son valiosas. Quiero guardarlas para cuando llegue a la cima y pueda llorar de alegría en un momento especial».",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "pt": {
+              "title": "“Lágrimas são preciosas. Quero guardá-las para quando chegar ao topo e puder chorar de alegria em um momento especial.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            }
+          }
+        },
+        {
+          "id": "q_453",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“If I fall apart over something so small, how can I keep going?\nI know I can handle much more than this.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "zh-Hans": {
+              "title": "「要是因为眼前这点小事我就垮掉，那我以后要怎么走下去？\n我的承受能力绝不仅有这么一点。」",
+              "subtitle": "- 金道勋 B-Side of DOHOON"
+            },
+            "zh-Hant": {
+              "title": "「要是因為眼前這點小事我就垮掉，那我以後要怎麼走下去？\n我的承受能力絕不僅有這麼一點。」",
+              "subtitle": "- 金道勳 B-Side of DOHOON"
+            },
+            "es": {
+              "title": "«Si me derrumbo por algo tan pequeño, ¿cómo voy a seguir adelante?\nSé que puedo soportar mucho más que esto».",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "pt": {
+              "title": "“Se eu desmoronar por algo tão pequeno, como vou seguir em frente?\nSei que posso aguentar muito mais do que isso.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            }
+          }
+        },
+        {
+          "id": "q_451",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Comparing myself to others isn't always bad. It helps me grow. I want to surpass the strengths I see in others.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "zh-Hans": {
+              "title": "「拿自己和别人比较并不全是坏事，因为这正是我成长的跳板。所有人身上的优点，我都想去超越。」",
+              "subtitle": "- 金道勋 B-Side of DOHOON"
+            },
+            "zh-Hant": {
+              "title": "「拿自己和別人比較並不全是壞事，因為這正是我成長的跳板。\n所有人身上的優點，我都想去超越。」",
+              "subtitle": "- 金道勳 B-Side of DOHOON"
+            },
+            "es": {
+              "title": "«Compararme con otros no siempre es malo. Me ayuda a crecer. Quiero superar las virtudes que veo en los demás».",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            },
+            "pt": {
+              "title": "“Me comparar com os outros nem sempre é ruim. Isso me ajuda a crescer. Quero superar as qualidades que vejo nos outros.”",
+              "subtitle": "DOHOON | B-Side of DOHOON"
+            }
+          }
+        },
+        {
           "id": "q_408",
           "emojiPath": "",
           "i18n": {
@@ -125,20 +383,6 @@
             "zh-Hant": {
               "title": "下一站勳福\n想跟42一起出發",
               "subtitle": "- 金道勳"
-            }
-          }
-        },
-        {
-          "id": "q_357",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我会努力成为42的骄傲，成为值得你们自豪的TWS」",
-              "subtitle": "- 金道勋 2024.07.10 WVS"
-            },
-            "zh-Hant": {
-              "title": "「我會努力成為42的驕傲，成為值得你們自豪的TWS」",
-              "subtitle": "- 金道勳 2024.07.10 WVS"
             }
           }
         }
@@ -164,6 +408,58 @@
           }
         },
         {
+          "id": "q_446",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“No matter how many twists and turns we take, everything we do always centers around TWS.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            },
+            "zh-Hans": {
+              "title": "「我们所做的一切，无论怎样兜兜转转，中心始终都是 TWS。」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
+            },
+            "zh-Hant": {
+              "title": "「我們所做的一切，無論怎樣兜兜轉轉，中心始終都是 TWS。」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
+            },
+            "es": {
+              "title": "«Por muchas vueltas que demos, todo lo que hacemos siempre gira en torno a TWS».",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            },
+            "pt": {
+              "title": "“Por mais voltas que a gente dê, tudo o que fazemos sempre gira em torno do TWS.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            }
+          }
+        },
+        {
+          "id": "q_447",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“My B-Side is the side that keeps me growing.\nOn my A-Side, I give my all as TWS's Youngjae on stage. On my B-Side, I study, explore, and reflect on my own.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            },
+            "zh-Hans": {
+              "title": "「我的 B-Side 就是促使我不断成长的那一面。\n我在 A-Side 作为舞台上的 TWS 英宰全力活动，然后回到 B-Side独自钻研、琢磨、思考」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
+            },
+            "zh-Hant": {
+              "title": "「我的 B-Side 就是促使我不斷成長的那一面。\n我在 A-Side 作為舞台上的 TWS 英宰全力活動，然後回到 B-Side獨自鑽研、琢磨、思考」",
+              "subtitle": "- 崔英宰 B-Side of YOUNGJAE"
+            },
+            "es": {
+              "title": "«Mi B-Side es el lado que me impulsa a crecer.\nEn mi A-Side, doy todo como Youngjae de TWS en el escenario. En mi B-Side, investigo, analizo y reflexiono por mi cuenta».",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            },
+            "pt": {
+              "title": "“Meu B-Side é o lado que me faz crescer.\nNo A-Side, dou o meu melhor como Youngjae do TWS no palco. No B-Side, estudo, exploro e reflito por conta própria.”",
+              "subtitle": "YOUNGJAE | B-Side of YOUNGJAE"
+            }
+          }
+        },
+        {
           "id": "q_358",
           "emojiPath": "",
           "i18n": {
@@ -185,6 +481,58 @@
       "name": "HANJIN",
       "quotes": [
         {
+          "id": "q_448",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Neither tears nor regrets can change the outcome.\nInstead of wasting time standing still, make the most of it.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "zh-Hans": {
+              "title": "「就算哭了也改变不了结果，就算后悔也改变不了结果。\n与其停在原地浪费时间，不如重新抓紧时间」",
+              "subtitle": "- 韩振 B-Side of HANJIN"
+            },
+            "zh-Hant": {
+              "title": "「就算哭了也改變不了結果，就算後悔也改變不了結果。\n與其停在原地浪費時間，不如重新抓緊時間」",
+              "subtitle": "- 韓振 B-Side of HANJIN"
+            },
+            "es": {
+              "title": "«Ni las lágrimas ni los arrepentimientos cambian el resultado.\nEn vez de perder tiempo sin avanzar, aprovéchalo».",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "pt": {
+              "title": "“Nem lágrimas nem arrependimentos mudam o resultado.\nEm vez de perder tempo parado, aproveite-o melhor.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            }
+          }
+        },
+        {
+          "id": "q_449",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“My B-Side is about slowing down and learning to stay calm.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "zh-Hans": {
+              "title": "「我的 B-Side，就是不那么急于求成，学会沉稳」",
+              "subtitle": "- 韩振 B-Side of HANJIN"
+            },
+            "zh-Hant": {
+              "title": "「我的 B-Side，就是不那麼急於求成，學會沉穩」",
+              "subtitle": "- 韓振 B-Side of HANJIN"
+            },
+            "es": {
+              "title": "«Mi B-Side consiste en no apresurarme y aprender a mantener la calma».",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "pt": {
+              "title": "“Meu B-Side é aprender a não ter pressa e manter a calma.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            }
+          }
+        },
+        {
           "id": "q_410",
           "emojiPath": "",
           "i18n": {
@@ -195,6 +543,32 @@
             "zh-Hant": {
               "title": "希望能韓42們\n創造更多美好回憶！",
               "subtitle": "- 韓振"
+            }
+          }
+        },
+        {
+          "id": "q_450",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Love yourself first so you can love others better. Truly strong people know how to love themselves.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "zh-Hans": {
+              "title": "「在爱别人之前，要先好好爱自己，才能更好地去爱别人。所以真正强大的人，都非常懂得好好爱自己。」",
+              "subtitle": "- 韩振 B-Side of HANJIN"
+            },
+            "zh-Hant": {
+              "title": "「在愛別人之前，要先好好愛自己，才能更好地去愛別人。所以真正強大的人，都非常懂得好好愛自己。」",
+              "subtitle": "- 韓振 B-Side of HANJIN"
+            },
+            "es": {
+              "title": "«Ámate primero para poder amar mejor a los demás. Las personas realmente fuertes saben amarse a sí mismas».",
+              "subtitle": "HANJIN | B-Side of HANJIN"
+            },
+            "pt": {
+              "title": "“Ame a si mesmo primeiro para amar melhor os outros. Pessoas realmente fortes sabem se amar.”",
+              "subtitle": "HANJIN | B-Side of HANJIN"
             }
           }
         },
@@ -211,34 +585,6 @@
               "subtitle": "- 韓振 2024.08.07 · WVS"
             }
           }
-        },
-        {
-          "id": "q_361",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「事情不一定总会按照计划进行，但我学会了把那些经历变成下一次做得更好的动力」",
-              "subtitle": "- 韩振 2026.09.24 · CNA Lifestyle 采访"
-            },
-            "zh-Hant": {
-              "title": "「事情不一定總會按照計劃進行，但我學會了把那些經歷變成下一次做得更好的動力」",
-              "subtitle": "- 韓振 2026.09.24 · CNA Lifestyle 採訪"
-            }
-          }
-        },
-        {
-          "id": "q_359",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「如果42愿意的话，800天、1000天，还有更遥远的未来，我也想像现在这样，和大家慢慢地一起走下去」",
-              "subtitle": "- 韩振 2025.12.22 WVS"
-            },
-            "zh-Hant": {
-              "title": "「如果42願意的話，800天、1000天，還有更遙遠的未來，我也想像現在這樣，和大家慢慢地一起走下去」",
-              "subtitle": "- 韓振 2025.12.22 WVS"
-            }
-          }
         }
       ],
       "countdowns": []
@@ -247,6 +593,84 @@
       "id": "tws_JIHOON",
       "name": "JIHOON",
       "quotes": [
+        {
+          "id": "q_462",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I'm like a color on a pixel palette, with endless shades of blue.\nDon't define me by one label. I have countless colors yet to reveal.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "zh-Hans": {
+              "title": "「我就像像素调色板里的颜色，同样是蓝也有千万种层次。\n不要用单一标签定义我，我还有无限的色彩等待展开」",
+              "subtitle": "- 韩志薰 B-Side of JIHOON"
+            },
+            "zh-Hant": {
+              "title": "「我就像像素調色板裡的顏色，同樣是藍也有千萬種層次。\n不要用單一標籤定義我，我還有無限的色彩等待展開」",
+              "subtitle": "- 韓志薰 B-Side of JIHOON"
+            },
+            "es": {
+              "title": "Soy como un color en una paleta de píxeles, con mil tonos de azul.\nNo me definas con una sola etiqueta. Aún tengo infinitos colores por mostrar.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "pt": {
+              "title": "Sou como uma cor numa paleta de pixels, com infinitos tons de azul.\nNão me defina por um só rótulo. Ainda tenho inúmeras cores para revelar.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            }
+          }
+        },
+        {
+          "id": "q_461",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Pressure is just distracting thoughts.\nThe best way to overcome helplessness is to take action now.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "zh-Hans": {
+              "title": "「压力本质上就是杂念。\n摆脱无力感最好的方法，就是立刻动起来」",
+              "subtitle": "- 韩志薰 B-Side of JIHOON"
+            },
+            "zh-Hant": {
+              "title": "「壓力本質上就是雜念。\n擺脫無力感最好的方法，就是立刻動起來」",
+              "subtitle": "- 韓志薰 B-Side of JIHOON"
+            },
+            "es": {
+              "title": "La presión no es más que pensamientos que distraen.\nLa mejor forma de vencer la impotencia es actuar ya.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "pt": {
+              "title": "A pressão é apenas um excesso de pensamentos.\nA melhor forma de vencer a impotência é agir agora.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            }
+          }
+        },
+        {
+          "id": "q_459",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Break free from the limits others place on you. Build strong roots and become your true, unbound self.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "zh-Hans": {
+              "title": "「撕碎所有外界给自己套上的框架，扎下牢固的根，成为不受任何框架束缚的自己。」",
+              "subtitle": "- 韩志薰 B-Side of JIHOON"
+            },
+            "zh-Hant": {
+              "title": "「撕碎所有外界給自己套上的框架，扎下牢固的根，成為不受任何框架束縛的自己。」",
+              "subtitle": "- 韓志薰 B-Side of JIHOON"
+            },
+            "es": {
+              "title": "Rompe los límites que otros te imponen. Echa raíces firmes y sé tú mismo, sin ataduras.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "pt": {
+              "title": "Quebre os limites impostos pelos outros. Crie raízes fortes e seja você mesmo, sem restrições.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            }
+          }
+        },
         {
           "id": "q_411",
           "emojiPath": "",
@@ -276,30 +700,28 @@
           }
         },
         {
-          "id": "q_364",
+          "id": "q_460",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Better than dancing is dancing together.\nMore meaningful than running alone is running side by side.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
             "zh-Hans": {
-              "title": "「无论如何，你们的安全和幸福，都是我最优先的愿望」",
-              "subtitle": "- 韩志薰 2026.07.12 · Weverse"
+              "title": "「比跳舞更有意思的事，是一起跳舞\n比独自奔跑更有意义的，是一同并肩」",
+              "subtitle": "- 韩志薰 B-Side of JIHOON"
             },
             "zh-Hant": {
-              "title": "「無論如何，你們的安全和幸福，都是我最優先的願望」",
-              "subtitle": "- 韓志薰 2026.07.12 · Weverse"
-            }
-          }
-        },
-        {
-          "id": "q_363",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「回头看和42一起度过的每一天，感觉每一天都闪耀着灿烂的光芒」",
-              "subtitle": "- 韩志薰 2024.08.09 · Weverse"
+              "title": "「比跳舞更有意思的事，是一起跳舞\n比獨自奔跑更有意義的，是一同並肩」",
+              "subtitle": "- 韓志薰 B-Side of JIHOON"
             },
-            "zh-Hant": {
-              "title": "「回頭看和42一起度過的每一天，感覺每一天都閃耀著燦爛的光芒」",
-              "subtitle": "- 韓志薰 2024.08.09 · Weverse"
+            "es": {
+              "title": "Mejor que bailar es bailar juntos.\nMás valioso que correr solo es correr lado a lado.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
+            },
+            "pt": {
+              "title": "Melhor que dançar é dançar juntos.\nMais especial que correr sozinho é correr lado a lado.",
+              "subtitle": "JIHOON | B-Side of JIHOON"
             }
           }
         }
@@ -310,6 +732,136 @@
       "id": "tws_KYUNGMIN",
       "name": "KYUNGMIN",
       "quotes": [
+        {
+          "id": "q_457",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“You don't have to be perfect when trying something new.\nWhat matters more is doing it out of joy and passion.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「去挑战一件事，不必非要做到完美；\n比起必须做好，更重要的是因为开心和热爱才去尝试。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「去挑戰一件事，不必非要做到完美；\n比起必須做好，更重要的是因為開心和熱愛才去嘗試。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«No necesitas ser perfecto al intentar algo nuevo.\nLo importante es hacerlo por alegría y pasión».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Você não precisa ser perfeito ao tentar algo novo.\nO importante é fazer por alegria e paixão.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
+        {
+          "id": "q_456",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“No matter how often I do it, I want to get better and love it more. That's the passion that keeps me going.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「不管做多少次都想做得更好、越来越有兴趣，这就是我非做不可的热爱」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「不管做多少次都想做得更好、越來越有興趣，這就是我非做不可的熱愛」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«Cuantas más veces lo hago, más quiero mejorar y más me apasiona. Eso es lo que me impulsa a seguir».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Quanto mais faço, mais quero melhorar e mais me apaixono. É essa paixão que me faz continuar.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
+        {
+          "id": "q_455",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Don't live only for your goals. Doing what you need to do each day is the greatest achievement.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「不要死盯着目标去生活，每天脚踏实地做好该做的事，这本身就是最大的成就感」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「不要死盯著目標去生活，每天腳踏實地做好該做的事，這本身就是最大的成就感」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«No vivas solo para tus metas. Hacer bien lo que toca cada día es el mayor logro».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Não viva só pelas suas metas. Fazer bem o que precisa ser feito a cada dia já é a maior conquista.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
+        {
+          "id": "q_454",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“You don't have to push yourself to the limit.\nFocus on doing one thing well and stay focused on the present.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「不用拼尽全力硬撑也可以。\n先把一样东西做好做透，持续专注在眼前的事上」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「不用拚盡全力硬撐也可以。\n先把一樣東西做好做透，持續專注在眼前的事上」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«No tienes que exigirte al máximo.\nConcéntrate en hacer bien una cosa y en lo que tienes delante».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Você não precisa se esforçar até o limite.\nFoque em fazer bem uma coisa e no que está à sua frente.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
+        {
+          "id": "q_458",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“My B-Side is a hidden treasure.\nThe deeper you look, the more hidden gems you'll discover.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "zh-Hans": {
+              "title": "「我的 B-Side，是隐藏的宝物。\n越去深入了解，闪光点就越会接连不断地涌现。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "zh-Hant": {
+              "title": "「我的 B-Side，是隱藏的寶物。\n越去深入了解，閃光點就越會接連不斷地湧現。」",
+              "subtitle": "- 李炅潣 B-Side of KYUNGMIN"
+            },
+            "es": {
+              "title": "«Mi B-Side es un tesoro escondido.\nCuanto más lo explores, más cosas brillantes descubrirás».",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            },
+            "pt": {
+              "title": "“Meu B-Side é um tesouro escondido.\nQuanto mais você explorar, mais coisas brilhantes vai descobrir.”",
+              "subtitle": "KYUNGMIN | B-Side of KYUNGMIN"
+            }
+          }
+        },
         {
           "id": "q_412",
           "emojiPath": "",
@@ -335,34 +887,6 @@
             "zh-Hant": {
               "title": "「烏雲後面一定有非常耀眼的陽光。\n即使感到疲憊和辛苦，黑暗之中也一定有希望和光芒，所以不要放棄，一直加油吧！」",
               "subtitle": "- 李炅潣 2025.03.05 · Weverse"
-            }
-          }
-        },
-        {
-          "id": "q_367",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「没关系，事情总会发生的。」",
-              "subtitle": "- 李炅潣 2025.06.30 · NME 采访"
-            },
-            "zh-Hant": {
-              "title": "「沒關係，事情總會發生的。」",
-              "subtitle": "- 李炅潣 2025.06.30 · NME 採訪"
-            }
-          }
-        },
-        {
-          "id": "q_366",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「希望我们也能成为为你们的人生增添一点光芒的歌手。\n累了的时候，也请多多依靠我们」",
-              "subtitle": "- 李炅潣 2024.07.10 · Weverse"
-            },
-            "zh-Hant": {
-              "title": "「希望我們也能成為為你們的人生增添一點光芒的歌手。\n累了的時候，也請多多依靠我們」",
-              "subtitle": "- 李炅潣 2024.07.10 · Weverse"
             }
           }
         }
