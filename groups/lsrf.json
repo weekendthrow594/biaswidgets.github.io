@@ -7,54 +7,132 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_319",
+          "id": "q_471",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I am a one-of-a-kind person, and I don’t belong to anyone. So I want to center myself and build my own sense of what beauty means.",
-              "subtitle": "SAKURA | 9/24 MAQUIA"
+              "title": "LE SSERAFIM is cheering on all FEARNOTs who are taking the exam. Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
             },
             "zh-Hans": {
-              "title": "「自己是独一无二的存在，也不属于任何人。\n所以我会以自己为中心，建立属于自己的价值观」",
-              "subtitle": "- 宫脇咲良 26.9.24《MAQUIA》"
+              "title": "「모든 수험생 피어나 분들을 LE SSERAFIM이 응원합니다. 파이팅!\nLE SSERAFIM支持所有的考生FEARNOT们。加油！」",
+              "subtitle": "- 中村一叶 25.11.12 高考应援"
             },
             "zh-Hant": {
-              "title": "「自己是獨一無二的存在，也不屬於任何人。\n所以我會以自己為中心，建立屬於自己的價值觀」",
-              "subtitle": "- 宮脇咲良 26.9.24《MAQUIA》"
+              "title": "「모든 수험생 피어나 분들을 LE SSERAFIM이 응원합니다. 파이팅!\nLE SSERAFIM支持所有的考生FEARNOT們。加油！」",
+              "subtitle": "- 中村一葉 25.11.12 高考應援"
             },
             "es": {
-              "title": "Soy una persona única y no le pertenezco a nadie. Por eso quiero ponerme a mí misma en el centro y construir mi propia idea de lo que significa la belleza.",
-              "subtitle": "SAKURA | 9/24 MAQUIA"
+              "title": "LE SSERAFIM apoya a todos los FEARNOT que se presentan al examen. ¡Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
             },
             "pt": {
-              "title": "Sou uma pessoa única e não pertenço a ninguém. Por isso, quero me colocar no centro e construir a minha própria visão do que é beleza.",
-              "subtitle": "SAKURA | 9/24 MAQUIA"
+              "title": "O LE SSERAFIM está torcendo por todos os FEARNOTs que vão fazer a prova. Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
             }
           }
         },
         {
-          "id": "q_318",
+          "id": "q_470",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "The things we truly love, and the things we’re willing to spend time cherishing, can give us a little more strength to keep moving forward in life.",
-              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+              "title": "Just like FEARNOT’s cheers have always given us strength, we hope our cheers will also bring great strength to FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
             },
             "zh-Hans": {
-              "title": "「自己真正喜欢的事物，以及那些愿意花时间去珍惜的东西，都会为我们继续向前生活，多增加一点点力量。」",
-              "subtitle": "- 许允真 26.9.25 PUREFLOW Phoenix"
+              "title": "「就像FEARNOT的应援一直给了我们力量一样，希望我们的应援也能为FEARNOT带来很大的力量。」",
+              "subtitle": "- 洪恩采 25.11.12 高考应援"
             },
             "zh-Hant": {
-              "title": "「自己真正喜歡的事物，以及那些願意花時間去珍惜的東西，都會為我們繼續向前生活，多增加一點點力量。」",
-              "subtitle": "- 許允真 26.9.25 PUREFLOW Phoenix"
+              "title": "「就像FEARNOT的應援一直給了我們力量一樣，希望我們的應援也能為FEARNOT帶來很大的力量。」",
+              "subtitle": "- 洪恩採 25.11.12 高考應援"
             },
             "es": {
-              "title": "Las cosas que realmente amamos, y aquellas que estamos dispuestos a dedicar tiempo a cuidar, pueden darnos un poco más de fuerza para seguir avanzando en la vida.",
-              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+              "title": "Así como el apoyo de FEARNOT siempre nos ha dado fuerza, esperamos que nuestro apoyo también sea una gran fuerza para FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
             },
             "pt": {
-              "title": "As coisas de que realmente gostamos, e aquelas às quais estamos dispostos a dedicar tempo e carinho, podem nos dar um pouco mais de força para continuar seguindo em frente na vida.",
-              "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
+              "title": "Assim como o apoio do FEARNOT sempre nos deu força, esperamos que a nossa torcida também traga muita força para o FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
+            }
+          }
+        },
+        {
+          "id": "q_467",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Great job for all your hard work preparing for the exam! Let’s have a round of applause!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「시험 준비하느라 정말 고생 많았습니다. 박수 한 번!\n为了准备考试，真的辛苦了，鼓掌！」",
+              "subtitle": "- 金采源 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「시험 준비하느라 정말 고생 많았습니다. 박수 한 번!\n為了準備考試，真的辛苦了，鼓掌！」",
+              "subtitle": "- 金采源 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "¡Han hecho un gran trabajo preparando el examen! ¡Un aplauso!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Vocês fizeram um ótimo trabalho se preparando para a prova! Uma salva de palmas!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
+            }
+          }
+        },
+        {
+          "id": "q_469",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don’t get nervous and stay calm like always! And don’t forget to take care of your condition.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「긴장하지 마시고, 평소처럼 침착하게! 컨디션 조절하는 것도 잊지 마시고요.\n不要紧张，像平常一样保持冷静！别忘记调整好你的状态。」",
+              "subtitle": "- 宫胁咲良 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「긴장하지 마시고, 평소처럼 침착하게! 컨디션 조절하는 것도 잊지 마시고요.\n不要緊張，像平常一樣保持冷靜！別忘記調整好你的狀態。」",
+              "subtitle": "- 宮脇咲良 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "¡No se pongan nerviosos y mantengan la calma como siempre! Y tampoco olviden cuidar bien su estado físico.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Não fiquem nervosos e mantenham a calma como sempre! E não se esqueçam de cuidar bem do seu estado.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
+            }
+          }
+        },
+        {
+          "id": "q_468",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Show everything you’ve worked so hard to prepare.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「열심히 준비한 만큼 모든 기량을 다 보여주고 오셨으면 좋겠습니다.\n尽情展现你努力准备的一切。」",
+              "subtitle": "- 许允真 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「열심히 준비한 만큼 모든 기량을 다 보여주고 오셨으면 좋겠습니다.\n盡情展現你努力準備的一切。」",
+              "subtitle": "- 許允真 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "Demuestra todo lo que te has esforzado tanto en preparar.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Mostre tudo aquilo que você se esforçou tanto para preparar.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
             }
           }
         }
@@ -83,10 +161,6 @@
           "id": "q_186",
           "emojiPath": "",
           "i18n": {
-            "en": {
-              "title": "What keeps me going isn't always something huge. Sometimes, it can be a person I'll meet again, or the feeling of looking forward to seeing them once more.",
-              "subtitle": "CHAEWON  26.08.08 WVS"
-            },
             "zh-Hans": {
               "title": "「支撑我活下去的，不一定是某个巨大的事物，或许是一个下次会再见面的人，或是期待再次相见的心情。」",
               "subtitle": "- 金采源 26.08.08 WVS"
@@ -94,40 +168,32 @@
             "zh-Hant": {
               "title": "「支撐我活下去的，不一定是某個巨大的事物，或許是一個下次會再見面的人，或是期待再次相見的心情。」",
               "subtitle": "- 金采源 26.08.08 WVS"
-            },
-            "es": {
-              "title": "Lo que me sostiene para seguir adelante no siempre tiene que ser algo enorme. A veces puede ser alguien a quien volveré a ver, o la ilusión de encontrarnos otra vez.",
-              "subtitle": "CHAEWON  26.08.08 WVS"
-            },
-            "pt": {
-              "title": "O que me faz continuar nem sempre é algo grandioso. Às vezes, pode ser uma pessoa que vou encontrar novamente ou a expectativa de nos vermos outra vez.",
-              "subtitle": "CHAEWON 26.08.08 WVS"
             }
           }
         },
         {
-          "id": "q_214",
+          "id": "q_467",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I believe every moment we go through has a reason, and each one can become an opportunity to make us stronger. We’ve become more determined because of it, and we’ll continue to focus on doing what we do best.",
-              "subtitle": "CHAEWON"
+              "title": "Great job for all your hard work preparing for the exam! Let’s have a round of applause!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
             },
             "zh-Hans": {
-              "title": "「我们经历的每一个瞬间都有它存在的理由，也会成为让我们变得更强大的机会。\n我们因此变得更加坚定，以后也会继续做好自己的事。」",
-              "subtitle": "- 金采源"
+              "title": "「시험 준비하느라 정말 고생 많았습니다. 박수 한 번!\n为了准备考试，真的辛苦了，鼓掌！」",
+              "subtitle": "- 金采源 25.11.12 高考应援"
             },
             "zh-Hant": {
-              "title": "「我們經歷的每一個瞬間都有它存在的理由，也會成為讓我們變得更強大的機會。\n我們因此變得更加堅定，以後也會繼續做好自己的事。」",
-              "subtitle": "- 金采源"
+              "title": "「시험 준비하느라 정말 고생 많았습니다. 박수 한 번!\n為了準備考試，真的辛苦了，鼓掌！」",
+              "subtitle": "- 金采源 25.11.12 高考應援"
             },
             "es": {
-              "title": "Creo que cada momento que vivimos tiene una razón y puede convertirse en una oportunidad para hacernos más fuertes. Gracias a ello, nos hemos vuelto más firmes y seguiremos concentrándonos en hacer bien lo nuestro.",
-              "subtitle": "CHAEWON"
+              "title": "¡Han hecho un gran trabajo preparando el examen! ¡Un aplauso!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
             },
             "pt": {
-              "title": "Acredito que cada momento que vivemos tem uma razão e pode se tornar uma oportunidade para nos deixar mais fortes. Por causa disso, nos tornamos mais determinados e continuaremos focados em fazer bem aquilo que nos cabe.",
-              "subtitle": "CHAEWON"
+              "title": "Vocês fizeram um ótimo trabalho se preparando para a prova! Uma salva de palmas!",
+              "subtitle": "KIM CHAEWON | 11/12 CSAT Cheering"
             }
           }
         },
@@ -221,30 +287,28 @@
           }
         },
         {
-          "id": "q_190",
+          "id": "q_469",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Don’t get nervous and stay calm like always! And don’t forget to take care of your condition.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
+            },
             "zh-Hans": {
-              "title": "「人生就是物料」",
-              "subtitle": "- 宫脇咲良"
+              "title": "「긴장하지 마시고, 평소처럼 침착하게! 컨디션 조절하는 것도 잊지 마시고요.\n不要紧张，像平常一样保持冷静！别忘记调整好你的状态。」",
+              "subtitle": "- 宫胁咲良 25.11.12 高考应援"
             },
             "zh-Hant": {
-              "title": "「人生就是物料」",
-              "subtitle": "- 宮脇咲良"
-            }
-          }
-        },
-        {
-          "id": "q_191",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我觉得人生中做出的选择并没有那么重要，重要的是要让自己做出的选择变得正确。\n辛苦是一定会有的，但必须不断尝试、持续努力，这样才能觉得自己做出了正确的选择。」",
-              "subtitle": "- 宫脇咲良"
+              "title": "「긴장하지 마시고, 평소처럼 침착하게! 컨디션 조절하는 것도 잊지 마시고요.\n不要緊張，像平常一樣保持冷靜！別忘記調整好你的狀態。」",
+              "subtitle": "- 宮脇咲良 25.11.12 高考應援"
             },
-            "zh-Hant": {
-              "title": "「我覺得人生中做出的選擇並沒有那麼重要，重要的是要讓自己做出的選擇變得正確。\n辛苦是一定會有的，但必須不斷嘗試、持續努力，這樣才能覺得自己做出了正確的選擇。」",
-              "subtitle": "- 宮脇咲良"
+            "es": {
+              "title": "¡No se pongan nerviosos y mantengan la calma como siempre! Y tampoco olviden cuidar bien su estado físico.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Não fiquem nervosos e mantenham a calma como sempre! E não se esqueçam de cuidar bem do seu estado.",
+              "subtitle": "SAKURA | 11/12 CSAT Cheering"
             }
           }
         }
@@ -364,6 +428,32 @@
               "subtitle": "HUH YUNJIN | 9/25 PUREFLOW Phoenix"
             }
           }
+        },
+        {
+          "id": "q_468",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Show everything you’ve worked so hard to prepare.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「열심히 준비한 만큼 모든 기량을 다 보여주고 오셨으면 좋겠습니다.\n尽情展现你努力准备的一切。」",
+              "subtitle": "- 许允真 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「열심히 준비한 만큼 모든 기량을 다 보여주고 오셨으면 좋겠습니다.\n盡情展現你努力準備的一切。」",
+              "subtitle": "- 許允真 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "Demuestra todo lo que te has esforzado tanto en preparar.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Mostre tudo aquilo que você se esforçou tanto para preparar.",
+              "subtitle": "HUH YUNJIN | 11/12 CSAT Cheering"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -383,6 +473,32 @@
             "zh-Hant": {
               "title": "「不要忘記我落下的芭蕾舞鞋。」",
               "subtitle": "- 中村一葉"
+            }
+          }
+        },
+        {
+          "id": "q_471",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "LE SSERAFIM is cheering on all FEARNOTs who are taking the exam. Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「모든 수험생 피어나 분들을 LE SSERAFIM이 응원합니다. 파이팅!\nLE SSERAFIM支持所有的考生FEARNOT们。加油！」",
+              "subtitle": "- 中村一叶 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「모든 수험생 피어나 분들을 LE SSERAFIM이 응원합니다. 파이팅!\nLE SSERAFIM支持所有的考生FEARNOT們。加油！」",
+              "subtitle": "- 中村一葉 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "LE SSERAFIM apoya a todos los FEARNOT que se presentan al examen. ¡Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "O LE SSERAFIM está torcendo por todos os FEARNOTs que vão fazer a prova. Fighting!",
+              "subtitle": "KAZUHA | 11/12 CSAT Cheering"
             }
           }
         },
@@ -433,6 +549,32 @@
       "id": "lsrf_eunchae",
       "name": "EUNCHAE",
       "quotes": [
+        {
+          "id": "q_470",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Just like FEARNOT’s cheers have always given us strength, we hope our cheers will also bring great strength to FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
+            },
+            "zh-Hans": {
+              "title": "「就像FEARNOT的应援一直给了我们力量一样，希望我们的应援也能为FEARNOT带来很大的力量。」",
+              "subtitle": "- 洪恩采 25.11.12 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「就像FEARNOT的應援一直給了我們力量一樣，希望我們的應援也能為FEARNOT帶來很大的力量。」",
+              "subtitle": "- 洪恩採 25.11.12 高考應援"
+            },
+            "es": {
+              "title": "Así como el apoyo de FEARNOT siempre nos ha dado fuerza, esperamos que nuestro apoyo también sea una gran fuerza para FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
+            },
+            "pt": {
+              "title": "Assim como o apoio do FEARNOT sempre nos deu força, esperamos que a nossa torcida também traga muita força para o FEARNOT.",
+              "subtitle": "HONG EUNCHAE | 11/12 CSAT Cheering"
+            }
+          }
+        },
         {
           "id": "q_215",
           "emojiPath": "",
