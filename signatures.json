@@ -733,5 +733,257 @@
     "traditional": "金雲鶴",
     "en": "WOONHAK",
     "group": "BOYNEXTDOOR"
+  },
+  {
+    "path": "leeteuk_sign_1",
+    "simplified": "朴正洙",
+    "traditional": "朴正洙",
+    "en": "LEETEUK",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "heechul_sign_1",
+    "simplified": "金希澈",
+    "traditional": "金希澈",
+    "en": "HEECHUL",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "yesung_sign_1",
+    "simplified": "金康熏",
+    "traditional": "金康熏",
+    "en": "YESUNG",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "shindong_sign_1",
+    "simplified": "申东熙",
+    "traditional": "申東熙",
+    "en": "SHINDONG",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "eunhyuk_sign_1",
+    "simplified": "李赫宰",
+    "traditional": "李赫宰",
+    "en": "EUNHYUK",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "donghae_sign_1",
+    "simplified": "李东海",
+    "traditional": "李東海",
+    "en": "DONGHAE",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "siwon_sign_1",
+    "simplified": "崔始源",
+    "traditional": "崔始源",
+    "en": "SIWON",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "ryeowook_sign_1",
+    "simplified": "金厉旭",
+    "traditional": "金厲旭",
+    "en": "RYEOWOOK",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "kyuhyun_sign_1",
+    "simplified": "曺圭贤",
+    "traditional": "曺圭賢",
+    "en": "KYUHYUN",
+    "group": "SUPER JUNIOR"
+  },
+  {
+    "path": "martin_sign_1",
+    "simplified": "朴马丁",
+    "traditional": "朴馬丁",
+    "en": "MARTIN",
+    "group": "CORTIS"
+  },
+  {
+    "path": "james_sign_1",
+    "simplified": "赵雨凡",
+    "traditional": "趙雨凡",
+    "en": "JAMES",
+    "group": "CORTIS"
+  },
+  {
+    "path": "juhoon_sign_1",
+    "simplified": "金主训",
+    "traditional": "金主訓",
+    "en": "JUHOON",
+    "group": "CORTIS"
+  },
+  {
+    "path": "seonghyeon_sign_1",
+    "simplified": "严成玹",
+    "traditional": "嚴成玹",
+    "en": "SEONGHYEON",
+    "group": "CORTIS"
+  },
+  {
+    "path": "keonho_sign_1",
+    "simplified": "安乾镐",
+    "traditional": "安乾鎬",
+    "en": "KEONHO",
+    "group": "CORTIS"
+  },
+  {
+    "path": "wumuti_sign_1",
+    "simplified": "吾木提",
+    "traditional": "吾木提",
+    "en": "WUMUTI",
+    "group": "XLOV"
+  },
+  {
+    "path": "rui_sign_1",
+    "simplified": "陈冠叡",
+    "traditional": "陳冠叡",
+    "en": "RUI",
+    "group": "XLOV"
+  },
+  {
+    "path": "hyun_sign_1",
+    "simplified": "金进亨",
+    "traditional": "金進亨",
+    "en": "HYUN",
+    "group": "XLOV"
+  },
+  {
+    "path": "haru_sign_1",
+    "simplified": "加藤暖琉",
+    "traditional": "加藤暖琉",
+    "en": "HARU",
+    "group": "XLOV"
+  },
+  {
+    "path": "miyeon_sign_1",
+    "simplified": "曺薇娟",
+    "traditional": "曺薇娟",
+    "en": "MIYEON",
+    "group": "i-dle"
+  },
+  {
+    "path": "minnie_sign_1",
+    "simplified": "米妮",
+    "traditional": "米妮",
+    "en": "MINNIE",
+    "group": "i-dle"
+  },
+  {
+    "path": "soyeon_sign_1",
+    "simplified": "田小娟",
+    "traditional": "田小娟",
+    "en": "SOYEON",
+    "group": "i-dle"
+  },
+  {
+    "path": "yuqi_sign_1",
+    "simplified": "宋雨琦",
+    "traditional": "宋雨琦",
+    "en": "YUQI",
+    "group": "i-dle"
+  },
+  {
+    "path": "shuhua_sign_1",
+    "simplified": "叶舒华",
+    "traditional": "葉舒華",
+    "en": "SHUHUA",
+    "group": "i-dle"
+  },
+  {
+    "path": "shuhua_sign_2",
+    "simplified": "叶舒华",
+    "traditional": "葉舒華",
+    "en": "SHUHUA",
+    "group": "i-dle"
+  },
+  {
+    "path": "jungwon_sign_1",
+    "simplified": "梁祯元",
+    "traditional": "梁禎元",
+    "en": "JUNGWON",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "jay_sign_1",
+    "simplified": "朴综星",
+    "traditional": "朴綜星",
+    "en": "JAY",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "jake_sign_1",
+    "simplified": "沈载伦",
+    "traditional": "沈載倫",
+    "en": "JAKE",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "sunghoon_sign_1",
+    "simplified": "朴成训",
+    "traditional": "朴成訓",
+    "en": "SUNGHOON",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "sunoo_sign_1",
+    "simplified": "金善禹",
+    "traditional": "金善禹",
+    "en": "SUNOO",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "niki_sign_1",
+    "simplified": "西村力",
+    "traditional": "西村力",
+    "en": "NI-KI",
+    "group": "ENHYPEN"
+  },
+  {
+    "path": "sion_sign_1",
+    "simplified": "是温",
+    "traditional": "是溫",
+    "en": "SION",
+    "group": "NCT WISH"
+  },
+  {
+    "path": "riku_sign_1",
+    "simplified": "陆",
+    "traditional": "陸",
+    "en": "RIKU",
+    "group": "NCT WISH"
+  },
+  {
+    "path": "yushi_sign_1",
+    "simplified": "勇志",
+    "traditional": "勇志",
+    "en": "YUSHI",
+    "group": "NCT WISH"
+  },
+  {
+    "path": "jaehee_sign_1",
+    "simplified": "栽禧",
+    "traditional": "栽禧",
+    "en": "JAEHEE",
+    "group": "NCT WISH"
+  },
+  {
+    "path": "ryo_sign_1",
+    "simplified": "辽",
+    "traditional": "遼",
+    "en": "RYO",
+    "group": "NCT WISH"
+  },
+  {
+    "path": "sakuya_sign_1",
+    "simplified": "咲哉",
+    "traditional": "咲哉",
+    "en": "SAKUYA",
+    "group": "NCT WISH"
   }
 ]
