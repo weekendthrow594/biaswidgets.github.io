@@ -340,5 +340,20 @@
       "GFRIEND_header_5",
       "GFRIEND_header_6"
     ]
+  },
+  {
+    "id": "suju",
+    "name": "Super Junior",
+    "header": [
+      "SuJu_header_1",
+      "SuJu_header_2",
+      "SuJu_header_3",
+      "SuJu_header_4",
+      "SuJu_header_5",
+      "SuJu_header_6",
+      "SuJu_header_7",
+      "SuJu_header_8",
+      "SuJu_header_9"
+    ]
   }
 ]
