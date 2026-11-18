@@ -7,102 +7,163 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_397",
+          "id": "q_477",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "don't think that you're late. rather than thinking about not having seen my past, rather than having those unnecessary feelings/regrets, i hope you'll feel more excitement about what's ahead.",
-              "subtitle": "SEONGHWA"
+              "title": "You've come so far on this long journey. I hope you get great results.\nATEEZ will always be cheering you on!",
+              "subtitle": "YUNHO | 2027 CSAT Encouragement"
             },
             "zh-Hans": {
-              "title": "「不要觉得自己来晚了。与其想着没能见证我的过去，为此感到不必要的遗憾，我更希望你能对未来即将发生的事情充满期待。」",
-              "subtitle": "- 朴星化"
+              "title": "「你已经走过了这段漫长的旅程，希望你能取得好成绩\nATEEZ会一直为你加油！」",
+              "subtitle": "- 丁润浩 2027 高考应援"
             },
             "zh-Hant": {
-              "title": "「不要覺得自己來晚了。與其想著沒能見證我的過去，為此感到不必要的遺憾，我更希望你能對未來即將發生的事情充滿期待。」",
-              "subtitle": "- 朴星化"
+              "title": "「你已經走過了這段漫長的旅程，希望你能取得好成績\nATEEZ會一直為你加油！」",
+              "subtitle": "- 丁潤浩 2027 高考應援"
             },
             "es": {
-              "title": "No pienses que has llegado tarde. En lugar de lamentarte por no haber sido parte de mi pasado y sentir esos remordimientos innecesarios, espero que sientas más ilusión por todo lo que nos espera.",
-              "subtitle": "SEONGHWA"
+              "title": "Has recorrido un largo camino. Espero que obtengas excelentes resultados.\n¡ATEEZ siempre te estará animando!",
+              "subtitle": "YUNHO | Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Não pense que você chegou tarde. Em vez de ficar pensando que não acompanhou meu passado e sentir esses arrependimentos desnecessários, espero que você sinta mais entusiasmo por tudo o que está por vir.",
-              "subtitle": "SEONGHWA"
+              "title": "Você percorreu um longo caminho. Espero que consiga ótimos resultados.\nO ATEEZ sempre vai torcer por você!",
+              "subtitle": "YUNHO | Mensagem de apoio para o CSAT 2027"
             }
           }
         },
         {
-          "id": "q_398",
+          "id": "q_474",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Sometimes, the people around us bring us down more than we realize. Learning to choose yourself is very important.",
-              "subtitle": "MINGI"
+              "title": "If you come across a question you can't answer, stay calm.\nTake a moment to recall what you've learned.",
+              "subtitle": "MINGI | 2027 CSAT Encouragement"
             },
             "zh-Hans": {
-              "title": "「有时候，我们身边的人对自己的打击，比我们意识到的还要多。学会选择自己，是很重要的。」",
-              "subtitle": "- 宋旼琦"
+              "title": "「如果遇到不会的题，保持冷静\n花点时间，回忆一下学过的知识」",
+              "subtitle": "- 宋旼琦 2027 高考应援"
             },
             "zh-Hant": {
-              "title": "「有時候，我們身邊的人對自己的打擊，比我們意識到的還要多。學會選擇自己，是很重要的。」",
-              "subtitle": "- 宋旼琦"
+              "title": "「如果遇到不會的題，保持冷靜\n花點時間，回憶一下學過的知識」",
+              "subtitle": "- 宋旼琦 2027 高考應援"
             },
             "es": {
-              "title": "A veces, las personas que nos rodean nos afectan más de lo que nos damos cuenta. Aprender a elegirte a ti mismo es muy importante.",
-              "subtitle": "MINGI"
+              "title": "Si encuentras una pregunta que no sabes responder, mantén la calma.\nTómate un momento para recordar lo que has estudiado.",
+              "subtitle": "MINGI | Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Às vezes, as pessoas ao nosso redor nos abalam mais do que percebemos. Aprender a escolher a si mesmo é muito importante.",
-              "subtitle": "MINGI"
+              "title": "Se encontrar uma questão que não sabe responder, mantenha a calma.\nTire um momento para lembrar o que estudou.",
+              "subtitle": "MINGI | Mensagem de apoio para o CSAT 2027"
             }
           }
         },
         {
-          "id": "q_133",
+          "id": "q_476",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "A flower that blooms later is no less beautiful.",
-              "subtitle": "SEONGHWA"
+              "title": "Your hard work has already brought you one step closer to success!",
+              "subtitle": "SAN | 2027 CSAT Encouragement"
             },
             "zh-Hans": {
-              "title": "「晚一点绽放的花，不代表它不美丽。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
-              "subtitle": "- 朴星化"
+              "title": "「你的努力已经让你离成功更近了一步！」",
+              "subtitle": "- 崔伞 2027 高考应援"
             },
             "zh-Hant": {
-              "title": "「晚一點綻放的花，不代表它不美麗。」\n“늦게 피는 꽃이라고 아름답지 않은 건 아니니깐”",
-              "subtitle": "- 朴星化"
+              "title": "「你的努力已經讓你離成功更近了一步！」",
+              "subtitle": "- 崔傘 2027 高考應援"
             },
             "es": {
-              "title": "Una flor que florece más tarde no es menos hermosa.",
-              "subtitle": "SEONGHWA"
+              "title": "¡Tu esfuerzo ya te ha acercado un paso más al éxito!",
+              "subtitle": "SAN | Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Uma flor que floresce mais tarde não é menos bonita.",
-              "subtitle": "SEONGHWA"
+              "title": "Seu esforço já te deixou um passo mais perto do sucesso!",
+              "subtitle": "SAN | Mensagem de apoio para o CSAT 2027"
+            }
+          }
+        },
+        {
+          "id": "q_472",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "All your hard work has brought you this far, and it will surely bear fruit.",
+              "subtitle": "WOOYOUNG | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「你所有的努力都让你走到了今天，它们终将结出硕果」",
+              "subtitle": "- 郑友荣 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「你所有的努力都讓你走到了今天，它們終將結出碩果」",
+              "subtitle": "- 鄭友榮 2027 高考應援"
+            },
+            "es": {
+              "title": "Todo tu esfuerzo te ha traído hasta aquí, y sin duda dará sus frutos.",
+              "subtitle": "WOOYOUNG | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Todo o seu esforço te trouxe até aqui e certamente dará frutos.",
+              "subtitle": "WOOYOUNG | Mensagem de apoio para o CSAT 2027"
+            }
+          }
+        },
+        {
+          "id": "q_475",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Take good care of yourself before the exam. All your hard work will pay off.",
+              "subtitle": "YEOSANG | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「考试前一定要好好照顾自己，你一直以来付出的努力都能得到回报」",
+              "subtitle": "- 姜吕尚 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「考試前一定要好好照顧自己，你一直以來付出的努力都能得到回報」",
+              "subtitle": "- 姜呂尚 2027 高考應援"
+            },
+            "es": {
+              "title": "Cuídate mucho antes del examen. Todo tu esfuerzo dará sus frutos.",
+              "subtitle": "YEOSANG | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Cuide bem de você antes da prova. Todo o seu esforço será recompensado.",
+              "subtitle": "YEOSANG | Mensagem de apoio para o CSAT 2027"
+            }
+          }
+        },
+        {
+          "id": "q_473",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I hope you can show all the determination and passion you've put into this journey.",
+              "subtitle": "SEONGHWA | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「希望你能展现出你一路走来所投入的毅力和热情」",
+              "subtitle": "- 朴星化 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「希望你能展現出你一路走來所投入的毅力和熱情」",
+              "subtitle": "- 朴星化 2027 高考應援"
+            },
+            "es": {
+              "title": "Espero que puedas demostrar toda la perseverancia y pasión que has puesto en este camino.",
+              "subtitle": "SEONGHWA | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Espero que você consiga mostrar toda a dedicação e paixão que colocou nessa jornada.",
+              "subtitle": "SEONGHWA | Mensagem de apoio para o CSAT 2027"
             }
           }
         }
       ],
       "countdowns": [
-        {
-          "id": "c_004",
-          "emojiPath": "",
-          "beginDateStr": "2026/07/28",
-          "endDateStr": "2026/10/25",
-          "i18n": {
-            "en": {
-              "title": "MUSIC EXPO IN TAIPEI"
-            },
-            "zh-Hans": {
-              "title": "MUSIC EXPO IN TAIPEI"
-            },
-            "zh-Hant": {
-              "title": "MUSIC EXPO IN TAIPEI"
-            }
-          }
-        },
         {
           "id": "c_010",
           "emojiPath": "",
@@ -120,6 +181,32 @@
       "id": "ateez_hongjoong",
       "name": "HONGJOONG",
       "quotes": [
+        {
+          "id": "q_399",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "While I'm away, make sure to eat well and get along with one another.\nWhen you think of me from time to time, don't be sad. Just smile.",
+              "subtitle": "HONGJOONG | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "在我不在的日子里，也要好好吃饭、相处得好好的\n偶尔想起我时，不要感到悲伤，只要笑着就好",
+              "subtitle": "- 金弘中 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "在我不在的日子裡，也要好好吃飯、相處得好好的\n偶爾想起我時，不要感到悲傷，只要笑著就好",
+              "subtitle": "- 金弘中 八週年手寫信"
+            },
+            "es": {
+              "title": "Mientras esté lejos, asegúrense de comer bien y llevarse bien entre ustedes.\nCuando se acuerden de mí de vez en cuando, no se pongan tristes. Solo sonrían.",
+              "subtitle": "HONGJOONG | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Enquanto eu estiver longe, não deixem de comer bem e de se dar bem uns com os outros.\nQuando se lembrarem de mim de vez em quando, não fiquem tristes. Apenas sorriam.",
+              "subtitle": "HONGJOONG | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_163",
           "emojiPath": "",
@@ -232,6 +319,32 @@
           }
         },
         {
+          "id": "q_400",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In your overflowing love and peace, I had the whole world.\nI won't make you cry again. I'll flow through your precious heart without causing pain.",
+              "subtitle": "YEOSANG | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "在满溢的爱与你的平稳中，曾是拥有全世界的我\n不能再让你流泪了 我应该要在你珍贵的心中\n不带任何刺痛感地流淌过才对，不论是什么事\n我都非常抱歉，也无比感谢",
+              "subtitle": "- 朴星化 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "在滿溢的愛與你的平穩中，曾是擁有全世界的我\n不能再讓你流淚了 我應該要在你珍貴的心中\n不帶任何刺痛感地流淌過才對，不論是什麼事\n我都非常抱歉，也無比感謝",
+              "subtitle": "- 朴星化 八週年手寫信"
+            },
+            "es": {
+              "title": "Con tu amor y tu paz, sentí tener el mundo entero.\nNo volveré a hacerte llorar. Quiero fluir por tu precioso corazón sin causarte dolor.",
+              "subtitle": "YEOSANG | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Com seu amor e sua paz, senti ter o mundo inteiro.\nNão vou mais fazer você chorar. Quero fluir pelo seu precioso coração sem causar dor.",
+              "subtitle": "YEOSANG | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
+        {
           "id": "q_160",
           "emojiPath": "",
           "i18n": {
@@ -308,6 +421,32 @@
               "subtitle": "SEONGHWA, Singles interview"
             }
           }
+        },
+        {
+          "id": "q_473",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I hope you can show all the determination and passion you've put into this journey.",
+              "subtitle": "SEONGHWA | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「希望你能展现出你一路走来所投入的毅力和热情」",
+              "subtitle": "- 朴星化 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「希望你能展現出你一路走來所投入的毅力和熱情」",
+              "subtitle": "- 朴星化 2027 高考應援"
+            },
+            "es": {
+              "title": "Espero que puedas demostrar toda la perseverancia y pasión que has puesto en este camino.",
+              "subtitle": "SEONGHWA | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Espero que você consiga mostrar toda a dedicação e paixão que colocou nessa jornada.",
+              "subtitle": "SEONGHWA | Mensagem de apoio para o CSAT 2027"
+            }
+          }
         }
       ],
       "countdowns": [
@@ -328,6 +467,32 @@
       "id": "ateez_yunho",
       "name": "YUNHO",
       "quotes": [
+        {
+          "id": "q_401",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't be too sad. Looking back,\nwe've spent more time together than we imagined, we've shared laughter and made it through hard times together.",
+              "subtitle": "YUNHO | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "不要太悲伤，回过头看\n我们共度过的时光比想象中还要长得多呢\n有许多一起笑过的日子，也一起挺过了辛苦的日子\n偶尔听到歌曲时，只要想起我们一次就好",
+              "subtitle": "- 丁润浩 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "不要太悲傷，回過頭看\n我們共度過的時光比想像中還要長得多呢\n有許多一起笑過的日子，也一起挺過了辛苦的日子\n偶爾聽到歌曲時，只要想起我們一次就好",
+              "subtitle": "- 丁潤浩 八週年手寫信"
+            },
+            "es": {
+              "title": "No estén tan tristes. Al mirar atrás,\nhemos pasado más tiempo juntos de lo que imaginábamos.\nHemos reído y superado momentos difíciles juntos.",
+              "subtitle": "YUNHO | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Não fiquem tão tristes. Olhando para trás,\npassamos mais tempo juntos do que imaginávamos.\nRimos e superamos momentos difíceis juntos.",
+              "subtitle": "YUNHO | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_127",
           "emojiPath": "",
@@ -457,6 +622,32 @@
               "subtitle": "YUNHO | 13/10/26 Men's Folio Vietnam"
             }
           }
+        },
+        {
+          "id": "q_477",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You've come so far on this long journey. I hope you get great results.\nATEEZ will always be cheering you on!",
+              "subtitle": "YUNHO | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「你已经走过了这段漫长的旅程，希望你能取得好成绩\nATEEZ会一直为你加油！」",
+              "subtitle": "- 丁润浩 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「你已經走過了這段漫長的旅程，希望你能取得好成績\nATEEZ會一直為你加油！」",
+              "subtitle": "- 丁潤浩 2027 高考應援"
+            },
+            "es": {
+              "title": "Has recorrido un largo camino. Espero que obtengas excelentes resultados.\n¡ATEEZ siempre te estará animando!",
+              "subtitle": "YUNHO | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Você percorreu um longo caminho. Espero que consiga ótimos resultados.\nO ATEEZ sempre vai torcer por você!",
+              "subtitle": "YUNHO | Mensagem de apoio para o CSAT 2027"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -465,6 +656,32 @@
       "id": "ateez_yeosang",
       "name": "YEOSANG",
       "quotes": [
+        {
+          "id": "q_402",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you ever miss me, please don't cry. \nTry to remember those happy moments instead.\nBecause those memories alone have already made me feel like I've lived a full life.",
+              "subtitle": "YEOSANG | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "万一有想念我的日子\n请不要哭，试着去想起那些幸福的瞬间吧\n因为光凭那些记忆，我就已经是拥有了整个人生的人",
+              "subtitle": "- 姜吕尚 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "萬一有想念我的日子\n請不要哭，試著去想起那些幸福的瞬間吧\n因為光憑那些記憶，我就已經是擁有了整個人生的人",
+              "subtitle": "- 姜呂尚 八週年手寫信"
+            },
+            "es": {
+              "title": "Si me extrañan,\npor favor, no lloren. Intenten recordar esos momentos felices.\nPorque solo esos recuerdos ya me hacen sentir que he vivido una vida plena.",
+              "subtitle": "YEOSANG | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Se sentirem saudades de mim,\npor favor, não chorem. Tentem se lembrar daqueles momentos felizes.\nPorque só essas lembranças já me fazem sentir que vivi uma vida completa.",
+              "subtitle": "YEOSANG | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_145",
           "emojiPath": "",
@@ -504,6 +721,32 @@
               "subtitle": "YEOSANG"
             }
           }
+        },
+        {
+          "id": "q_475",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Take good care of yourself before the exam. All your hard work will pay off.",
+              "subtitle": "YEOSANG | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「考试前一定要好好照顾自己，你一直以来付出的努力都能得到回报」",
+              "subtitle": "- 姜吕尚 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「考試前一定要好好照顧自己，你一直以來付出的努力都能得到回報」",
+              "subtitle": "- 姜呂尚 2027 高考應援"
+            },
+            "es": {
+              "title": "Cuídate mucho antes del examen. Todo tu esfuerzo dará sus frutos.",
+              "subtitle": "YEOSANG | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Cuide bem de você antes da prova. Todo o seu esforço será recompensado.",
+              "subtitle": "YEOSANG | Mensagem de apoio para o CSAT 2027"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -512,6 +755,32 @@
       "id": "ateez_san",
       "name": "SAN",
       "quotes": [
+        {
+          "id": "q_403",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Your very existence is already so precious.\nSo please cherish yourselves and live well.",
+              "subtitle": "SAN | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "你们光是存在就已经非常珍贵\n所以要好好珍惜自己、好好生活啊",
+              "subtitle": "- 崔伞 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "你們光是存在就已經非常珍貴\n所以要好好珍惜自己、好好生活啊",
+              "subtitle": "- 崔傘 八週年手寫信"
+            },
+            "es": {
+              "title": "Su sola existencia ya es algo muy valioso.\nAsí que, por favor, valórense y vivan bien.",
+              "subtitle": "SAN | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Só o fato de vocês existirem já é algo muito precioso.\nEntão, por favor, valorizem a si mesmos e vivam bem.",
+              "subtitle": "SAN | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_129",
           "emojiPath": "",
@@ -555,6 +824,32 @@
               "subtitle": "SAN | 13/10/26 YouTube Salon Drip"
             }
           }
+        },
+        {
+          "id": "q_476",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Your hard work has already brought you one step closer to success!",
+              "subtitle": "SAN | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「你的努力已经让你离成功更近了一步！」",
+              "subtitle": "- 崔伞 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「你的努力已經讓你離成功更近了一步！」",
+              "subtitle": "- 崔傘 2027 高考應援"
+            },
+            "es": {
+              "title": "¡Tu esfuerzo ya te ha acercado un paso más al éxito!",
+              "subtitle": "SAN | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Seu esforço já te deixou um passo mais perto do sucesso!",
+              "subtitle": "SAN | Mensagem de apoio para o CSAT 2027"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -563,6 +858,32 @@
       "id": "ateez_mingi",
       "name": "MINGI",
       "quotes": [
+        {
+          "id": "q_404",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "So don't be too sad. In the time we have left, love with all your heart.\nSmile more, live more happily than anyone else, and then come back.",
+              "subtitle": "MINGI | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "所以不要太过悲伤，在剩下的时间里尽情去爱\n多笑一笑 过得比任何人都要幸福后再过来吧",
+              "subtitle": "- 宋旼琦 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "所以不要太過悲傷，在剩下的時間裡盡情去愛\n多笑一笑 過得比任何人都要幸福後再過來吧",
+              "subtitle": "- 宋旼琦 八週年手寫信"
+            },
+            "es": {
+              "title": "Así que no estén demasiado tristes. Durante el tiempo que nos queda, amen con todo el corazón.\nSonrían más, vivan más felices que nadie y luego vuelvan.",
+              "subtitle": "MINGI | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Então não fiquem tão tristes. No tempo que nos resta, amem de todo o coração.\nSorriam mais, vivam mais felizes do que qualquer outra pessoa e depois voltem.",
+              "subtitle": "MINGI | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_398",
           "emojiPath": "",
@@ -586,6 +907,32 @@
             "pt": {
               "title": "Às vezes, as pessoas ao nosso redor nos abalam mais do que percebemos. Aprender a escolher a si mesmo é muito importante.",
               "subtitle": "MINGI"
+            }
+          }
+        },
+        {
+          "id": "q_474",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you come across a question you can't answer, stay calm.\nTake a moment to recall what you've learned.",
+              "subtitle": "MINGI | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「如果遇到不会的题，保持冷静\n花点时间，回忆一下学过的知识」",
+              "subtitle": "- 宋旼琦 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「如果遇到不會的題，保持冷靜\n花點時間，回憶一下學過的知識」",
+              "subtitle": "- 宋旼琦 2027 高考應援"
+            },
+            "es": {
+              "title": "Si encuentras una pregunta que no sabes responder, mantén la calma.\nTómate un momento para recordar lo que has estudiado.",
+              "subtitle": "MINGI | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Se encontrar uma questão que não sabe responder, mantenha a calma.\nTire um momento para lembrar o que estudou.",
+              "subtitle": "MINGI | Mensagem de apoio para o CSAT 2027"
             }
           }
         },
@@ -627,6 +974,32 @@
       "name": "WOOYOUNG",
       "quotes": [
         {
+          "id": "q_405",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I shared the best years of my life with the members.\nI'm truly grateful.\nPlease be my members again in the next life.",
+              "subtitle": "WOOYOUNG | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "成员们能够一起度过我人生的花样年华\n真的非常感谢，也很幸福\n下辈子也一定要继续当我的成员",
+              "subtitle": "- 郑友荣 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "成員們能夠一起度過我人生的花樣年華\n真的非常感謝，也很幸福\n下輩子也一定要繼續當我的成員",
+              "subtitle": "- 鄭友榮 八週年手寫信"
+            },
+            "es": {
+              "title": "Compartí los mejores años de mi vida con los miembros.\nEstoy muy agradecido.\nEn la próxima vida, sigan siendo mis compañeros de grupo.",
+              "subtitle": "WOOYOUNG | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Vivi os melhores anos da minha vida com os integrantes.\nSou muito grato.\nNa próxima vida, continuem sendo meus companheiros de grupo.",
+              "subtitle": "WOOYOUNG | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
+        {
           "id": "q_131",
           "emojiPath": "",
           "i18n": {
@@ -641,6 +1014,32 @@
             "zh-Hant": {
               "title": "「比起去年的自己，我更期待今年的自己；比起今年的自己，我更期待明年的自己。」",
               "subtitle": "- 鄭友榮《Singles》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_472",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "All your hard work has brought you this far, and it will surely bear fruit.",
+              "subtitle": "WOOYOUNG | 2027 CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「你所有的努力都让你走到了今天，它们终将结出硕果」",
+              "subtitle": "- 郑友荣 2027 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「你所有的努力都讓你走到了今天，它們終將結出碩果」",
+              "subtitle": "- 鄭友榮 2027 高考應援"
+            },
+            "es": {
+              "title": "Todo tu esfuerzo te ha traído hasta aquí, y sin duda dará sus frutos.",
+              "subtitle": "WOOYOUNG | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Todo o seu esforço te trouxe até aqui e certamente dará frutos.",
+              "subtitle": "WOOYOUNG | Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -663,6 +1062,32 @@
       "id": "ateez_jongho",
       "name": "JONGHO",
       "quotes": [
+        {
+          "id": "q_406",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Even if you get lost in a dark cave,\nkeep walking toward the faint light ahead.\nNo matter how long it takes, you'll find a bright light.",
+              "subtitle": "JONGHO | 8th Anniversary Handwritten Letter"
+            },
+            "zh-Hans": {
+              "title": "即使在漆黑的洞穴中迷失了方向\n只要朝着那远处微弱的光芒走去\n无论经过多少年月、多少时间，总会遇见明亮的光芒",
+              "subtitle": "- 崔钟浩 八周年手写信"
+            },
+            "zh-Hant": {
+              "title": "即使在漆黑的洞穴中迷失了方向\n只要朝著那遠處微弱的光芒走去\n無論經過多少年月、多少時間，總會遇見明亮的光芒",
+              "subtitle": "- 崔鍾浩 八週年手寫信"
+            },
+            "es": {
+              "title": "Aunque te pierdas en una cueva oscura,\nsigue caminando hacia la tenue luz lejana.\nPor mucho tiempo que pase, encontrarás una luz brillante.",
+              "subtitle": "JONGHO | Carta manuscrita del 8.º aniversario"
+            },
+            "pt": {
+              "title": "Mesmo que você se perca numa caverna escura,\nsiga em direção à luz fraca ao longe.\nNão importa quanto tempo passe, encontrará uma luz brilhante.",
+              "subtitle": "JONGHO | Carta escrita à mão do 8º aniversário"
+            }
+          }
+        },
         {
           "id": "q_132",
           "emojiPath": "",
