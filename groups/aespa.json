@@ -5,62 +5,7 @@
     {
       "id": "aespa_today",
       "name": "TODAY",
-      "quotes": [
-        {
-          "id": "q_298",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "Even when you’re busy, try to save a little time for yourself. Everyone needs time to recharge and reconnect with themselves.",
-              "subtitle": "NINGNING | El Espectador"
-            },
-            "zh-Hans": {
-              "title": "「再忙的时候，也要尽量留一点时间给自己。\n人需要有重新充电、重新和自己连接的时间。」",
-              "subtitle": "- 宁艺卓 El Espectador"
-            },
-            "zh-Hant": {
-              "title": "「再忙的時候，也要盡量留一點時間給自己。\n人需要有重新充電、重新和自己連結的時間。」",
-              "subtitle": "- 寧藝卓 El Espectador"
-            },
-            "es": {
-              "title": "Incluso cuando estés muy ocupado, intenta reservar un poco de tiempo para ti. Todos necesitamos tiempo para recargar energías y volver a conectar con nosotros mismos.",
-              "subtitle": "NINGNING | El Espectador"
-            },
-            "pt": {
-              "title": "Mesmo quando estiver muito ocupado, tente reservar um pouco de tempo para você. Todo mundo precisa de um tempo para recarregar as energias e se reconectar consigo mesmo.",
-              "subtitle": "NINGNING | El Espectador"
-            }
-          }
-        },
-        {
-          "id": "q_308",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「如果觉得自己正在承受压力，就会一直感到被束缚；但如果觉得自己能做到，就会变得无限自由。」",
-              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
-            },
-            "zh-Hant": {
-              "title": "「如果覺得自己正在承受壓力，就會一直感到被束縛；但如果覺得自己能做到，就會變得無限自由。」",
-              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
-            }
-          }
-        },
-        {
-          "id": "q_303",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我不是先有自信才努力，而是靠努力一点一点建立自信。」",
-              "subtitle": "- Giselle 26.8.28《CLASSY》"
-            },
-            "zh-Hant": {
-              "title": "「我不是先有自信才努力，而是靠努力一點一點建立自信。」",
-              "subtitle": "- Giselle 26.8.28《CLASSY》"
-            }
-          }
-        }
-      ],
+      "quotes": [],
       "countdowns": []
     },
     {
@@ -71,13 +16,25 @@
           "id": "q_217",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Jimin's beauty, the nation's pride.",
+              "subtitle": "KARINA"
+            },
             "zh-Hans": {
-              "title": "「智敏的美貌 民族的荣耀」",
-              "subtitle": " "
+              "title": "「知珉的美貌 民族的荣耀」",
+              "subtitle": "- 刘知珉"
             },
             "zh-Hant": {
               "title": "「知珉的美貌 民族的榮耀」",
-              "subtitle": " "
+              "subtitle": "- 劉知珉"
+            },
+            "es": {
+              "title": "La belleza de Jimin, el orgullo de la nación.",
+              "subtitle": "KARINA"
+            },
+            "pt": {
+              "title": "A beleza de Jimin, o orgulho da nação.",
+              "subtitle": "KARINA"
             }
           }
         },
@@ -85,13 +42,25 @@
           "id": "q_121",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "People who love each other grow more alike. So let's live amazing lives together.",
+              "subtitle": "KARINA"
+            },
             "zh-Hans": {
               "title": "「相爱的人会越来越像，那我们就一起度过帅气的人生吧。」",
-              "subtitle": "- 柳智敏"
+              "subtitle": "- 刘知珉"
             },
             "zh-Hant": {
               "title": "「相愛的人會越來越像，那我們就一起度過帥氣的人生吧。」",
               "subtitle": "- 劉知珉"
+            },
+            "es": {
+              "title": "Las personas que se aman se parecen cada vez más. Vivamos una vida increíble juntos.",
+              "subtitle": "KARINA"
+            },
+            "pt": {
+              "title": "Quem se ama fica cada vez mais parecido. Então vamos viver uma vida incrível juntos.",
+              "subtitle": "KARINA"
             }
           }
         },
@@ -99,13 +68,25 @@
           "id": "q_110",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "If you've given it your all, no matter the outcome, your journey is something to be proud of.",
+              "subtitle": "KARINA"
+            },
             "zh-Hans": {
               "title": "「如果你尽力了，不管结果如何，过程一定都很帅气的。」",
-              "subtitle": "- 柳智敏"
+              "subtitle": "- 刘知珉"
             },
             "zh-Hant": {
               "title": "「如果你盡力了，不管結果如何，過程一定都很帥氣的。」",
               "subtitle": "- 劉知珉"
+            },
+            "es": {
+              "title": "Si diste lo mejor de ti, sin importar el resultado, tu esfuerzo ya es admirable.",
+              "subtitle": "KARINA"
+            },
+            "pt": {
+              "title": "Se você deu o seu melhor, não importa o resultado, seu esforço já é admirável.",
+              "subtitle": "KARINA"
             }
           }
         },
@@ -113,39 +94,25 @@
           "id": "q_084",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I want you to reach great heights. I'll be proud of you.",
+              "subtitle": "KARINA"
+            },
             "zh-Hans": {
               "title": "「我要你站的高高的，我会为你骄傲。」",
-              "subtitle": "- 柳智敏"
+              "subtitle": "- 刘知珉"
             },
             "zh-Hant": {
               "title": "「我要你站的高高的，我會為你驕傲。」",
               "subtitle": "- 劉知珉"
-            }
-          }
-        },
-        {
-          "id": "q_082",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "1. Your mood improves\n2. Your eyes feel healed\n3. Your mind and body feel calm",
-              "subtitle": "The Karina effect"
-            },
-            "zh-Hans": {
-              "title": "1. 心情变好2. 眼睛被治愈3. 身心安定",
-              "subtitle": "- Karina 的功效"
-            },
-            "zh-Hant": {
-              "title": "1. 心情變好\n2. 眼睛被治癒\n3. 身心安定",
-              "subtitle": "- Karina 的功效"
             },
             "es": {
-              "title": "1. Mejora tu ánimo\n2. Tus ojos se sienten curados\n3. Tu cuerpo y mente se calman",
-              "subtitle": "El efecto Karina"
+              "title": "Quiero verte llegar muy alto. Estaré orgullosa de ti.",
+              "subtitle": "KARINA"
             },
             "pt": {
-              "title": "1. Seu humor melhora\n2. Seus olhos se sentem curados\n3. Corpo e mente ficam em paz",
-              "subtitle": "O efeito Karina"
+              "title": "Quero ver você chegar bem alto. Vou ter orgulho de você.",
+              "subtitle": "KARINA"
             }
           }
         },
@@ -154,23 +121,23 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "My wish is to be in your wish, to become part of my fans’ dreams and not just a passing moment.",
+              "title": "My wish is to be part of yours, to be part of my fans' dreams, not just someone passing through.",
               "subtitle": "KARINA"
             },
             "zh-Hans": {
-              "title": "「我的愿望是你的愿望里有我，愿自己成为粉丝梦想的一部分，而不是短暂的过客。」",
-              "subtitle": "- 柳智敏"
+              "title": "「我的愿望是你的愿望里有我，愿自己成为粉丝梦想的一部分，而不是短暂的过客」",
+              "subtitle": "- 刘知珉"
             },
             "zh-Hant": {
-              "title": "「我的願望是你的願望裡有我，願自己成為粉絲夢想的一部分，而不是短暫的過客。」",
+              "title": "「我的願望是你的願望裡有我，願自己成為粉絲夢想的一部分，而不是短暫的過客」",
               "subtitle": "- 劉知珉"
             },
             "es": {
-              "title": "Mi deseo es estar dentro de tu deseo, convertirme en parte de los sueños de mis fans y no ser solo alguien de paso.",
+              "title": "Mi deseo es formar parte de tus sueños, no ser solo alguien que pasa por tu vida.",
               "subtitle": "KARINA"
             },
             "pt": {
-              "title": "Meu desejo é estar dentro do seu desejo, tornar-me parte dos sonhos dos meus fãs e não ser apenas alguém de passagem.",
+              "title": "Meu desejo é fazer parte dos seus sonhos, não ser apenas alguém de passagem.",
               "subtitle": "KARINA"
             }
           }
@@ -187,7 +154,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You must believe in yourself, have confidence, and believe in yourself so strongly that you cannot give up.",
+              "title": "Believe in yourself. Be confident. Keep believing in yourself until giving up is no longer an option.",
               "subtitle": "GISELLE"
             },
             "zh-Hans": {
@@ -199,11 +166,11 @@
               "subtitle": "- Giselle"
             },
             "es": {
-              "title": "Tienes que creer en ti, tener confianza y creer en ti con tanta fuerza que no puedas rendirte.",
+              "title": "Cree en ti. Ten confianza. Sigue creyendo en ti hasta que rendirte deje de ser una opción.",
               "subtitle": "GISELLE"
             },
             "pt": {
-              "title": "Você precisa acreditar em si mesmo, ter confiança e acreditar em si com tanta força que não consiga desistir.",
+              "title": "Acredite em si mesma. Tenha confiança. Continue acreditando até desistir deixar de ser uma opção.",
               "subtitle": "GISELLE"
             }
           }
@@ -212,38 +179,24 @@
           "id": "q_122",
           "emojiPath": "",
           "i18n": {
-            "zh-Hans": {
-              "title": "「不要让任何人黯淡你的光芒。\n永远记得，你的存在本身就已经如此美丽且强大。你比自己想象中，拥有更多掌控人生的力量。」",
-              "subtitle": "- Giselle"
-            },
-            "zh-Hant": {
-              "title": "「不要讓任何人黯淡你的光芒。\n永遠記得，你的存在本身就已經如此美麗且強大，你比自己想像中，擁有更多掌控人生的力量。",
-              "subtitle": "- Giselle"
-            }
-          }
-        },
-        {
-          "id": "q_300",
-          "emojiPath": "",
-          "i18n": {
             "en": {
-              "title": "Right now, I’m slowly finding my way back to who I used to be.",
+              "title": "Don't let anyone dim your light.\nRemember, your very existence is beautiful and powerful. You have more control over your life than you think.",
               "subtitle": "GISELLE"
             },
             "zh-Hans": {
-              "title": "「现在的我，正在一点一点回到原本的自己。」",
-              "subtitle": "- Giselle 26.6.3《DAZED Korea》"
+              "title": "「不要让任何人黯淡你的光芒。\n永远记得，你的存在本身就已经如此美丽且强大，你比自己想象中，拥有更多掌控人生的力量。」",
+              "subtitle": "- Giselle"
             },
             "zh-Hant": {
-              "title": "「現在的我，正在一點一點回到原本的自己。」",
-              "subtitle": "- Giselle 26.6.3《DAZED Korea》"
+              "title": "「不要讓任何人黯淡你的光芒。\n永遠記得，你的存在本身就已經如此美麗且強大，你比自己想像中，擁有更多掌控人生的力量。」",
+              "subtitle": "- Giselle"
             },
             "es": {
-              "title": "Ahora mismo, poco a poco estoy volviendo a ser quien era antes.",
+              "title": "No dejes que nadie apague tu luz.\nRecuerda que tu existencia ya es hermosa y poderosa. Tienes más control sobre tu vida del que imaginas.",
               "subtitle": "GISELLE"
             },
             "pt": {
-              "title": "Agora, aos poucos, estou voltando a ser quem eu era antes.",
+              "title": "Não deixe ninguém apagar sua luz.\nLembre-se de que sua existência já é linda e poderosa. Você tem mais controle sobre sua vida do que imagina.",
               "subtitle": "GISELLE"
             }
           }
@@ -253,8 +206,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even doing just a little something can become the first step toward what comes next.",
-              "subtitle": "GISELLE"
+              "title": "Even the smallest action can be the first step toward what's next.",
+              "subtitle": "GISELLE | 08/28/26 · CLASSY"
             },
             "zh-Hans": {
               "title": "「哪怕只是做一点什么，也可能成为走向下一步的第一个起点。」",
@@ -265,12 +218,12 @@
               "subtitle": "- Giselle 26.8.28《CLASSY》"
             },
             "es": {
-              "title": "Incluso hacer algo pequeño puede convertirse en el primer paso hacia lo que viene después",
-              "subtitle": "GISELLE"
+              "title": "Incluso la acción más pequeña puede ser el primer paso hacia lo que viene.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
             },
             "pt": {
-              "title": "Mesmo fazer algo pequeno pode se tornar o primeiro passo em direção ao que vem depois.",
-              "subtitle": "GISELLE"
+              "title": "Até a menor atitude pode ser o primeiro passo para seguir em frente.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
             }
           }
         },
@@ -278,6 +231,10 @@
           "id": "q_302",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Maybe no one can feel 100% satisfied. But if we cherish those little moments of satisfaction, I believe they'll eventually build confidence.",
+              "subtitle": "GISELLE | 08/28/26 · CLASSY"
+            },
             "zh-Hans": {
               "title": "「也许谁都很难做到100%满意。但如果不忽略那些小小的满足，一点一点把它们收集起来，我觉得它们最终会变成自信。」",
               "subtitle": "- Giselle 26.8.28《CLASSY》"
@@ -285,6 +242,14 @@
             "zh-Hant": {
               "title": "「也許誰都很難做到100%滿意。但如果不忽略那些小小的滿足，一點一點把它們收集起來，我覺得它們最終會變成自信。」",
               "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "es": {
+              "title": "Quizás nadie pueda sentirse satisfecho al 100 %. Pero si valoramos las pequeñas satisfacciones, creo que acabarán convirtiéndose en confianza.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
+            },
+            "pt": {
+              "title": "Talvez ninguém consiga estar 100% satisfeito. Mas, se valorizarmos as pequenas satisfações, acredito que elas acabarão se transformando em confiança.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
             }
           }
         },
@@ -292,6 +257,10 @@
           "id": "q_303",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I didn't work hard because I was confident. I built my confidence little by little through hard work.",
+              "subtitle": "GISELLE | 08/28/26 · CLASSY"
+            },
             "zh-Hans": {
               "title": "「我不是先有自信才努力，而是靠努力一点一点建立自信。」",
               "subtitle": "- Giselle 26.8.28《CLASSY》"
@@ -299,6 +268,14 @@
             "zh-Hant": {
               "title": "「我不是先有自信才努力，而是靠努力一點一點建立自信。」",
               "subtitle": "- Giselle 26.8.28《CLASSY》"
+            },
+            "es": {
+              "title": "No me esforcé porque tuviera confianza. Fui ganando confianza poco a poco gracias a mi esfuerzo.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
+            },
+            "pt": {
+              "title": "Não me esforcei porque já tinha confiança. Construí minha confiança aos poucos, com muito esforço.",
+              "subtitle": "GISELLE | 28/08/26 · CLASSY"
             }
           }
         }
@@ -313,6 +290,10 @@
           "id": "q_284",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Keep loving Kim Minjeong. Love me till the very end. The puppy will betray you first!",
+              "subtitle": "WINTER"
+            },
             "zh-Hans": {
               "title": "「一直喜欢金旼炡吧，喜欢旼炡到死吧，先背叛的是小狗哦。」",
               "subtitle": "- 金旼炡"
@@ -320,20 +301,14 @@
             "zh-Hant": {
               "title": "「一直喜歡金旼炡吧，喜歡旼炡到死吧，先背叛的是小狗喔。」",
               "subtitle": "- 金旼炡"
-            }
-          }
-        },
-        {
-          "id": "q_218",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
             },
-            "zh-Hant": {
-              "title": "「笨蛋小狗汪汪」",
-              "subtitle": "- 金旼炡"
+            "es": {
+              "title": "Sigue queriendo a Kim Minjeong. Quiéreme hasta el final. ¡El perrito te traicionará primero!",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Continue amando Kim Minjeong. Me ame até o fim. O cachorrinho vai te trair primeiro!",
+              "subtitle": "WINTER"
             }
           }
         },
@@ -341,6 +316,10 @@
           "id": "q_094",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Winter to millions, but Minjeong just for you.",
+              "subtitle": "WINTER"
+            },
             "zh-Hans": {
               "title": "「千万人的Winter 你一个人的旼炡」",
               "subtitle": "- 金旼炡"
@@ -348,60 +327,14 @@
             "zh-Hant": {
               "title": "「千萬人的Winter 你一個人的旼炡」",
               "subtitle": "- 金旼炡"
-            }
-          }
-        },
-        {
-          "id": "q_208",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "We should live in a world without prejudice.",
-              "subtitle": "WINTER"
-            },
-            "zh-Hans": {
-              "title": "「要活在一个没有偏见的世界里。」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「要活在一個沒有偏見的世界裡。」",
-              "subtitle": "- 金旼炡"
             },
             "es": {
-              "title": "Deberíamos vivir en un mundo sin prejuicios.",
+              "title": "Winter para millones, pero Minjeong solo para ti.",
               "subtitle": "WINTER"
             },
             "pt": {
-              "title": "Deveríamos viver em um mundo sem preconceitos.",
+              "title": "Winter para milhões, mas Minjeong só para você.",
               "subtitle": "WINTER"
-            }
-          }
-        },
-        {
-          "id": "q_095",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
-              "subtitle": "- 金旼炡"
-            },
-            "zh-Hant": {
-              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
-              "subtitle": "- 金旼炡"
-            }
-          }
-        },
-        {
-          "id": "q_308",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「如果觉得自己正在承受压力，就会一直感到被束缚；但如果觉得自己能做到，就会变得无限自由。」",
-              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
-            },
-            "zh-Hant": {
-              "title": "「如果覺得自己正在承受壓力，就會一直感到被束縛；但如果覺得自己能做到，就會變得無限自由。」",
-              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
             }
           }
         },
@@ -409,6 +342,10 @@
           "id": "q_123",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "You must cherish and love yourself before you can become someone full of love.",
+              "subtitle": "WINTER"
+            },
             "zh-Hans": {
               "title": "「你必须珍惜并爱自己，才能成为一个充满爱的人。」",
               "subtitle": "- 金旼炡"
@@ -416,6 +353,14 @@
             "zh-Hant": {
               "title": "「你必須珍惜並愛自己，才能成為一個充滿愛的人。」",
               "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "Debes valorarte y amarte para convertirte en alguien lleno de amor.",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Você precisa se valorizar e se amar para se tornar alguém cheio de amor.",
+              "subtitle": "WINTER"
             }
           }
         },
@@ -424,7 +369,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I hope you, who like me, can be happy. Having you like me makes me happy too.",
+              "title": "I hope you find happiness. Knowing you love me makes me happy too.",
               "subtitle": "WINTER"
             },
             "zh-Hans": {
@@ -436,12 +381,116 @@
               "subtitle": "- 金旼炡"
             },
             "es": {
-              "title": "Espero que tú, que me quieres, puedas ser feliz. Que tú me quieras también me hace feliz.",
+              "title": "Espero que seas feliz. Saber que me quieres también me hace feliz.",
               "subtitle": "WINTER"
             },
             "pt": {
-              "title": "Espero que você, que gosta de mim, possa ser feliz. Ter você gostando de mim também me faz feliz.",
+              "title": "Espero que você seja feliz. Saber que você gosta de mim também me faz feliz.",
               "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_095",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't worry, Winter will freeze all your worries away.",
+              "subtitle": "WINTER"
+            },
+            "zh-Hans": {
+              "title": "「别担心，Winter 会把你们的烦恼都冰冻起来。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「別擔心，Winter 會把你們的煩惱都冰凍起來。」",
+              "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "No se preocupen, Winter congelará todas sus preocupaciones.",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Não se preocupem, Winter vai congelar todas as suas preocupações.",
+              "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_208",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "We should live in a world free from prejudice.",
+              "subtitle": "WINTER"
+            },
+            "zh-Hans": {
+              "title": "「要活在一个没有偏见的世界里。」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「要活在一個沒有偏見的世界裡。」",
+              "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "Debemos vivir en un mundo sin prejuicios.",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Devemos viver em um mundo livre de preconceitos.",
+              "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_218",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Silly puppy, woof woof!",
+              "subtitle": "WINTER"
+            },
+            "zh-Hans": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            },
+            "zh-Hant": {
+              "title": "「笨蛋小狗汪汪」",
+              "subtitle": "- 金旼炡"
+            },
+            "es": {
+              "title": "Perrito tontito, ¡guau, guau!",
+              "subtitle": "WINTER"
+            },
+            "pt": {
+              "title": "Cachorrinho bobinho, au au!",
+              "subtitle": "WINTER"
+            }
+          }
+        },
+        {
+          "id": "q_308",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If you see it as pressure, you'll feel trapped. But if you believe you can do it, you'll feel endlessly free.",
+              "subtitle": "WINTER |09/14/26 · Cosmopolitan Korea Interview"
+            },
+            "zh-Hans": {
+              "title": "「如果觉得自己正在承受压力，就会一直感到被束缚；但如果觉得自己能做到，就会变得无限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》采访"
+            },
+            "zh-Hant": {
+              "title": "「如果覺得自己正在承受壓力，就會一直感到被束縛；但如果覺得自己能做到，就會變得無限自由。」",
+              "subtitle": "- 金旼炡 26.9.14《Cosmopolitan Korea》採訪"
+            },
+            "es": {
+              "title": "Si lo ves como una presión, te sentirás atrapado. Pero si crees que puedes lograrlo, te sentirás libre.",
+              "subtitle": "WINTER |14/09/26 · Entrevista con Cosmopolitan Korea"
+            },
+            "pt": {
+              "title": "Se você encarar como pressão, vai se sentir preso. Mas se acreditar que consegue, vai se sentir livre.",
+              "subtitle": "WINTER |14/09/26 · Entrevista à Cosmopolitan Korea"
             }
           }
         }
@@ -457,11 +506,11 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even when you’re busy, try to save a little time for yourself. Everyone needs time to recharge and reconnect with themselves.",
+              "title": "Even when you're busy, try to make some time for yourself.\nWe all need time to recharge and reconnect with ourselves.",
               "subtitle": "NINGNING | El Espectador"
             },
             "zh-Hans": {
-              "title": "「再忙的时候，也要尽量留一点时间给自己。\n人需要有重新充电、重新和自己连接的时间。」",
+              "title": "「再忙的时候，也要尽量留一点时间给自己。\n人需要有重新充电、重新和自己连结的时间。」",
               "subtitle": "- 宁艺卓 El Espectador"
             },
             "zh-Hant": {
@@ -469,11 +518,11 @@
               "subtitle": "- 寧藝卓 El Espectador"
             },
             "es": {
-              "title": "Incluso cuando estés muy ocupado, intenta reservar un poco de tiempo para ti. Todos necesitamos tiempo para recargar energías y volver a conectar con nosotros mismos.",
+              "title": "Incluso cuando estés muy ocupada, intenta reservar tiempo para ti.\nTodos necesitamos recargar energías y reconectar con nosotros mismos.",
               "subtitle": "NINGNING | El Espectador"
             },
             "pt": {
-              "title": "Mesmo quando estiver muito ocupado, tente reservar um pouco de tempo para você. Todo mundo precisa de um tempo para recarregar as energias e se reconectar consigo mesmo.",
+              "title": "Mesmo na correria, tente reservar um tempo para você.\nTodos precisamos recarregar as energias e nos reconectar com nós mesmos.",
               "subtitle": "NINGNING | El Espectador"
             }
           }
@@ -482,13 +531,25 @@
           "id": "q_124",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Go after whatever you want. Girls can do anything.",
+              "subtitle": "NINGNING"
+            },
             "zh-Hans": {
-              "title": "「想做什么就去做吧，女生们可以做任何事」",
+              "title": "「想做什么就去做吧，女生们可以做任何事。」",
               "subtitle": "- 宁艺卓"
             },
             "zh-Hant": {
               "title": "「想做什麼就去做吧，女生們可以做任何事。」",
               "subtitle": "- 寧藝卓"
+            },
+            "es": {
+              "title": "Haz lo que quieras hacer. Las chicas pueden lograr cualquier cosa.",
+              "subtitle": "NINGNING"
+            },
+            "pt": {
+              "title": "Faça o que tiver vontade. Meninas podem fazer qualquer coisa.",
+              "subtitle": "NINGNING"
             }
           }
         },
@@ -497,24 +558,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "The more ideas you have, the easier it is to find inspiration, and the less likely you are to trap yourself within one way of thinking.",
-              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
+              "title": "The more ideas you have, the easier it is to find inspiration and avoid limiting yourself.",
+              "subtitle": "NINGNING | 04/17/26 · GQ Korea"
             },
             "zh-Hans": {
               "title": "「想法越多，反而越容易得到灵感，也不会把自己困在一个圈子里。」",
-              "subtitle": "- 宁艺卓  26.4.17《GQ Korea》"
+              "subtitle": "- 宁艺卓 26.4.17《GQ Korea》"
             },
             "zh-Hant": {
               "title": "「想法越多，反而越容易得到靈感，也不會把自己困在一個圈子裡。」",
               "subtitle": "- 寧藝卓 26.4.17《GQ Korea》"
             },
             "es": {
-              "title": "Cuantas más ideas tengas, más fácil será encontrar inspiración y menos probable será que te encierres en una sola forma de pensar.",
-              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
+              "title": "Cuantas más ideas tengas, más fácil será encontrar inspiración y no limitarte.",
+              "subtitle": "NINGNING | 17/04/26 · GQ Korea"
             },
             "pt": {
-              "title": "Quanto mais ideias você tiver, mais fácil será encontrar inspiração e menos provável será que você se prenda a uma única forma de pensar.",
-              "subtitle": "NINGNING | 26.4.17《GQ Korea》"
+              "title": "Quanto mais ideias você tiver, mais fácil será encontrar inspiração e não se limitar.",
+              "subtitle": "NINGNING | 17/04/26 · GQ Korea"
             }
           }
         },
@@ -523,8 +584,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Expressing yourself and having ambition are not bad things. Expressing yourself is natural, and having ambition is a good thing too.",
-              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+              "title": "There's nothing wrong with expressing yourself or being ambitious.\nSelf-expression is natural, and ambition is a good thing.",
+              "subtitle": "NINGNING | 05/07/26 · Marie Claire China"
             },
             "zh-Hans": {
               "title": "「表达自己和有野心都不是坏事。\n表达自己是很自然的事情，有野心也是一件好事。」",
@@ -535,12 +596,12 @@
               "subtitle": "- 寧藝卓 26.5.7《Marie Claire China》"
             },
             "es": {
-              "title": "Expresarte y tener ambición no son cosas malas. Expresarte es algo natural, y tener ambición también es algo bueno.",
-              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+              "title": "No tiene nada de malo expresarte ni tener ambiciones.\nExpresarte es natural, y tener ambiciones es algo bueno.",
+              "subtitle": "NINGNING | 07/05/26 · Marie Claire China"
             },
             "pt": {
-              "title": "Expressar-se e ter ambição não são coisas ruins. Expressar-se é algo natural, e ter ambição também é algo bom.",
-              "subtitle": "NINGNING | 26.5.7 Marie Claire China"
+              "title": "Não há nada de errado em se expressar ou ter ambição.\nSe expressar é natural, e ter ambição é algo bom.",
+              "subtitle": "NINGNING | 07/05/26 · Marie Claire China"
             }
           }
         },
@@ -548,6 +609,10 @@
           "id": "q_064",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I believe every woman in the world is a princess.",
+              "subtitle": "NINGNING"
+            },
             "zh-Hans": {
               "title": "「我认为全世界的女人都是公主」",
               "subtitle": "- 宁艺卓"
@@ -555,6 +620,14 @@
             "zh-Hant": {
               "title": "「我認為全世界的女人都是公主」",
               "subtitle": "- 寧藝卓"
+            },
+            "es": {
+              "title": "Creo que todas las mujeres del mundo son princesas.",
+              "subtitle": "NINGNING"
+            },
+            "pt": {
+              "title": "Acredito que todas as mulheres do mundo são princesas.",
+              "subtitle": "NINGNING"
             }
           }
         }
