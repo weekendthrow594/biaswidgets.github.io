@@ -7,114 +7,132 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_346",
+          "id": "q_479",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "“Don't be too nervous! I hope every answer is right, whether you guess or solve it~\nHearts2Hearts will be cheering you on, hehe! Fighting! 💕”",
+              "subtitle": "A-NA | 11/18/26 · Weverse CSAT Encouragement"
+            },
             "zh-Hans": {
-              "title": "「没有什么年龄是开始某事的太晚的。\n今天是我们未来生活日子里最年轻的一天。\n所以如果你有想做的事，就全部试试看吧」",
-              "subtitle": "- JIWOO"
+              "title": "「不要太紧张，希望不管是猜的还是自己解出来的题目，通通都能答对～\n我们 Hearts2Hearts 会一直为你们加油的，嘿嘿！加油💕」",
+              "subtitle": "- A-NA 2026.11.18 · WVS 高考应援"
             },
             "zh-Hant": {
-              "title": "「沒有什麼年齡是開始某事的太晚的。\n今天是我們未來生活日子裡最年輕的一天。\n所以如果你有想做的事，就全部試試看吧」",
-              "subtitle": "- JIWOO"
+              "title": "「不要太緊張，希望不管是猜的還是自己解出來的題目，通通都能答對～\n我們 Hearts2Hearts 會一直為你們加油的，嘿嘿！加油💕」",
+              "subtitle": "- A-NA 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«¡No se pongan nerviosos! Ojalá acierten todas las respuestas, tanto si adivinan como si las resuelven~\nHearts2Hearts estará animándolos, jeje. ¡Ánimo! 💕»",
+              "subtitle": "A-NA | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Não fiquem nervosos! Que acertem todas as questões, tanto as que chutarem quanto as que resolverem~\nO Hearts2Hearts vai torcer por vocês, hehe! Força! 💕”",
+              "subtitle": "A-NA | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         },
         {
-          "id": "q_347",
+          "id": "q_481",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "“I know how hard and amazing it is to work toward one goal for so long.\nYou've worked so hard, and I'm sure your efforts will pay off.\nDon't be too nervous. Trust yourself and do your best!”",
+              "subtitle": "JIWOO | 11/18/26 · Weverse CSAT Encouragement"
+            },
             "zh-Hans": {
-              "title": "「如果受了伤，或经历了辛苦的事情，就把它当成让自己变得更坚强的机会吧」",
-              "subtitle": "- CARMEN 2026.09.17《non-no》专访"
+              "title": "「我知道，为了一个目标长时间努力，是一件多么了不起又不容易的事。\n这段时间真的辛苦了，相信你们付出的努力，一定会带来好结果。\n不要太紧张，相信一路以来努力的自己，好好发挥吧！」",
+              "subtitle": "- JIWOO 2026.11.18 · WVS 高考应援"
             },
             "zh-Hant": {
-              "title": "「如果受了傷，或經歷了辛苦的事情，就把它當成讓自己變得更堅強的機會吧」",
-              "subtitle": "- CARMEN 2026.09.17《non-no》專訪"
+              "title": "「我知道，為了一個目標長時間努力，是一件多麼了不起又不容易的事。\n這段時間真的辛苦了，相信你們付出的努力，一定會帶來好結果。\n不要太緊張，相信一路以來努力的自己，好好發揮吧！」",
+              "subtitle": "- JIWOO 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«Sé lo difícil y admirable que es esforzarse tanto por una sola meta.\nHan trabajado mucho, y seguro que su esfuerzo dará frutos.\nNo se pongan nerviosos. ¡Confíen en ustedes y den lo mejor!»",
+              "subtitle": "JIWOO | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Sei como é difícil e incrível se dedicar tanto tempo a um único objetivo.\nVocês se esforçaram muito, e esse esforço vai dar frutos.\nNão fiquem nervosos. Confiem em vocês e deem o seu melhor!”",
+              "subtitle": "JIWOO | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         },
         {
-          "id": "q_348",
+          "id": "q_480",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "“Most importantly, whatever the results, never forget how amazing you all are for making it this far🥹!!\nI'll be cheering for you all tomorrow with all my heart🍀”",
+              "subtitle": "IAN | 11/18/26 · Weverse CSAT Encouragement"
+            },
             "zh-Hans": {
-              "title": "「相信自己，继续向前吧。\n每个人绽放的方式都不同，所以相信自己的步调，不要急着迎来属于自己的花季」",
-              "subtitle": "- YUHA 2025.10.29《Wonderland》专访"
+              "title": "「最重要的是，不管结果如何，都不要忘记，努力走到今天的每一位考生，真的都非常了不起、非常帅气🥹！！\nIAN 也会真心为大家的明天加油🍀」",
+              "subtitle": "- IAN 2026.11.18 · WVS 高考应援"
             },
             "zh-Hant": {
-              "title": "「相信自己，繼續向前吧。\n每個人綻放的方式都不同，所以相信自己的步調，不要急著迎來屬於自己的花季」",
-              "subtitle": "- YUHA 2025.10.29《Wonderland》專訪"
+              "title": "「最重要的是，不管結果如何，都不要忘記，努力走到今天的每一位考生，真的都非常了不起、非常帥氣🥹！！\nIAN 也會真心為大家的明天加油🍀」",
+              "subtitle": "- IAN 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«Lo más importante es que, sin importar los resultados, recuerden lo increíbles que son por llegar hasta aquí🥹!!\nMañana los animaré de todo corazón🍀»",
+              "subtitle": "IAN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“O mais importante é que, seja qual for o resultado, lembrem-se de como vocês são incríveis por chegar até aqui🥹!!\nAmanhã vou torcer por todos de coração🍀”",
+              "subtitle": "IAN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         },
         {
-          "id": "q_349",
+          "id": "q_482",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "“Really~~ You've already done sooo well! >_<Don't put too much pressure on yourself tomorrow.\nTrust your hard work, stay calm, and do your best on the exam~~~”",
+              "subtitle": "CARMEN | 11/18/26 · Weverse CSAT Encouragement"
+            },
             "zh-Hans": {
-              "title": "「要有自信，我要活成自己的样子！」",
-              "subtitle": "- STELLA"
+              "title": "「真的哦～～你们已经做得超棒了 >_<明天不要给自己太大压力\n相信一直以来努力的自己，保持冷静，好好完成考试再回来吧～～～」",
+              "subtitle": "- CARMEN 2026.11.18 · WVS 高考应援"
             },
             "zh-Hant": {
-              "title": "「要有自信，我要活成自己的樣子！」",
-              "subtitle": "- STELLA"
+              "title": "「真的喔～～你們已經做得超棒了 >_<明天不要給自己太大壓力\n相信一直以來努力的自己，保持冷靜，好好完成考試再回來吧～～～」",
+              "subtitle": "- CARMEN 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«¡De verdad~~ Lo han hecho súper bien! >_<Mañana no se presionen demasiado.\nConfíen en su esfuerzo, mantengan la calma y den lo mejor en el examen~~~»",
+              "subtitle": "CARMEN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Sériooo~~ Vocês já foram incríveis! >_<Não se cobrem demais amanhã.\nConfiem no seu esforço, mantenham a calma e deem o seu melhor na prova~~~”",
+              "subtitle": "CARMEN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         },
         {
-          "id": "q_350",
+          "id": "q_478",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "“All those tears you cried in secret and moments you wanted to give up,\nyou've made it through them all, HACHUs. That's already incredible.\nTomorrow, the whole world will be cheering you on.”",
+              "subtitle": "JUUN | 11/18/26 · Weverse CSAT Encouragement"
+            },
             "zh-Hans": {
-              "title": "「现在的我还有很多不足，所以想继续深入研究舞蹈，建立只属于自己的风格」",
-              "subtitle": "- JUUN 2026.09.15《non-no》专访"
+              "title": "「那些在无人知晓的地方偷偷流下的眼泪，还有曾经想要放弃的瞬间，\n能够熬过这一切的哈啾们，已经非常了不起了。\n至少在明天，全世界的人都会怀着同样的心情为你们加油。」",
+              "subtitle": "- JUUN 2026.11.18 · WVS 高考应援"
             },
             "zh-Hant": {
-              "title": "「現在的我還有很多不足，所以想繼續深入研究舞蹈，建立只屬於自己的風格」",
-              "subtitle": "-JUUN 2026.09.15《non-no》專訪"
-            }
-          }
-        },
-        {
-          "id": "q_351",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我认为，能成为别人憧憬的存在，不只是外表出众，内在也必须充满魅力」",
-              "subtitle": "- ANA 2026.09.15《non-no》专访"
+              "title": "「那些在無人知曉的地方偷偷流下的眼淚，還有曾經想要放棄的瞬間，\n能夠熬過這一切的哈啾們，已經非常了不起了。\n至少在明天，全世界的人都會懷著同樣的心情為你們加油。」",
+              "subtitle": "- JUUN 2026.11.18 · WVS 高考應援"
             },
-            "zh-Hant": {
-              "title": "「我認為，能成為別人憧憬的存在，不只是外表出眾，內在也必須充滿魅力」",
-              "subtitle": "- ANA 2026.09.15《non-no》專訪"
-            }
-          }
-        },
-        {
-          "id": "q_352",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我会努力成为一个配得上那份期待、甚至能超越你们期待的人」",
-              "subtitle": "- IAN"
+            "es": {
+              "title": "«Todas esas lágrimas en secreto y los momentos en que quisieron rendirse,\nlos han superado, HACHUs. Eso ya es increíble.\nMañana, el mundo entero estará animándolos».",
+              "subtitle": "JUUN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
             },
-            "zh-Hant": {
-              "title": "「我會努力成為一個配得上那份期待、甚至能超越你們期待的人」",
-              "subtitle": "- IAN"
-            }
-          }
-        },
-        {
-          "id": "q_353",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「想要好好思考事情的时候，我会留一点时间给自己，独自抬头看看天空。\n躺在床上静静地望着天空，不安的心情也会慢慢平静下来」",
-              "subtitle": "- YEON 2026.09.16《non-no》专访"
-            },
-            "zh-Hant": {
-              "title": "「想要好好思考事情的時候，我會留一點時間給自己，獨自抬頭看看天空。\n躺在床上靜靜地望著天空，不安的心情也會慢慢平靜下來」",
-              "subtitle": "- YEON 2026.09.16《non-no》專訪"
+            "pt": {
+              "title": "“Todas as lágrimas escondidas e os momentos em que quiseram desistir,\nvocês superaram tudo, HACHUs. Isso já é incrível.\nAmanhã, o mundo inteiro estará torcendo por vocês.”",
+              "subtitle": "JUUN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         }
@@ -138,6 +156,32 @@
               "subtitle": "- JIWOO"
             }
           }
+        },
+        {
+          "id": "q_481",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“I know how hard and amazing it is to work toward one goal for so long.\nYou've worked so hard, and I'm sure your efforts will pay off.\nDon't be too nervous. Trust yourself and do your best!”",
+              "subtitle": "JIWOO | 11/18/26 · Weverse CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「我知道，为了一个目标长时间努力，是一件多么了不起又不容易的事。\n这段时间真的辛苦了，相信你们付出的努力，一定会带来好结果。\n不要太紧张，相信一路以来努力的自己，好好发挥吧！」",
+              "subtitle": "- JIWOO 2026.11.18 · WVS 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「我知道，為了一個目標長時間努力，是一件多麼了不起又不容易的事。\n這段時間真的辛苦了，相信你們付出的努力，一定會帶來好結果。\n不要太緊張，相信一路以來努力的自己，好好發揮吧！」",
+              "subtitle": "- JIWOO 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«Sé lo difícil y admirable que es esforzarse tanto por una sola meta.\nHan trabajado mucho, y seguro que su esfuerzo dará frutos.\nNo se pongan nerviosos. ¡Confíen en ustedes y den lo mejor!»",
+              "subtitle": "JIWOO | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Sei como é difícil e incrível se dedicar tanto tempo a um único objetivo.\nVocês se esforçaram muito, e esse esforço vai dar frutos.\nNão fiquem nervosos. Confiem em vocês e deem o seu melhor!”",
+              "subtitle": "JIWOO | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -157,6 +201,32 @@
             "zh-Hant": {
               "title": "「如果受了傷，或經歷了辛苦的事情，就把它當成讓自己變得更堅強的機會吧」",
               "subtitle": "- CARMEN 2026.09.17《non-no》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_482",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Really~~ You've already done sooo well! >_<Don't put too much pressure on yourself tomorrow.\nTrust your hard work, stay calm, and do your best on the exam~~~”",
+              "subtitle": "CARMEN | 11/18/26 · Weverse CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「真的哦～～你们已经做得超棒了 >_<明天不要给自己太大压力\n相信一直以来努力的自己，保持冷静，好好完成考试再回来吧～～～」",
+              "subtitle": "- CARMEN 2026.11.18 · WVS 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「真的喔～～你們已經做得超棒了 >_<明天不要給自己太大壓力\n相信一直以來努力的自己，保持冷靜，好好完成考試再回來吧～～～」",
+              "subtitle": "- CARMEN 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«¡De verdad~~ Lo han hecho súper bien! >_<Mañana no se presionen demasiado.\nConfíen en su esfuerzo, mantengan la calma y den lo mejor en el examen~~~»",
+              "subtitle": "CARMEN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Sériooo~~ Vocês já foram incríveis! >_<Não se cobrem demais amanhã.\nConfiem no seu esforço, mantenham a calma e deem o seu melhor na prova~~~”",
+              "subtitle": "CARMEN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         }
@@ -219,7 +289,33 @@
             },
             "zh-Hant": {
               "title": "「現在的我還有很多不足，所以想繼續深入研究舞蹈，建立只屬於自己的風格」",
-              "subtitle": "-JUUN 2026.09.15《non-no》專訪"
+              "subtitle": "- JUUN 2026.09.15《non-no》專訪"
+            }
+          }
+        },
+        {
+          "id": "q_478",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“All those tears you cried in secret and moments you wanted to give up,\nyou've made it through them all, HACHUs. That's already incredible.\nTomorrow, the whole world will be cheering you on.”",
+              "subtitle": "JUUN | 11/18/26 · Weverse CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「那些在无人知晓的地方偷偷流下的眼泪，还有曾经想要放弃的瞬间，\n能够熬过这一切的哈啾们，已经非常了不起了。\n至少在明天，全世界的人都会怀着同样的心情为你们加油。」",
+              "subtitle": "- JUUN 2026.11.18 · WVS 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「那些在無人知曉的地方偷偷流下的眼淚，還有曾經想要放棄的瞬間，\n能夠熬過這一切的哈啾們，已經非常了不起了。\n至少在明天，全世界的人都會懷著同樣的心情為你們加油。」",
+              "subtitle": "- JUUN 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«Todas esas lágrimas en secreto y los momentos en que quisieron rendirse,\nlos han superado, HACHUs. Eso ya es increíble.\nMañana, el mundo entero estará animándolos».",
+              "subtitle": "JUUN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Todas as lágrimas escondidas e os momentos em que quiseram desistir,\nvocês superaram tudo, HACHUs. Isso já é incrível.\nAmanhã, o mundo inteiro estará torcendo por vocês.”",
+              "subtitle": "JUUN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         }
@@ -243,6 +339,32 @@
               "subtitle": "- ANA 2026.09.15《non-no》專訪"
             }
           }
+        },
+        {
+          "id": "q_479",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Don't be too nervous! I hope every answer is right, whether you guess or solve it~\nHearts2Hearts will be cheering you on, hehe! Fighting! 💕”",
+              "subtitle": "A-NA | 11/18/26 · Weverse CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「不要太紧张，希望不管是猜的还是自己解出来的题目，通通都能答对～\n我们 Hearts2Hearts 会一直为你们加油的，嘿嘿！加油💕」",
+              "subtitle": "- A-NA 2026.11.18 · WVS 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「不要太緊張，希望不管是猜的還是自己解出來的題目，通通都能答對～\n我們 Hearts2Hearts 會一直為你們加油的，嘿嘿！加油💕」",
+              "subtitle": "- A-NA 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«¡No se pongan nerviosos! Ojalá acierten todas las respuestas, tanto si adivinan como si las resuelven~\nHearts2Hearts estará animándolos, jeje. ¡Ánimo! 💕»",
+              "subtitle": "A-NA | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“Não fiquem nervosos! Que acertem todas as questões, tanto as que chutarem quanto as que resolverem~\nO Hearts2Hearts vai torcer por vocês, hehe! Força! 💕”",
+              "subtitle": "A-NA | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -262,6 +384,32 @@
             "zh-Hant": {
               "title": "「我會努力成為一個配得上那份期待、甚至能超越你們期待的人」",
               "subtitle": "- IAN"
+            }
+          }
+        },
+        {
+          "id": "q_480",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“Most importantly, whatever the results, never forget how amazing you all are for making it this far🥹!!\nI'll be cheering for you all tomorrow with all my heart🍀”",
+              "subtitle": "IAN | 11/18/26 · Weverse CSAT Encouragement"
+            },
+            "zh-Hans": {
+              "title": "「最重要的是，不管结果如何，都不要忘记，努力走到今天的每一位考生，真的都非常了不起、非常帅气🥹！！\nIAN 也会真心为大家的明天加油🍀」",
+              "subtitle": "- IAN 2026.11.18 · WVS 高考应援"
+            },
+            "zh-Hant": {
+              "title": "「最重要的是，不管結果如何，都不要忘記，努力走到今天的每一位考生，真的都非常了不起、非常帥氣🥹！！\nIAN 也會真心為大家的明天加油🍀」",
+              "subtitle": "- IAN 2026.11.18 · WVS 高考應援"
+            },
+            "es": {
+              "title": "«Lo más importante es que, sin importar los resultados, recuerden lo increíbles que son por llegar hasta aquí🥹!!\nMañana los animaré de todo corazón🍀»",
+              "subtitle": "IAN | 18/11/26 · Mensaje de ánimo para el CSAT · Weverse"
+            },
+            "pt": {
+              "title": "“O mais importante é que, seja qual for o resultado, lembrem-se de como vocês são incríveis por chegar até aqui🥹!!\nAmanhã vou torcer por todos de coração🍀”",
+              "subtitle": "IAN | 18/11/26 · Mensagem de apoio para o CSAT · Weverse"
             }
           }
         }
