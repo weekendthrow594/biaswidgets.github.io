@@ -7,106 +7,158 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_483",
+          "id": "q_487",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Just as rainbows appear after storms, I hope every ENGENE can overcome their hardships.\nAlways remember, the harder the storm, the more beautiful the rainbow. Keep believing in that as you move forward.",
-              "subtitle": "JAKE | 2026 MAMA Acceptance Speech"
+              "title": "Even when things get tough and exhausting, I want to tell everyone who hasn't given up: You're truly amazing.",
+              "subtitle": "JAKE | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「就像必须历经风雨才会出现彩虹一样，如果各位 ENGENE 也有辛苦的事，希望能全部战胜它，\n请永远记住，越是艰难，之后绽放的彩虹就会越美丽，希望大家带着这份信念继续生活下去。」",
-              "subtitle": "- 沈载伦 2026 MAMA 获奖感言"
+              "title": "「虽然有时会感到疲惫和辛苦，但我想对没有放弃的各位说：你们真的非常了不起」",
+              "subtitle": "- 沈载伦 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「就像必須歷經風雨才會出現彩虹一樣，如果各位 ENGENE 也有辛苦的事，希望能全部戰勝它，\n請永遠記住，越是艱難，之後綻放的彩虹就會越美麗，希望大家帶著這份信念繼續生活下去。」",
-              "subtitle": "- 沈載倫 2026 MAMA 獲獎感言"
+              "title": "「雖然有時會感到疲憊和辛苦，但我想對沒有放棄的各位說：你們真的非常了不起」",
+              "subtitle": "- 沈載倫 2027 高考應援寄語"
             },
             "es": {
-              "title": "Así como el arcoíris aparece después de la tormenta, espero que cada ENGENE supere sus dificultades.\nRecuerden: cuanto más dura sea la tormenta, más hermoso será el arcoíris. Sigan adelante con esa esperanza.",
-              "subtitle": "JAKE | Discurso de aceptación · MAMA 2026"
+              "title": "Aunque a veces sea agotador y difícil, quiero decirles a quienes no se han rendido: Son realmente increíbles.",
+              "subtitle": "JAKE |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Assim como o arco-íris surge após a tempestade, espero que todos os ENGENEs superem suas dificuldades.\nLembrem-se: quanto mais difícil a tempestade, mais lindo será o arco-íris. Sigam em frente com essa esperança.",
-              "subtitle": "JAKE | Discurso de agradecimento · MAMA 2026"
+              "title": "Mesmo quando tudo fica difícil e cansativo, quero dizer a quem não desistiu: Vocês são realmente incríveis.",
+              "subtitle": "JAKE |Mensagem de apoio para o CSAT 2027"
             }
           }
         },
         {
-          "id": "q_484",
+          "id": "q_490",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Even when we couldn't believe in ourselves, ENGENE believed in us more than we did. That's why we're standing here today.",
-              "subtitle": "JUNGWON | 2026 MAMA Acceptance Speech"
+              "title": "After the exam, don't forget to tell yourself, “You've worked so hard.”",
+              "subtitle": "SUNOO | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「在连我们自己都无法相信自己的时期，ENGENE 却比我们自己更加相信我们，正因如此，我们才能站在这个位置上。」",
-              "subtitle": "- 梁祯元 2026 MAMA 获奖感言"
+              "title": "「考试结束后，别忘了对辛苦付出的自己说声辛苦了」",
+              "subtitle": "- 金善禹 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「在連我們自己都無法相信自己的時期，ENGENE 卻比我們自己更加相信我們，正因如此，我們才能站在這個位置上。」",
-              "subtitle": "- 梁禎元 2026 MAMA 獲獎感言"
+              "title": "「考試結束後，別忘了對辛苦付出的自己說聲辛苦了」",
+              "subtitle": "- 金善禹 2027 高考應援寄語"
             },
             "es": {
-              "title": "Incluso cuando nosotros mismos no creíamos en nosotros, ENGENE creyó en nosotros más que nadie. Por eso estamos aquí hoy.",
-              "subtitle": "JUNGWON | Discurso de aceptación · MAMA 2026"
+              "title": "Después del examen, no olvides decirte: «Te has esforzado mucho».",
+              "subtitle": "SUNOO |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Mesmo quando não conseguíamos acreditar em nós mesmos, o ENGENE acreditou em nós mais do que nós próprios. É por isso que estamos aqui hoje.",
-              "subtitle": "JUNGWON | Discurso de agradecimento · MAMA 2026"
+              "title": "Depois da prova, não se esqueça de dizer a si mesmo: “Você se esforçou muito.”",
+              "subtitle": "SUNOO |Mensagem de apoio para o CSAT 2027"
             }
           }
         },
         {
-          "id": "q_485",
+          "id": "q_489",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I'm not someone who cries often, but this award brought me to tears without me even realizing it.",
-              "subtitle": "SUNGHOON | 2026 MAMA Acceptance Speech"
+              "title": "Believe in yourself and all your hard work. Stay focused until the very end!",
+              "subtitle": "NI-KI | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「我原本是不怎么流泪的人，但唯独这个奖让我不知不觉一直流泪」",
-              "subtitle": "- 朴成训 2026 MAMA 获奖感言"
+              "title": "「相信一路努力到今天的自己，保持专注直到最后一刻吧！」",
+              "subtitle": "- NI-KI 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「我原本是不怎麼流淚的人，但唯獨這個獎讓我不知不覺一直流淚」",
-              "subtitle": "- 朴成訓 2026 MAMA 獲獎感言"
+              "title": "「相信一路努力到今天的自己，保持專注直到最後一刻吧！」",
+              "subtitle": "- NI-KI 2027 高考應援寄語"
             },
             "es": {
-              "title": "No suelo llorar mucho, pero este premio me hizo llorar sin darme cuenta.",
-              "subtitle": "SUNGHOON | Discurso de aceptación · MAMA 2026"
+              "title": "Confía en ti y en todo tu esfuerzo. ¡Mantente concentrado hasta el final!",
+              "subtitle": "NI-KI |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Não costumo chorar muito, mas esse prêmio me fez chorar sem nem perceber.",
-              "subtitle": "SUNGHOON | Discurso de agradecimento · MAMA 2026"
+              "title": "Confie em você e em todo o seu esforço. Mantenha o foco até o fim!",
+              "subtitle": "NI-KI |Mensagem de apoio para o CSAT 2027"
             }
           }
         },
         {
-          "id": "q_486",
+          "id": "q_491",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "So much happened this year, and we faced many challenges. Now it feels like all our hardships have paid off. I'm truly overwhelmed.",
-              "subtitle": "SUNOO | 2026 MAMA Acceptance Speech"
+              "title": "Make sure to get enough sleep and eat well.",
+              "subtitle": "JAY | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「今年发生了很多事，有许多我们必须忍耐并克服的难关，现在感觉像是获得了补偿一样，真的非常激动。」",
-              "subtitle": "- 金善禹 2026 MAMA 获奖感言"
+              "title": "「要保证充足的睡眠，也要好好吃饭」",
+              "subtitle": "- 朴综星 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「今年發生了很多事，有許多我們必須忍耐並克服的難關，現在感覺像是獲得了補償一樣，真的非常激動。」",
-              "subtitle": "- 金善禹 2026 MAMA 獲獎感言"
+              "title": "「要保證充足的睡眠，也要好好吃飯」",
+              "subtitle": "- 朴綜星 2027 高考應援寄語"
             },
             "es": {
-              "title": "Pasaron muchas cosas este año y superamos muchas dificultades. Ahora siento que todo nuestro esfuerzo ha valido la pena. Estoy muy emocionado.",
-              "subtitle": "SUNOO | Discurso de aceptación · MAMA 2026"
+              "title": "Asegúrate de dormir lo suficiente y comer bien.",
+              "subtitle": "JAY |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Muita coisa aconteceu este ano e superamos muitas dificuldades. Agora sinto que todo o esforço valeu a pena. Estou muito emocionado.",
-              "subtitle": "SUNOO | Discurso de agradecimento · MAMA 2026"
+              "title": "Durma o suficiente e não se esqueça de comer bem.",
+              "subtitle": "JAY |Mensagem de apoio para o CSAT 2027"
+            }
+          }
+        },
+        {
+          "id": "q_488",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't rush. Stay calm and show everything you've learned and practiced.",
+              "subtitle": "SUNGHOON |2027 CSAT Encouragement Message"
+            },
+            "zh-Hans": {
+              "title": "「希望你不要太着急，冷静地发挥出平时积累的实力」",
+              "subtitle": "- 朴成训 2027 高考应援寄语"
+            },
+            "zh-Hant": {
+              "title": "「希望你不要太著急，冷靜地發揮出平時累積的實力」",
+              "subtitle": "- 朴成訓 2027 高考應援寄語"
+            },
+            "es": {
+              "title": "No te apresures. Mantén la calma y demuestra todo lo que has aprendido.",
+              "subtitle": "SUNGHOON | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Não tenha pressa. Mantenha a calma e mostre tudo o que aprendeu.",
+              "subtitle": "SUNGHOON | Mensagem de apoio para o CSAT 2027"
+            }
+          }
+        },
+        {
+          "id": "q_492",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Ace the CSAT!",
+              "subtitle": "JUNGWON |2027 CSAT Encouragement Message"
+            },
+            "zh-Hans": {
+              "title": "「高考大发！」",
+              "subtitle": "- 梁祯元 2027 高考应援寄语"
+            },
+            "zh-Hant": {
+              "title": "「高考大發！」",
+              "subtitle": "- 梁禎元 2027 高考應援寄語"
+            },
+            "es": {
+              "title": "¡Que te vaya genial en el CSAT!",
+              "subtitle": "JUNGWON |Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Arrase no CSAT!",
+              "subtitle": "JUNGWON |Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -118,23 +170,13 @@
       "name": "JAY",
       "quotes": [
         {
-          "id": "q_237",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「属于你的幸运星」",
-              "subtitle": "- 朴综星"
-            },
-            "zh-Hant": {
-              "title": "「屬於妳的幸運星」",
-              "subtitle": "- 朴綜星"
-            }
-          }
-        },
-        {
           "id": "q_233",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "My work always comes first, followed by my health.\nMy job is to make ENGENE happy! Love is stronger than pain. That's science.",
+              "subtitle": "JAY"
+            },
             "zh-Hans": {
               "title": "「我的工作永远是第一位的，然后是我的健康。\n我的工作就是让 ENGENE 们开心！爱比痛苦更强大，这是科学。」",
               "subtitle": "- 朴综星"
@@ -142,6 +184,14 @@
             "zh-Hant": {
               "title": "「我的工作永遠是第一位的，然後是我的健康。\n我的工作就是讓 ENGENE 們開心！愛比痛苦更強大，這是科學。」",
               "subtitle": "- 朴綜星"
+            },
+            "es": {
+              "title": "Mi trabajo siempre va primero, luego mi salud.\n¡Mi trabajo es hacer feliz a ENGENE! El amor es más fuerte que el dolor. Es ciencia.",
+              "subtitle": "JAY"
+            },
+            "pt": {
+              "title": "Meu trabalho sempre vem primeiro, depois minha saúde.\nMeu trabalho é fazer ENGENE feliz! O amor é mais forte que a dor. Isso é ciência.",
+              "subtitle": "JAY"
             }
           }
         },
@@ -150,76 +200,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "「ENHYPEN is ENHYPEN」",
-              "subtitle": "JAY"
+              "title": "ENHYPEN is ENHYPEN",
+              "subtitle": "JAY | 04/20/26 · Birthday Live"
             },
             "zh-Hans": {
               "title": "「ENHYPEN is ENHYPEN」",
-              "subtitle": "- 朴综星 2026.04.20 生日直播"
+              "subtitle": "- 朴综星 26.04.20 生日直播"
             },
             "zh-Hant": {
               "title": "「ENHYPEN is ENHYPEN」",
               "subtitle": "- 朴綜星 26.04.20 生日直播"
             },
             "es": {
-              "title": "「ENHYPEN is ENHYPEN」",
-              "subtitle": "JAY"
+              "title": "ENHYPEN es ENHYPEN",
+              "subtitle": "JAY | 20/04/26 · Directo de cumpleaños"
             },
             "pt": {
-              "title": "「ENHYPEN is ENHYPEN」",
-              "subtitle": "JAY"
-            }
-          }
-        },
-        {
-          "id": "q_223",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "I don’t want to be an intimidating wall of overwhelming talent. I want to be a lighthouse for others on the path toward their dreams—because everything I have today was built, little by little, through hard work and sweat.",
-              "subtitle": "JAY"
-            },
-            "zh-Hans": {
-              "title": "「我不想成为那种天赋满溢、令人望而生畏的高墙，而是想成为别人追梦路上的灯塔——因为走到今天，我所拥有的一切，都是用汗水一点一滴筑成的。」",
-              "subtitle": "- 朴综星"
-            },
-            "zh-Hant": {
-              "title": "「我不想成為那種天賦滿溢、令人望而生畏的高牆，而是想成為別人追夢路上的燈塔——因為走到今天，我所擁有的一切，都是用汗水一點一滴築成的。」",
-              "subtitle": "- 朴綜星"
-            },
-            "es": {
-              "title": "No quiero ser un muro intimidante de talento desbordante. Quiero ser un faro para quienes persiguen sus sueños, porque todo lo que tengo hoy lo he construido poco a poco con esfuerzo y sudor.",
-              "subtitle": "JAY"
-            },
-            "pt": {
-              "title": "Não quero ser um muro intimidador de talento transbordante. Quero ser um farol no caminho daqueles que perseguem seus sonhos, porque tudo o que tenho hoje foi construído, pouco a pouco, com esforço e suor.",
-              "subtitle": "JAY"
-            }
-          }
-        },
-        {
-          "id": "q_224",
-          "emojiPath": "",
-          "i18n": {
-            "en": {
-              "title": "In this vast universe, our lives are no more than tiny specks of dust. If that’s the case, then even if life is brief, I want to live it as colorfully as I can.",
-              "subtitle": "JAY 26.04.22 WVS"
-            },
-            "zh-Hans": {
-              "title": "「在这浩瀚的宇宙中，我们过的不过是如尘埃般渺小的人生。\n既然如此，哪怕短暂，我也更想活得多姿多彩。」",
-              "subtitle": "- 朴综星 26.04.22 WVS"
-            },
-            "zh-Hant": {
-              "title": "「在這浩瀚的宇宙中，我們過的不過是如塵埃般渺小的人生。\n既然如此，哪怕短暫，我也更想活得多姿多彩。」",
-              "subtitle": "- 朴綜星 26.04.22 WVS"
-            },
-            "es": {
-              "title": "En este vasto universo, nuestras vidas no son más que diminutas motas de polvo. Si es así, aunque la vida sea breve, quiero vivirla de la forma más colorida posible.",
-              "subtitle": "JAY 26.04.22 WVS"
-            },
-            "pt": {
-              "title": "Neste vasto universo, nossas vidas não passam de pequenos grãos de poeira. Sendo assim, mesmo que a vida seja breve, quero vivê-la da forma mais colorida possível.",
-              "subtitle": "JAY 26.04.22 WVS"
+              "title": "ENHYPEN é ENHYPEN",
+              "subtitle": "JAY | 20/04/26 · Live de aniversário"
             }
           }
         },
@@ -228,8 +226,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t be someone who only “looks happy.” Let’s become people who are truly happy together!!",
-              "subtitle": "JAY"
+              "title": "Let's not just look happy. Let's be truly happy together!!",
+              "subtitle": "JAY | 12/13/25 · Weverse"
             },
             "zh-Hans": {
               "title": "「不要成为那个看起来很幸福的人，我们一起成为真正幸福的人吧！！」",
@@ -240,11 +238,63 @@
               "subtitle": "- 朴綜星 25.12.13 WVS"
             },
             "es": {
-              "title": "No seamos personas que solo “parecen felices”. ¡¡Seamos verdaderamente felices juntos!!",
+              "title": "No aparentemos ser felices. ¡Seamos realmente felices juntos!",
+              "subtitle": "JAY | 13/12/25 · Weverse"
+            },
+            "pt": {
+              "title": "Não vamos apenas parecer felizes. Vamos ser felizes de verdade, juntos!!",
+              "subtitle": "JAY | 13/12/25 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_224",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "In this vast universe, our lives are as small as specks of dust.\nSo even if life is short, I'd rather live it in full color.",
+              "subtitle": "JAY | 04/22/26 · Weverse"
+            },
+            "zh-Hans": {
+              "title": "「在这浩瀚的宇宙中，我们过的不过是如尘埃般渺小的人生。\n既然如此，哪怕短暂，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴综星 26.04.22 WVS"
+            },
+            "zh-Hant": {
+              "title": "「在這浩瀚的宇宙中，我們過的不過是如塵埃般渺小的人生。\n既然如此，哪怕短暫，我也更想活得多姿多彩。」",
+              "subtitle": "- 朴綜星 26.04.22 WVS"
+            },
+            "es": {
+              "title": "En este vasto universo, nuestras vidas son pequeñas como motas de polvo.\nPor eso, aunque la vida sea breve, prefiero vivirla llena de colores.",
+              "subtitle": "JAY | 22/04/26 · Weverse"
+            },
+            "pt": {
+              "title": "Neste vasto universo, nossas vidas são pequenas como grãos de poeira.\nPor isso, mesmo que a vida seja breve, prefiro vivê-la cheia de cores.",
+              "subtitle": "JAY | 22/04/26 · Weverse"
+            }
+          }
+        },
+        {
+          "id": "q_237",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Your very own lucky star",
+              "subtitle": "JAY"
+            },
+            "zh-Hans": {
+              "title": "「属于你的幸运星」",
+              "subtitle": "- 朴综星"
+            },
+            "zh-Hant": {
+              "title": "「屬於妳的幸運星」",
+              "subtitle": "- 朴綜星"
+            },
+            "es": {
+              "title": "Tu propia estrella de la suerte",
               "subtitle": "JAY"
             },
             "pt": {
-              "title": "Não sejamos pessoas que apenas “parecem felizes”. Vamos ser verdadeiramente felizes juntos!!",
+              "title": "Sua própria estrela da sorte",
               "subtitle": "JAY"
             }
           }
@@ -254,7 +304,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Opportunities aren’t something you catch. Keep raising your hand, and eventually, an opportunity will find you.",
+              "title": "It's not about seizing opportunities, but about keeping your hand raised until an opportunity chooses you.",
               "subtitle": "JAY"
             },
             "zh-Hans": {
@@ -266,12 +316,38 @@
               "subtitle": "- 朴綜星"
             },
             "es": {
-              "title": "Las oportunidades no son algo que se atrapa. Sigue levantando la mano y, tarde o temprano, una oportunidad te encontrará.",
+              "title": "No se trata de atrapar oportunidades, sino de seguir levantando la mano hasta que una oportunidad te elija.",
               "subtitle": "JAY"
             },
             "pt": {
-              "title": "Oportunidades não são algo que você simplesmente agarra. Continue levantando a mão e, naturalmente, uma oportunidade encontrará você.",
+              "title": "Não se trata de agarrar oportunidades, mas de continuar levantando a mão até que uma oportunidade escolha você.",
               "subtitle": "JAY"
+            }
+          }
+        },
+        {
+          "id": "q_491",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Make sure to get enough sleep and eat well.",
+              "subtitle": "JAY | 2027 CSAT Encouragement Message"
+            },
+            "zh-Hans": {
+              "title": "「要保证充足的睡眠，也要好好吃饭」",
+              "subtitle": "- 朴综星 2027 高考应援寄语"
+            },
+            "zh-Hant": {
+              "title": "「要保證充足的睡眠，也要好好吃飯」",
+              "subtitle": "- 朴綜星 2027 高考應援寄語"
+            },
+            "es": {
+              "title": "Asegúrate de dormir lo suficiente y comer bien.",
+              "subtitle": "JAY |Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Durma o suficiente e não se esqueça de comer bem.",
+              "subtitle": "JAY |Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -282,20 +358,6 @@
       "id": "enhypen_jake",
       "name": "JAKE",
       "quotes": [
-        {
-          "id": "q_238",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈载伦"
-            },
-            "zh-Hant": {
-              "title": "「你是我的幸允符」",
-              "subtitle": "- 沈載倫"
-            }
-          }
-        },
         {
           "id": "q_228",
           "emojiPath": "",
@@ -349,6 +411,20 @@
           }
         },
         {
+          "id": "q_238",
+          "emojiPath": "",
+          "i18n": {
+            "zh-Hans": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈载伦"
+            },
+            "zh-Hant": {
+              "title": "「你是我的幸允符」",
+              "subtitle": "- 沈載倫"
+            }
+          }
+        },
+        {
           "id": "q_221",
           "emojiPath": "",
           "i18n": {
@@ -375,28 +451,28 @@
           }
         },
         {
-          "id": "q_076",
+          "id": "q_487",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "I think everyone in the world is beautiful. Everyone has their own charm, even beyond their appearance.",
-              "subtitle": "JAKE"
+              "title": "Even when things get tough and exhausting, I want to tell everyone who hasn't given up: You're truly amazing.",
+              "subtitle": "JAKE | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「我觉得世界上的所有人都很美丽大家都有各自的魅力，就算不是外在的部分」",
-              "subtitle": "- 沈载伦 WVS LIVE"
+              "title": "「虽然有时会感到疲惫和辛苦，但我想对没有放弃的各位说：你们真的非常了不起」",
+              "subtitle": "- 沈载伦 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「我覺得世界上的所有人都很美麗\n大家都有各自的魅力，就算不是外在的部分」",
-              "subtitle": "- 沈載倫 WVS LIVE"
+              "title": "「雖然有時會感到疲憊和辛苦，但我想對沒有放棄的各位說：你們真的非常了不起」",
+              "subtitle": "- 沈載倫 2027 高考應援寄語"
             },
             "es": {
-              "title": "Creo que todas las personas del mundo son hermosas. Cada una tiene su propio encanto, incluso más allá de la apariencia.",
-              "subtitle": "JAKE"
+              "title": "Aunque a veces sea agotador y difícil, quiero decirles a quienes no se han rendido: Son realmente increíbles.",
+              "subtitle": "JAKE |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Eu acho que todas as pessoas do mundo são bonitas. Cada uma tem seu próprio encanto, mesmo além da aparência.",
-              "subtitle": "JAKE"
+              "title": "Mesmo quando tudo fica difícil e cansativo, quero dizer a quem não desistiu: Vocês são realmente incríveis.",
+              "subtitle": "JAKE |Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -407,20 +483,6 @@
       "id": "enhypen_sunghoon",
       "name": "SUNGHOON",
       "quotes": [
-        {
-          "id": "q_239",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「你是为爱而生的人」",
-              "subtitle": "- 朴成训"
-            },
-            "zh-Hant": {
-              "title": "「妳是為愛而生的人」",
-              "subtitle": "- 朴成訓"
-            }
-          }
-        },
         {
           "id": "q_154",
           "emojiPath": "",
@@ -438,11 +500,11 @@
               "subtitle": "- 朴成訓"
             },
             "es": {
-              "title": "Ninguna flor florece sin antes mecerse con el viento.",
+              "title": "Ninguna flor florece sin mecerse con el viento.",
               "subtitle": "SUNGHOON"
             },
             "pt": {
-              "title": "Nenhuma flor floresce sem antes balançar ao vento.",
+              "title": "Nenhuma flor desabrocha sem balançar ao vento.",
               "subtitle": "SUNGHOON"
             }
           }
@@ -452,8 +514,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "To ENGENE: SUNGHOON’s love for ENGENE is a love that wraps the long winter nights in warmth.",
-              "subtitle": "SUNGHOON"
+              "title": "To ENGENE: A love that wraps long winter nights in warmth. That's Sunghoon's love for ENGENE.",
+              "subtitle": "SUNGHOON | B-day Paper"
             },
             "zh-Hans": {
               "title": "「To ENGENE：用暖意包裹漫长冬夜的爱，是成训对 ENGENE 的感情。」",
@@ -464,12 +526,12 @@
               "subtitle": "- 朴成訓 B-day Paper"
             },
             "es": {
-              "title": "Para ENGENE: El amor de SUNGHOON por ENGENE es un amor que envuelve de calidez las largas noches de invierno.",
-              "subtitle": "SUNGHOON"
+              "title": "Para ENGENE: Un amor que envuelve de calidez las largas noches de invierno. Así es el amor de Sunghoon por ENGENE.",
+              "subtitle": "SUNGHOON | B-day Paper"
             },
             "pt": {
-              "title": "Para ENGENE: O amor de SUNGHOON pelo ENGENE é um amor que envolve as longas noites de inverno em calor e aconchego.",
-              "subtitle": "SUNGHOON"
+              "title": "Para ENGENE: Um amor que aquece as longas noites de inverno. Esse é o amor de Sunghoon por ENGENE.",
+              "subtitle": "SUNGHOON | B-day Paper"
             }
           }
         },
@@ -478,8 +540,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You can be confident. Don’t doubt yourself, and keep loving yourself with conviction.",
-              "subtitle": "SUNGHOON"
+              "title": "Be confident, don't doubt yourself, and love yourself without hesitation.",
+              "subtitle": "SUNGHOON | ELLE Korea"
             },
             "zh-Hans": {
               "title": "「你可以拥有自信，不必怀疑自己，请坚定地爱自己吧。」",
@@ -490,12 +552,12 @@
               "subtitle": "- 朴成訓 ELLE Korea"
             },
             "es": {
-              "title": "Puedes tener confianza en ti mismo. No dudes de ti y sigue amándote con firmeza.",
-              "subtitle": "SUNGHOON"
+              "title": "Ten confianza, no dudes de ti y ámate sin vacilar.",
+              "subtitle": "SUNGHOON | ELLE Korea"
             },
             "pt": {
-              "title": "Você pode ter confiança em si mesmo. Não duvide de si e continue se amando com convicção.",
-              "subtitle": "SUNGHOON"
+              "title": "Tenha confiança, não duvide de si e ame-se sem hesitar.",
+              "subtitle": "SUNGHOON | ELLE Korea"
             }
           }
         },
@@ -503,6 +565,10 @@
           "id": "q_227",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I was born to meet ENGENE.",
+              "subtitle": "SUNGHOON | Japan Comeback Showcase"
+            },
             "zh-Hans": {
               "title": "「我是为了遇见 ENGENE 而诞生的。」",
               "subtitle": "- 朴成训 日本回归 Showcase"
@@ -510,6 +576,14 @@
             "zh-Hant": {
               "title": "「我是為了遇見 ENGENE 而誕生的。」",
               "subtitle": "- 朴成訓 日本回歸 Showcase"
+            },
+            "es": {
+              "title": "Nací para conocer a ENGENE.",
+              "subtitle": "SUNGHOON | Showcase de regreso en Japón"
+            },
+            "pt": {
+              "title": "Nasci para conhecer ENGENE.",
+              "subtitle": "SUNGHOON | Showcase de comeback no Japão"
             }
           }
         },
@@ -538,6 +612,58 @@
               "subtitle": "SUNGHOON | Discurso de agradecimento · MAMA 2026"
             }
           }
+        },
+        {
+          "id": "q_239",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "You were born to be loved.",
+              "subtitle": "SUNGHOON"
+            },
+            "zh-Hans": {
+              "title": "「你是为爱而生的人」",
+              "subtitle": "- 朴成训"
+            },
+            "zh-Hant": {
+              "title": "「妳是為愛而生的人」",
+              "subtitle": "- 朴成訓"
+            },
+            "es": {
+              "title": "Naciste para recibir amor.",
+              "subtitle": "SUNGHOON"
+            },
+            "pt": {
+              "title": "Você nasceu para ser amada.",
+              "subtitle": "SUNGHOON"
+            }
+          }
+        },
+        {
+          "id": "q_488",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't rush. Stay calm and show everything you've learned and practiced.",
+              "subtitle": "SUNGHOON |2027 CSAT Encouragement Message"
+            },
+            "zh-Hans": {
+              "title": "「希望你不要太着急，冷静地发挥出平时积累的实力」",
+              "subtitle": "- 朴成训 2027 高考应援寄语"
+            },
+            "zh-Hant": {
+              "title": "「希望你不要太著急，冷靜地發揮出平時累積的實力」",
+              "subtitle": "- 朴成訓 2027 高考應援寄語"
+            },
+            "es": {
+              "title": "No te apresures. Mantén la calma y demuestra todo lo que has aprendido.",
+              "subtitle": "SUNGHOON | Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Não tenha pressa. Mantenha a calma e mostre tudo o que aprendeu.",
+              "subtitle": "SUNGHOON | Mensagem de apoio para o CSAT 2027"
+            }
+          }
         }
       ],
       "countdowns": []
@@ -547,9 +673,65 @@
       "name": "SUNOO",
       "quotes": [
         {
+          "id": "q_230",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "ENGENE, don't push yourselves too hard to keep moving forward. Always make a little time for yourselves!",
+              "subtitle": "SUNOO"
+            },
+            "zh-Hans": {
+              "title": "「恩静们，不要太勉强自己一直往前跑，哪怕只有一点点，也要留些属于自己的时间！」",
+              "subtitle": "- 金善禹"
+            },
+            "zh-Hant": {
+              "title": "「恩靜們，不要太勉強自己一直往前跑，哪怕只有一點點，也要留些屬於自己的時間！」",
+              "subtitle": "- 金善禹"
+            },
+            "es": {
+              "title": "ENGENE, no se exijan demasiado para seguir adelante. ¡Reserven siempre un poquito de tiempo para ustedes!",
+              "subtitle": "SUNOO"
+            },
+            "pt": {
+              "title": "ENGENE, não se cobrem tanto para seguir em frente. Reservem sempre um tempinho para vocês!",
+              "subtitle": "SUNOO"
+            }
+          }
+        },
+        {
+          "id": "q_222",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "“What would you do 30 minutes before the world ends?”\nSUNOO: Oh, I'd go live and tell ENGENE, thank you and I love you.",
+              "subtitle": "SUNOO"
+            },
+            "zh-Hans": {
+              "title": "“地球毁灭前三十分钟要做什么？”\n金善禹：哦，我要开直播，对 ENGENE 说谢谢你们，我爱你们。",
+              "subtitle": "- 金善禹"
+            },
+            "zh-Hant": {
+              "title": "“地球毀滅前三十分鐘要做什麼？”\n金善禹：喔，我要開直播，對 ENGENE 說謝謝你們，我愛你們。",
+              "subtitle": "- 金善禹"
+            },
+            "es": {
+              "title": "«¿Qué harías 30 minutos antes del fin del mundo?»\nSUNOO: Haría un directo para decirle a ENGENE: gracias, los amo.",
+              "subtitle": "SUNOO"
+            },
+            "pt": {
+              "title": "“O que você faria 30 minutos antes do fim do mundo?”\nSUNOO: Faria uma live para dizer ao ENGENE: obrigado, amo vocês.",
+              "subtitle": "SUNOO"
+            }
+          }
+        },
+        {
           "id": "q_240",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Rain or shine, I'll always be here.",
+              "subtitle": "SUNOO"
+            },
             "zh-Hans": {
               "title": "「无论下禹晴天我豆一直在」",
               "subtitle": "- 金善禹"
@@ -557,6 +739,14 @@
             "zh-Hant": {
               "title": "「無論下禹晴天我豆一直在」",
               "subtitle": "- 金善禹"
+            },
+            "es": {
+              "title": "Llueva o haga sol, siempre estaré aquí.",
+              "subtitle": "SUNOO"
+            },
+            "pt": {
+              "title": "Faça chuva ou faça sol, estarei sempre aqui.",
+              "subtitle": "SUNOO"
             }
           }
         },
@@ -587,42 +777,28 @@
           }
         },
         {
-          "id": "q_222",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "“地球毁灭前三十分钟要做什么？”\n金善禹：哦，我要开直播，对 ENGENE 说谢谢你们，我爱你们。",
-              "subtitle": "- 金善禹"
-            },
-            "zh-Hant": {
-              "title": "“地球毀滅前三十分鐘要做什麼？”\n金善禹：喔，我要開直播，對 ENGENE 說謝謝你們，我愛你們。",
-              "subtitle": "- 金善禹"
-            }
-          }
-        },
-        {
-          "id": "q_230",
+          "id": "q_490",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t push yourselves too hard to keep running. Even if it’s just for a little while, make sure to save some time for yourselves!",
-              "subtitle": "SUNOO"
+              "title": "After the exam, don't forget to tell yourself, “You've worked so hard.”",
+              "subtitle": "SUNOO | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「恩静们，不要太勉强自己一直往前跑，哪怕只有一点点，也要留些属于自己的时间！」",
-              "subtitle": "- 金善禹"
+              "title": "「考试结束后，别忘了对辛苦付出的自己说声辛苦了」",
+              "subtitle": "- 金善禹 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「恩靜們，不要太勉強自己一直往前跑，哪怕只有一點點，也要留些屬於自己的時間！」",
-              "subtitle": "- 金善禹"
+              "title": "「考試結束後，別忘了對辛苦付出的自己說聲辛苦了」",
+              "subtitle": "- 金善禹 2027 高考應援寄語"
             },
             "es": {
-              "title": "No se esfuercen demasiado por seguir corriendo. Aunque sea solo un ratito, asegúrense de guardar algo de tiempo para ustedes mismos.",
-              "subtitle": "SUNOO"
+              "title": "Después del examen, no olvides decirte: «Te has esforzado mucho».",
+              "subtitle": "SUNOO |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Não se esforcem demais para continuar correndo. Mesmo que seja só por um tempinho, reservem um pouco de tempo para vocês mesmos!",
-              "subtitle": "SUNOO"
+              "title": "Depois da prova, não se esqueça de dizer a si mesmo: “Você se esforçou muito.”",
+              "subtitle": "SUNOO |Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -634,70 +810,28 @@
       "name": "JUNGWON",
       "quotes": [
         {
-          "id": "q_235",
+          "id": "q_152",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Let’s walk together, hand in hand with ENGENE. Don’t let go, okay? Remember—we must never, ever, ever let go of each other.",
-              "subtitle": "JUNGWON"
+              "title": "JUNGWON",
+              "subtitle": "¿Cómo me ayudó Dios? Lo hice todo por mí mismo."
             },
             "zh-Hans": {
-              "title": "「和 ENGENE 牵着手一起走，不准放手哦，记住了吗？\n我们绝对、绝对、绝对不要松手哦。」",
-              "subtitle": "- 梁祯元"
+              "title": "「神要怎么帮我？都是我自己做到的。」",
+              "subtitle": "How did God help me? I did it all myself."
             },
             "zh-Hant": {
-              "title": "「和 ENGENE 牽著手一起走，不准放手喔，記住了嗎？\n我們絕對、絕對、絕對不要鬆手喔。」",
+              "title": "「神要怎麼幫我？都是我自己做到的。」",
               "subtitle": "- 梁禎元"
             },
             "es": {
-              "title": "Caminemos juntos de la mano de ENGENE. No nos soltemos, ¿de acuerdo? Recuérdenlo: nunca, nunca, nunca debemos soltarnos.",
-              "subtitle": "JUNGWON"
+              "title": "JUNGWON",
+              "subtitle": "Como Deus me ajudou? Fiz tudo por conta própria."
             },
             "pt": {
-              "title": "Vamos caminhar juntos de mãos dadas com o ENGENE. Não vamos soltar, está bem? Lembrem-se: nunca, nunca, nunca devemos soltar as mãos.",
-              "subtitle": "JUNGWON"
-            }
-          }
-        },
-        {
-          "id": "q_236",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「爱蒸者蒸蒸日上」",
-              "subtitle": "- 梁祯元"
-            },
-            "zh-Hant": {
-              "title": "「愛蒸者蒸蒸日上」",
-              "subtitle": "- 梁禎元"
-            }
-          }
-        },
-        {
-          "id": "q_306",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「我只是想让 ENGENE 笑一笑。\n因为我觉得，一天里至少也应该有一件能让人笑出来的事。」",
-              "subtitle": "- 梁祯元 26.9.15 WVS LIVE"
-            },
-            "zh-Hant": {
-              "title": "「我只是想讓 ENGENE 笑一笑。\n因為我覺得，一天裡至少也應該有一件能讓人笑出來的事。」",
-              "subtitle": "- 梁禎元 26.9.15 WVS LIVE"
-            }
-          }
-        },
-        {
-          "id": "q_307",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「什么时候都不算晚～」",
-              "subtitle": "- 梁祯元 26.9.18 WVS"
-            },
-            "zh-Hant": {
-              "title": "「什麼時候都不算晚～」",
-              "subtitle": "- 梁禎元 26.9.18 WVS"
+              "title": "JUNGWON",
+              "subtitle": ""
             }
           }
         },
@@ -706,7 +840,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Because I have no other choice. All I have is ENGENE.",
+              "title": "Because I have no other choice. ENGENE is all I have.",
               "subtitle": "JUNGWON"
             },
             "zh-Hans": {
@@ -722,8 +856,112 @@
               "subtitle": "JUNGWON"
             },
             "pt": {
-              "title": "Porque não tenho outra escolha. Só tenho o ENGENE.",
+              "title": "Porque não tenho outra escolha. Só tenho ENGENE.",
               "subtitle": "JUNGWON"
+            }
+          }
+        },
+        {
+          "id": "q_235",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Let's walk hand in hand, ENGENE. Don't let go, okay?\nLet's never, ever, ever let go.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「和 ENGENE 牵着手一起走，不准放手哦，记住了吗？\n我们绝对、绝对、绝对不要松手哦。」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「和 ENGENE 牽著手一起走，不准放手喔，記住了嗎？\n我們絕對、絕對、絕對不要鬆手喔。」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Caminemos de la mano, ENGENE. No me suelten, ¿sí?\nNunca, nunca, nunca nos soltemos.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Vamos caminhar de mãos dadas, ENGENE. Não soltem, tá?\nNunca, nunca, nunca vamos soltar as mãos.",
+              "subtitle": "JUNGWON"
+            }
+          }
+        },
+        {
+          "id": "q_306",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "I just want to make ENGENE smile.\nI believe every day should have at least one reason to smile.",
+              "subtitle": "JUNGWON | 09/15/26 · Weverse LIVE"
+            },
+            "zh-Hans": {
+              "title": "「我只是想让 ENGENE 笑一笑。\n因为我觉得，一天里至少也应该有一件能让人笑出来的事。」",
+              "subtitle": "- 梁祯元 26.9.15 WVS LIVE"
+            },
+            "zh-Hant": {
+              "title": "「我只是想讓 ENGENE 笑一笑。\n因為我覺得，一天裡至少也應該有一件能讓人笑出來的事。」",
+              "subtitle": "- 梁禎元 26.9.15 WVS LIVE"
+            },
+            "es": {
+              "title": "Solo quiero hacer sonreír a ENGENE.\nCreo que cada día debería tener al menos un motivo para sonreír.",
+              "subtitle": "JUNGWON | 15/09/26 · Weverse LIVE"
+            },
+            "pt": {
+              "title": "Só quero fazer ENGENE sorrir.\nAcredito que todo dia deveria ter pelo menos um motivo para sorrir.",
+              "subtitle": "JUNGWON | 15/09/26 · Weverse LIVE"
+            }
+          }
+        },
+        {
+          "id": "q_236",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Those who love Jungwon will thrive.",
+              "subtitle": "JUNGWON"
+            },
+            "zh-Hans": {
+              "title": "「爱蒸者蒸蒸日上」",
+              "subtitle": "- 梁祯元"
+            },
+            "zh-Hant": {
+              "title": "「愛蒸者蒸蒸日上」",
+              "subtitle": "- 梁禎元"
+            },
+            "es": {
+              "title": "Quienes aman a Jungwon prosperarán.",
+              "subtitle": "JUNGWON"
+            },
+            "pt": {
+              "title": "Quem ama Jungwon vai prosperar.",
+              "subtitle": "JUNGWON"
+            }
+          }
+        },
+        {
+          "id": "q_307",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "It's never too late~",
+              "subtitle": "JUNGWON | 09/18/26 · Weverse"
+            },
+            "zh-Hans": {
+              "title": "「什么时候都不算晚～」",
+              "subtitle": "- 梁祯元 26.9.18 WVS"
+            },
+            "zh-Hant": {
+              "title": "「什麼時候都不算晚～」",
+              "subtitle": "- 梁禎元 26.9.18 WVS"
+            },
+            "es": {
+              "title": "Nunca es demasiado tarde~",
+              "subtitle": "JUNGWON | 18/09/26 · Weverse"
+            },
+            "pt": {
+              "title": "Nunca é tarde demais~",
+              "subtitle": "JUNGWON | 18/09/26 · Weverse"
             }
           }
         },
@@ -744,11 +982,11 @@
               "subtitle": "- 梁禎元 2026 MAMA 獲獎感言"
             },
             "es": {
-              "title": "Incluso cuando nosotros mismos no creíamos en nosotros, ENGENE creyó en nosotros más que nadie. Por eso estamos aquí hoy.",
+              "title": "Incluso cuando no creíamos en nosotros mismos, ENGENE creía en nosotros más que nosotros mismos. Por eso estamos aquí hoy.",
               "subtitle": "JUNGWON | Discurso de aceptación · MAMA 2026"
             },
             "pt": {
-              "title": "Mesmo quando não conseguíamos acreditar em nós mesmos, o ENGENE acreditou em nós mais do que nós próprios. É por isso que estamos aqui hoje.",
+              "title": "Mesmo quando não conseguíamos acreditar em nós mesmos, ENGENE acreditava mais em nós do que nós próprios. Por isso estamos aqui hoje.",
               "subtitle": "JUNGWON | Discurso de agradecimento · MAMA 2026"
             }
           }
@@ -758,8 +996,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Happiness isn’t far away.",
-              "subtitle": "JUNGWON"
+              "title": "Happiness is not far away.",
+              "subtitle": "JUNGWON | 05/29/26 · Nothing Much Prepared"
             },
             "zh-Hans": {
               "title": "「幸福在不远处」",
@@ -767,29 +1005,41 @@
             },
             "zh-Hant": {
               "title": "「幸福在不遠處」",
-              "subtitle": "- 梁禎元 26.05.29雖沒菜"
+              "subtitle": "- 梁禎元 26.05.29 雖沒菜"
             },
             "es": {
               "title": "La felicidad no está lejos.",
-              "subtitle": "JUNGWON"
+              "subtitle": "JUNGWON | 29/05/26 · Nothing Much Prepared"
             },
             "pt": {
               "title": "A felicidade não está longe.",
-              "subtitle": "JUNGWON"
+              "subtitle": "JUNGWON | 29/05/26 · Nothing Much Prepared"
             }
           }
         },
         {
-          "id": "q_152",
+          "id": "q_492",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Ace the CSAT!",
+              "subtitle": "JUNGWON |2027 CSAT Encouragement Message"
+            },
             "zh-Hans": {
-              "title": "「神要怎么帮我？都是我自己做到的。」",
-              "subtitle": "- 梁祯元"
+              "title": "「高考大发！」",
+              "subtitle": "- 梁祯元 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「神要怎麼幫我？都是我自己做到的。」",
-              "subtitle": "- 梁禎元"
+              "title": "「高考大發！」",
+              "subtitle": "- 梁禎元 2027 高考應援寄語"
+            },
+            "es": {
+              "title": "¡Que te vaya genial en el CSAT!",
+              "subtitle": "JUNGWON |Mensaje de ánimo para el CSAT 2027"
+            },
+            "pt": {
+              "title": "Arrase no CSAT!",
+              "subtitle": "JUNGWON |Mensagem de apoio para o CSAT 2027"
             }
           }
         }
@@ -804,6 +1054,10 @@
           "id": "q_241",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "You're my angel.",
+              "subtitle": "NI-KI"
+            },
             "zh-Hans": {
               "title": "「NI就是我的天使」",
               "subtitle": "- 西村力"
@@ -811,32 +1065,40 @@
             "zh-Hant": {
               "title": "「NI就是我的天使」",
               "subtitle": "- 西村力"
+            },
+            "es": {
+              "title": "Eres mi ángel.",
+              "subtitle": "NI-KI"
+            },
+            "pt": {
+              "title": "Você é meu anjo.",
+              "subtitle": "NI-KI"
             }
           }
         },
         {
-          "id": "q_153",
+          "id": "q_489",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Put on your jeans, and youth begins right now.",
-              "subtitle": "NI-KI"
+              "title": "Believe in yourself and all your hard work. Stay focused until the very end!",
+              "subtitle": "NI-KI | 2027 CSAT Encouragement Message"
             },
             "zh-Hans": {
-              "title": "「穿上牛仔裤，青春就在此刻。」",
-              "subtitle": "- 西村力"
+              "title": "「相信一路努力到今天的自己，保持专注直到最后一刻吧！」",
+              "subtitle": "- NI-KI 2027 高考应援寄语"
             },
             "zh-Hant": {
-              "title": "「穿上牛仔褲，青春就在此刻。」",
-              "subtitle": "- 西村力"
+              "title": "「相信一路努力到今天的自己，保持專注直到最後一刻吧！」",
+              "subtitle": "- NI-KI 2027 高考應援寄語"
             },
             "es": {
-              "title": "Ponte unos jeans. La juventud comienza justo ahora.",
-              "subtitle": "NI-KI"
+              "title": "Confía en ti y en todo tu esfuerzo. ¡Mantente concentrado hasta el final!",
+              "subtitle": "NI-KI |Mensaje de ánimo para el CSAT 2027"
             },
             "pt": {
-              "title": "Vista um jeans. A juventude começa agora.",
-              "subtitle": "NI-KI"
+              "title": "Confie em você e em todo o seu esforço. Mantenha o foco até o fim!",
+              "subtitle": "NI-KI |Mensagem de apoio para o CSAT 2027"
             }
           }
         },
@@ -845,8 +1107,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "ENGENE, I’ve got your back.",
-              "subtitle": "NI-KI"
+              "title": "ENGENE, I've got your back.",
+              "subtitle": "NI-KI |Chinese Photocard"
             },
             "zh-Hans": {
               "title": "「ENGENE，我罩你。」",
@@ -857,12 +1119,12 @@
               "subtitle": "- 西村力 中文卡"
             },
             "es": {
-              "title": "ENGENE, yo te cuido.",
-              "subtitle": "NI-KI"
+              "title": "ENGENE, yo te protejo.",
+              "subtitle": "NI-KI |Photocard en chino"
             },
             "pt": {
-              "title": "ENGENE, eu cuido de você.",
-              "subtitle": "NI-KI"
+              "title": "ENGENE, pode contar comigo.",
+              "subtitle": "NI-KI |Photocard em chinês"
             }
           }
         }
