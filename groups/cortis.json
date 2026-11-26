@@ -7,30 +7,132 @@
       "name": "TODAY",
       "quotes": [
         {
-          "id": "q_304",
+          "id": "q_494",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "This is only our first year. There's still so much to experience and explore together. Keep spreading love and positivity, welcoming each other with open arms and hearts. Cheers to the art that brings us together!",
+              "subtitle": "JAMES |Weverse · COER 1st Anniversary"
+            },
             "zh-Hans": {
-              "title": "「能够做自己喜欢的事，同时还感到幸福，其实并不是一件容易的事。\n我们真的很幸运，希望大家都幸福。」",
-              "subtitle": "- 金主训 26.9.19 TMA"
+              "title": "「这才仅仅是第一年，我们还有太多未曾体验的事、太多未知的地方等待一起探索。请继续传递爱与正能量，敞开双臂与心扉彼此相迎。致将我们凝聚在一起的艺术，干杯！」",
+              "subtitle": "- 赵雨凡 WVS COER 一周年"
             },
             "zh-Hant": {
-              "title": "「能夠做自己喜歡的事，同時還感到幸福，其實並不是一件容易的事。\n我們真的很幸運，希望大家都幸福。」",
-              "subtitle": "- 金主訓 26.9.19 TMA"
+              "title": "「這才僅僅是第一年，我們還有太多未曾體驗的事、太多未知的地方等待一起探索。請繼續傳遞愛與正能量，敞開雙臂與心扉彼此相迎。致將我們凝聚在一起的藝術，乾杯！」",
+              "subtitle": "- 趙雨凡 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Este es solo nuestro primer año. Aún queda mucho por vivir y explorar juntos. Sigamos compartiendo amor y energía positiva, con los brazos y corazones abiertos. ¡Brindemos por el arte que nos une!",
+              "subtitle": "JAMES |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Este é só o nosso primeiro ano. Ainda temos muito para viver e explorar juntos. Vamos continuar espalhando amor e positividade, de braços e corações abertos. Um brinde à arte que nos une!",
+              "subtitle": "JAMES |Weverse · 1º aniversário do COER"
             }
           }
         },
         {
-          "id": "q_314",
+          "id": "q_497",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "As the bond between CORTIS and COER grows deeper and stronger, I feel more connected and believe we bring out the best in each other.",
+              "subtitle": "KEONHO |Weverse · COER 1st Anniversary"
+            },
             "zh-Hans": {
-              "title": "「生活的美在于为了让自己变得更好，不断寻找新的挑战，以及在这个过程中得到的经验」",
-              "subtitle": "- 赵雨凡 26.9.24《Vogue Korea》"
+              "title": "「随着 CORTIS 和 COER 之间的关系越来越深厚、越来越稳固，我感受到了更深层次的羁绊，也觉得这对我们和 COER 彼此都带来了很棒的正向影响。」",
+              "subtitle": "- 安乾镐 WVS COER 一周年"
             },
             "zh-Hant": {
-              "title": "「生活的美在於為了讓自己變得更好，不斷尋找新的挑戰，以及在這個過程中得到的經驗」",
-              "subtitle": "- 趙雨凡 26.9.24《Vogue Korea》"
+              "title": "「隨著 CORTIS 和 COER 之間的關係越來越深厚、越來越穩固，我感受到了更深層次的羈絆，也覺得這對我們和 COER 彼此都帶來了很棒的正向影響。」",
+              "subtitle": "- 安乾鎬 WVS COER 一週年"
+            },
+            "es": {
+              "title": "A medida que el vínculo entre CORTIS y COER se hace más profundo y fuerte, siento una mayor conexión y creo que nos influimos positivamente.",
+              "subtitle": "KEONHO |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "À medida que o vínculo entre CORTIS e COER se torna mais profundo e forte, sinto uma conexão maior e acredito que fazemos bem uns aos outros.",
+              "subtitle": "KEONHO |Weverse · 1º aniversário do COER"
+            }
+          }
+        },
+        {
+          "id": "q_493",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Thank you for making so many precious memories with us. Let's make even more fun and happy memories together!! Happy 1st anniversary, COER ❤️",
+              "subtitle": "MARTIN |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「感谢你和我们一起创造了这么多珍贵的回忆，以后也一起创造更多有趣又幸福的回忆吧！！祝 COER 一周年快乐 ❤️」",
+              "subtitle": "- 朴马丁 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「感謝你和我們一起創造了這麼多珍貴的回憶，以後也一起創造更多有趣又幸福的回憶吧！！祝 COER 一週年快樂 ❤️」",
+              "subtitle": "- 朴馬丁 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Gracias por crear tantos recuerdos preciosos con nosotros. ¡Sigamos creando más recuerdos felices y divertidos! Feliz primer aniversario, COER ❤️",
+              "subtitle": "MARTIN |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Obrigado por criar tantas lembranças preciosas com a gente. Vamos criar ainda mais lembranças felizes e divertidas juntos!! Feliz primeiro aniversário, COER ❤️",
+              "subtitle": "MARTIN |Weverse · 1º aniversário do COER"
+            }
+          }
+        },
+        {
+          "id": "q_495",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If we've made COER smile even once over the past year, I think that alone would make me truly happy.",
+              "subtitle": "JUHOON |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「这一年一路走来，只要我们哪怕有一次让 COER 们露出了笑容，我想光凭这一点我就会觉得很幸福了」",
+              "subtitle": "- 金主训 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「這一年一路走來，只要我們哪怕有一次讓 COER 們露出了笑容，我想光憑這一點我就會覺得很幸福了」",
+              "subtitle": "- 金主訓 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Si hemos hecho sonreír a COER aunque sea una vez durante este año, creo que eso por sí solo me haría muy feliz.",
+              "subtitle": "JUHOON |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Se conseguimos fazer COER sorrir pelo menos uma vez neste ano, acho que só isso já me faria muito feliz.",
+              "subtitle": "JUHOON |Weverse · 1º aniversário do COER"
+            }
+          }
+        },
+        {
+          "id": "q_496",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Now that we've reached our first anniversary, I'm so excited for all the days we'll share. COER, you'll stay by our side, right?! Let's promise to always stay together. Forever grateful for you. Love you, COER!!",
+              "subtitle": "SEONGHYEON | Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「既然已经迎来一周年了，往后要一起度过的日子真的让人既期待又心动。COER，你们会一直留在我们身边的吧？！约定好以后也要一直在一起哦。永远感谢你们、爱你们 COER！！」",
+              "subtitle": "- 严成玹 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「既然已經迎來一週年了，往後要一起度過的日子真的讓人既期待又心動。COER，你們會一直留在我們身邊的吧？！約定好以後也要一直在一起喔。永遠感謝你們、愛你們 COER！！」",
+              "subtitle": "- 嚴成玹 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Ahora que celebramos nuestro primer aniversario, me emociona todo lo que viviremos juntos. COER, seguirán a nuestro lado, ¿verdad? ¡Prometamos estar siempre juntos! Siempre agradecido. ¡Los amo, COER!",
+              "subtitle": "SEONGHYEON | Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Agora que chegamos ao primeiro aniversário, fico muito animado com os dias que viveremos juntos. COER, vocês vão continuar ao nosso lado, né?! Vamos prometer ficar sempre juntos. Sou eternamente grato. Amo vocês, COER!!",
+              "subtitle": "SEONGHYEON | Weverse · 1º aniversário do COER"
             }
           }
         }
@@ -57,13 +159,25 @@
           "id": "q_305",
           "emojiPath": "",
           "i18n": {
-            "zh-Hans": {
+            "en": {
               "title": "If you are able to color outside the lines.\nYou are one of us.\nYou are one of CORTIS.",
+              "subtitle": "JAMES | 09/19/26 · TMA"
+            },
+            "zh-Hans": {
+              "title": "如果你能跳出框架，画出自己的色彩。\n你就是我们的一员。\n你就是 CORTIS 的一员。",
               "subtitle": "- 赵雨凡 26.9.19 TMA"
             },
             "zh-Hant": {
-              "title": "If you are able to color outside the lines.\nYou are one of us.\nYou are one of CORTIS.",
+              "title": "如果你能跳出框架，畫出自己的色彩。\n你就是我們的一員。\n你就是 CORTIS 的一員。",
               "subtitle": "- 趙雨凡 26.9.19 TMA"
+            },
+            "es": {
+              "title": "Si eres capaz de colorear fuera de las líneas.\nEres parte de nosotros.\nEres parte de CORTIS.",
+              "subtitle": "JAMES | 19/09/26 · TMA"
+            },
+            "pt": {
+              "title": "Se você consegue colorir fora das linhas.\nVocê é um de nós.\nVocê faz parte do CORTIS.",
+              "subtitle": "JAMES | 19/09/26 · TMA"
             }
           }
         },
@@ -72,7 +186,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Life threw a pile of shit at me. I'll eat it.",
+              "title": "If life throws shit at me, I'll eat it.",
               "subtitle": "JAMES"
             },
             "zh-Hans": {
@@ -84,11 +198,11 @@
               "subtitle": "- 趙雨凡"
             },
             "es": {
-              "title": "La vida me lanzó un montón de mierda. Me la voy a comer.",
+              "title": "Si la vida me lanza mierda, me la comeré.",
               "subtitle": "JAMES"
             },
             "pt": {
-              "title": "A vida jogou um monte de merda em mim. Eu vou comer.",
+              "title": "Se a vida jogar merda em mim, eu vou comê-la.",
               "subtitle": "JAMES"
             }
           }
@@ -98,7 +212,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "It’s only delusional until it works.",
+              "title": "It all sounds far-fetched until it becomes reality.",
               "subtitle": "JAMES"
             },
             "zh-Hans": {
@@ -110,11 +224,11 @@
               "subtitle": "- 趙雨凡"
             },
             "es": {
-              "title": "Solo parece una locura hasta que funciona.",
+              "title": "Todo parece una fantasía hasta que se hace realidad.",
               "subtitle": "JAMES"
             },
             "pt": {
-              "title": "Só parece uma ilusão até dar certo.",
+              "title": "Tudo parece fantasia até se tornar realidade.",
               "subtitle": "JAMES"
             }
           }
@@ -123,13 +237,77 @@
           "id": "q_278",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "Hang in there, take care of yourself, eat well, and don't forget to spend a lazy day in bed doing nothing once in a while.",
+              "subtitle": "JAMES | ELLE India Interview"
+            },
             "zh-Hans": {
               "title": "「撑下去，好好照顾自己，好好吃饭，也别忘了偶尔耍赖在床上什么都不做」",
-              "subtitle": "- 赵雨凡 ELLE India采访"
+              "subtitle": "- 赵雨凡 ELLE India 采访"
             },
             "zh-Hant": {
               "title": "「撐下去，好好照顧自己，好好吃飯，也別忘了偶爾耍賴在床上什麼都不做」",
               "subtitle": "- 趙雨凡 ELLE India 採訪"
+            },
+            "es": {
+              "title": "Resiste, cuídate, come bien y no olvides quedarte en cama sin hacer nada de vez en cuando.",
+              "subtitle": "JAMES | Entrevista con ELLE India"
+            },
+            "pt": {
+              "title": "Aguente firme, cuide de si, coma bem e não se esqueça de ficar na cama sem fazer nada de vez em quando.",
+              "subtitle": "JAMES | Entrevista à ELLE India"
+            }
+          }
+        },
+        {
+          "id": "q_314",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "The beauty of life lies in seeking new challenges to become better and gaining experience along the way.",
+              "subtitle": "JAMES | 09/24/26 · Vogue Korea"
+            },
+            "zh-Hans": {
+              "title": "「生活的美在于为了让自己变得更好，不断寻找新的挑战，以及在这个过程中得到的经验」",
+              "subtitle": "- 赵雨凡 26.9.24《Vogue Korea》"
+            },
+            "zh-Hant": {
+              "title": "「生活的美在於為了讓自己變得更好，不斷尋找新的挑戰，以及在這個過程中得到的經驗」",
+              "subtitle": "- 趙雨凡 26.9.24《Vogue Korea》"
+            },
+            "es": {
+              "title": "La belleza de la vida está en buscar nuevos retos para mejorar y en las experiencias que adquirimos en el camino.",
+              "subtitle": "JAMES | 24/09/26 · Vogue Korea"
+            },
+            "pt": {
+              "title": "A beleza da vida está em buscar novos desafios para evoluir e nas experiências adquiridas ao longo do caminho.",
+              "subtitle": "JAMES | 24/09/26 · Vogue Korea"
+            }
+          }
+        },
+        {
+          "id": "q_494",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "This is only our first year. There's still so much to experience and explore together. Keep spreading love and positivity, welcoming each other with open arms and hearts. Cheers to the art that brings us together!",
+              "subtitle": "JAMES |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「这才仅仅是第一年，我们还有太多未曾体验的事、太多未知的地方等待一起探索。请继续传递爱与正能量，敞开双臂与心扉彼此相迎。致将我们凝聚在一起的艺术，干杯！」",
+              "subtitle": "- 赵雨凡 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「這才僅僅是第一年，我們還有太多未曾體驗的事、太多未知的地方等待一起探索。請繼續傳遞愛與正能量，敞開雙臂與心扉彼此相迎。致將我們凝聚在一起的藝術，乾杯！」",
+              "subtitle": "- 趙雨凡 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Este es solo nuestro primer año. Aún queda mucho por vivir y explorar juntos. Sigamos compartiendo amor y energía positiva, con los brazos y corazones abiertos. ¡Brindemos por el arte que nos une!",
+              "subtitle": "JAMES |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Este é só o nosso primeiro ano. Ainda temos muito para viver e explorar juntos. Vamos continuar espalhando amor e positividade, de braços e corações abertos. Um brinde à arte que nos une!",
+              "subtitle": "JAMES |Weverse · 1º aniversário do COER"
             }
           }
         },
@@ -138,8 +316,8 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
-              "subtitle": "JAMES"
+              "title": "Note to self 🏒\nFind peace in the chaos.",
+              "subtitle": "JAMES | 09/01/26 · Weverse"
             },
             "zh-Hans": {
               "title": "「提醒自己 🏒\n在混乱中找到平静」",
@@ -150,12 +328,12 @@
               "subtitle": "- 趙雨凡 26.09.01 WVS"
             },
             "es": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
-              "subtitle": "JAMES"
+              "title": "Recordatorio para mí 🏒\nEncontrar paz en medio del caos.",
+              "subtitle": "JAMES | 01/09/26 · Weverse"
             },
             "pt": {
-              "title": "Reminding myself 🏒 Find peace in the chaos",
-              "subtitle": "JAMES"
+              "title": "Lembrete para mim 🏒\nEncontrar paz em meio ao caos.",
+              "subtitle": "JAMES | 01/09/26 · Weverse"
             }
           }
         },
@@ -164,7 +342,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "It’s exhausting, but this is how we have to keep living.",
+              "title": "It's exhausting, but that's how I want to live.",
               "subtitle": "JAMES"
             },
             "zh-Hans": {
@@ -176,11 +354,11 @@
               "subtitle": "- 趙雨凡"
             },
             "es": {
-              "title": "Aunque sea agotador, así es como tenemos que seguir viviendo.",
+              "title": "Es agotador, pero así quiero vivir.",
               "subtitle": "JAMES"
             },
             "pt": {
-              "title": "Mesmo sendo cansativo, é assim que precisamos continuar vivendo.",
+              "title": "É cansativo, mas é assim que quero viver.",
               "subtitle": "JAMES"
             }
           }
@@ -190,7 +368,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Always keep in mind that on this journey, you have a friend supporting you. I'll be there through thick and thin.",
+              "title": "Always remember, you have a friend cheering you on throughout this journey.\nThrough thick and thin, I'll always be by your side.",
               "subtitle": "JAMES"
             },
             "zh-Hans": {
@@ -202,26 +380,12 @@
               "subtitle": "- 趙雨凡"
             },
             "es": {
-              "title": "Recuerda siempre que en este camino tienes a un amigo que te apoya. Estaré contigo en las buenas y en las malas.",
+              "title": "Recuerda siempre que tienes un amigo que te apoya en este camino.\nEn las buenas y en las malas, siempre estaré a tu lado.",
               "subtitle": "JAMES"
             },
             "pt": {
-              "title": "Lembre-se sempre de que, nesta jornada, você tem um amigo que te apoia. Estarei ao seu lado nos bons e maus momentos.",
+              "title": "Lembre-se sempre de que você tem um amigo que te apoia nessa jornada.\nNos bons e maus momentos, estarei sempre ao seu lado.",
               "subtitle": "JAMES"
-            }
-          }
-        },
-        {
-          "id": "q_314",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「生活的美在于为了让自己变得更好，不断寻找新的挑战，以及在这个过程中得到的经验」",
-              "subtitle": "- 赵雨凡 26.9.24《Vogue Korea》"
-            },
-            "zh-Hant": {
-              "title": "「生活的美在於為了讓自己變得更好，不斷尋找新的挑戰，以及在這個過程中得到的經驗」",
-              "subtitle": "- 趙雨凡 26.9.24《Vogue Korea》"
             }
           }
         }
@@ -237,11 +401,11 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You only live once, so you might as well make it extraordinary.",
+              "title": "You only live once, so why not live life to the fullest?",
               "subtitle": "JUHOON"
             },
             "zh-Hans": {
-              "title": "「人生只有一次，那不如活得精彩一点。」",
+              "title": "「人生只有一次，那不如活得精彩一些。」",
               "subtitle": "- 金主训"
             },
             "zh-Hant": {
@@ -249,11 +413,11 @@
               "subtitle": "- 金主訓"
             },
             "es": {
-              "title": "Solo se vive una vez, así que vale la pena vivir una vida extraordinaria.",
+              "title": "Solo se vive una vez, ¿por qué no vivir al máximo?",
               "subtitle": "JUHOON"
             },
             "pt": {
-              "title": "A vida só acontece uma vez, então faça dela algo extraordinário.",
+              "title": "Só se vive uma vez, então por que não viver intensamente?",
               "subtitle": "JUHOON"
             }
           }
@@ -263,7 +427,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Don’t let other people’s opinions become the standard by which you judge yourself.",
+              "title": "Don't judge yourself through other people's eyes.",
               "subtitle": "JUHOON"
             },
             "zh-Hans": {
@@ -275,11 +439,11 @@
               "subtitle": "- 金主訓"
             },
             "es": {
-              "title": "No dejes que la opinión de los demás se convierta en la medida con la que te juzgas a ti mismo.",
+              "title": "No te juzgues a través de los ojos de los demás.",
               "subtitle": "JUHOON"
             },
             "pt": {
-              "title": "Não deixe que a opinião dos outros se torne o padrão pelo qual você julga a si mesmo.",
+              "title": "Não se julgue pelos olhos dos outros.",
               "subtitle": "JUHOON"
             }
           }
@@ -289,24 +453,24 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "You’ve already come a long way, but there’s still a long road ahead.",
-              "subtitle": "JUHOON"
+              "title": "You've come a long way, but there's still a long road ahead.",
+              "subtitle": "JUHOON | ELLE India Interview"
             },
             "zh-Hans": {
               "title": "「你已经走了很远，但前面还有很长的路要走」",
-              "subtitle": "- 金主训 ELLE India采访"
+              "subtitle": "- 金主训 ELLE India 采访"
             },
             "zh-Hant": {
               "title": "「你已經走了很遠，但前面還有很長的路要走」",
               "subtitle": "- 金主訓 ELLE India 採訪"
             },
             "es": {
-              "title": "Ya has recorrido un largo camino, pero aún queda mucho camino por delante.",
-              "subtitle": "JUHOON"
+              "title": "Has llegado muy lejos, pero aún queda mucho camino por recorrer.",
+              "subtitle": "JUHOON | Entrevista con ELLE India"
             },
             "pt": {
-              "title": "Você já percorreu um longo caminho, mas ainda há uma longa estrada pela frente.",
-              "subtitle": "JUHOON"
+              "title": "Você já chegou longe, mas ainda há um longo caminho pela frente.",
+              "subtitle": "JUHOON | Entrevista à ELLE India"
             }
           }
         },
@@ -314,6 +478,10 @@
           "id": "q_304",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "It's not easy to do what you love and be happy at the same time.\nWe're truly lucky, and I hope everyone finds happiness.",
+              "subtitle": "JUHOON | 09/19/26 · TMA"
+            },
             "zh-Hans": {
               "title": "「能够做自己喜欢的事，同时还感到幸福，其实并不是一件容易的事。\n我们真的很幸运，希望大家都幸福。」",
               "subtitle": "- 金主训 26.9.19 TMA"
@@ -321,6 +489,40 @@
             "zh-Hant": {
               "title": "「能夠做自己喜歡的事，同時還感到幸福，其實並不是一件容易的事。\n我們真的很幸運，希望大家都幸福。」",
               "subtitle": "- 金主訓 26.9.19 TMA"
+            },
+            "es": {
+              "title": "No es fácil hacer lo que amas y sentirte feliz al mismo tiempo.\nSomos muy afortunados y espero que todos sean felices.",
+              "subtitle": "JUHOON | 19/09/26 · TMA"
+            },
+            "pt": {
+              "title": "Não é fácil fazer o que você ama e sentir felicidade ao mesmo tempo.\nTemos muita sorte e espero que todos sejam felizes.",
+              "subtitle": "JUHOON | 19/09/26 · TMA"
+            }
+          }
+        },
+        {
+          "id": "q_495",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "If we've made COER smile even once over the past year, I think that alone would make me truly happy.",
+              "subtitle": "JUHOON |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「这一年一路走来，只要我们哪怕有一次让 COER 们露出了笑容，我想光凭这一点我就会觉得很幸福了」",
+              "subtitle": "- 金主训 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「這一年一路走來，只要我們哪怕有一次讓 COER 們露出了笑容，我想光憑這一點我就會覺得很幸福了」",
+              "subtitle": "- 金主訓 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Si hemos hecho sonreír a COER aunque sea una vez durante este año, creo que eso por sí solo me haría muy feliz.",
+              "subtitle": "JUHOON |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Se conseguimos fazer COER sorrir pelo menos uma vez neste ano, acho que só isso já me faria muito feliz.",
+              "subtitle": "JUHOON |Weverse · 1º aniversário do COER"
             }
           }
         }
@@ -336,7 +538,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "People should look up at the sky more often. Don’t become someone who spends their whole life only looking at the ground. Look at this world—it is a world of freedom.",
+              "title": "Look up at the sky more often. Don't spend your whole life looking at the ground.\nLook at the world around you. It's a free world.",
               "subtitle": "MARTIN"
             },
             "zh-Hans": {
@@ -348,12 +550,38 @@
               "subtitle": "- 馬丁"
             },
             "es": {
-              "title": "Las personas deberían mirar más al cielo. No te conviertas en alguien que pasa toda su vida mirando solo al suelo. Mira este mundo, es un mundo de libertad.",
+              "title": "Mira más al cielo. No pases toda tu vida mirando al suelo.\nMira el mundo que te rodea. Es un mundo libre.",
               "subtitle": "MARTIN"
             },
             "pt": {
-              "title": "As pessoas deveriam olhar mais para o céu. Não se torne alguém que passa a vida inteira olhando apenas para o chão. Olhe para este mundo, ele é um mundo de liberdade.",
+              "title": "Olhe mais para o céu. Não passe a vida inteira olhando para o chão.\nOlhe para o mundo ao seu redor. É um mundo livre.",
               "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_277",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Don't overthink or let things hold you back. Be yourself and stay positive.\nI know there's still much to do, but what matters most is spreading love.",
+              "subtitle": "MARTIN | ELLE India Interview"
+            },
+            "zh-Hans": {
+              "title": "「别想太多，也别被那些事情绑住。做自己，保持正面。\n我知道未来还有很多事情要做，但最重要的，还是把爱传递出去」",
+              "subtitle": "- 马丁 ELLE India 采访"
+            },
+            "zh-Hant": {
+              "title": "「別想太多，也別被那些事情綁住。做自己，保持正面。\n我知道未來還有很多事情要做，但最重要的，還是把愛傳遞出去」",
+              "subtitle": "- 馬丁 ELLE India 採訪"
+            },
+            "es": {
+              "title": "No pienses demasiado ni dejes que nada te limite. Sé tú mismo y mantén una actitud positiva.\nSé que aún queda mucho por hacer, pero lo más importante es transmitir amor.",
+              "subtitle": "MARTIN | Entrevista con ELLE India"
+            },
+            "pt": {
+              "title": "Não pense demais nem deixe que as coisas te prendam. Seja você mesmo e mantenha a positividade.\nSei que ainda há muito a fazer, mas o mais importante é espalhar amor.",
+              "subtitle": "MARTIN | Entrevista à ELLE India"
             }
           }
         },
@@ -384,29 +612,15 @@
           }
         },
         {
-          "id": "q_277",
-          "emojiPath": "",
-          "i18n": {
-            "zh-Hans": {
-              "title": "「别想太多，也别被那些事情绑住。做自己，保持正面。\n我知道未来还有很多事情要做，但最重要的，还是把爱传递出去」",
-              "subtitle": "- 马丁 ELLE India采访"
-            },
-            "zh-Hant": {
-              "title": "「別想太多，也別被那些事情綁住。做自己，保持正面。\n我知道未來還有很多事情要做，但最重要的，還是把愛傳遞出去」",
-              "subtitle": "- 馬丁 ELLE India 採訪"
-            }
-          }
-        },
-        {
           "id": "q_181",
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "No matter what situation you are in, happiness and misfortune always coexist.",
+              "title": "No matter what situation you're in, happiness and unhappiness coexist.",
               "subtitle": "MARTIN"
             },
             "zh-Hans": {
-              "title": "「不论你处在什么样的状况下，幸运与不幸都是共存的。」",
+              "title": "「不论你处在什么样的状况下，幸与不幸都是共存的。」",
               "subtitle": "- 马丁"
             },
             "zh-Hant": {
@@ -414,12 +628,38 @@
               "subtitle": "- 馬丁"
             },
             "es": {
-              "title": "No importa en qué situación te encuentres, la suerte y la desgracia siempre coexisten.",
+              "title": "Sea cual sea tu situación, la felicidad y la infelicidad coexisten.",
               "subtitle": "MARTIN"
             },
             "pt": {
-              "title": "Não importa em que situação você esteja, a sorte e o infortúnio sempre coexistem.",
+              "title": "Não importa a situação, a felicidade e a infelicidade coexistem.",
               "subtitle": "MARTIN"
+            }
+          }
+        },
+        {
+          "id": "q_493",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Thank you for making so many precious memories with us. Let's make even more fun and happy memories together!! Happy 1st anniversary, COER ❤️",
+              "subtitle": "MARTIN |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「感谢你和我们一起创造了这么多珍贵的回忆，以后也一起创造更多有趣又幸福的回忆吧！！祝 COER 一周年快乐 ❤️」",
+              "subtitle": "- 朴马丁 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「感謝你和我們一起創造了這麼多珍貴的回憶，以後也一起創造更多有趣又幸福的回憶吧！！祝 COER 一週年快樂 ❤️」",
+              "subtitle": "- 朴馬丁 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Gracias por crear tantos recuerdos preciosos con nosotros. ¡Sigamos creando más recuerdos felices y divertidos! Feliz primer aniversario, COER ❤️",
+              "subtitle": "MARTIN |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Obrigado por criar tantas lembranças preciosas com a gente. Vamos criar ainda mais lembranças felizes e divertidas juntos!! Feliz primeiro aniversário, COER ❤️",
+              "subtitle": "MARTIN |Weverse · 1º aniversário do COER"
             }
           }
         },
@@ -428,7 +668,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Happiness comes when both your body and your mind are whole.",
+              "title": "Happiness comes when both body and mind are whole.",
               "subtitle": "MARTIN"
             },
             "zh-Hans": {
@@ -440,11 +680,11 @@
               "subtitle": "- 馬丁"
             },
             "es": {
-              "title": "La felicidad llega cuando tanto el cuerpo como el corazón están completos.",
+              "title": "La felicidad llega cuando el cuerpo y la mente están plenos.",
               "subtitle": "MARTIN"
             },
             "pt": {
-              "title": "A felicidade chega quando o corpo e a mente estão em harmonia.",
+              "title": "A felicidade chega quando o corpo e a mente estão completos.",
               "subtitle": "MARTIN"
             }
           }
@@ -457,16 +697,54 @@
       "name": "SEONGHYEON",
       "quotes": [
         {
+          "id": "q_496",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "Now that we've reached our first anniversary, I'm so excited for all the days we'll share. COER, you'll stay by our side, right?! Let's promise to always stay together. Forever grateful for you. Love you, COER!!",
+              "subtitle": "SEONGHYEON | Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「既然已经迎来一周年了，往后要一起度过的日子真的让人既期待又心动。COER，你们会一直留在我们身边的吧？！约定好以后也要一直在一起哦。永远感谢你们、爱你们 COER！！」",
+              "subtitle": "- 严成玹 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「既然已經迎來一週年了，往後要一起度過的日子真的讓人既期待又心動。COER，你們會一直留在我們身邊的吧？！約定好以後也要一直在一起喔。永遠感謝你們、愛你們 COER！！」",
+              "subtitle": "- 嚴成玹 WVS COER 一週年"
+            },
+            "es": {
+              "title": "Ahora que celebramos nuestro primer aniversario, me emociona todo lo que viviremos juntos. COER, seguirán a nuestro lado, ¿verdad? ¡Prometamos estar siempre juntos! Siempre agradecido. ¡Los amo, COER!",
+              "subtitle": "SEONGHYEON | Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "Agora que chegamos ao primeiro aniversário, fico muito animado com os dias que viveremos juntos. COER, vocês vão continuar ao nosso lado, né?! Vamos prometer ficar sempre juntos. Sou eternamente grato. Amo vocês, COER!!",
+              "subtitle": "SEONGHYEON | Weverse · 1º aniversário do COER"
+            }
+          }
+        },
+        {
           "id": "q_280",
           "emojiPath": "",
           "i18n": {
+            "en": {
+              "title": "I'm sure you're doing great right now 👍🏼",
+              "subtitle": "SEONGHYEON | ELLE India Interview"
+            },
             "zh-Hans": {
               "title": "「我相信你现在一定过得很好👍🏼」",
-              "subtitle": "- 严成玹 ELLE India采访"
+              "subtitle": "- 严成玹 ELLE India 采访"
             },
             "zh-Hant": {
               "title": "「我相信你現在一定過得很好👍🏼」",
               "subtitle": "- 嚴成玹 ELLE India 採訪"
+            },
+            "es": {
+              "title": "Seguro que te está yendo muy bien ahora 👍🏼",
+              "subtitle": "SEONGHYEON | Entrevista con ELLE India"
+            },
+            "pt": {
+              "title": "Tenho certeza de que você está indo muito bem agora 👍🏼",
+              "subtitle": "SEONGHYEON | Entrevista à ELLE India"
             }
           }
         },
@@ -475,11 +753,11 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "We still have a lot to improve, but we'd be truly grateful if you could see those imperfections as part of our charm.",
+              "title": "We still have many shortcomings, but we'd be truly grateful if you could see them as part of our charm.",
               "subtitle": "SEONGHYEON"
             },
             "zh-Hans": {
-              "title": "「我们还有很多不足的地方，如果你们能把那些也当作我们的魅力，我们会非常感谢。」",
+              "title": "「我们还有很多不足的地方，如果你们能把那些也当作我们的魅力，我们将不胜感激。」",
               "subtitle": "- 严成玹"
             },
             "zh-Hant": {
@@ -487,11 +765,11 @@
               "subtitle": "- 嚴成玹"
             },
             "es": {
-              "title": "Todavía nos queda mucho por mejorar, pero estaríamos muy agradecidos si pudieran ver esas imperfecciones como parte de nuestro encanto.",
+              "title": "Aún tenemos muchos defectos, pero agradeceríamos mucho que los vieran como parte de nuestro encanto.",
               "subtitle": "SEONGHYEON"
             },
             "pt": {
-              "title": "Ainda temos muito a melhorar, mas ficaríamos muito gratos se vocês pudessem enxergar essas imperfeições como parte do nosso charme.",
+              "title": "Ainda temos muitas imperfeições, mas ficaríamos muito gratos se vocês as vissem como parte do nosso encanto.",
               "subtitle": "SEONGHYEON"
             }
           }
@@ -508,7 +786,7 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Messing up one day out of 365 doesn't mean the rest of your life will fail.",
+              "title": "Messing up one day out of 365 doesn't mean you'll fail in life.",
               "subtitle": "KEONHO"
             },
             "zh-Hans": {
@@ -520,11 +798,11 @@
               "subtitle": "- 安乾鎬"
             },
             "es": {
-              "title": "Arruinar un día de los 365 no significa que el resto de tu vida vaya a fracasar.",
+              "title": "Arruinar un día de los 365 no significa que fracasarás en la vida.",
               "subtitle": "KEONHO"
             },
             "pt": {
-              "title": "Estragar um dia dos 365 não significa que o resto da sua vida será um fracasso.",
+              "title": "Estragar um dia entre 365 não significa que você vai fracassar na vida.",
               "subtitle": "KEONHO"
             }
           }
@@ -534,24 +812,50 @@
           "emojiPath": "",
           "i18n": {
             "en": {
-              "title": "Stay calm, and keep your inner peace.",
-              "subtitle": "KEONHO"
+              "title": "Stay calm and keep your inner peace.",
+              "subtitle": "KEONHO | ELLE India Interview"
             },
             "zh-Hans": {
               "title": "「保持冷静，也保持内心的平静」",
-              "subtitle": "- 安乾镐 ELLE India采访"
+              "subtitle": "- 安乾镐 ELLE India 采访"
             },
             "zh-Hant": {
               "title": "「保持冷靜，也保持內心的平靜」",
               "subtitle": "- 安乾鎬 ELLE India 採訪"
             },
             "es": {
-              "title": "Mantén la calma y conserva la paz interior.",
-              "subtitle": "KEONHO"
+              "title": "Mantén la calma y la paz interior.",
+              "subtitle": "KEONHO |Entrevista con ELLE India"
             },
             "pt": {
-              "title": "Mantenha a calma e preserve a paz interior.",
-              "subtitle": "KEONHO"
+              "title": "Mantenha a calma e a paz interior.",
+              "subtitle": "KEONHO |Entrevista à ELLE India"
+            }
+          }
+        },
+        {
+          "id": "q_497",
+          "emojiPath": "",
+          "i18n": {
+            "en": {
+              "title": "As the bond between CORTIS and COER grows deeper and stronger, I feel more connected and believe we bring out the best in each other.",
+              "subtitle": "KEONHO |Weverse · COER 1st Anniversary"
+            },
+            "zh-Hans": {
+              "title": "「随着 CORTIS 和 COER 之间的关系越来越深厚、越来越稳固，我感受到了更深层次的羁绊，也觉得这对我们和 COER 彼此都带来了很棒的正向影响。」",
+              "subtitle": "- 安乾镐 WVS COER 一周年"
+            },
+            "zh-Hant": {
+              "title": "「隨著 CORTIS 和 COER 之間的關係越來越深厚、越來越穩固，我感受到了更深層次的羈絆，也覺得這對我們和 COER 彼此都帶來了很棒的正向影響。」",
+              "subtitle": "- 安乾鎬 WVS COER 一週年"
+            },
+            "es": {
+              "title": "A medida que el vínculo entre CORTIS y COER se hace más profundo y fuerte, siento una mayor conexión y creo que nos influimos positivamente.",
+              "subtitle": "KEONHO |Weverse · 1.er aniversario de COER"
+            },
+            "pt": {
+              "title": "À medida que o vínculo entre CORTIS e COER se torna mais profundo e forte, sinto uma conexão maior e acredito que fazemos bem uns aos outros.",
+              "subtitle": "KEONHO |Weverse · 1º aniversário do COER"
             }
           }
         }
